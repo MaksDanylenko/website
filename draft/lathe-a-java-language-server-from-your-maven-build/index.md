@@ -10,6 +10,7 @@ categories:
   - "Java"
   - "Maven"
 related_posts: []
+canonical: "https://ag-libs.github.io/2026/09/27/lathe-a-java-language-server-from-your-maven-build/"
 ---
 
 I have written Java in many editors and IDEs over the years, and they all seem to struggle with the same
