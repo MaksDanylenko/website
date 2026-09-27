@@ -1,5 +1,5 @@
 {
-  "generatedAt" : "2026-09-26T06:13:00Z",
+  "generatedAt" : "2026-09-27T06:40:26Z",
   "source" : "iCal feeds published by the JUGs themselves (data/jugs.yaml `calendar`) and Meetup's iCal export for the groups that use it; venues from the feed's LOCATION or the schema.org JSON-LD on the event page -- see scripts/fetch/JugEvents.java",
   "groups" : [ {
     "slug" : "almaty-java-user-group",
@@ -362,14 +362,6 @@
     "source" : "meetup",
     "url" : "https://www.meetup.com/Java-User-Group-Hannover/",
     "events" : [ {
-      "title" : "Java Stammtisch",
-      "url" : "https://www.meetup.com/java-user-group-hannover/events/316433370/",
-      "startTime" : "2026-09-25T19:00:00+02:00",
-      "endTime" : "2026-10-02T22:00:00+02:00",
-      "venue" : "Pizza Unica",
-      "city" : "Hannover",
-      "online" : false
-    }, {
       "title" : "Java Stammtisch",
       "url" : "https://www.meetup.com/java-user-group-hannover/events/hrhcxtyjcnbnc/",
       "startTime" : "2026-10-30T19:00:00+01:00",
