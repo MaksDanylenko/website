@@ -16,7 +16,6 @@ related_posts:
   - "soft-assertions-testing-kindly"
   - "custom-events-in-the-blocky-world-using-jfr-in-minecraft"
   - "custom-jfr-events-a-short-introduction"
-frozen: true
 ---
 
 Functional unit and integration tests are a standard tool of any software development organization, helping not only to ensure correctness of newly implemented code, but also to identify regressions — bugs in existing functionality introduced by a code change. The situation looks different though when it comes to regressions related to non-functional requirements, in particular performance-related ones: How to detect increased response times in a web application? How to identify decreased throughput?

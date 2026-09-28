@@ -13,7 +13,6 @@ related_posts:
   - "eight-debugging-tips-for-intellijidea-users-you-never-knew-existed"
   - "the-debugger-checklist-part-ii"
   - "secure-code-review-best-practices-part-1"
-frozen: false
 ---
 
 In the [Debugger Checklist (Part I)](https://foojay.io/today/the-debugger-checklist-part-i/), I introduced some of the high level concepts and reviewed some of the common things you can do. In this part, we'll get down to the process. Again, it's important to stress that this is boiled down and concentrated!

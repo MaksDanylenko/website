@@ -15,7 +15,6 @@ related_posts:
   - "foojay-podcast-3"
   - "getting-started-with-jakarta-ee-9-hello-world"
   - "enterprise-java-in-practice-fragmentation-platforms-and-real-world-trade-offs"
-frozen: false
 ---
 
 In this myth-busting webinar, Steve Millidge, founder of [Payara](https://www.payara.fish/dismiss-the-myths/), will show you why standards like Java EE (i.e., now [Jakarta EE](https://jakarta.ee/)) are beneficial.

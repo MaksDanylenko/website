@@ -12,7 +12,6 @@ categories:
 related_posts:
   - "on-dependencies-in-objects"
   - "making-illegal-state-unrepresentable"
-frozen: false
 ---
 
 Implicit returns are a feature in some languages. They have recently bitten me, so here's my opinion.

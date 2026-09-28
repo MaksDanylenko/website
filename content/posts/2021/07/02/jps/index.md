@@ -14,7 +14,6 @@ related_posts:
   - "jdb"
   - "introducing-the-boxlang-ide-plugin-for-intellij"
   - "indexing-all-of-wikipedia-on-a-laptop"
-frozen: false
 ---
 
 When your application has some problem, the first thing to check is running processes on the machine.

@@ -14,7 +14,6 @@ related_posts:
   - "say-goodbye-to-project-files-in-visual-studio-code"
   - "two-million-java-developers-on-visual-studio-code-november-2022-update"
   - "boldness-in-refactoring"
-frozen: false
 ---
 
 **Hi everyone, welcome to our May update for Visual Studio Code Java! In this article, we have tons of new features covering performance improvement, user experience as well as Spring Boot integration, so let's get started!**

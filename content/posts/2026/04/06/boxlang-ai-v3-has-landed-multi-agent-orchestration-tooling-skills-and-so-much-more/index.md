@@ -10,7 +10,6 @@ categories:
   - "BoxLang"
   - "GenAI"
 related_posts:
-frozen: false
 ---
 
 It's been a while since we've shipped something this big. **BoxLang AI 3.0** is a ground-up rethink of how AI agents, models, and tools work in the BoxLang ecosystem — and it lands with ten major features at once.

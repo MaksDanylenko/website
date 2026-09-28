@@ -12,7 +12,6 @@ related_posts:
   - "the-more-you-say-the-less-people-remember"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "7-ways-to-contribute-to-openjdk"
-frozen: false
 ---
 
 {{< img src="erik.jpeg" class="alignright size-full is-resized" width="450" height="675" >}}

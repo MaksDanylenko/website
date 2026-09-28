@@ -2,7 +2,6 @@
 title: "Jakarta EE"
 description: "Jakarta EE is the open-source, community-driven successor to Java EE (Java Platform, Enterprise Edition). It defines a set of specifications for building enterprise Java applications — covering everything from web services and dependency injection to persistence, messaging, and security. The ..."
 url: "/pedia/jakarta-ee/"
-frozen: false
 ---
 
 [Jakarta EE](https://jakarta.ee/) is the open-source, community-driven successor to Java EE (Java Platform, Enterprise Edition). It defines a set of specifications for building enterprise Java applications — covering everything from web services and dependency injection to persistence, messaging, and security.

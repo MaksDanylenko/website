@@ -22,7 +22,6 @@ related_posts:
   - "how-organizations-became-stuck-on-outdated-java-versions"
   - "foojay-podcast-62"
   - "crossing-the-river-styx-spring-boot-3-5-and-the-zombie-dependency-problem"
-frozen: false
 aliases:
   - "/today/foojay-podcast-63-how-do-we-keep-our-java-applications-up-to-date-and-secure/"
 ---

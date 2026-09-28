@@ -2,7 +2,6 @@
 title: "Project Loom"
 description: "Project Loom is the OpenJDK project that made concurrency cheap again: virtual threads, structured concurrency and scoped values, so a server can handle a request per thread instead of a request per pooled thread."
 url: "/pedia/project-loom/"
-frozen: false
 ---
 
 Project Loom is the OpenJDK project that set out to make **high-throughput concurrent Java simple again**. Its premise is that the thread-per-request style every Java developer already knows how to read and debug was abandoned only because operating-system threads are expensive — so make threads cheap instead of asking developers to rewrite their code as chains of callbacks and futures.

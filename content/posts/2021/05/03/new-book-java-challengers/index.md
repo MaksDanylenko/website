@@ -10,7 +10,6 @@ categories:
   - "Book Announcement"
   - "Books"
 related_posts:
-frozen: false
 ---
 
 To get the best jobs and create massive value, you need to know Java very well. The [newly released "Java Challengers" book](https://leanpub.com/javachallengers) is a way for you to challenge yourself with fun code challenges so that you will become a better Java developer.

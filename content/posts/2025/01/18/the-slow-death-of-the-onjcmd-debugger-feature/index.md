@@ -14,7 +14,6 @@ related_posts:
   - "level-up-your-java-debugging-skills-with-on-demand-debugging"
   - "where-production-policy-belongs-building-eliya-in-public"
   - "official-azul-zulu-openjdk-images-now-available-on-docker-hub"
-frozen: false
 ---
 
 Almost to the day, one and a quarter years ago, I published my blog post called [Level-up your Java Debugging Skills with on-demand Debugging](https://foojay.io/today/level-up-your-java-debugging-skills-with-on-demand-debugging/). In this artucle, I wrote about multiple rarely known and rarely used features of the Java debugging agent, including the onjcmd feature.

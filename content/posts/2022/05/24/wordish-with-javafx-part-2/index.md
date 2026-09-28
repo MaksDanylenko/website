@@ -18,7 +18,6 @@ related_posts:
   - "beginning-javafx-with-intellij"
   - "creating-a-javafx-world-clock-from-scratch-part-1"
   - "sheetmusic4j-0-0-3-abc-notation-guitar-pro-engraving-improvements"
-frozen: false
 ---
 
 ## Building Games and Having Fun with Java and JavaFX

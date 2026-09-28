@@ -12,7 +12,6 @@ related_posts:
   - "a-simple-service-with-spring-boot"
   - "annotation-free-spring"
   - "better-error-handling-for-your-spring-boot-rest-apis"
-frozen: false
 ---
 
 {{< img src="oie_koKWLHXsUxuL.jpg" class="is-resized" width="452" height="226" style="width:452px;height:226px" >}}

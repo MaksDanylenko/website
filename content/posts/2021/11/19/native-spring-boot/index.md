@@ -15,7 +15,6 @@ related_posts:
   - "cross-platform-development-in-java-with-gluon-and-graalvm"
   - "building-command-line-interfaces-with-kotlin-using-picocli"
   - "native-image-micronaut"
-frozen: false
 ---
 
 The Cloud has enabled a lot of new usages that were not possible before. Among them stands Serverless:

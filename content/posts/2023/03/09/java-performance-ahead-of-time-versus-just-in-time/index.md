@@ -15,7 +15,6 @@ related_posts:
   - "cloud-myth-ahead-of-time-compilation-will-save-you-money"
   - "startup-spring-quarkus-raspberry-pi"
   - "the-anatomy-of-a-jvm"
-frozen: false
 ---
 
 Recently the [Azul](https://www.azul.com/) team attended Devoxx Belgium, one of the biggest Java conferences with over 3,200 visitors.

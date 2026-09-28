@@ -15,7 +15,6 @@ related_posts:
   - "spring-6-1-restclient"
   - "how-to-create-sboms-in-java-with-maven-and-gradle"
   - "idempotent-spring-boot-starter"
-frozen: false
 ---
 
 **Spring framework 6.1 introduced a new JdbcClient API, which is a wrapper on top of JdbcTemplate, for performing database operations using a fluent API.**

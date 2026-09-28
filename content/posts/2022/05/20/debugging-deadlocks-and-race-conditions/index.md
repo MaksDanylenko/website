@@ -13,7 +13,6 @@ related_posts:
   - "what-is-debugging-in-140-seconds"
   - "memory-debugging-and-watch-annotations"
   - "the-basics-of-breakpoints-you-might-not-know"
-frozen: true
 ---
 
 Thread debugging has the reputation of being one of the most arduous tasks for developers. I beg to differ.

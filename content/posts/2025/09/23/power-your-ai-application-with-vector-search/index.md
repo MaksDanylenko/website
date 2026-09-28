@@ -15,7 +15,6 @@ related_posts:
   - "building-a-real-time-ai-fraud-detection-system-with-spring-kafka-and-mongodb"
   - "building-a-spring-boot-crud-application-using-mongodbs-relational-migrator"
   - "building-rest-apis-in-java-with-spring-boot"
-frozen: false
 ---
 
 Most major database vendors, like [MongoDB](https://www.mongodb.com/lp/cloud/atlas/try4-reg/?utm_campaign=devrel&utm_source=third-party-content&utm_medium=cta&utm_content=foojay-vector-search&utm_term=tony.kim) , are adding vector search capabilities to their products. It's becoming a standard feature as demand for AI-powered applications grows.

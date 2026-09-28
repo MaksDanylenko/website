@@ -15,7 +15,6 @@ related_posts:
   - "ejb-support-in-piranha-via-cdi"
   - "glassfish-embedded-a-simple-way-to-run-jakarta-ee-apps"
   - "whats-new-in-the-july-2026-azul-payara-release"
-frozen: false
 ---
 
 > **Rely on hardened and production-ready Eclipse GlassFish 7 or newer. Benefit from key feature updates and Jakarta EE advancements, brought to you by OmniFish and the amazing community of opensource GlassFish contributors.**

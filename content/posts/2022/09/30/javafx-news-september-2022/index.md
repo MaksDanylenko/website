@@ -13,7 +13,6 @@ related_posts:
   - "wordish-with-javafx-part-5"
   - "new-java-javafx-library-fxskins-released"
   - "javafx-links-of-july-2026"
-frozen: false
 aliases:
   - "/today/javafx-links-of-the-month-september/"
   - "/today/javafx-september-2022/"

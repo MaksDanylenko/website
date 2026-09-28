@@ -9,7 +9,6 @@ image: "foojay-prim-1-700x157.png"
 categories:
   - "Eclipse"
 related_posts:
-frozen: false
 ---
 
 {{< img src="foojay-prim-1-700x157.png" class="size-medium" alt="Set Operations Venn Diagrams" width="700" height="157" >}}

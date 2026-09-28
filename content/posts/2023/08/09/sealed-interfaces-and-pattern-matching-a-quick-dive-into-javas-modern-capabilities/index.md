@@ -14,7 +14,6 @@ related_posts:
   - "getting-started-with-java-17-and-intellij-idea"
   - "hidden-and-not-so-hidden-gems-in-java-20"
   - "dive-into-the-openjdk-top-10-reads-on-foojay-io"
-frozen: false
 ---
 
 **Sealed classes in Java are a new feature that provides a way to restrict the classes that can inherit from a superclass or extend an interface. This new language feature enhances the encapsulation and provides more control to developers over their codebase.**

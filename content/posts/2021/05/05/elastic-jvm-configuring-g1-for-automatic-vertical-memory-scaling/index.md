@@ -10,7 +10,6 @@ categories:
   - "Jelastic"
   - "Tutorials"
 related_posts:
-frozen: false
 ---
 
 {{< img src="elastic-jvm-e1545213859238-2b2c265b.png" class="alignleft" alt="Automatic Vertical Memory Scaling" >}}

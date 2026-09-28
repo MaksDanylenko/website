@@ -18,7 +18,6 @@ related_posts:
   - "how-to-kickstart-your-jakarta-ee-11-projects-with-payara-starter"
   - "new-features-in-jakarta-ee-11-with-examples"
   - "reflections-on-2024-a-remarkable-year-for-omnifish-glassfish-piranha-and-jakarta-ee"
-frozen: false
 ---
 
 Enterprise Java has matured into one of the most stable and widely adopted ecosystems in software development. Yet for many teams, the biggest challenges no longer come from the language itself, but from the complexity of the environments built around it.

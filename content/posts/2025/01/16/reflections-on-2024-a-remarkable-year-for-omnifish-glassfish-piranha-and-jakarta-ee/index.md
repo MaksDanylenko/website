@@ -15,7 +15,6 @@ related_posts:
   - "ejb-support-in-piranha-via-cdi"
   - "glassfish-embedded-a-simple-way-to-run-jakarta-ee-apps"
   - "issues-with-old-glassfish-server-upgrade-to-eclipse-glassfish"
-frozen: false
 ---
 
 **As 2025 slowly gets started, it's a perfect moment to reflect on what we at [OmniFish](https://omnifish.ee/) have achieved this year. It has been a year of growth, innovation, and dedication to the open-source community and the products we're deeply passionate about.**

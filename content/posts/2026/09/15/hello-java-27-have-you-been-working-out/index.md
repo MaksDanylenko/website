@@ -15,7 +15,6 @@ related_posts:
   - "how-i-built-an-ai-assistant-for-my-career-with-java-spring-ai-and-mongodb"
   - "masking-a-jvm-thread-dump-without-breaking-the-analysis"
   - "community-spotlight-boxlang-express-brings-node-style-http-to-the-jvm"
-frozen: false
 ---
 
 It's been six months since we saw a new Java release, and this new edition seems to be ready to flex its muscles. With numerous improvements to performance and security, Java 27 is like that friend that you haven't seen all summer, and when you finally see them again it's clear that they spent a lot of time in the gym!

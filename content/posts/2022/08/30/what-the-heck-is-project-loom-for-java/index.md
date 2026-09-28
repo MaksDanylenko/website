@@ -15,7 +15,6 @@ related_posts:
   - "concurrency-in-java-and-how-it-compares-with-other-modern-programming-languages"
   - "demystifying-memory-management-in-modern-programming-languages"
   - "boxlang-v1-13-0-compatibility-concurrency-and-formatter-maturity"
-frozen: false
 ---
 
 Java has had good multi-threading and concurrency capabilities from early on in its evolution and can effectively utilize multi-threaded and multi-core CPUs.

@@ -14,7 +14,6 @@ related_posts:
   - "offline-crypto-address-validation-in-java"
   - "virtual-thread-pinning-field-guide"
   - "boxlang-1-15-0-released-blazing-fast-strings-runtime-portability-and-much-more"
-frozen: false
 ---
 
 In Java, dealing with null values can be a real headache. Nulls can cause all sorts of problems in your code, from NullPointerExceptions to convoluted if statements and error-prone logic. Fortunately, Java 8 introduced the Optional class, which offers a simple and powerful way to handle nulls and improve code quality. Optional is a container object that may or may not contain a non-null value and provides a range of practical methods for working with its contents. In this article, we'll explore the many use cases of Optional in Java and show you how to use this powerful class to write cleaner, more expressive, and more resilient code.

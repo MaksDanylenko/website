@@ -14,7 +14,6 @@ related_posts:
   - "kotlin-delegation"
   - "a-simple-service-with-spring-boot"
   - "demystifying-memory-management-in-modern-programming-languages"
-frozen: false
 ---
 
 When a HTTP request comes in, a 'normal' web application would map the request to a specific thread from the thread pool. This assigned thread stays with the request until a response can be returned to the request socket. Along the way, we might need to fetch data from some web service or database, read or write to a file or do other I/O calls, during which the thread is blocked and has to wait until it gets a response. For applications with high request rates, the thread pool can at some point become exhausted and then no new requests can be handled anymore.

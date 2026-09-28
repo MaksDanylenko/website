@@ -14,7 +14,6 @@ related_posts:
   - "asyncgetstacktrace-a-better-stack-trace-api-for-the-jvm"
   - "building-reactive-java-applications-with-spring-framework"
   - "how-is-leyden-improving-java-performance-part-3-of-3"
-frozen: false
 ---
 
 **Walking only at safepoints has advantages. The main one is that you aren't walking the stack in a signal handler but synchronously to the executed program. Therefore you can allocate memory, acquire locks and rematerialize virtual thread / Loom frames. The latter is significant because virtual threads are *the* new Java feature that cannot support using signal-handler-based APIs like AsyncGetCallTrace.**

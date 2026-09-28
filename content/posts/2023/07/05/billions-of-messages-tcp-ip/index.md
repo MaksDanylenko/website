@@ -16,7 +16,6 @@ related_posts:
   - "automatically-creating-microservices-architecture-diagrams"
   - "building-custom-solutions-vs-buy-and-build-software"
   - "comparing-approaches-to-durability-in-low-latency-messaging-queues"
-frozen: false
 ---
 
 ### Key Takeaways

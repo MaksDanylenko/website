@@ -13,7 +13,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "java-where-the-wild-code-isnt"
   - "foojay-podcast-58"
-frozen: false
 ---
 
 Last week [JFall](https://jfall.nl/)—the "Biggest Java Conference of the Netherlands"—took place. Foojay.io, the Friends Of OpenJDK, were there in full force, including a booth with stickers and other swag, as well as Frank Delporte with his popular Foojay.io Podcast, doing live interviews with attendees.

@@ -15,7 +15,6 @@ related_posts:
   - "high-performance-java-serialisation"
   - "how-does-kafka-perform-when-you-need-low-latency"
   - "stochastic-ai-agility-breaking-cycles-of-debt"
-frozen: false
 ---
 
 ## …The Fewer the Words, the Greater the Profit."

@@ -11,6 +11,5 @@ youtube: ""
 website: ""
 aliases:
   - "/today/author/irina-maryasova/"
-frozen: false
 ---
 

@@ -13,7 +13,6 @@ related_posts:
   - "java-for-desktop-applications-part-1"
   - "presenting-xpipe"
   - "jdkmon-your-friendly-jdk-distribution-updater"
-frozen: false
 ---
 
 Welcome the [final article of this little series](https://foojay.io/today/custom-controls-in-javafx-part-i/) about custom controls in JavaFX.

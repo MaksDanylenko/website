@@ -15,7 +15,6 @@ related_posts:
   - "interview-with-tom-granot-developer-observability-koolkits-and-reliability"
   - "debugging-the-java-message-service-jms-api-using-lightrun"
   - "idempotent-spring-boot-starter"
-frozen: false
 ---
 
 I spent over a decade as a consultant working for dozens of companies in many fields and pursuits. The diversity of each code base is tremendous. This article will try to define general rules for modernizing legacy code that would hopefully apply to all. But it comes from the angle of a Java developer.

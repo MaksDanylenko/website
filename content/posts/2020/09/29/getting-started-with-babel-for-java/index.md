@@ -10,7 +10,6 @@ image: "Favicon-3-2.png"
 categories:
   - "Tutorials"
 related_posts:
-frozen: false
 ---
 
 In the JavaScript world, developers have to deal with a multitude of JavaScript engines in different browsers and browser versions, while the language itself is evolving quickly. This is only possible because of clever tools like the retrofitting compiler Babel ([https://babeljs.io](https://babeljs.io/)). Babel backports new features to work on older JavaScript engines, allowing developers to use modern JavaScript language features and still be compatible with the majority of browsers out there.

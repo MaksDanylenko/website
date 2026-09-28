@@ -18,7 +18,6 @@ related_posts:
   - "migrating-applications-to-tornadovm-v0-15-part-1"
   - "migrating-applications-to-tornadovm-v0-15-part-2"
   - "foojay-podcast-92"
-frozen: false
 ---
 
 TornadoVM is a programming and execution framework for offloading and running JVM applications on multi-core CPUs, GPUs, and FPGAs.

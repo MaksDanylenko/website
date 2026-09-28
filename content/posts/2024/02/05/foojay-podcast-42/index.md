@@ -14,7 +14,6 @@ related_posts:
   - "foojay-podcast-40"
   - "foojay-podcast-39"
   - "quarkus-unpacked-insights-from-the-foojay-podcast"
-frozen: false
 ---
 
 Once a month in this podcast, we talk about the history of a Java User Group and the people behind it.

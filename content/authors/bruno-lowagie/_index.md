@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/blowagie/"
 github: ""
 youtube: ""
 website: "https://lowagie.com"
-frozen: false
 ---

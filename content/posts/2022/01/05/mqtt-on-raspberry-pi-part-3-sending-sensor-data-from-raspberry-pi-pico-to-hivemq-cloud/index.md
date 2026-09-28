@@ -16,7 +16,6 @@ related_posts:
   - "mqtt-on-raspberry-pi-part-2-using-mqtt-and-raspberry-pi-to-visualize-sensor-data-on-a-tilesfx-dashboard"
   - "different-approaches-to-building-stateful-microservices-in-the-cloud-native-world"
   - "a-fresh-look-at-embedded-java"
-frozen: false
 ---
 
 In the previous two posts in this series, we used Java on the Raspberry Pi mini-computer to send sensor data to HiveMQ Cloud, and visualize it on a dashboard.

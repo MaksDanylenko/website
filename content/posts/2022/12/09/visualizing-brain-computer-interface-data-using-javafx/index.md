@@ -16,7 +16,6 @@ related_posts:
   - "creating-cad-applications-with-java-and-javafx"
   - "high-performance-rendering-in-javafx"
   - "wordish-with-javafx-part-5"
-frozen: false
 ---
 
 Recently [**Sean Phillips**](https://twitter.com/SeanMiPhillips) shared some fascinating screenshots on Twitter and videos on YouTube of **Trinity**, a JavaFX application he is working on.

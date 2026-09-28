@@ -17,7 +17,6 @@ related_posts:
   - "avoiding-nullpointerexception"
   - "bring-streaming-to-apache-cassandra-with-apache-pulsar"
   - "kubernetes-data-simplicity-getting-started-with-k8ssandra"
-frozen: false
 ---
 
 ![](1_g5MhVmTyqdCWG_-LkItmNg-1024x679.jpeg)

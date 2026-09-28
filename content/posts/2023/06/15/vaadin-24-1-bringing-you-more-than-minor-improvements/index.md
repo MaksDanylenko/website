@@ -14,7 +14,6 @@ related_posts:
   - "blink-a-led-on-raspberry-pi-with-vaadin"
   - "build-web-apps-in-pure-java-with-vaadin-flow"
   - "how-to-style-a-vaadin-application"
-frozen: false
 ---
 
 I am pleased to share with you the newest release of Vaadin 24.1.

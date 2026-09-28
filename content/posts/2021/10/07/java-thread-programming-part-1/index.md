@@ -13,7 +13,6 @@ related_posts:
   - "java-thread-programming-part-3"
   - "demystifying-memory-management-in-modern-programming-languages"
   - "java-thread-programming-part-6"
-frozen: false
 ---
 
 ## What is a Thread?

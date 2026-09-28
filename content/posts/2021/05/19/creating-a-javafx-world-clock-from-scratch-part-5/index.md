@@ -9,7 +9,6 @@ image: "Screen-Shot-2021-05-17-at-12.15.51-AM.jpg"
 categories:
   - "JavaFX"
 related_posts:
-frozen: false
 ---
 
 > "The good cartographer is both a scientist and an artist. He must have a thorough knowledge of his subject and model, the Earth…. He must have the ability to generalize intelligently and to make a right selection of the features to show. These are represented by means of lines or colors; and the effective use of lines or colors requires more than knowledge of the subject – it requires artistic judgement." \~ Erwin Josephus Raisz (1893 – 1968)

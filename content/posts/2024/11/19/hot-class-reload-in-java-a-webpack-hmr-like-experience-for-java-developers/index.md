@@ -14,7 +14,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "9-outdated-ideas-about-java"
   - "offline-crypto-address-validation-in-java"
-frozen: false
 ---
 
 **In the world of software development, time is everything. Every developer knows the frustration of waiting for a full application restart just to see a small change take effect.**

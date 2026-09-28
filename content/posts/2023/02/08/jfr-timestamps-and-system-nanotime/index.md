@@ -14,7 +14,6 @@ related_posts:
   - "a-closer-look-at-jfr-streaming"
   - "asyncgetstacktrace-a-better-stack-trace-api-for-the-jvm"
   - "a-glance-into-jfr-class-and-method-tagging"
-frozen: false
 ---
 
 Did you ever wonder whether JFR timestamps use the same time source as `System.nanoTime`?

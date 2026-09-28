@@ -14,7 +14,6 @@ related_posts:
   - "boldness-in-refactoring"
   - "book-review-why-programs-fail"
   - "introducing-the-boxlang-spring-boot-starter-dynamic-jvm-templating-for-spring"
-frozen: true
 ---
 
 **All of us know about caching in system design and software architecture, It is applicable everywhere in the computer industry, even in hardware. Caching is a quick and shortcut solution to improve performance, of course, we need to be careful of using the cache, misusing the cache can directly affect the system's consistency.**

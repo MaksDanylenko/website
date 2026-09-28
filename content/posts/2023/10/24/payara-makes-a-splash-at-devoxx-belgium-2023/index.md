@@ -13,7 +13,6 @@ related_posts:
   - "do-java-jakarta-ee-standards-matter"
   - "can-java-jakarta-ee-do-microservices"
   - "are-java-jakarta-ee-application-servers-heavy"
-frozen: false
 ---
 
 [Devoxx Belgium 2023](https://devoxx.be/), the premier Java developer conference, held in Antwerp, Belgium is an event we eagerly anticipate. As representatives of Payara, a sponsor of the conference, we had the privilege of attending this year's gathering, which took place at the iconic Kinepolis Antwerpen Cinema.

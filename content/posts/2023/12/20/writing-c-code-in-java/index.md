@@ -14,7 +14,6 @@ related_posts:
   - "java-panama-polyglot-swift-part-2"
   - "java-panama-polyglot-part-3"
   - "java-native-memory-allocation-ffm-api"
-frozen: false
 ---
 
 ![](panama-2000x981-0ceeab3a.jpg)

@@ -9,7 +9,6 @@ image: "Screenshot-2020-09-11-at-20.12.58-620x1024.jpg"
 categories:
   - "Foojay"
 related_posts:
-frozen: true
 ---
 
 The site you're on, foojay.io, has had a bit of a facelift over the past week.

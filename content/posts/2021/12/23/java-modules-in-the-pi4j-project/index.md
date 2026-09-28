@@ -15,7 +15,6 @@ related_posts:
   - "light-up-your-christmas-tree-with-java-and-raspberry-pi"
   - "foojay-podcast-2"
   - "blink-a-led-on-raspberry-pi-with-vaadin"
-frozen: false
 ---
 
 Java modules have been a big discussion point before in many places.

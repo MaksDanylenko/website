@@ -14,7 +14,6 @@ related_posts:
   - "debugging-tutorial-java-return-value-intellij-jump-to-line-and-more"
   - "does-java-18-finally-have-a-better-alternative-to-jni"
   - "handling-jdk-and-gc-options-dynamically-in-elasticsearch"
-frozen: false
 ---
 
 ## Introduction

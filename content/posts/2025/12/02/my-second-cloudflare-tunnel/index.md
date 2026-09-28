@@ -10,7 +10,6 @@ image: "cover.jpg"
 categories:
   - "Cloud"
 related_posts:
-frozen: false
 ---
 
 I decided to stop using Twitter, but for my own content and supporting Ukraine against its barbarian invaders, I understood the contemporary media landscape was quite fragmented. I bet on Mastodon, Bluesky, and LinkedIn. My flow is the following: when I read a piece I find interesting, I schedule it for publication. The problem is that every social media platform has a different scheduler: Mastodon has the [Mastodon scheduler](https://www.scheduler.mastodon.tools/), LinkedIn has an in-built feature, and Bluesky has... nothing. I had enough.

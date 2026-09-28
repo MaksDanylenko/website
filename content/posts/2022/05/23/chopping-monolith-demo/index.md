@@ -15,7 +15,6 @@ related_posts:
   - "book-review-monolith-to-microservices-part-1"
   - "building-microservices-spring-boot-fat-uber-jar"
   - "the-right-feature-at-the-right-place"
-frozen: false
 ---
 
 In my previous blog post [Chopping the Monolith](https://foojay.io/today/chopping-monolith/), I explained my stance on microservices and why it shouldn't be your golden standard.

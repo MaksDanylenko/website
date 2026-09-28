@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/alfonso-valdez-altamirano-dev/"
 github: ""
 youtube: ""
 website: ""
-frozen: false
 ---

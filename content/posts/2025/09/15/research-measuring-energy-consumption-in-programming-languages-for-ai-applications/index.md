@@ -19,7 +19,6 @@ related_posts:
   - "jc-ai-newsletter-2"
   - "jc-ai-newsletter-3"
   - "jc-ai-newsletter-4"
-frozen: false
 ---
 
 **Decades ago, I contributed to a very interesting project called [SunSPOT](https://sunspotdev.org/# "SunSPOT ") at SUN Microsystems. It was a small device with wireless connectivity, built-in sensors, running on Java (compatible with runtime 1.6), and powered by battery. It enabled the design of small applications and the connection of additional hardware, or simply the utilization of available sensors. Later, together with Markus Hirt, we created the [Robo4j framework](https://github.com/Robo4J/robo4j "Robo4j framework"). A small and lightweight Java framework that enables rapid assembly of robots or other IoT systems (JDK 21+). In Robo4j, we primarily used the[Pi4j project](https://www.pi4j.com/blog/ " Pi4j project") for handling I/O operations on the Raspberry Pi platform with drivers created for specific hardware.**

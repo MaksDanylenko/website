@@ -2,7 +2,6 @@
 title: "Java Community Process (JCP)"
 description: "The Java Community Process (JCP) is the formal mechanism through which the Java platform specifications are created and evolved. Established in 1998, it allows Java community members — companies, organisations, and individuals — to participate in defining the future of ..."
 url: "/pedia/java-community-process-jcp/"
-frozen: false
 ---
 
 The Java Community Process (JCP) is the formal mechanism through which the Java platform specifications are created and evolved. Established in 1998, it allows Java community members — companies, organisations, and individuals — to participate in defining the future of Java SE, Jakarta EE, and related specifications.

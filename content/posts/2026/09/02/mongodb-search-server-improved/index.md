@@ -12,7 +12,6 @@ related_posts:
   - "agents-meet-databases-the-future-of-agentic-architectures"
   - "aggregation-optimization-in-mongodb-a-case-study-from-the-field-part-1"
   - "aggregation-optimization-in-mongodb-data-duplication-to-improve-read-performance-part-4"
-frozen: false
 ---
 
 In this article, we're going to revisit and improve the MongoDB Search Server originally described in the article [How to Build a Search Service in Java with MongoDB](https://foojay.io/today/how-to-build-a-search-service-in-java-with-mongodb/).

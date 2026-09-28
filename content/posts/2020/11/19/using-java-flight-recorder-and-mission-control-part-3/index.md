@@ -11,7 +11,6 @@ categories:
   - "JDK Flight Recorder"
   - "Tools"
 related_posts:
-frozen: false
 ---
 
 Continuing from [part 1](https://foojay.io/today/using-java-flight-recorder-and-mission-control-part-1/) and [part 2](https://foojay.io/today/using-java-flight-recorder-and-mission-control-part-2/), while from JDK 14 events can be consumed on the fly, previous JDK versions (from JDK 11) offer a public API useful enough to control Flight Recorder programmatically or to read events from a JFR file.

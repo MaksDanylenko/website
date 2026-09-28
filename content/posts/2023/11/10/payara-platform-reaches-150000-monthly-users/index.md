@@ -15,7 +15,6 @@ related_posts:
   - "7-reasons-to-switch-to-openjdk-17-as-a-jakarta-ee-developer"
   - "are-java-jakarta-ee-application-servers-heavy"
   - "a-simple-service-with-spring-boot"
-frozen: false
 ---
 
 [Payara Services](https://www.payara.fish/ "Payara Services"), the leading provider of open source [Jakarta EE](https://jakarta.ee/ "Jakarta EE") application server software, is proud to announce a significant milestone in the global adoption of Payara Platform.

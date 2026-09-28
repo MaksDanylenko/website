@@ -10,7 +10,6 @@ image: "complexity-5902955_1280.jpg"
 categories:
   - "Opinion"
 related_posts:
-frozen: false
 ---
 
 This week's post is pretty short. I've already [written about overengineering](https://blog.frankel.ch/are-you-guilty-of-overengineering/), but this adds a personal touch.

@@ -17,7 +17,6 @@ related_posts:
   - "token-bucket-rate-limiter-redis-java"
   - "fixed-window-counter-rate-limiter-redis-java"
   - "idempotent-spring-boot-starter"
-frozen: false
 ---
 
 > This content is also available on YouTube. [Check it out!](https://youtu.be/Wvm_u0IR69M)

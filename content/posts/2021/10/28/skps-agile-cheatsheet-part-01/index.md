@@ -12,7 +12,6 @@ related_posts:
   - "a-case-for-databases-on-kubernetes-from-a-former-skeptic"
   - "devops-101-part-i-ci-cd"
   - "psa-the-risks-of-remote-jdwp-debugging"
-frozen: false
 ---
 
 SKP's Agile Cheatsheet is a three part series of articles focused on daily agile terminology, ideal to be printed out and pinned up near your workstation.

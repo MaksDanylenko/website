@@ -15,7 +15,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "9-outdated-ideas-about-java"
   - "enterprise-java-quality-gates-ai"
-frozen: false
 ---
 
 **Dealing with flaky tests is a significant challenge in software development. These unpredictable and inconsistent tests can pass or fail without any changes in code, casting doubt on the reliability of your toolchain and ultimately on the application itself. The presence of flaky tests can significantly impact developer confidence and productivity. To better understand why you need to address these flaky tests, read [Seven Reasons You Should Not Ignore Flaky Tests](https://foojay.io/today/seven-reasons-you-should-not-ignore-flaky-tests/).**

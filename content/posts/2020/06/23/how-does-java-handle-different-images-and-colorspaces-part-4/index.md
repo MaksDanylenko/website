@@ -9,7 +9,6 @@ image: "Favicon-3-2.png"
 categories:
   - "Java Core"
 related_posts:
-frozen: false
 ---
 
 Unless you are creating all your images, by drawing then inside the code with the Graphics2D commands, you will need an image library to load images as BufferedImages. You will also need an Image library if you wish to save the results.

@@ -13,7 +13,6 @@ related_posts:
   - "javafx-links-of-november-2025"
   - "javafx-links-of-october-2025"
   - "javafx-links-of-september-2025"
-frozen: false
 ---
 
 Here are the JavaFX LinksOfTheMonth of January 2026. You can find the weekly lists on [jfx-central.com](https://www.jfx-central.com/links). Did we miss anything? Is there anything you want to have included in one of the next overviews? Let us know via [links@jfx-central.com](mailto:links@jfx-central.com).

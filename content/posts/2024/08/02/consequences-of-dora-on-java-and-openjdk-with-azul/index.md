@@ -16,7 +16,6 @@ related_posts:
   - "the-impact-of-the-digital-operational-resilience-act-dora-on-java-investment-with-azul"
   - "are-java-security-updates-important"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
-frozen: false
 ---
 
 **The EU's [Digital Operational Resilience Act (DORA)](https://foojay.io/today/the-impact-of-the-digital-operational-resilience-act-dora-on-java-investment-with-azul/) is a regulatory framework aimed at enhancing the digital operational resilience of financial institutions within the European Union.**

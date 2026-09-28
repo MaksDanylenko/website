@@ -16,7 +16,6 @@ related_posts:
   - "a-simple-service-with-spring-boot"
   - "annotation-free-spring"
   - "better-error-handling-for-your-spring-boot-rest-apis"
-frozen: false
 ---
 
 ### Hello to all Java and Spring enthusiasts. I am the Java Template Engine, a fresh newcomer to the Spring Initializer Ecosystem.

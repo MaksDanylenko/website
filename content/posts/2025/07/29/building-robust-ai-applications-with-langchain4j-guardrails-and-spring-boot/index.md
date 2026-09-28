@@ -17,7 +17,6 @@ related_posts:
   - "analyzing-and-tuning-warm-up-of-the-jvm-with-azul-zulu-prime-builds-of-openjdk"
   - "ai-driven-testing-best-practices"
   - "azul-and-jetbrains-collaborate-to-enhance-runtime-performance-for-kotlin-workloads"
-frozen: false
 ---
 
 **As AI applications become increasingly complex, ensuring that language models behave predictably and safely is paramount. LangChain4j's guardrails feature provides a powerful framework for validating both the inputs and outputs of your AI services.**

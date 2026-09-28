@@ -13,7 +13,6 @@ related_posts:
   - "java-where-the-wild-code-isnt"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "eight-debugging-tips-for-intellijidea-users-you-never-knew-existed"
-frozen: true
 ---
 
 **Recently, I was in discussion with a Java user at a bank about the possibilities of using [Azul Platform Core](https://www.azul.com/products/core/) (formerly known as Zulu) to run a range of applications. One of the most significant advantages for mission-critical enterprise applications is knowing that you have access to the latest security patches and bug fixes. With Platform Core, these are provided within a defined SLA after the embargo for updates is lifted (this is essentially the point in time when Oracle releases the update to their JDK).**

@@ -20,7 +20,6 @@ related_posts:
   - "introducing-skills-boxlang-io-the-open-agent-skills-ecosystem-for-boxlang-the-ortus-world"
   - "build-secure-ai-chat-applications-with-boxlang-rag-ollama-and-amazon-bedrock-with-dan-card"
   - "free-webinar-making-ai-useful-for-java-developers-in-real-applications-with-boxlang"
-frozen: false
 ---
 
 ![](boxlang-explorer-700x394.png)

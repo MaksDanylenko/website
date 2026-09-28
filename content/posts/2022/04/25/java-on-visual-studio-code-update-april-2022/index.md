@@ -13,7 +13,6 @@ related_posts:
   - "java-development-with-vs-code-on-the-raspberry-pi"
   - "java-on-visual-studio-code-update-february-2022"
   - "java-on-visual-studio-code-update-january-2022"
-frozen: false
 ---
 
 Hi everyone, welcome to the April update of Visual Studio Code Java.

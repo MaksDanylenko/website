@@ -15,7 +15,6 @@ related_posts:
   - "internal-security-hardening-internal-systems"
   - "api-mocking-essential-and-redundant"
   - "observability-is-cultural"
-frozen: false
 ---
 
 My talk was accepted by SpringOne in San Francisco. I never went to that conference and was really looking forward to it. This year would probably be amazing with the Spring 6.0 and Spring Boot 3.0 releases. So many groundbreaking changes. Unfortunately, my travel budget at Lightrun was cut, and I eventually left. This meant I had to cancel the trip, I would have paid for travel, but San Francisco is both far and prohibitively expensive. I'll have to take a raincheck.

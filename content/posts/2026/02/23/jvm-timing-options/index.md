@@ -11,7 +11,6 @@ categories:
   - "Java"
   - "Java Core"
 related_posts:
-frozen: false
 ---
 
 For as long as I have been coding in Java, we have had requirements to measure the execution time of blocks of code. While the current good practice is to use OpenTelemetry's traces, not every company has reached this stage yet. Plus, some of the alternatives are OpenTelemetry-compatible. Let's see them in order.

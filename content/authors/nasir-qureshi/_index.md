@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/nasir-qureshi/"
 github: ""
 youtube: ""
 website: ""
-frozen: false
 ---

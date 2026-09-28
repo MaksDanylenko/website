@@ -15,7 +15,6 @@ related_posts:
   - "agents-meet-databases-the-future-of-agentic-architectures"
   - "ai-powered-code-review-assistant-automated-code-analysis-with-spring-ai-and-mongodb"
   - "atlas-online-archive-efficiently-manage-the-data-lifecycle"
-frozen: false
 ---
 
 This is the second article in a three-part series. Part 1 covered the RAG foundation — loading runbooks into a vector store and wiring them to a language model. Part 3 will introduce stateful workflow checkpointing with pause and resume.

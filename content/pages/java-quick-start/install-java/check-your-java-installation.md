@@ -2,7 +2,6 @@
 title: "Check your Java installation"
 description: "How to find out whether Java is already installed and which version you have, using java -version in a terminal on Windows, macOS or Linux."
 url: "/java-quick-start/install-java/check-your-java-installation/"
-frozen: false
 ---
 
 Before we dive into Java coding, we need to make sure we have a recent Java version installed.

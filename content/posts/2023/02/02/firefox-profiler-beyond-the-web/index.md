@@ -15,7 +15,6 @@ related_posts:
   - "ap-loader-a-new-way-to-use-and-embed-async-profiler"
   - "java-profiling-overview"
   - "custom-events-in-the-blocky-world-using-jfr-in-minecraft"
-frozen: false
 ---
 
 *This blog post is the base of the first half of my upcoming talk at FOSDEM 2023 on the topic "[Firefox Profiler beyond the web: Using Firefox Profiler to view Java profiling data](https://fosdem.org/2023/schedule/event/mozilla_firefox_profiler_beyond_the_web/)."*

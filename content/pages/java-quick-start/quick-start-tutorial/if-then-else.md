@@ -2,7 +2,6 @@
 title: "If, Then, Else"
 description: "Java Quick Start Tutorial: Compare values and branch on the result with if, then and else - the most-used construct in any programming language."
 url: "/java-quick-start/quick-start-tutorial/if-then-else/"
-frozen: false
 duration: "3:14"
 weight: 5
 ---

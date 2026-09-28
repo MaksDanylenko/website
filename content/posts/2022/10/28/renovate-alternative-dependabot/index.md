@@ -18,7 +18,6 @@ related_posts:
   - "chopping-monolith"
   - "how-to-beautify-your-github-repo"
   - "renovate-for-everything"
-frozen: false
 ---
 
 I won't introduce [Dependabot](https://github.com/dependabot). Lots and lots of developers use it daily on GitHub. I do use it as well. However, it suffers from two drawbacks:

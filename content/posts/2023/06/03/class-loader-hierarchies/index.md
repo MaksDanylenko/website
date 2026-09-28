@@ -12,7 +12,6 @@ related_posts:
   - "a-short-primer-on-java-debugging-internals"
   - "ap-loader-a-new-way-to-use-and-embed-async-profiler"
   - "continuous-production-profiling-and-diagnostics"
-frozen: false
 ---
 
 Understanding class loader hierarchies is essential when developing Java agents, especially if these agents are instrumenting code.

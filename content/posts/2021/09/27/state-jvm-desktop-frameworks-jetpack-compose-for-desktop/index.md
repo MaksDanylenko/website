@@ -14,7 +14,6 @@ related_posts:
   - "checking-out-junie-a-coding-agent-by-jetbrains"
   - "duplicate-finder-for-text-requirements"
   - "how-does-it-feel-to-test-a-compiler"
-frozen: false
 ---
 
 The previous articles of this series were dedicated to frameworks that adopted the same traditional Object-Oriented-Programming approach. Components were modeled as classes. This week's article is dedicated to Jet Compose for Desktop, the new kid on the block that offers a completely different approach.

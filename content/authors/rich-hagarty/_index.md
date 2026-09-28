@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/rhagarty/"
 github: ""
 youtube: ""
 website: "https://x.com/rhagarty8"
-frozen: false
 ---

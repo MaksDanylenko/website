@@ -13,7 +13,6 @@ related_posts:
   - "decoding-success-an-industry-experts-guide-to-thriving-in-software-development-and-security"
   - "discovering-the-secrets-to-success-an-exclusive-interview-with-java-champion-michael-p-redlich"
   - "interview-with-a-java-champion-reflections-on-a-storied-career-and-insights-for-the-next-generation"
-frozen: false
 ---
 
 {{< img src="miro.jpeg" class="alignright size-full" width="426" height="426" >}}

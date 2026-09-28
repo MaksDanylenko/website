@@ -17,7 +17,6 @@ related_posts:
   - "boxlang-1-15-0-released-blazing-fast-strings-runtime-portability-and-much-more"
   - "boxlang-1-14-0-sets-ranges-inner-classes-and-a-runtime-that-talks-back"
   - "aggregation-optimization-in-mongodb-unnecessary-unwinds-part-2"
-frozen: false
 ---
 
 In my "Java on Single Board Computers" series, I already published several posts and videos in which I unpack the board, connect it for the first time, and try to install and run some simple Java code. In this post, I want to share some benchmarks of Java on these boards to get a better idea of the performance we can expect from Java on these platforms.

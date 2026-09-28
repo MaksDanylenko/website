@@ -14,7 +14,6 @@ related_posts:
   - "increasing-event-streaming-with-kafka-and-azul"
   - "getting-more-mileage-out-of-kafka-openjdk-vs-azul-prime"
   - "introducing-the-openjdk-coordinated-restore-at-checkpoint-project"
-frozen: false
 ---
 
 Across the industry, companies are trying to rein in runaway cloud costs by squeezing more carrying capacity out of the instances they run in the cloud.

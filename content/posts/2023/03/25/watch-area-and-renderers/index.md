@@ -15,7 +15,6 @@ related_posts:
   - "debugging-program-control-flow"
   - "why-i-dont-do-tdd"
   - "get-started-with-allocation-profiling"
-frozen: false
 ---
 
 This is it. The [debugging book is live](https://www.amazon.com/dp/1484290410/). I would really appreciate reviews and feedback!

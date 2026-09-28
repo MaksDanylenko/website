@@ -14,7 +14,6 @@ related_posts:
   - "eight-debugging-tips-for-intellijidea-users-you-never-knew-existed"
   - "a-case-for-databases-on-kubernetes-from-a-former-skeptic"
   - "dockerizing-a-java-26-project-with-docker-init"
-frozen: false
 ---
 
 I never moved away from Docker Desktop.

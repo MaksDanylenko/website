@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/geertjanwielenga/"
 github: ""
 youtube: ""
 website: "https://x.com/geertjanw"
-frozen: false
 ---

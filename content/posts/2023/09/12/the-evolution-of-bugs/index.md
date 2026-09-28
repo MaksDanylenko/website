@@ -16,7 +16,6 @@ related_posts:
   - "cant-reproduce-a-bug"
   - "building-for-failure-best-practices-for-easy-production-debugging"
   - "get-started-with-allocation-profiling"
-frozen: false
 ---
 
 * [Memory Management: The Past and The Present](#memory-management-the-past-and-the-present)

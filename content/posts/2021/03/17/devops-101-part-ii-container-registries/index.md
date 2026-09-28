@@ -13,7 +13,6 @@ related_posts:
   - "devops-101-part-i-ci-cd"
   - "boxlang-aws-azure-and-google-secrets-manager-module-released"
   - "enterprise-java-quality-gates-ai"
-frozen: false
 ---
 
 > This post was originally published by [Kat Costgove](https://dev.to/katcosgrove) at [Dev.to](https://dev.to/jfrog/devops-101-container-registries-1lil).

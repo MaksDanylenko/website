@@ -9,7 +9,6 @@ image: "BoxLang-Logo-Dark.png"
 categories:
   - "BoxLang"
 related_posts:
-frozen: false
 ---
 
 ![](boxlang-v1.8.0-700x467.jpg)

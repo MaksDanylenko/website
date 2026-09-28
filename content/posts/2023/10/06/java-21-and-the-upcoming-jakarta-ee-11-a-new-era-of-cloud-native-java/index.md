@@ -16,7 +16,6 @@ related_posts:
   - "5-minute-azure-survey-java-ee-jakarta-ee-and-microprofile"
   - "are-java-jakarta-ee-application-servers-heavy"
   - "new-features-in-jakarta-ee-11-with-examples"
-frozen: false
 ---
 
 **With Java 21 released and Jakarta EE 11 slated for release in Q1 of 2024, the landscape for Java development is evolving rapidly, particularly in the cloud-native space. Although these two are not being developed together, they are intrinsically linked: Jakarta EE 11 will have Java 21 as its base Java SE version. This blog post will explore what these two significant releases bring to the table individually and how they can collectively enhance cloud native Java development.**

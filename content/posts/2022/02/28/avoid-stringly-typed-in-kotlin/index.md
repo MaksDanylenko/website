@@ -14,7 +14,6 @@ related_posts:
   - "an-example-of-overengineering-keep-it-wet"
   - "a-simple-service-with-spring-boot"
   - "replacing-postman-with-the-jetbrains-http-client"
-frozen: false
 ---
 
 A couple of years ago, I developed an application in Kotlin based on Camunda to help me manage my conference submission workflow. It tracks my submissions in Trello and synchronizes them on Google Calendar and in a Google Sheet. Google Calendar offers a REST API. As REST APIs go, it's cluttered with `String` everywhere. Here's an excerpt of the code:

@@ -14,7 +14,6 @@ related_posts:
   - "the-evolution-of-bugs"
   - "debugging-as-a-process-of-isolating-assumptions"
   - "cant-reproduce-a-bug"
-frozen: false
 ---
 
 * [The Importance of Issue Tracking](#the-importance-of-issue-tracking)

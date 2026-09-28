@@ -13,7 +13,6 @@ related_posts:
   - "foojay-status-report-july-december-2021"
   - "foojay-status-report-january-june-2021"
   - "how-to-submit-your-next-article-on-foojay-io"
-frozen: true
 ---
 
 It's been another half year of content and activities in and around the place for Friends Of OpenJDK... let's look at some statistics, trends, comparisons, highlights, and plans for the future!

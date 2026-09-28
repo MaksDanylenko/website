@@ -15,7 +15,6 @@ related_posts:
   - "java-on-azure-tooling-update-september-2022"
   - "java-virtual-threads-in-action-optimizing-mongodb-operation"
   - "run-an-atlas-cluster-locally-in-minutes"
-frozen: false
 ---
 
 This article explores how Liquibase and MongoDB can be integrated with Git actions to implement source control for database changes.

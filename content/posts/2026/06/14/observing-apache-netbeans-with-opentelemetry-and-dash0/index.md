@@ -11,7 +11,6 @@ categories:
   - "NetBeans"
   - "OpenTelemetry"
 related_posts:
-frozen: false
 ---
 
 *What happens when you point an observability agent at your IDE rather than your application?*

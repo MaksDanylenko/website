@@ -14,7 +14,6 @@ related_posts:
   - "java-where-the-wild-code-isnt"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "are-java-security-updates-important"
-frozen: false
 ---
 
 ![](image-1024x560.png)

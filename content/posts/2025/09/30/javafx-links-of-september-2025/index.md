@@ -13,7 +13,6 @@ related_posts:
   - "javafx-links-of-july-2025"
   - "javafx-links-of-june-2025"
   - "javafx-links-of-may-2025"
-frozen: true
 ---
 
 Here is the overview of the JavaFX LinksOfTheMonth of September 2025. You can find the weekly lists on [jfx-central.com](https://www.jfx-central.com/links). Did we miss anything? Is there anything you want to have included in one of the next overviews? Let us know via [links@jfx-central.com](mailto:links@jfx-central.com).

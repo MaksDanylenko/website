@@ -13,7 +13,6 @@ related_posts:
   - "debugging-threads-and-asynchronous-code"
   - "interview-with-tom-granot-developer-observability-koolkits-and-reliability"
   - "java-in-education-combining-java-with-raspberry-pi-and-the-pi4j-library"
-frozen: false
 ---
 
 {{< img src="Frank-7-XS.jpg" class="alignright size-full is-resized" width="450" height="413" >}}

@@ -14,7 +14,6 @@ related_posts:
   - "immutable-records"
   - "automatically-creating-microservices-architecture-diagrams"
   - "become-a-better-java-developer-19-tips-for-staying-ahead-in-2024"
-frozen: false
 ---
 
 A few weeks ago, I had the honor to present at the [Arnhem JUG](https://www.meetup.com/nl-NL/arnhemjug/) in the Netherlands about "Java, What's old?" In this series, I'm focusing on what's old in the JDK, not that known, and can be useful. A few hidden gems in the JDK.

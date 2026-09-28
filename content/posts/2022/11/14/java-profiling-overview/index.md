@@ -17,7 +17,6 @@ related_posts:
   - "external-debugging-tools-1-dtrace-and-strace"
   - "using-java-flight-recorder-and-mission-control-part-1"
   - "using-async-profiler-and-jattach-programmatically-with-ap-loader"
-frozen: false
 ---
 
 When I ask Java developers whether they do profile, the answer is usually "no".

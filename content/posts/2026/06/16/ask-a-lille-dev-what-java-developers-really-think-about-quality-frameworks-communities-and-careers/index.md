@@ -17,7 +17,6 @@ related_posts:
   - "quarkus-unpacked-insights-from-the-foojay-podcast"
   - "spring-ai-agents-no-second-runtime"
   - "tiberius-a-security-testing-framework-for-llm-applications-in-java"
-frozen: false
 ---
 
 During the DevLille 2026 conference in Lille, I interviewed several Java developers and tech professionals with one simple goal: collecting authentic and spontaneous insights from the Java ecosystem. ☕🎤

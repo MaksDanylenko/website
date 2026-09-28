@@ -13,7 +13,6 @@ related_posts:
   - "7-reasons-to-switch-to-openjdk-17-as-a-jakarta-ee-developer"
   - "7-ways-to-contribute-to-openjdk"
   - "clean-memory-from-finalize-to-cleaner"
-frozen: false
 ---
 
 We all have some hobby, be it sports, fishing, playing games or building compilers.

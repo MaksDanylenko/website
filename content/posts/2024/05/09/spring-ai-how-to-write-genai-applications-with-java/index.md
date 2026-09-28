@@ -16,7 +16,6 @@ related_posts:
   - "busting-myths-building-futures-a-conversation-with-cay-horstmann-on-java-and-machine-learning"
   - "fabiane-nardon-machine-learning-data-science"
   - "intro-to-rag-foundations-of-retrieval-augmented-generation-part-2"
-frozen: false
 ---
 
 Generative AI (GenAI) is currently a hot topic in the tech world. It's a subset of artificial intelligence that focuses on creating new content, such as text, images, or music. One popular type of GenAI component is the Large Language Model (LLM), which can generate human-like text based on a prompt.

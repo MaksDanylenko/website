@@ -66,7 +66,6 @@ tiers:
     badge: "Community Partner"
     noun: "partner"
     blurb: "Not a paid tier: the conferences, JUGs, newsletters, podcasts and open-source projects we promote each other with. Partners get a profile page, a logo across the site and author accounts for their team; in return they link to Foojay, share our content with their audience, or open their event to us."
-frozen: true
 # Each sponsor bundle is a BRANCH bundle (_index.md), i.e. a Hugo section rather
 # than a page -- that is the only page kind .Paginate accepts, and a sponsor with
 # 100+ attributed articles needs a pager rather than one endless grid.

@@ -14,7 +14,6 @@ related_posts:
   - "java-conferences-2025"
   - "foojay-podcast-53"
   - "foojay-podcast-52"
-frozen: false
 ---
 
 (And finally catch up on 8 years of updates you might have missed)

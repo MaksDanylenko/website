@@ -13,7 +13,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "java-where-the-wild-code-isnt"
   - "are-java-security-updates-important"
-frozen: true
 ---
 
 You can join the Foojay.io community on Slack on [this link](https://join.slack.com/t/foojay/shared_invite/zt-49m9q52n4-utLx5AzXYxR_Na1S3oFoug).

@@ -16,7 +16,6 @@ related_posts:
   - "blink-a-led-on-raspberry-pi-with-vaadin"
   - "build-web-apps-in-pure-java-with-vaadin-flow"
   - "create-a-crud-ui-in-pure-java"
-frozen: false
 ---
 
 **If you want to run a Vaadin application on an external servlet container like Apache Tomcat 11, you need to package your application as a WAR (Web Application Archive) instead of the usual executable JAR.**

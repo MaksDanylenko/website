@@ -10,7 +10,6 @@ categories:
   - "JDK Flight Recorder"
   - "Tools"
 related_posts:
-frozen: false
 ---
 
 Now, [continuing from part 1](https://foojay.io/today/using-java-flight-recorder-and-mission-control-part-1/), to exploit the recording by analyzing it, we have a tool named `jfr` that ships with the JDK. On Linux the *alternative* jdk management may not be aware of `jfr`, which means you may need to use the full path to this executable.

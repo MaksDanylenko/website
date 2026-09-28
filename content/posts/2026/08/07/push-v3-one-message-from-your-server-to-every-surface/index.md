@@ -13,7 +13,6 @@ related_posts:
   - "the-codename-one-javascript-port-is-now-free-and-open-source"
   - "own-your-pixels-native-fidelity-on-your-schedule"
   - "how-we-beat-hotspot-performance-by-cheating-but-not-like-that"
-frozen: false
 ---
 
 ![Push V3 connects one typed message to phones, widgets, and live surfaces](push-v3-new-cloud.jpg)

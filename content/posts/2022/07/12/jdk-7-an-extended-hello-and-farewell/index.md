@@ -14,7 +14,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "are-java-security-updates-important"
   - "java-where-the-wild-code-isnt"
-frozen: false
 ---
 
 On July 7th, 2011, eleven years ago, [JDK 7 was released](https://openjdk.org/projects/jdk7/). In some ways, it was one of the more significant releases of Java. Indeed, there were some excellent technical features: [Project Coin](https://openjdk.org/projects/coin/) gave us things like try-with-resources, strings in switch and multi-catch.

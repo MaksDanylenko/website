@@ -18,7 +18,6 @@ related_posts:
   - "installing-java-with-sdkman-on-raspberry-pi"
   - "foojay-podcast-2"
   - "blink-a-led-on-raspberry-pi-with-vaadin"
-frozen: true
 ---
 
 Want to get started with Java programming on the Raspberry Pi?

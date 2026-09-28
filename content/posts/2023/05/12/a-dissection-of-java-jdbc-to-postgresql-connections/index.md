@@ -12,7 +12,6 @@ related_posts:
   - "how-java-litters-beyond-the-heap-relational-databases"
   - "how-java-litters-beyond-the-heap-part-2-distributed-databases"
   - "5-things-you-probably-didnt-know-about-java-concurrency"
-frozen: false
 ---
 
 Many Java applications use a database, and many use JDBC and [PostgreSQL](https://www.yugabyte.com/postgresql/ "PostgreSQL").

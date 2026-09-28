@@ -10,7 +10,6 @@ image: "Favicon-3-2.png"
 categories:
   - "Java Core"
 related_posts:
-frozen: false
 ---
 
 The Java SE landscape is strewn with acronyms that it has picked up over the last 25 years. Sometimes those acronyms even mean multiple things. This post attempts to explain them all in terms of two main groupings:

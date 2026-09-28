@@ -14,7 +14,6 @@ related_posts:
   - "agent-memory-with-spring-ai-redis"
   - "checking-out-junie-a-coding-agent-by-jetbrains"
   - "debug-without-breakpoints"
-frozen: false
 ---
 
 GitHub offers a way to customize one's profile by allowing one to create a `README` in a specific repository, named as your profile, *e.g.* , `nfrankel/nfrankel`. A couple of years ago, I automated the update of my GitHub profile with up-to-date info: my latest blog posts, my upcoming talks, and the last recorded YouTube talk. I took the time to document how to do it [on this blog](https://blog.frankel.ch/automating-conference-submission-workflow/).

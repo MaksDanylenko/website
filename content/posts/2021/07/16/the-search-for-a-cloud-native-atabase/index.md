@@ -14,7 +14,6 @@ categories:
   - "DataStax"
   - "Kubernetes"
 related_posts:
-frozen: false
 ---
 
 The concept of "cloud-native" has come to stand for a collection of best practices for application logic and infrastructure, including databases. However, many of the databases supporting our applications have been around for decades, before the cloud or cloud-native was a thing. The data gravity associated with these legacy solutions has limited our ability to move applications and workloads.

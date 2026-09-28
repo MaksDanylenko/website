@@ -22,7 +22,6 @@ related_posts:
   - "free-webinar-making-ai-useful-for-java-developers-in-real-applications-with-boxlang"
   - "boxlang-ai-deep-dive-part-7-of-7-mcp-the-protocol-that-connects-everything"
   - "boxlang-ai-deep-dive-part-2-of-7-building-a-production-grade-ai-tool-ecosystem"
-frozen: false
 ---
 
 ![DayDreams](daydreams-scaled.jpg)

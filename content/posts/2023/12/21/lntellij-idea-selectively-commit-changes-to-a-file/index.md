@@ -15,7 +15,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "7-ways-to-improve-your-code-reading-skills"
   - "foojay-podcast-26"
-frozen: false
 ---
 
 **Sometimes you're making multiple changes to a file that you don't want to commit together. For example, if you're working on a new feature, but notice some other small things you want to fix. If these changes are in separate files, we can commit each file separately. But what if they're in the same file?**

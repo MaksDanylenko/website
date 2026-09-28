@@ -15,7 +15,6 @@ related_posts:
   - "best-practices-for-deploying-mongodb-in-kubernetes"
   - "beyond-keywords-implementing-semantic-search-in-java-with-spring-data-part-1"
   - "beyond-keywords-optimizing-vector-search-with-filters-and-caching-part-2"
-frozen: false
 ---
 
 For years, [Hibernate](https://hibernate.org/) ORM has been one of the most popular frameworks in the Java ecosystem. It was built to simplify data persistence by letting developers work with Java objects instead of SQL statements, a technique known as *object-relational mapping (ORM)*.

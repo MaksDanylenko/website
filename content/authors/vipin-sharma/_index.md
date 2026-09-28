@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/vipinsharma/"
 github: ""
 youtube: ""
 website: "https://x.com/vipinbit"
-frozen: false
 ---

@@ -13,7 +13,6 @@ related_posts:
   - "foojay-podcast-5"
   - "what-the-heck-is-project-loom-for-java"
   - "what-can-we-expect-in-openjdk-19"
-frozen: true
 ---
 
 OpenJDK 19 has been released today! Get it from your favorite vendor... whether it is BellSoft, Amazon, Red Hat, Azul, Oracle, Microsoft [or any other of a large number of Java providers](https://javaalmanac.io/jdk/19).

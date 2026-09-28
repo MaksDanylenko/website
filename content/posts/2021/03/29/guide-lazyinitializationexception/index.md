@@ -14,7 +14,6 @@ related_posts:
   - "boxlang-1-15-0-released-blazing-fast-strings-runtime-portability-and-much-more"
   - "jurassic-jdk-migrate-or-extinct"
   - "quarkus-unpacked-insights-from-the-foojay-podcast"
-frozen: false
 ---
 
 Posts that have been written about Hibernate's `LazyInitializationException` could probably fill whole books.

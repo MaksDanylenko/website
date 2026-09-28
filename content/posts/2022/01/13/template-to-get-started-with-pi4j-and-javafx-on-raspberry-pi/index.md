@@ -17,7 +17,6 @@ related_posts:
   - "java-17-on-the-raspberry-pi"
   - "building-openjdk-from-github-sources-on-64-bit-raspberry-pi"
   - "a-fresh-look-at-embedded-java"
-frozen: false
 ---
 
 The Pi4J project wants to be the starting point for everyone who wants to use Java on the Raspberry Pi, being it a headless, JavaFX-user interface and/or GPIO-controller project.

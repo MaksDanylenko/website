@@ -16,7 +16,6 @@ related_posts:
   - "foojay-podcast-29"
   - "book-review-developing-apps-with-gpt-4-and-chatgpt"
   - "foojay-podcast-47"
-frozen: false
 ---
 
 At the Fosdem conference in Brussels on February 3rd, I gave a presentation about using an existing documentation set as the data for a ChatGPT-like application, created with JavaFX and LangChain4J.

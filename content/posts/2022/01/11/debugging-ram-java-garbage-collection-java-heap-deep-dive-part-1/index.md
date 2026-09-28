@@ -14,7 +14,6 @@ related_posts:
   - "debugging-tutorial-1-introduction-conditional-breakpoints-set-value"
   - "production-horrors-handling-disasters-public-debrief"
   - "optimizing-the-garbage-collector-when-migrating-cloud-workloads"
-frozen: true
 ---
 
 There are many excellent articles on Java Garbage Collection, Java Memory usage and generally Java heap. Unfortunately, they are all over the place. They mix architecture, concepts and problem solving as separate pieces. A lot of the material is out of date or doesn't include pragmatic information for solving problems with the garbage collector. E.g. e.g. pause times, heap space usage etc.

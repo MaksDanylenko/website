@@ -14,7 +14,6 @@ related_posts:
   - "intellij-idea-made-me-lazy"
   - "live-templates-in-intellij-idea"
   - "ask-a-lille-dev-what-java-developers-really-think-about-quality-frameworks-communities-and-careers"
-frozen: false
 ---
 
 One of the super cool things about IntelliJ IDEA is how much code you can generate with minimum effort. Yes, it's not the 1990s anymore, we're no longer measured on how many lines of code we generate (thankfully), but you also know that Java has its fair share of *boilerplate* code.

@@ -14,7 +14,6 @@ related_posts:
   - "code-reviews-with-ai-a-developer-guide"
   - "building-for-failure-best-practices-for-easy-production-debugging"
   - "ai-driven-testing-best-practices"
-frozen: false
 ---
 
 ### Java introduces several new language features in the 22 to 24 versions which collectively simplify code, enhance documentation, and provide powerful tools for bytecode manipulation and advanced stream processing. This article shows you how to leverage these new features with simple examples.

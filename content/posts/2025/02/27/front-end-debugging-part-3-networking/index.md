@@ -13,7 +13,6 @@ related_posts:
   - "front-end-debugging-part-2-console-log-to-the-max"
   - "front-end-debugging-part-1-not-just-console-log"
   - "strace-revisited-simple-is-beautiful"
-frozen: false
 ---
 
 * [**Network Debugging Powerhouse**](#network-debugging-powerhouse)

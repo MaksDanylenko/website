@@ -14,7 +14,6 @@ related_posts:
   - "foojay-a-place-for-friends-of-openjdk"
   - "how-to-submit-your-next-article-on-foojay-io"
   - "foojay-mastodon-service-here-it-is"
-frozen: false
 ---
 
 Twitter has been my absolute "source of truth" for many years.

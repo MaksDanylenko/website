@@ -9,7 +9,6 @@ image: "Favicon-3-2.png"
 categories:
   - "Foojay"
 related_posts:
-frozen: false
 ---
 
 Over the last two years at [FOSDEM](https://fosdem.org/2021/)—the free event for software developers, many of them in the open source ecosystem, for meeting, sharing ideas and collaborating—one of the developer rooms has been focused on short presentations dealing with demos and overviews of free tools and editors.

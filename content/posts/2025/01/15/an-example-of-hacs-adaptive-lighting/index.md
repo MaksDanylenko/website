@@ -13,7 +13,6 @@ related_posts:
   - "building-simple-home-assistant-langchain4j-raspberry-pi"
   - "busting-myths-building-futures-a-conversation-with-cay-horstmann-on-java-and-machine-learning"
   - "getting-started-with-intellij-idea"
-frozen: false
 ---
 
 **In the [previous post](https://blog.frankel.ch/home-assistant/3/) of this focus, we replaced Philips Hue automation with the one from Home Assistant. One significant gap we noticed was that Home Assistant doesn't automatically adjust the brightness according to the time of the day, a feature Philips Hue offers. In this post, we are going to address this gap.**

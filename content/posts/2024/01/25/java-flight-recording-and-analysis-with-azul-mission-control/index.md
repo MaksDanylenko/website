@@ -17,7 +17,6 @@ related_posts:
   - "using-java-flight-recorder-and-mission-control-part-2"
   - "using-java-flight-recorder-and-mission-control-part-3"
   - "where-production-policy-belongs-building-eliya-in-public"
-frozen: false
 ---
 
 **Java Flight Recording (JFR) is a Java Virtual Machine (JVM) profiling and diagnostics tool. It enables you to collect and analyze data regarding the performance and behavior of a Java application. As JFR is included in the JVM, there is no need for additional tools or installations to make recordings of your applications.**

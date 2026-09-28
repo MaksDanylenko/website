@@ -14,7 +14,6 @@ related_posts:
   - "boxlang-1-14-0-sets-ranges-inner-classes-and-a-runtime-that-talks-back"
   - "code-reviews-with-ai-a-developer-guide"
   - "getting-started-with-intellij-idea"
-frozen: false
 ---
 
 A couple of weeks ago, I spent the weekend creating another submission helper in the form of a Firefox extension.

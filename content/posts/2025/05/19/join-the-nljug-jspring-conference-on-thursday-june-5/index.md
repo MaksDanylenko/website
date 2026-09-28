@@ -14,7 +14,6 @@ related_posts:
   - "7-ways-to-improve-your-code-reading-skills"
   - "8-best-practices-to-prevent-sql-injection-attacks"
   - "7-ways-to-contribute-to-openjdk"
-frozen: false
 ---
 
 **Join the Dutch Java community at [J-Spring 2025](https://jspring.nl/), the premier Java conference in the Netherlands, taking place Thursday, June 5th at Jaarbeurs Utrecht.**

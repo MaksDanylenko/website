@@ -11,7 +11,6 @@ categories:
   - "JDK Flight Recorder"
   - "Performance"
 related_posts:
-frozen: false
 ---
 
 I'm excited to share news about an open-source utility I've been working on lately: [JmFrX](https://github.com/gunnarmorling/jmfrx), a tool for capturing JMX data with Java Flight Recorder.

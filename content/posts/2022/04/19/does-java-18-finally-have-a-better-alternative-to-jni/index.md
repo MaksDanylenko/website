@@ -15,7 +15,6 @@ related_posts:
   - "project-panama-for-newbies-part-2"
   - "project-panama-for-newbies-part-3"
   - "java-panama-polyglot-swift-part-2"
-frozen: false
 ---
 
 Java 18 was released last month (March 2022), and with it comes the second incubator of the Foreign Function \& Memory API, so let us look at the state of Foreign Function Interface (FFI) in Java.

@@ -17,7 +17,6 @@ related_posts:
   - "kotlin-delegation"
   - "avoid-stringly-typed-in-kotlin"
   - "sheetmusic4j-0-0-3-abc-notation-guitar-pro-engraving-improvements"
-frozen: false
 ---
 
 In this article, we'll tackle a common issue: *simple* communication between system components. With a slightly controversial, themed, domain-driven design.

@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/fawazghali/"
 github: ""
 youtube: ""
 website: "https://x.com/FawazGhali"
-frozen: false
 ---

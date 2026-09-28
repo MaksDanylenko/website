@@ -14,7 +14,6 @@ related_posts:
   - "book-announcement-openjdk-migration-guide-for-dummies"
   - "is-openjdk-just-a-drop-in-replacement"
   - "mastering-the-challenges-of-openjdk-migration"
-frozen: false
 ---
 
 **Have you been thinking of moving away from the Oracle JDK to OpenJDK? The book "OpenJDK Migration for Dummies", written by Simon Ritter of Azul, provides direction for those who are looking to make the move.**

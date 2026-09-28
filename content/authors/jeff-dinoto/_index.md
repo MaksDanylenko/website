@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/jeff-dinoto/"
 github: ""
 youtube: ""
 website: ""
-frozen: false
 ---

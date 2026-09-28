@@ -14,7 +14,6 @@ related_posts:
   - "cant-reproduce-a-bug"
   - "external-debugging-tools-1-dtrace-and-strace"
   - "is-it-time-to-go-back-to-the-monolith"
-frozen: false
 ---
 
 * [DTrace Overview](#dtrace-overview)

@@ -15,7 +15,6 @@ related_posts:
   - "journeys-in-java-level-10-service-discovery-with-eureka"
   - "observability-is-cultural"
   - "offline-crypto-address-validation-in-java"
-frozen: false
 aliases:
   - "/today/writting-a-data-orchestrator-in-java/"
 ---

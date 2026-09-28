@@ -10,7 +10,6 @@ categories:
   - "JavaFX"
   - "Release Notes"
 related_posts:
-frozen: false
 ---
 
 A new Java / JavaFX library has been released. It's called FXSkins.

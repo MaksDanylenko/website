@@ -2,7 +2,6 @@
 title: "Bytecode"
 description: "When you compile a Java source file, the Java compiler (javac) does not produce native machine code for a specific CPU. Instead it produces bytecode: a compact, platform-neutral instruction set stored in .class files. Bytecode is not directly understood by ..."
 url: "/pedia/bytecode/"
-frozen: false
 ---
 
 When you compile a Java source file, the Java compiler (`javac`) does not produce native machine code for a specific CPU. Instead it produces *bytecode* : a compact, platform-neutral instruction set stored in `.class` files. Bytecode is not directly understood by the operating system; it is executed by the Java Virtual Machine (JVM), which translates it into native instructions at runtime.

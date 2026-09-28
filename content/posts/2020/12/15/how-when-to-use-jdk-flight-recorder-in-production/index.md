@@ -10,7 +10,6 @@ image: "Favicon-3-2.png"
 categories:
   - "JDK Flight Recorder"
 related_posts:
-frozen: false
 aliases:
   - "/today/how-when-to-use-jdk-flight-recorded-in-production/"
 ---

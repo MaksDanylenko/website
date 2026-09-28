@@ -15,7 +15,6 @@ related_posts:
   - "do-java-jakarta-ee-standards-matter"
   - "evolution-of-microservices"
   - "ejb-support-in-piranha-via-cdi"
-frozen: false
 ---
 
 [Jakarta EE](https://jakarta.ee/), previously Java EE, is a set of specifications that enables the world wide community of Java developers to work on cloud native Java enterprise applications. It is an open source project maintained by the [Eclipse Foundation.](https://www.eclipse.org/org/)

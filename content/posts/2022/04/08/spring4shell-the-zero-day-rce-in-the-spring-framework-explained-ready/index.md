@@ -15,7 +15,6 @@ related_posts:
   - "log4shell-leak4j"
   - "system-logger"
   - "jurassic-jdk-migrate-or-extinct"
-frozen: false
 ---
 
 On March 30, 2022, a critical [remote code execution (RCE) vulnerability](https://snyk.io/vuln/SNYK-JAVA-ORGSPRINGFRAMEWORK-2436751) was found in the Spring Framework. More specifically, it is part of the `spring-beans` package, a transitive dependency in both `spring-webmvc` and `spring-webflux`. This vulnerability is another example of why [securing the software supply chain](https://snyk.io/blog/preventing-malicious-packages-and-supply-chain-attacks-with-snyk/) is important to open source.

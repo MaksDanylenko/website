@@ -13,7 +13,6 @@ related_posts:
   - "challenges-when-developing-a-gui-for-fix"
   - "chronicle-queue-storing-1tb-in-virtual-memory-on-a-128gb-machine"
   - "creating-terabyte-sized-queues-with-low-latency"
-frozen: false
 ---
 
 This article explores how to use method chaining to add routing information to serialised data structures in a lightweight fashion, where the routing information can be read separately by an intelligent message router.

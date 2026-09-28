@@ -16,7 +16,6 @@ related_posts:
   - "patterns-for-the-design-of-microservices-part-1"
   - "patterns-for-the-design-of-microservices-part-2"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
-frozen: false
 ---
 
 In [part1](https://foojay.io/today/patterns-for-the-design-of-microservices-part-1/ "part1"), [part2](https://foojay.io/today/patterns-for-the-design-of-microservices-part-2/ "part2"), we discussed several design patterns that aid in the development of microservices.

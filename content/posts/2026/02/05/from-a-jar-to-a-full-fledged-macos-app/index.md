@@ -15,7 +15,6 @@ related_posts:
   - "apache-apisix-loves-rust"
   - "annotation-free-spring"
   - "an-example-of-overengineering-keep-it-wet"
-frozen: false
 ---
 
 A couple of years ago, I developed a small [Kotlin GUI](https://blog.frankel.ch/state-jvm-desktop-frameworks/2/) to help me rename my files in batch. I actually created it with [different JVM frameworks](https://blog.frankel.ch/focus/state-jvm-desktop-frameworks/) to compare their relative merits. In any case, I didn't use it up until last week. And then, I was surprised to see that it didn't work to rename a network volume, although it had in the past. In this brief post, I aim to describe the issue and its solution.

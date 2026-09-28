@@ -16,7 +16,6 @@ related_posts:
   - "do-you-really-need-kubernetes"
   - "different-approaches-to-building-stateful-microservices-in-the-cloud-native-world"
   - "reflections-on-2024-a-remarkable-year-for-omnifish-glassfish-piranha-and-jakarta-ee"
-frozen: false
 ---
 
 In this myth-busting webinar, Steve Millidge (founder of [Payara](https://www.payara.fish/dismiss-the-myths/)), demonstrates that Java/Jakarta EE can do microservices.

@@ -15,7 +15,6 @@ related_posts:
   - "bringing-raspberry-pi-development-to-quarkus-with-the-quarkus-pi4j-extension"
   - "java-21-on-raspberry-pi-zero-2-is-back-in-business"
   - "demo-application-with-crac-and-loading-data-in-memory"
-frozen: false
 ---
 
 In the post ["Welcome to VS Code for Java"](https://foojay.io/today/welcome-to-vs-code-for-java/) you can find a full description and a list of tips and plugins for Java development with Visual Studio Code.

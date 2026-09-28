@@ -19,7 +19,6 @@ related_posts:
   - "foojay-podcast-29"
   - "foojay-podcast-28"
   - "foojay-podcast-84"
-frozen: false
 ---
 
 The first week of October, the 20th edition of Devoxx took place in Antwerp, Belgium.

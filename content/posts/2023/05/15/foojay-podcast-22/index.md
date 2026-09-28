@@ -18,7 +18,6 @@ related_posts:
   - "vert-x-example-on-the-raspberry-pi-with-a-virtual-potentiometer"
   - "blink-a-led-on-raspberry-pi-with-vaadin"
   - "foojay-podcast-40"
-frozen: false
 ---
 
 Let's talk about programming for fun. Grab your Lego and robots, and let's talk about STEM and STEAM!

@@ -17,7 +17,6 @@ related_posts:
   - "announcing-the-astra-service-broker-tradeoff-free-cassandra-in-kubernetes"
   - "four-reasons-why-apache-pulsar-is-essential-to-the-modern-data-stack"
   - "why-developers-should-use-apache-pulsar"
-frozen: false
 ---
 
 ![](0_Yj9vaj0to8ZAf9NJ-1-1024x682.jpeg)

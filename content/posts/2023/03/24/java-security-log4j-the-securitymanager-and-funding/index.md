@@ -13,7 +13,6 @@ related_posts:
   - "java-where-the-wild-code-isnt"
   - "project-panama-for-newbies-part-1"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
-frozen: false
 ---
 
 A demonstration of log4j exploits, which defenses people tried, and which worked.

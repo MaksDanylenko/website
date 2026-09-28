@@ -9,7 +9,6 @@ image: "Favicon-3-2.png"
 categories:
   - "Elastic"
 related_posts:
-frozen: false
 ---
 
 **Today we will dive into the start up of Elasticsearch, how it parses the configurable JVM options and how it can ergonomically switch between JVM options on startup.**

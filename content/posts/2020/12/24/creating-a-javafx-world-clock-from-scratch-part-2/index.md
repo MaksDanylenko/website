@@ -14,7 +14,6 @@ related_posts:
   - "will-openjfx-be-merged-into-openjdk-it-would-be-a-perfect-match-with-java-on-mobile"
   - "new-video-series-javafx-in-action-part-1"
   - "sheetmusic4j-0-0-3-abc-notation-guitar-pro-engraving-improvements"
-frozen: false
 ---
 
 > *"The only way to learn mathematics is to do mathematics."* – Paul Halmos[\[1\]](https://en.wikipedia.org/wiki/Paul_Halmos "Mathematician Paul Halmos")

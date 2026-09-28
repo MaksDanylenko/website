@@ -14,7 +14,6 @@ related_posts:
   - "ci-cd-workflow-for-spring-boot-applications-on-kubernetes-via-skaffold"
   - "jenkins-cluster-continuous-integration-delivery-in-jelastic-paas"
   - "whats-new-in-actions-setup-java-5-4-and-5-5-signature-verification-kona-jdk-and-a-better-maven-experience"
-frozen: false
 ---
 
 #### Have you ever heard of [Jenkins](https://www.jenkins.io/), [Travis](https://www.travis-ci.com/), [TeamCity](https://www.jetbrains.com/teamcity/) or [Bamboo](https://www.atlassian.com/software/bamboo)?

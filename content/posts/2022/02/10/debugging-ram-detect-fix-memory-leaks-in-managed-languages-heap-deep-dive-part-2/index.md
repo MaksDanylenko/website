@@ -14,7 +14,6 @@ related_posts:
   - "debugging-ram-java-garbage-collection-java-heap-deep-dive-part-1"
   - "polyglot-cloud-native-debugging-beyond-apm-and-logging"
   - "offline-crypto-address-validation-in-java"
-frozen: true
 ---
 
 In the [previous installment](https://foojay.io/today/debugging-ram-java-garbage-collection-java-heap-deep-dive-part-1/), I talked about the Java garbage collector. In this part, I'll discuss the most common memory issue: the memory leak. I focus on managed languages, specifically Java, but I will mention some native code tools which are interesting. A memory leak contributes to heap size, which isn't the most pressing bug in most cases. But when left alone, memory usage can become a problem and, by that point, finding the issue is hard. Unlike a crash dump, where we get a reference to a specific line, a memory leak can remain hidden.

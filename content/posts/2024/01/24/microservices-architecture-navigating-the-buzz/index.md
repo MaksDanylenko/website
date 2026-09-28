@@ -14,7 +14,6 @@ related_posts:
   - "chronicle-wire-object-marshalling"
   - "billions-of-messages-tcp-ip"
   - "the-high-availability-features-of-microservices-using-chronicle-services"
-frozen: false
 ---
 
 Lately I've been exploring what all the talk around '[microservices architecture](https://semaphoreci.com/blog/microservice-architecture "microservices architecture")' is really about. From it popping up in every other social media debate to it increasingly becoming a must-have skill on job listings, what is it that has caused this strong divide between the proponents of the traditional monolithic approach and those who have embraced the microservices paradigm.

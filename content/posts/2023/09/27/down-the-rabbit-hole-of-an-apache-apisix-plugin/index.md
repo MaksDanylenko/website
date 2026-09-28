@@ -14,7 +14,6 @@ related_posts:
   - "apisix-api-gateway"
   - "authenticate-with-openid-connect-and-apache-apisix"
   - "implementing-the-idempotency-key-specification-on-apache-apisix"
-frozen: false
 ---
 
 **My demo, Evolving your APIs, features a custom Apache APISIX plugin. I believe that the process of [creating a custom plugin](https://apisix.apache.org/docs/apisix/plugin-develop/) is relatively well-documented. However, I wanted to check the parameters of the `_M.access(conf, ctx)` function, especially the `ctx` one.**

@@ -14,7 +14,6 @@ related_posts:
   - "ap-loader-a-new-way-to-use-and-embed-async-profiler"
   - "a-short-primer-on-java-debugging-internals"
   - "couldnt-we-just-use-asyncgetcalltrace-in-a-separate-thread"
-frozen: false
 ---
 
 Using [async-profiler](https://github.com/jvm-profiling-tools/async-profilerhttps://github.com/jvm-profiling-tools/async-profiler) and jattach can be quite a hassle. First, you have to download the proper archive from GitHub for your OS and architecture; then, you have to unpack it and place it somewhere.

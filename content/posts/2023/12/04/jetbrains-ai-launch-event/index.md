@@ -16,7 +16,6 @@ related_posts:
   - "beginning-javafx-with-intellij"
   - "observing-java-applications-running-via-docker-compose-using-opentelemetry"
   - "foojay-podcast-91"
-frozen: false
 ---
 
 **Don't miss the online [JetBrains](https://www.jetbrains.com/) AI launch event, where we'll release our AI-powered coding companion, JetBrains AI Assistant.**

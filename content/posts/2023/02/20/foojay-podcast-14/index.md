@@ -20,7 +20,6 @@ related_posts:
   - "a-short-primer-on-java-debugging-internals"
   - "package-checker-find-fix-vulnerabilities-with-intellij-idea-ultimate"
   - "offline-crypto-address-validation-in-java"
-frozen: false
 ---
 
 Let's talk about debugging and observability.

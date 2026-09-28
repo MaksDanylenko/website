@@ -13,7 +13,6 @@ related_posts:
   - "manifold-vs-lombok-enhancing-java-with-property-support"
   - "operator-overloading-in-java"
   - "java-string-templates-today"
-frozen: false
 ---
 
 We reached the final installment of our Manifold series but not the end of its remarkable capabilities.

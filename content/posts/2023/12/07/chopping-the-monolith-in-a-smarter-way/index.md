@@ -16,7 +16,6 @@ related_posts:
   - "chopping-monolith-demo"
   - "apisix-api-gateway"
   - "jc-ai-newsletter-8"
-frozen: false
 ---
 
 **In my previous post [Chopping the Monolith](https://foojay.io/today/chopping-monolith/), I explained that some parts of a monolith are pretty stable and only the fast-changing parts are worth being "chopped."**

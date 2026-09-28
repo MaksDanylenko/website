@@ -17,7 +17,6 @@ related_posts:
   - "controlling-an-lcd-display-with-spring-and-thymeleaf-on-the-raspberry-pi"
   - "creating-a-snake-game-with-javafx-fxgl-in-three-pair-programming-sessions"
   - "mqtt-on-raspberry-pi-part-2-using-mqtt-and-raspberry-pi-to-visualize-sensor-data-on-a-tilesfx-dashboard"
-frozen: false
 ---
 
 A few years ago I did my first experiments with an MQTT server (Mosquitto) running on a Raspberry Pi to connect an Arduino and Raspberry Pi for [the drumbooth of my son](https://webtechie.be/post/2020-03-30-drumbooth-controller-with-java-javafx-raspberrypi-arduino/). The full process is described in my book ["Getting Started with Java on the Raspberry Pi"](https://webtechie.be/books/).

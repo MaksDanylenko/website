@@ -15,7 +15,6 @@ related_posts:
   - "clean-shutdown-of-spring-boot-applications"
   - "containerizing-spring-boot-applications-with-jib"
   - "controlling-an-lcd-display-with-spring-and-thymeleaf-on-the-raspberry-pi"
-frozen: false
 ---
 
 In most minds,*microservices* is an approach to make a traditional monolithic system more structured, dividing it into logical components that correspond to different functional areas of application. Thus, acting as a microservice, each component becomes self-contained, easily scaled, maintained and even upgraded without affecting the overall system. Also, with *microservice* architecture, you can use a software written in different programming languages, including Java. Such freedom attracts but may frighten at the same time.

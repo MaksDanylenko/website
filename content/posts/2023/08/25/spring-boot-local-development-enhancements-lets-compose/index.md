@@ -16,7 +16,6 @@ related_posts:
   - "a-faster-way-to-build-react-spring-boot-apps-using-hilla-1-3"
   - "better-error-handling-for-your-spring-boot-rest-apis"
   - "the-new-jdbcclient-introduced-in-spring-framework-6-1"
-frozen: false
 ---
 
 Quite often when we are developing an application we need external services such as rabbitMQ, Kafka, etc.

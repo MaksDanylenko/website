@@ -15,7 +15,6 @@ related_posts:
   - "foojay-podcast-95"
   - "ai-found-the-bugs-whos-patching-your-eol-java-code"
   - "spring-boot-migration-and-the-cra-when-good-enough-isnt"
-frozen: false
 ---
 
 Tomorrow I start (o so early) for [JCON Europe](https://2026.europe.jcon.one/) in Cologne and then, at the tail end of the week, go to Devoxx France to give more talks. If you're at either, come say hi. Herodevs has a booth at both.

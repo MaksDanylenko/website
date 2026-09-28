@@ -19,7 +19,6 @@ categories:
   - "Tools"
   - "Tutorials"
 related_posts:
-frozen: false
 ---
 
 ![](daydreams-2-scaled.jpg)

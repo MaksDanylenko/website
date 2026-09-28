@@ -16,7 +16,6 @@ related_posts:
   - "does-language-still-matter-in-the-age-of-ai-yes-but-the-tradeoff-has-changed"
   - "feedback-from-calling-rust-from-python"
   - "research-measuring-energy-consumption-in-programming-languages-for-ai-applications"
-frozen: false
 ---
 
 A couple of years ago, I wrote that [The Builder pattern is a finite state machine!](https://blog.frankel.ch/builder-pattern-finite-state-machine/). A state machine consists of states and transitions between them. As a developer, I want to make illegal states unrepresentable, *i.e.*, users of my API can't create non-existent transitions. My hypothesis is that only a static typing system allows this at compile-time. Dynamic typing systems rely on runtime validation.

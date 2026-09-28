@@ -16,7 +16,6 @@ related_posts:
   - "azul-brings-java-from-edge-to-cloud"
   - "azuls-high-performance-java-platform-achieves-historic-first-with-10000-customer-jvms-collaborating-and-sharing-performance-optimizations-cutting-cloud-costs-by-20"
   - "how-to-train-readynow-to-achieve-optimal-java-performance"
-frozen: false
 ---
 
 *Traditional Java executes code in slower interpreted mode, known as Java warmup, until it can build an optimized profile. This means it can only start optimizing once the application takes traffic and touches the critical code paths. Just when you are scaling out for a large bump in traffic, your machines are running at their slowest and are splitting their available CPU power between handling requests and performing expensive JIT optimizations*

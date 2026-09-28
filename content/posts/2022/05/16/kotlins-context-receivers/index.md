@@ -14,7 +14,6 @@ related_posts:
   - "comparison-fault-tolerance-libraries"
   - "building-command-line-interfaces-with-kotlin-using-picocli"
   - "exposed-kotlin-orm-complete-guide"
-frozen: false
 ---
 
 Kotlin added the idea of Context Receivers in version 1.6.20.

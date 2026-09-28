@@ -13,7 +13,6 @@ related_posts:
   - "foojay-podcast-1"
   - "foojay-podcast-2"
   - "foojay-podcast-3"
-frozen: false
 ---
 
 In this podcast, we explore the topic of why there are so many JDKs, how are they the same, and how they are different. We balance the Java perspective with a special guest from the Rust foundation to learn how a peer ecosystem works.

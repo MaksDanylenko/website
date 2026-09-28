@@ -2,7 +2,6 @@
 title: "JIT Compilation (Just-in-Time)"
 description: "Just-in-time (JIT) compilation is the process by which the JVM translates bytecode into native machine code while the application is running, rather than before it starts. This is the mechanism responsible for Java's high peak throughput: the JVM profiles running ..."
 url: "/pedia/jit-compilation-just-in-time/"
-frozen: false
 ---
 
 Just-in-time (JIT) compilation is the process by which the JVM translates [bytecode](https://foojay.io/pedia/bytecode/) into native machine code **while the application is running**, rather than before it starts. This is the mechanism responsible for Java's high peak throughput: the JVM profiles running code and compiles only the methods that are actually "hot" (frequently executed), applying increasingly aggressive optimisations as confidence in the profile grows.

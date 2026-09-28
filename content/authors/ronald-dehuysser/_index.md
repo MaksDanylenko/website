@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/ronalddehuysser/"
 github: ""
 youtube: ""
 website: "https://x.com/rdehuyss"
-frozen: false
 ---

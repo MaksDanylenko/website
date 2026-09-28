@@ -13,7 +13,6 @@ related_posts:
   - "a-simple-service-with-spring-boot"
   - "annotation-free-spring"
   - "better-error-handling-for-your-spring-boot-rest-apis"
-frozen: false
 ---
 
 **When using the publish-subscribe domain with JMS, we often want to use durable subscriptions. But how can this be done with Spring Boot?**

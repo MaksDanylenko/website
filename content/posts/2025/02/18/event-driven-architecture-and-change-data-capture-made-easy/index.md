@@ -15,7 +15,6 @@ related_posts:
   - "unified-event-driven-architecture-for-the-cloud-native-enterprise"
   - "why-developers-should-use-apache-pulsar"
   - "full-stream-ahead-astra-streaming-powered-by-apache-pulsar"
-frozen: false
 ---
 
 Hello again! In this article (Part 1), we will discuss two common ways to build modern [software systems](https://mezocode.com/microservice-journey-part-2-design-principles-for-well-crafted-architecture/): **Event-Driven Architecture (EDA) and Change Data Capture (CDC)**. They serve different purposes but can work well together in some situations.

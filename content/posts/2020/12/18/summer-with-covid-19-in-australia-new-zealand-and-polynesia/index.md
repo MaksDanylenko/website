@@ -9,7 +9,6 @@ image: "CW51-software-ecg-deaths-oceania.jpg"
 categories:
   - "JavaFX"
 related_posts:
-frozen: false
 ---
 
 In this series of blogposts ([see part 1 here](https://foojay.io/today/covid-19-time-series-analysis-with-software-ekg/)), we're taking a look at the current figures of the Covid-19 pandemic with Software-ECG. Software-ECG is a free time series analysis tool originally developed for for system analysis of computer problems in distributed systems.

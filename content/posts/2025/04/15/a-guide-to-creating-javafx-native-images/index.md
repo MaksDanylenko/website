@@ -13,7 +13,6 @@ related_posts:
   - "web-app-startup-in-3ms-with-rife2-and-graalvm"
   - "cross-platform-development-in-java-with-gluon-and-graalvm"
   - "cross-platform-development-in-java-with-gluon-and-graalvm-part-2"
-frozen: false
 ---
 
 **Combining JavaFX-based applications with GraalVM Native Image will enable you to create platform-specific executables that don't require the JVM to run.**

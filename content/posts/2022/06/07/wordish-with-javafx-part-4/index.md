@@ -18,7 +18,6 @@ related_posts:
   - "wordish-with-javafx-part-2"
   - "wordish-with-javafx-part-3"
   - "sheetmusic4j-0-0-3-abc-notation-guitar-pro-engraving-improvements"
-frozen: false
 ---
 
 Welcome to Part 4 of this five part series.

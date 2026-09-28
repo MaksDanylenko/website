@@ -14,7 +14,6 @@ related_posts:
   - "a-list-of-cache-providers"
   - "kotlin-delegation"
   - "boxlang-ai-deep-dive-part-7-of-7-mcp-the-protocol-that-connects-everything"
-frozen: false
 ---
 
 **In my previous article [Evolving your APIs](https://blog.frankel.ch/evolve-apis/), I mention the main API versioning approaches. During the talk of the same name, I sometimes get some questions on the subject. In this article, I'll detail each of them.**

@@ -14,7 +14,6 @@ related_posts:
   - "build-web-apps-in-pure-java-with-vaadin-flow"
   - "create-a-crud-ui-in-pure-java"
   - "build-secure-ai-chat-applications-with-boxlang-rag-ollama-and-amazon-bedrock-with-dan-card"
-frozen: false
 ---
 
 Spring pun intended, but I wanted to update the guide for beginners interested in combining these two technologies.

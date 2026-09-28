@@ -12,7 +12,6 @@ related_posts:
   - "a-short-primer-on-java-debugging-internals"
   - "ap-loader-a-new-way-to-use-and-embed-async-profiler"
   - "asyncgetcalltrace-reworked-frame-by-frame-with-an-iterative-touch"
-frozen: true
 ---
 
 **In this article, I will share why my team decided to start a Java profiler, the list of profilers we found that are suited for profiling Java apps, and how to analyze the data from the profiler to draw conclusions faster.**

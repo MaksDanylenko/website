@@ -16,7 +16,6 @@ related_posts:
   - "fuchs-2023-fepcos-j-02"
   - "fuchs-2023-fepcos-j-01"
   - "fuchs2024-fepcos-j-java-server-and-rust-client"
-frozen: false
 ---
 
 **This is a result of the [FEPCOS-Project](http://fepcos.info), aka @FepcosInfo; #FepcosJ_blog5.**

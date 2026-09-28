@@ -14,7 +14,6 @@ related_posts:
   - "foojay-podcast-97"
   - "foojay-podcast-96"
   - "foojay-podcast-95"
-frozen: false
 ---
 
 WebAssembly is already running inside Java applications, most developers just don't know it yet. In this episode, Andrea Peruffo walks us through how WebAssembly is becoming the modern, safe alternative to JNI: letting you run Rust, C, and other native libraries directly on the JVM, without the crash risks, the per-platform distribution headaches, or the observability blackhole that JNI creates. From JRuby's Prism parser to SQLite and Postgres running as pure Java bytecode, the use cases are real and the project Endive, under the Bytecode Alliance, is ready to explore.

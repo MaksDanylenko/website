@@ -10,7 +10,6 @@ image: "https://helenjoscott-blogs.s3.eu-west-2.amazonaws.com/lazy-cat.jpg"
 categories:
   - "IntelliJ IDEA"
 related_posts:
-frozen: false
 ---
 
 I haven't always been lazy; it's a fairly recent addition to my repertoire of skills. And do you know who I blame? I blame IntelliJ IDEA. I used to check that I'd completed a statement correctly, I used to look at *javadoc*, I used to check I'd closed my parentheses correctly, but now I don't give things a second glance.

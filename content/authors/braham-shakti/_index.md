@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/braham-shakti/"
 github: ""
 youtube: ""
 website: "https://braxik.com/"
-frozen: false
 ---

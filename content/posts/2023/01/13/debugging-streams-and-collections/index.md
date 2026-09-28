@@ -15,7 +15,6 @@ related_posts:
   - "debug-like-a-senior-developer"
   - "why-i-dont-do-tdd"
   - "spring-boot-debugging-with-aspect-oriented-programming-aop"
-frozen: false
 ---
 
 I will run a book giveaway promotion on the [Code Ranch on January 17th](https://coderanch.com/wiki/660305/Book-Promotions-Schedule). Be sure to be there and let your friends know. It would be great to answer your questions about debugging. I'm very excited by this and by the feedback I'm getting for [the course](https://course.debugagent.com/) and new videos.

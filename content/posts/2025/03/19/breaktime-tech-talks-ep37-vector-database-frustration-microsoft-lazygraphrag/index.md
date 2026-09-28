@@ -21,7 +21,6 @@ related_posts:
   - "jc-ai-newsletter-9"
   - "intro-to-rag-foundations-of-retrieval-augmented-generation-part-1"
   - "genai-blood-sweat-and-tears-loading-data-to-pinecone"
-frozen: false
 ---
 
 > This is episode 37 of the [Breaktime Tech Talks](https://www.youtube.com/playlist?list=PLzZ7iUdr2mwS6qexoz9dsI0NfnU614p1w).

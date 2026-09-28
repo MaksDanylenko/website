@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/schneider-david/"
 github: ""
 youtube: ""
 website: "https://x.com/zalando"
-frozen: false
 ---

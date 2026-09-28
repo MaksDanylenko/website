@@ -20,7 +20,6 @@ related_posts:
   - "jc-ai-newsletter-2"
   - "jc-ai-newsletter-3"
   - "do-we-understand-the-value-of-ai-knowledge"
-frozen: false
 ---
 
 14 days have passed and it's time for a new batch of readings that could shape developments in the field of artificial intelligence.

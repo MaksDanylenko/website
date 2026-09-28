@@ -17,7 +17,6 @@ related_posts:
   - "spring-ai-agents-no-second-runtime"
   - "jc-ai-newsletter-16"
   - "tiberius-a-security-testing-framework-for-llm-applications-in-java"
-frozen: false
 ---
 
 Hola developers !!!!!

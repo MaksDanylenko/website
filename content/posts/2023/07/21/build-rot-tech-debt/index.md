@@ -16,7 +16,6 @@ related_posts:
   - "building-javafx-with-gradle"
   - "5-tips-to-create-secure-docker-images-for-java-applications"
   - "offline-crypto-address-validation-in-java"
-frozen: false
 ---
 
 **Discover 'Build Rot', the hidden technical debt in Maven and Gradle builds. This article explores the impact of Build Rot on build speed and test times, offering strategies for enhanced observability and Developer Productivity Engineering to optimize build processes.**

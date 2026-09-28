@@ -15,7 +15,6 @@ related_posts:
   - "creating-terabyte-sized-queues-with-low-latency"
   - "did-you-know-you-can-create-mappers-without-creating-underlying-objects-in-java"
   - "building-custom-solutions-vs-buy-and-build-software"
-frozen: false
 ---
 
 A high level of availability of IT services is crucial to prevent disruptions of service that can lead to financial losses, business opportunity losses, data loss, and reputational damage.

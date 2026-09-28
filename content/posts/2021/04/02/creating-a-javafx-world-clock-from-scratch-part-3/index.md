@@ -14,7 +14,6 @@ related_posts:
   - "creating-a-javafx-world-clock-from-scratch-part-5"
   - "creating-a-javafx-world-clock-from-scratch-part-4"
   - "the-javafx-revival"
-frozen: false
 ---
 
 > An old trick well done is far better than a new trick with no effect. -- Harry Houdini

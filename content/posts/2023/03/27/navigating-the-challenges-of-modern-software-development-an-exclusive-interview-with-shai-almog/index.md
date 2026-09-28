@@ -13,7 +13,6 @@ related_posts:
   - "from-law-degree-to-java-champion-geertjan-wielenga-on-the-success-of-java-and-navigating-the-software-industry"
   - "java-sealed-classes-in-action-building-robust-and-secure-applications"
   - "unlocking-the-secrets-to-a-successful-software-engineering-career-an-interview-with-otavio-santana"
-frozen: false
 ---
 
 {{< img src="shai-almog.jpg" class="alignleft size-full" width="474" height="474" >}}

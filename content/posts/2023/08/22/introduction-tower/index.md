@@ -14,7 +14,6 @@ related_posts:
   - "apache-apisix-loves-rust"
   - "java-panama-polyglot-rust-part-4"
   - "idempotent-spring-boot-starter"
-frozen: false
 ---
 
 One of the components of my [OpenTelemetry demo](https://github.com/nfrankel/opentelemetry-tracing) is a Rust application built with the Axum web framework. In its description, `axum` mentions:

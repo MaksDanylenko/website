@@ -17,7 +17,6 @@ related_posts:
   - "get-recognized-for-your-cloud-native-java-development-skills-with-this-new-badge"
   - "creating-cloud-native-java-applications-with-the-12-factor-app-methodology"
   - "run-ai-enabled-jakarta-ee-and-microprofile-applications-with-langchain4j-and-open-liberty"
-frozen: false
 ---
 
 In this day and age, securing enterprise platforms is a challenge that developers and consultants tackle in an uninformed manner, producing subpar solutions in most cases.

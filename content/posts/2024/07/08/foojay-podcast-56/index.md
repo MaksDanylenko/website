@@ -19,7 +19,6 @@ related_posts:
   - "foojay-podcast-55"
   - "foojay-podcast-54"
   - "foojay-podcast-47"
-frozen: false
 ---
 
 In this Foojay podcast, we enter the world of mathematics by discussing Vectors and how they are crucial for AI and machine learning.

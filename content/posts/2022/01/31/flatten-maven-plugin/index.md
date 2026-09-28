@@ -15,7 +15,6 @@ related_posts:
   - "fixing-vulnerabilities-in-maven-projects"
   - "understanding-apache-maven-part-8-maven-plugins"
   - "effective-cloud-native-java-app-development-with-open-liberty-in-intellij-idea"
-frozen: false
 ---
 
 One of the Apache Maven committers recently wrote about [their plans for Maven 5](https://www.javaadvent.com/2021/12/from-maven-3-to-maven-5.html). I consider the following one of the most significant changes:

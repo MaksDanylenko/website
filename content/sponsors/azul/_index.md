@@ -57,7 +57,6 @@ topics:
 wpSlug: "azul-enterprise-java-platform-foojay-io-gold-sponsor"
 aliases:
   - "/sponsor/azul-enterprise-java-platform-foojay-io-gold-sponsor/"
-frozen: false
 ---
 
 Azul is the trusted leader in enterprise Java for today's AI and cloud-first world. Its open source-based Java platform empowers organisations to optimise the entire Java lifecycle to accelerate performance, strengthen security, reduce licensing and cloud costs, and boost developer productivity. Azul powers mission-critical systems for 36% of the Fortune 100, 50% of the Forbes Top Ten World's Most Valuable Brands, and the world's top 10 financial trading companies.

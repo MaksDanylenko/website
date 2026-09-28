@@ -14,7 +14,6 @@ related_posts:
   - "javafx-links-of-august-2024"
   - "javafx-links-of-july-2024"
   - "javafx-links-of-july-2026"
-frozen: false
 ---
 
 Here is the overview of the JavaFX LinksOfTheMonth of October 2024, published on [jfx-central.com](https://www.jfx-central.com/) during this month. With some very nice new content for JFX Central itself, see at end of the list...

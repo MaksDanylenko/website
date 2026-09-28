@@ -14,7 +14,6 @@ related_posts:
   - "foojay-on-mastodon-an-update"
   - "blockhound-how-it-works"
   - "why-i-moved-my-blog-to-rife2-after-23-years"
-frozen: false
 ---
 
 2022 is over, and not a moment too soon. I'll never forget it: some of my friends had to flee their own country; others are fighting for their freedom as I write this post. I hope they will be safe and that their wishes will come true in 2023.

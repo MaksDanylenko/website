@@ -15,7 +15,6 @@ related_posts:
   - "how-to-release-a-java-module-with-jreleaser-to-maven-central-with-github-actions"
   - "where-production-policy-belongs-building-eliya-in-public"
   - "class-loader-hierarchies"
-frozen: false
 ---
 
 I pointed a scanner I have been building at an old Spring project, and it flagged javax.activation. The bump was 1.1-rev-1 to 1.1.1. Prior releases carried a GPG signature. This one did not.

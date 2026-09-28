@@ -15,7 +15,6 @@ related_posts:
   - "revolutionize-json-parsing-in-java-with-manifold"
   - "spring-boot-debugging-with-aspect-oriented-programming-aop"
   - "relearning-java-thread-primitives"
-frozen: false
 ---
 
 In this article, we'll delve into the fascinating world of operator overloading in Java.

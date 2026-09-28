@@ -10,7 +10,6 @@ image: "Favicon-3-2.png"
 categories:
   - "Sealed Classes"
 related_posts:
-frozen: false
 ---
 
 The most significant new preview feature in JDK 15 (with its second preview in JDK 16), and the only change to the language, is the introduction of sealed classes as a preview feature.

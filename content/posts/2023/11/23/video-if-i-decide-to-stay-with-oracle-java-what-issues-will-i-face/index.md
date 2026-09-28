@@ -14,7 +14,6 @@ related_posts:
   - "are-java-security-updates-important"
   - "java-where-the-wild-code-isnt"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
-frozen: false
 ---
 
 Simon Ritter and Gerrit Grunwald answer a question that they hear repeatedly: **"If I decide to stay with Oracle Java (rather than migrate to an OpenJDK distribution) what issues will I face?"**

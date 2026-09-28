@@ -16,7 +16,6 @@ related_posts:
   - "checking-out-junie-a-coding-agent-by-jetbrains"
   - "idempotent-spring-boot-starter"
   - "exposed-kotlin-orm-complete-guide"
-frozen: false
 ---
 
 ### **You're building an AI agent with memory using Spring AI and Redis.** **Unlike traditional chatbots that forget previous interactions, memory-enabled agents can recall past conversations and facts.** **It works by storing two types of memory in Redis: short-term (conversation history) and long-term (facts and experiences as vectors), allowing agents to provide personalized, context-aware responses.**

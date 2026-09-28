@@ -18,7 +18,6 @@ related_posts:
   - "foojay-podcast-58"
   - "foojay-podcast-57"
   - "foojay-podcast-83"
-frozen: false
 ---
 
 Belgium might be tiny, but we have a strong Java Community!

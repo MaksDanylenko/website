@@ -14,7 +14,6 @@ related_posts:
   - "understanding-apache-maven-part-1-the-basics"
   - "understanding-apache-maven-part-2-pom-hierarchy"
   - "understanding-apache-maven-part-3-maven-coordinates-pom-inheritance"
-frozen: false
 ---
 
 If you are working in the Java ecosystem and building your applications with an older Maven version, this message is for you.

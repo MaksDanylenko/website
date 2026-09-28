@@ -14,7 +14,6 @@ related_posts:
   - "building-a-real-time-ai-fraud-detection-system-with-spring-kafka-and-mongodb"
   - "building-a-spring-boot-crud-application-using-mongodbs-relational-migrator"
   - "building-rest-apis-in-java-with-spring-boot"
-frozen: false
 ---
 
 {{< img src="1_rM-JIRWo49QIKv-vZ4taEQ.webp" class="aligncenter size-full is-resized" width="720" height="720" style="width:308px;height:auto" >}}

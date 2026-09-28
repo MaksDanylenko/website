@@ -2,7 +2,6 @@
 title: "GC Algorithms: G1, ZGC, and Shenandoah"
 description: "The JDK ships with several garbage collectors, each designed for different goals. Choosing the right one depends on whether your application prioritises throughput, latency, or predictability. Serial GC The simplest collector, designed for single-threaded or very small-heap applications. It uses ..."
 url: "/pedia/gc-algorithms-g1-zgc-and-shenandoah/"
-frozen: false
 ---
 
 The JDK ships with several garbage collectors, each designed for different goals. Choosing the right one depends on whether your application prioritises throughput, latency, or predictability.

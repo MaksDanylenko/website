@@ -14,7 +14,6 @@ related_posts:
   - "ensuring-the-right-usage-of-java-21-new-features"
   - "increase-readability-and-reduce-complexity-with-javas-pattern-matching"
   - "top-most-detected-issues-in-java-projects"
-frozen: false
 ---
 
 ### Recent years have seen numerous injection attacks causing significant damage, including a 2019 SQL injection breach in the Fortnite video game and a 2018 attack on Tesla's systems.

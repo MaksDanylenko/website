@@ -14,7 +14,6 @@ related_posts:
   - "7-habits-of-highly-effective-java-coding"
   - "9-best-java-profilers-to-use-in-2024"
   - "9-outdated-ideas-about-java"
-frozen: false
 ---
 
 So what does *file system* mean to you? Most think of file systems as directories and files accessed via your computer: local disk, remotely shared via [NFS](https://en.wikipedia.org/wiki/Network_File_System) or [SMB](https://en.wikipedia.org/wiki/Server_Message_Block), thumb drives, something else. Sufficient for those who require basic file access, nothing more nothing less.

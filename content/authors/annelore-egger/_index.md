@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/anneloredev/"
 github: "https://github.com/anneloredev"
 youtube: ""
 website: ""
-frozen: false
 ---

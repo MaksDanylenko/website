@@ -16,7 +16,6 @@ related_posts:
   - "understanding-bson-a-beginners-guide-to-mongodbs-data-format"
   - "java-concurrency-best-practices-for-mongodb"
   - "clean-and-modular-java-a-hexagonal-architecture-approach"
-frozen: false
 ---
 
 Virtual threads have become one of the most popular resources in Java and are trending inside the language. Indeed, this resource introduced a cheap way to create threads inside the JVM. In this tutorial, we will explain how to use it with MongoDB.

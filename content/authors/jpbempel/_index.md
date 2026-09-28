@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/jeanphilippebempel/"
 github: ""
 youtube: ""
 website: "https://x.com/jpbempel"
-frozen: false
 ---

@@ -18,7 +18,6 @@ related_posts:
   - "7-ways-to-contribute-to-openjdk"
   - "7-ways-to-improve-your-code-reading-skills"
   - "8-best-practices-to-prevent-sql-injection-attacks"
-frozen: false
 ---
 
 ### I'll be honest - my first encounter with Java in 1999 wasn't love at first sight. It was during a university distributed systems course, and coming from a background in assembler and C, Java felt bloated, slow, and frankly untrustworthy. That "automatic memory handling" seemed like dangerous magic I couldn't control. After years of meticulously tracking every allocated memory block, the idea that the runtime would handle memory management felt like giving up control to forces I didn't understand.

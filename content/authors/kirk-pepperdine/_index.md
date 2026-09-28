@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/kirk-pepperdine/"
 github: ""
 youtube: ""
 website: ""
-frozen: false
 ---

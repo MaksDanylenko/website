@@ -12,7 +12,6 @@ related_posts:
   - "instrumenting-java-code-to-find-and-handle-unused-classes"
   - "validating-java-profiling-apis"
   - "do-you-trust-profilers-i-once-did-too"
-frozen: false
 ---
 
 In this article, let's take a look at writing a Java agent and instrumentation code to find unused classes and dependencies in your project.

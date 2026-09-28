@@ -14,7 +14,6 @@ related_posts:
   - "creating-terabyte-sized-queues-with-low-latency"
   - "chronicle-queue-storing-1tb-in-virtual-memory-on-a-128gb-machine"
   - "clean-memory-from-finalize-to-cleaner"
-frozen: false
 ---
 
 There are things you can do in Java you rarely see, generally because there is no use for it.

@@ -14,7 +14,6 @@ related_posts:
   - "extending-third-party-apis-in-different-languages"
   - "playing-with-wasm-on-docker"
   - "busting-myths-building-futures-a-conversation-with-cay-horstmann-on-java-and-machine-learning"
-frozen: false
 ---
 
 Like a couple of innovative technologies, different people have different viewpoints on where WebAssembly fits the technology landscape.

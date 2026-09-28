@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/kenfogel/"
 github: ""
 youtube: ""
 website: "https://x.com/omniprof"
-frozen: false
 ---

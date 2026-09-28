@@ -13,7 +13,6 @@ related_posts:
   - "optimizing-java-for-the-cloud-native-era-with-quarkus"
   - "quarkus-a-runtime-and-framework-for-cloud-native-java"
   - "ensuring-safe-and-reliable-ai-interactions-with-llm-guardrails"
-frozen: false
 ---
 
 DPoP is one of the most exciting developments in the IAM (Identity and Access Management) space in recent years. Yet many backend developers either have not heard of it or are unsure what it actually changes. In this article, I will break down what DPoP is, what problem it solves, and walk through a working implementation with Keycloak and Quarkus.

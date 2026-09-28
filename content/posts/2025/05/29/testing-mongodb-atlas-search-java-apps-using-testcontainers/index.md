@@ -15,7 +15,6 @@ related_posts:
   - "different-approaches-to-building-stateful-microservices-in-the-cloud-native-world"
   - "exploring-java-records-in-a-jakarta-ee-context"
   - "five-apache-projects-you-probably-havent-heard-of-yet"
-frozen: false
 ---
 
 This will be an exploration of testing MongoDB Atlas Search solutions written in Java using TestContainers and JUnit5. We'll start simple and build up to more advanced uses which load seed data and provide an environment for consistent and easy to maintain tests.

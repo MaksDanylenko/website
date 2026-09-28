@@ -16,7 +16,6 @@ related_posts:
   - "foojay-io-at-fosdem-2023-trip-report"
   - "friends-of-openjdk-at-fosdem-2022"
   - "jc-ai-newsletter-16"
-frozen: false
 ---
 
 *Disclaimer: This article is on the things I learned/observed spending the day in AI and Machine Learning Developer Room at FOSDEM 24. Opinions and statements are mine and have nothing to do with my employer. This article might raise more questions than answers, but in my opinion, we all need more awareness on this topic and get familiar with the (right) questions that are to be answered.*

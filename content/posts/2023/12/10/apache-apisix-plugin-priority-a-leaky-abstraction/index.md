@@ -14,7 +14,6 @@ related_posts:
   - "dry-your-apache-apisix-config"
   - "implementing-the-idempotency-key-specification-on-apache-apisix"
   - "when-not-to-write-an-apache-apisix-plugin"
-frozen: false
 ---
 
 [Apache APISIX](https://apisix.apache.org/) is an API Gateway, which builds upon the [OpenResty](https://openresty.org/en/) reverse-proxy to offer a plugin-based architecture. The main benefit of such an architecture is that it brings structure to the configuration of routes. It's a help at scale, when managing hundreds or thousands of routes.

@@ -19,7 +19,6 @@ related_posts:
   - "5-tips-to-create-secure-docker-images-for-java-applications"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "a-simple-service-with-spring-boot"
-frozen: false
 ---
 
 **I'm a passionate Spring Framework and Spring Boot enthusiast, and I always look forward to exploring and experimenting with the latest features and improvements they introduce. With Spring Boot 4 and Spring Boot Framework 7 right around the corner, now's the perfect time to dive into the key enhancements that will shape the future of modern Java and enterprise application development.**

@@ -13,7 +13,6 @@ related_posts:
   - "java-24-whats-new"
   - "whats-new-in-the-july-2026-azul-payara-release"
   - "boxlang-1-15-0-released-blazing-fast-strings-runtime-portability-and-much-more"
-frozen: true
 ---
 
 Now that Java 15 has been released, let's take a look at what's new!

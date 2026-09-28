@@ -12,7 +12,6 @@ categories:
   - "OpenTelemetry"
   - "Performance"
 related_posts:
-frozen: false
 ---
 
 Observability platforms generally expect you to do your analysis inside them, using their query language and their dashboards. That works for the questions you already know you have. It works less well for the ad-hoc ones: ***a quick percentile*** , ***a pivot by status code*** , or "***which service is actually eating the latency budget?***" once the data is in front of you.

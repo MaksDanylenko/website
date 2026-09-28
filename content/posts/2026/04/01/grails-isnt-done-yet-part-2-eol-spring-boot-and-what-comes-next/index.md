@@ -8,7 +8,6 @@ image: "grails-banner.jpg"
 categories:
   - "Spring"
 related_posts:
-frozen: false
 ---
 
 ## Grails Isn't Done Yet (Part 2): EOL, Spring Boot, and What Comes Next

@@ -13,7 +13,6 @@ related_posts:
   - "serverless-is-the-new-timeshare"
   - "migrating-monoliths-to-microservices-in-practice"
   - "effectively-bridging-the-devops-rd-gap-without-sacrificing-reliability"
-frozen: false
 ---
 
 I had a pretty awful travel experience trying to reach Oslo, but it's all worth it for what is possibly my favorite conference: JavaZone.

@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/michal-maléř-69344692/"
 github: ""
 youtube: ""
 website: ""
-frozen: false
 ---

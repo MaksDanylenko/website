@@ -13,7 +13,6 @@ related_posts:
   - "native-applications-for-multiple-devices-from-a-single-javafx-project-with-gluon-mobile-and-github-actions"
   - "starting-a-javafx-project-with-gluon-tools"
   - "cross-platform-development-in-java-with-gluon-and-graalvm"
-frozen: false
 ---
 
 Sometimes there are JavaFX apps that I would also like to use on my iPhone but I wrote them for the desktop and it's always the question how to do that?

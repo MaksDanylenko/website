@@ -14,7 +14,6 @@ related_posts:
   - "push-v3-one-message-from-your-server-to-every-surface"
   - "the-codename-one-javascript-port-is-now-free-and-open-source"
   - "own-your-pixels-native-fidelity-on-your-schedule"
-frozen: false
 ---
 
 ![Mac Native Builds, Live Protocols, And Open Issues Under 350](weekly.jpg)

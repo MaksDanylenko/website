@@ -13,7 +13,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "java-where-the-wild-code-isnt"
   - "are-java-security-updates-important"
-frozen: false
 ---
 
 ***Learn the why and how of a group of enthusiastic people implementing a new sort of developer certification that objectively measures dev skills. We also invite you to join our initiative if you're interested via #certification [on the Foojay slack](https://bit.ly/join-foojay-slack).***

@@ -14,7 +14,6 @@ related_posts:
   - "create-a-crud-ui-in-pure-java"
   - "hilla-1-0-a-new-frontend-framework-for-springboot"
   - "securing-vaadin-applications-with-microsoft-entra"
-frozen: false
 ---
 
 Have you ever had to write an application that didn't do much other than display and change data? And did you use a Single Page Application framework like Angular, a REST API, and Hibernate?

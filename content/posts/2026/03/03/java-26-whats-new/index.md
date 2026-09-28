@@ -12,7 +12,6 @@ categories:
   - "JEPs"
   - "Release Notes"
 related_posts:
-frozen: false
 ---
 
 This article was first published in my personal blog: [Java 26: What's new?](https://www.loicmathieu.fr/wordpress/informatique/java-26-whats-new/) and is part of a serie on [what's new on the last versions of Java](https://www.loicmathieu.fr/wordpress/tag/whatsnew/)).

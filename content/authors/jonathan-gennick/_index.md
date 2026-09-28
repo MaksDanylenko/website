@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/gennick/"
 github: ""
 youtube: ""
 website: "https://x.com/JonathanGennick"
-frozen: false
 ---

@@ -16,7 +16,6 @@ related_posts:
   - "the-road-to-docker-official-images-for-java-the-azul-zulu-story"
   - "building-java-containers-without-a-dockerfile-azul-zulu-and-paketo-buildpacks"
   - "official-azul-zulu-openjdk-images-now-available-on-docker-hub"
-frozen: false
 ---
 
 *Previously in this series:*

@@ -9,7 +9,6 @@ image: "image-4-1024x206.png"
 categories:
   - "Release Notes"
 related_posts:
-frozen: false
 ---
 
 On the Tuesday closest to the 17th day of January, April, July, and October under the normal Oracle Critical Patch Update schedule, a new quarterly OpenJDK update is made available.

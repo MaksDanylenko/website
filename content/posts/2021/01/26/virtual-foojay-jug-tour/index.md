@@ -14,7 +14,6 @@ categories:
   - "Foojay"
   - "Pi4J"
 related_posts:
-frozen: false
 ---
 
 To celebrate the OpenJDK and Foojay.io as a community platform for its users, we're kicking off the Virtual Foojay JUG Tour. Ari Waller, JFrog's Event Manager, well known to many JUGs, now wears a second hat—that of Foojay Event Manager. During March and April, contributors to Foojay will be making a whistle stop tour through as many JUGs as possible, via their virtual meetups! (And if you're not holding virtual events or don't have the facilities for this, we can support by making these available as needed.)

@@ -12,7 +12,6 @@ related_posts:
   - "ap-loader-a-new-way-to-use-and-embed-async-profiler"
   - "eight-debugging-tips-for-intellijidea-users-you-never-knew-existed"
   - "debug-like-a-senior-developer"
-frozen: false
 ---
 
 I wanted to write about a small side project—a few months back, I got carried away with understanding how Java debugging works.

@@ -15,7 +15,6 @@ related_posts:
   - "getting-more-mileage-out-of-kafka-openjdk-vs-azul-prime"
   - "java-performance-ahead-of-time-versus-just-in-time"
   - "new-between-quarters-security-updates-for-java-what-cspus-mean-for-your-release-pipeline"
-frozen: false
 ---
 
 The Java Virtual Machine (JVM) that runs your Java applications has a Garbage Collector (GC) responsible for recycling memory objects that are no longer needed.

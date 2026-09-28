@@ -13,7 +13,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "java-where-the-wild-code-isnt"
   - "are-java-security-updates-important"
-frozen: false
 ---
 
 **Do you ever wonder what OpenJDK distributions and what Java versions your peers are using? Java-based infrastructures and languages? How many are using Java to code AI functionality? How Java workloads are affecting cloud compute costs?**

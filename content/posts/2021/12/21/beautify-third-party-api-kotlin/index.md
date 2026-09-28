@@ -15,7 +15,6 @@ related_posts:
   - "annotation-free-spring"
   - "extending-third-party-apis-in-different-languages"
   - "foojay-podcast-53"
-frozen: false
 ---
 
 Scala has popularized the "Pimp my library" pattern:

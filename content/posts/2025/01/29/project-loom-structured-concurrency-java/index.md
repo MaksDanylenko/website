@@ -16,7 +16,6 @@ related_posts:
   - "foojay-podcast-64"
   - "loom-is-just-hyperthreading-in-java"
   - "what-the-heck-is-project-loom-for-java"
-frozen: false
 ---
 
 In today's era of cloud computing, where high-performance infrastructure is readily available, developers face a complex challenge in achieving efficient concurrency.

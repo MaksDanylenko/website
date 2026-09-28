@@ -16,7 +16,6 @@ related_posts:
   - "book-review-openjdk-migration-for-dummies"
   - "is-openjdk-just-a-drop-in-replacement"
   - "book-review-openjdk-migration-for-dummies-3"
-frozen: false
 ---
 
 **In the past couple of years, there have been quite a lot of Oracle Java licensing changes which can have quite the impact on how much using the Oracle JDK will cost your organization, especially since under the latest terms it's quite easy to have a "rogue" install cost you quite a bit.**

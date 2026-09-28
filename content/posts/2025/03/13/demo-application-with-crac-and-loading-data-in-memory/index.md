@@ -15,7 +15,6 @@ related_posts:
   - "introducing-the-openjdk-coordinated-restore-at-checkpoint-project"
   - "running-a-crac-java-application-on-raspberry-pi"
   - "java-21-on-raspberry-pi-zero-2-is-back-in-business"
-frozen: false
 ---
 
 **[Coordinated Restore at Checkpoint (CRaC)](https://docs.azul.com/core/crac/crac-introduction) is a JDK project initiated by Azul. With CRaC, you can start Java programs with a shorter time to the first transaction and less time and resources to achieve full code speed. This is achieved by taking a snapshot (checkpoint) of a fully warmed-up Java process and launching one or more new JVMs from that snapshot.**

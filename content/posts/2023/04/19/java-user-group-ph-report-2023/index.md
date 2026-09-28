@@ -14,7 +14,6 @@ related_posts:
   - "7-reasons-to-switch-to-openjdk-17-as-a-jakarta-ee-developer"
   - "foojay-podcast-15"
   - "jug-ph-1h-2024-meetups"
-frozen: false
 ---
 
 The [Java User Group Philippines](https://www.meetup.com/java-user-group-ph/ "Java User Group Philippines") **(JUG PH)** held its **revitalized** meetup group last April 11 with the support of [PinoyJUG](https://www.facebook.com/groups/238711806163696 "PinoyJUG") by [O \& B Philippines](https://www.facebook.com/orangeandbronze "O &amp; B Philippines"), the Foojay.io community, and [Azul](https://www.azul.com/ "Azul").

@@ -13,7 +13,6 @@ related_posts:
   - "jdk-7-an-extended-hello-and-farewell"
   - "are-java-security-updates-important"
   - "much-ado-about-nothing-in-java"
-frozen: false
 ---
 
 The concept of pattern matching has been around since the 1960s. It's a well-known language technique used in many programming languages, from Haskell and AWK to Rust and Scala.

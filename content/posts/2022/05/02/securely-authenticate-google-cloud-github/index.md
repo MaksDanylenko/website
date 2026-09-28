@@ -15,7 +15,6 @@ related_posts:
   - "7-reasons-to-switch-to-openjdk-17-as-a-jakarta-ee-developer"
   - "a-list-of-cache-providers"
   - "authenticate-with-openid-connect-and-apache-apisix"
-frozen: false
 ---
 
 Recently, I designed a simple metrics-tracking system.

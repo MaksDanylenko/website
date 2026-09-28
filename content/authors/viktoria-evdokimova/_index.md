@@ -9,5 +9,4 @@ linkedin: ""
 github: "https://github.com/vi694"
 youtube: ""
 website: ""
-frozen: false
 ---

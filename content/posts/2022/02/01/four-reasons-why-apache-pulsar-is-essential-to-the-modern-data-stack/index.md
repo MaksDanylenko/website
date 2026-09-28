@@ -16,7 +16,6 @@ related_posts:
   - "building-microservices-spring-boot-fat-uber-jar"
   - "can-java-jakarta-ee-do-microservices"
   - "why-developers-should-use-apache-pulsar"
-frozen: false
 ---
 
 Messaging has been on DataStax's radar for several years. A significant motivator for this is the increasing popularity of microservices-based architectures. Briefly, microservices architectures use a message bus to decouple communication between services and to simplify replay, error handling, and load spikes.

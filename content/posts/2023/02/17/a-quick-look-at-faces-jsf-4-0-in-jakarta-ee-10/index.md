@@ -16,7 +16,6 @@ related_posts:
   - "evolution-of-microservices"
   - "migrating-from-java-ee-to-jakarta-ee-with-intellij-idea"
   - "getting-started-with-apache-camel-on-jakarta-ee-10"
-frozen: false
 ---
 
 Jakarta EE 10 shipped with the fourth major release of its component based web framework Jakarta Faces.

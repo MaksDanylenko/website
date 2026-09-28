@@ -15,7 +15,6 @@ related_posts:
   - "why-java-8-is-a-ticking-time-bomb-hiding-within-your-organization"
   - "mastering-the-challenges-of-openjdk-migration"
   - "are-critical-vulnerabilities-lurking-in-your-java-ecosystem"
-frozen: false
 ---
 
 My recent article ["Why Java 8 is a Ticking Time Bomb Hiding Within Your Organization"](https://foojay.io/today/why-java-8-is-a-ticking-time-bomb-hiding-within-your-organization/) triggered quit some reactions... and so I went a step further and asked on social media: "*Why is your company still on Java 8 (or older)? And why did you never move to 9, 10,... and got stuck on this outdated version?*"

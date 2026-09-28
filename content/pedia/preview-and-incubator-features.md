@@ -2,7 +2,6 @@
 title: "Preview and Incubator Features"
 description: "Java ships new language features and APIs in two provisional states before they are finalised: Preview features (for language changes and JVM features) and Incubator modules (for new APIs). Both mechanisms exist to gather real-world feedback before a feature is ..."
 url: "/pedia/preview-and-incubator-features/"
-frozen: false
 ---
 
 Java ships new language features and APIs in two provisional states before they are finalised: **Preview features** (for language changes and JVM features) and **Incubator modules** (for new APIs). Both mechanisms exist to gather real-world feedback before a feature is locked in.

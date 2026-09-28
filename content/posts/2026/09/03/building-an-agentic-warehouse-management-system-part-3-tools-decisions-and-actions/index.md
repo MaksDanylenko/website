@@ -13,7 +13,6 @@ related_posts:
   - "abstracting-data-access-in-java-with-the-dao-pattern"
   - "aggregation-optimization-in-mongodb-a-case-study-from-the-field-part-1"
   - "aggregation-optimization-in-mongodb-data-duplication-to-improve-read-performance-part-4"
-frozen: false
 ---
 
 If you haven't read the first two parts yet, I recommend starting with **[Part 1: Where AI Agents Add Value](https://foojay.io/today/building-an-agentic-warehouse-management-system-part-1-where-ai-agents-add-value/)** and **[Part 2: Designing and Planning the Agent](https://foojay.io/today/building-an-agentic-warehouse-management-system-part-2-java-and-spring-ai/)**. There, we introduced the WMS scenario, discussed where an AI agent can add value, and built the first stages of the implementation with Java and Spring AI.

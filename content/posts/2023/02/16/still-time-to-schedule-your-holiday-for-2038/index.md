@@ -14,7 +14,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "hand-ground-coffee-command-line-tools-for-java"
   - "learn-javafx-with-jshell-in-60-seconds"
-frozen: false
 ---
 
 It's still more or less the beginning of the year, where you may want to start scheduling your holidays until the end of it. And I decided to go a step further and I've already planned those for 2038!

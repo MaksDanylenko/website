@@ -15,7 +15,6 @@ related_posts:
   - "apple-silicon-with-zulu-openjdk-and-intellij-idea"
   - "are-java-security-updates-important"
   - "azul-and-jetbrains-collaborate-to-enhance-runtime-performance-for-kotlin-workloads"
-frozen: false
 ---
 
 **Azul Platform Prime Achieves Historic First with 10,000+ JVMs Collaborating and Sharing Performance Optimizations, Cutting Cloud Costs by More than 20%**

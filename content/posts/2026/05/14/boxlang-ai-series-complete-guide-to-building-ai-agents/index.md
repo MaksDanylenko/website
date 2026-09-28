@@ -17,7 +17,6 @@ related_posts:
   - "boxlang-ai-3-2-0-image-generation-web-search-fluent-audio-agent-registry-mcp-observability"
   - "free-webinar-making-ai-useful-for-java-developers-in-real-applications-with-boxlang"
   - "introducing-boxlang-ai-explorer-a-local-catalog-for-every-ai-pattern"
-frozen: false
 ---
 
 ![](Guide-to-Building-AI-Agents-2-700x365.jpg)

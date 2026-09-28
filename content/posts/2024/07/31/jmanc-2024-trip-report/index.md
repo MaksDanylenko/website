@@ -14,7 +14,6 @@ related_posts:
   - "springone-tlv-world-tour-trip-report"
   - "trip-report-dubai-jug-2nd-meetup"
   - "report-of-my-trip-to-javazone-and-northern-germany"
-frozen: false
 ---
 
 ## tl;dr

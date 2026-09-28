@@ -14,7 +14,6 @@ related_posts:
   - "builders-withers-and-records-javas-path-to-immutability"
   - "building-for-failure-best-practices-for-easy-production-debugging"
   - "make-the-life-of-your-developer-clients-easier-with-smart-builders"
-frozen: false
 ---
 
 **Increase readability, reduce cognitive complexity, and avoid bugs that are hard to spot with Java's Pattern Matching.**

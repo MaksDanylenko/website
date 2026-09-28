@@ -15,7 +15,6 @@ related_posts:
   - "authenticate-with-openid-connect-and-apache-apisix"
   - "canary-releases-with-apache-apisix"
   - "free-tier-api-with-apache-apisix"
-frozen: false
 ---
 
 A couple of months ago, I stumbled upon this list [16 practices to secure your API](https://www.linkedin.com/posts/brijpandeyji_secure-your-api-with-these-16-practices-activity-7094020647529369601-5kzQ/):

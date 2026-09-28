@@ -16,7 +16,6 @@ related_posts:
   - "kotlin-delegation"
   - "a-list-of-cache-providers"
   - "dry-your-apache-apisix-config"
-frozen: false
 ---
 
 **Given the number of API Gateways available on the market, I'm regularly asked which is better. Better is a very subjective term. However, there's no denying that if you're advocating for a product, you should know your product and its competitors. In this article, I'd like to share my understanding of Spring Cloud Gateway and how it compares to Apache APISIX.**

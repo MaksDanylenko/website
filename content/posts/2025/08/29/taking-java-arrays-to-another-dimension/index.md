@@ -12,7 +12,6 @@ categories:
   - "Java Beginner"
   - "Java Core"
 related_posts:
-frozen: false
 ---
 
 *Explore the intricacies of Java's multidimensional arrays with this in-depth guide. Learn how to declare, initialize, and utilize arrays of Java arrays to manage complex data structures effectively. In this blog post, Azul Deputy CTO Simon Ritter explains how to leverage multidimensional arrays as a tool to do even more.*

@@ -17,7 +17,6 @@ related_posts:
   - "ask-a-lille-dev-what-java-developers-really-think-about-quality-frameworks-communities-and-careers"
 aliases:
   - "/foojay-podcast-32-philippines-jug/"
-frozen: false
 ---
 
 Once a month we talk about the history of a JUG and the people behind it.

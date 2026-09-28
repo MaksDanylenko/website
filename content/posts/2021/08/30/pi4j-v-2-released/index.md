@@ -16,7 +16,6 @@ related_posts:
   - "controlling-electronics-with-jbang-on-the-raspberry-pi"
   - "template-to-get-started-with-pi4j-and-javafx-on-raspberry-pi"
   - "java-modules-in-the-pi4j-project"
-frozen: false
 ---
 
 After long rework, the Pi4J library (**a friendly object-oriented I/O API and implementation libraries for Java Programmers** to access the **full I/O capabilities of the Raspberry Pi platform**) has taken a big step with the first release of the V.2.

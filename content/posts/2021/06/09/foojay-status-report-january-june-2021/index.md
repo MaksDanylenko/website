@@ -10,7 +10,6 @@ categories:
   - "Foojay"
   - "Press"
 related_posts:
-frozen: true
 ---
 
 The 1/2 year mark of 2021 is a good moment to reflect on the current status of Foojay.io (a central resource for the Java community's daily ​information needs, a place for Friends Of OpenJDK, ​and a community platform for the Java ecosystem​ — bringing together and helping Java professionals everywhere), and to look at where we are and where to go next!

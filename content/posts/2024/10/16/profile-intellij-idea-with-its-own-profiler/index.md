@@ -16,7 +16,6 @@ related_posts:
   - "debugger-godmode-hacking-a-jvm-application-with-the-debugger"
   - "3-ways-to-refactor-your-code-in-intellij-idea"
   - "eight-debugging-tips-for-intellijidea-users-you-never-knew-existed"
-frozen: false
 ---
 
 Other languages: [Español](https://flounder.dev/es/posts/profile-idea-with-idea/) [한국어](https://flounder.dev/ko/posts/profile-idea-with-idea/) [Português](https://flounder.dev/pt/posts/profile-idea-with-idea/) [中文](https://flounder.dev/zh/posts/profile-idea-with-idea/)

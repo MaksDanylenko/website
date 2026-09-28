@@ -15,7 +15,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "a-simple-service-with-spring-boot"
   - "starting-docker-desktop-with-spring-boot"
-frozen: false
 ---
 
 *The Spring Boot Maven Plugin makes creating a Docker image from your application very easy! In this article, we give you some extra tips and examples for configuring Spring Boot to define the Java runtime used in such a Spring Boot Docker image and explain how to add additional environmental options to ease debugging.*

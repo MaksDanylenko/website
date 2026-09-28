@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/forough-goudarzi-29946280/"
 github: ""
 youtube: ""
 website: ""
-frozen: false
 ---

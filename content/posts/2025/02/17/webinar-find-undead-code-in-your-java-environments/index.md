@@ -12,7 +12,6 @@ categories:
   - "Developer Tools"
   - "Events"
 related_posts:
-frozen: false
 ---
 
 **10-30% of the custom code in applications is undead code and can just be deleted. Eliminating undead code can enhance the overall performance and maintainability of your applications. Time vampire (n) – a service or application that is said to suck time from engineers by warming up and updating at preternaturally slow speeds.**

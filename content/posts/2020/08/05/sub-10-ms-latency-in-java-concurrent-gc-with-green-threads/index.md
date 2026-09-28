@@ -9,7 +9,6 @@ image: "2020-08-05-dag1-700x387.png"
 categories:
   - "Performance"
 related_posts:
-frozen: false
 ---
 
 This post is a part of a series:

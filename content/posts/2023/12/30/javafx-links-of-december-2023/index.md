@@ -14,7 +14,6 @@ related_posts:
   - "javafx-links-of-october-2023"
   - "javafx-links-of-september-2023"
   - "javafx-links-of-june-2026"
-frozen: false
 ---
 
 This is the final JavaFX LinksOfTheMonth review for 2023.

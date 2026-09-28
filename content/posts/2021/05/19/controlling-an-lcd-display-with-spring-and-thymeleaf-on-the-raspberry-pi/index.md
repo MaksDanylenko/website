@@ -15,7 +15,6 @@ related_posts:
   - "blink-a-led-on-raspberry-pi-with-vaadin"
   - "pi4j-welcomes-java-21-on-the-raspberry-pi"
   - "a-fresh-look-at-embedded-java"
-frozen: false
 ---
 
 [Igor De Souza](https://twitter.com/Igfasouza) shares on his blog a lot fun and inspirational experiments with Java on Raspberry Pi. Some of those were already shared here on Foojay.io:

@@ -14,7 +14,6 @@ related_posts:
   - "a-javafx-app-on-zulufx-in-60-seconds"
   - "creating-a-javafx-world-clock-from-scratch-part-1"
   - "will-openjfx-be-merged-into-openjdk-it-would-be-a-perfect-match-with-java-on-mobile"
-frozen: false
 ---
 
 Confused about the release cycles of OpenJDK and OpenJFX and the relationship between them? Read on!

@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/aicha-laafia-0266a6126/"
 github: "https://github.com/alaafia"
 youtube: ""
 website: "https://x.com/AichaLaafia"
-frozen: false
 ---

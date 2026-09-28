@@ -16,7 +16,6 @@ related_posts:
   - "blockhound-how-it-works"
   - "avoiding-nullpointerexception"
   - "the-vary-http-header"
-frozen: false
 ---
 
 If you're implementing microservices or not, chances are that you're calling HTTP endpoints. With HTTP calls, a lot of things can go wrong.

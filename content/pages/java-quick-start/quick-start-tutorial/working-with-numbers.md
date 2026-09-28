@@ -3,7 +3,6 @@ title: "Working with numbers"
 linkTitle: "Working with Numbers"
 description: "Java Quick Start Tutorial: The Java number types you will actually use - int, float, double and long - and how to work with them."
 url: "/java-quick-start/quick-start-tutorial/working-with-numbers/"
-frozen: false
 duration: "2:08"
 weight: 4
 ---

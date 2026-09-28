@@ -12,7 +12,6 @@ categories:
   - "Performance"
   - "Spring"
 related_posts:
-frozen: false
 ---
 
 Spring Batch jobs usually follow the same pattern: an `ItemReader` streams rows, an `ItemProcessor` transforms each one, and an `ItemWriter` writes them out, chunk by chunk. A chunk-oriented step wires those three pieces together:

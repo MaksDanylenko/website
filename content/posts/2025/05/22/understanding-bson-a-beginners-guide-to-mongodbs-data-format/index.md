@@ -15,7 +15,6 @@ related_posts:
   - "busting-myths-building-futures-a-conversation-with-cay-horstmann-on-java-and-machine-learning"
   - "creating-cloud-native-java-applications-with-the-12-factor-app-methodology"
   - "different-approaches-to-building-stateful-microservices-in-the-cloud-native-world"
-frozen: false
 ---
 
 **When working with MongoDB, it's easy to think you're dealing with JSON. After all, the queries, documents, and API responses all look like JSON. But MongoDB is not storing JSON. It's storing BSON—a binary format designed for efficient storage and fast traversal.**

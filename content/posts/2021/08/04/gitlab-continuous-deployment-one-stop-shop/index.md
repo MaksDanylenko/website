@@ -17,7 +17,6 @@ related_posts:
   - "dockerizing-a-java-26-project-with-docker-init"
   - "official-azul-zulu-openjdk-images-now-available-on-docker-hub"
   - "documentation-as-code-with-asciidoctor-gitlab-ci-and-gitlab-pages"
-frozen: false
 ---
 
 This week, I want to take a break from my Rust series and focus on a different subject. I've already written about [my blogging stack](https://blog.frankel.ch/my-blogging-stack-publishing-process/) in detail.

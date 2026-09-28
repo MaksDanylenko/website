@@ -12,7 +12,6 @@ categories:
   - "Databases"
   - "DataStax"
 related_posts:
-frozen: false
 ---
 
 ![](shutterstock_1111260050-350x233-1.jpg) © Shutterstock / everything possible   

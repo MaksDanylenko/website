@@ -17,7 +17,6 @@ related_posts:
   - "6-considerations-when-building-high-performance-java-microservices-with-eda"
   - "automatically-creating-microservices-architecture-diagrams"
   - "strategies-for-managing-state-in-chronicle-services"
-frozen: false
 ---
 
 In today's ever-changing and fast-paced digital landscape, maintaining uninterrupted business continuity is of utmost importance.

@@ -16,7 +16,6 @@ related_posts:
   - "how-to-secure-your-web-apps-with-an-api-gateway"
   - "backend-for-front-end"
   - "backend-for-frontend-the-demo"
-frozen: false
 ---
 
 API Gateways in general, and [Apache APISIX](https://apisix.apache.org/) in particular, provide a single entry point into one's information system.

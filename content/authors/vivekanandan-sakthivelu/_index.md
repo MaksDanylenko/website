@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/vivekanandansakthivelu/"
 github: ""
 youtube: ""
 website: ""
-frozen: false
 ---

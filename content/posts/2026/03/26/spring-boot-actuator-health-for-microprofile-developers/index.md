@@ -17,7 +17,6 @@ related_posts:
   - "idempotent-spring-boot-starter"
   - "ai-found-the-bugs-whos-patching-your-eol-java-code"
   - "did-ai-just-break-software-security-for-ever"
-frozen: false
 ---
 
 If you worked with MicroProfile Health, you already understand the value of exposing application health information through standardized endpoints. You know about liveness, readiness and startup probes. You implemented the HealthCheck interface and annotated your procedures with @Liveness, @Readiness and @Startup. Spring Boot Actuator follows a similar philosophy but takes a different architectural approach. This post will help you map your MicroProfile Health knowledge to Spring's world.

@@ -10,7 +10,6 @@ image: "Favicon-3-2.png"
 categories:
   - "JDK Flight Recorder"
 related_posts:
-frozen: false
 ---
 
 JFR (JDK Flight Recorder) has been providing the support for on-the fly allocation profiling for a while with the help of **ObjectAllocationInNewTLAB** and **ObjectAllocationOutsideTLAB** events.

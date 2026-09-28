@@ -18,7 +18,6 @@ related_posts:
   - "automatically-creating-microservices-architecture-diagrams"
   - "challenges-when-developing-a-gui-for-fix"
   - "boxlang-1-14-0-sets-ranges-inner-classes-and-a-runtime-that-talks-back"
-frozen: false
 ---
 
 ### The Challenges of Building a FIX Engine

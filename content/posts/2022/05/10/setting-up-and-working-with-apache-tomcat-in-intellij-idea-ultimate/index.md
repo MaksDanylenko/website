@@ -14,7 +14,6 @@ related_posts:
   - "3-ways-to-refactor-your-code-in-intellij-idea"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "eight-debugging-tips-for-intellijidea-users-you-never-knew-existed"
-frozen: false
 ---
 
 In this article, you will learn how to set up IntelliJ IDEA Ultimate to work with Apache Tomcat, herein referred to simply as *Tomcat*.

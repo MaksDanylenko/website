@@ -10,7 +10,6 @@ image: "orangepi-connections-scaled.jpg"
 categories:
   - "Raspberry Pi"
 related_posts:
-frozen: false
 ---
 
 As part of my 2026 learning goals around Java on Single Board Computers and RISC-V (see [this post about x86 versus ARM versus RISC-V](https://webtechie.be/post/2026-01-07-x86-arm-riscv/)), I've been asking various suppliers to send me evaluation boards. After testing the [LattePanda IOTA](https://webtechie.be/post/2025-11-25-first-test-lattepanda-iota-with-ubuntu-and-java/), I received two boards from OrangePi to evaluate: the OrangePi 5 Ultra (ARM) and the OrangePi RV2 (RISC-V).

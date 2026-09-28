@@ -13,7 +13,6 @@ related_posts:
   - "java-thread-programming-part-2"
   - "java-thread-programming-part-3"
   - "java-thread-programming-part-13"
-frozen: false
 ---
 
 Threads are at the heart of the Java programming language. When we run a "Hello World" Java program, we run on the main thread. From there, we can create threads easily, as we need to compose our application code to be functional, responsive, and performant, all at the same time.

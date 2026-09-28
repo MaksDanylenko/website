@@ -14,7 +14,6 @@ related_posts:
   - "blockhound-how-it-works"
   - "build-and-test-non-blocking-web-applications-with-spring-webflux-kotlin-and-coroutines"
   - "reactive-database-access-on-the-jvm"
-frozen: false
 ---
 
 Mid-January, I held [a talk at Kotlin.amsterdam](https://www.youtube.com/watch?v=w0b4OQQmhBI) based on my post [Migrating from Imperative to Reactive](https://hazelcast.org/blog/migrating-from-imperative-to-reactive/) (a Spring Boot application).

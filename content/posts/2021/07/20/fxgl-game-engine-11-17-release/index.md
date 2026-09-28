@@ -11,7 +11,6 @@ categories:
   - "JavaFX"
   - "Release Notes"
 related_posts:
-frozen: false
 ---
 
 The [FXGL game engine](https://github.com/AlmasB/FXGL) is now at 11.17. Most of the changes in this release focus on internal code quality and fixes.

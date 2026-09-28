@@ -13,7 +13,6 @@ related_posts:
   - "blink-a-led-on-raspberry-pi-with-vaadin"
   - "build-web-apps-in-pure-java-with-vaadin-flow"
   - "hilla-1-0-a-new-frontend-framework-for-springboot"
-frozen: false
 ---
 
 I tried to deploy a Vaadin application to Google Cloud App Engine.

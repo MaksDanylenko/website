@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/cristobalescobarh/"
 github: ""
 youtube: ""
 website: "https://x.com/crisescobar"
-frozen: false
 ---

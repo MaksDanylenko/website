@@ -2,7 +2,6 @@
 title: "Records"
 description: "Records, introduced as a preview in Java 14 and finalised in Java 16, are a concise way to declare classes whose primary purpose is to hold immutable data. Declaring record Point(int x, int y) {} gives you a class with ..."
 url: "/pedia/records/"
-frozen: false
 ---
 
 Records, introduced as a preview in Java 14 and finalised in Java 16, are a concise way to declare classes whose primary purpose is to hold immutable data. Declaring `record Point(int x, int y) {}` gives you a class with a constructor, `x()` and `y()` accessor methods, `equals()`, `hashCode()`, and `toString()` — all generated automatically by the compiler.

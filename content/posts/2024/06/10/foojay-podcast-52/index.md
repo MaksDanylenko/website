@@ -20,7 +20,6 @@ related_posts:
   - "foojay-podcast-51"
   - "foojay-podcast-50"
   - "azul-august-2026-release-javas-first-monthly-cspu"
-frozen: false
 ---
 
 This is part 4 of the JCON interviews!

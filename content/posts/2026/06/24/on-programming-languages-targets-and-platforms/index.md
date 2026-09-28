@@ -14,7 +14,6 @@ related_posts:
   - "does-language-still-matter-in-the-age-of-ai-yes-but-the-tradeoff-has-changed"
   - "boxlang-1-14-0-sets-ranges-inner-classes-and-a-runtime-that-talks-back"
   - "research-measuring-energy-consumption-in-programming-languages-for-ai-applications"
-frozen: false
 ---
 
 I started as a Java developer, but for some time now, I have broadened my horizons. Recently, I thought about how early languages were dedicated to a single target and platform, and now they are broadening their focus. In this post, I want to write down my thoughts in the hope that it may be useful to others, probably to my future self.

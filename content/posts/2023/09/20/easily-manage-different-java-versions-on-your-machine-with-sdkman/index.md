@@ -18,7 +18,6 @@ related_posts:
   - "video-sdkman-explained"
   - "disco-api-helping-you-to-find-any-openjdk-distribution"
   - "offline-crypto-address-validation-in-java"
-frozen: false
 ---
 
 **So, you're a Java developer, or maybe you're aspiring to be one. Either way, you've probably faced the challenge of managing multiple versions of Java on your machine. One project requires Java 8, but another needs Java 11, yet another requires Java 17. The open-source library you're keen on contributing to needs yet another version. What do you do? You start juggling environment variables, and before you know it, your system is a tangled mess of configurations. Not fun, right?**   

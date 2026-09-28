@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/mwengner/"
 github: ""
 youtube: ""
 website: "https://x.com/miragemiko"
-frozen: false
 ---

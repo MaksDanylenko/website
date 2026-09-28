@@ -14,7 +14,6 @@ related_posts:
   - "ejb-support-in-piranha-via-cdi"
   - "the-future-of-ejb"
   - "reflections-on-2024-a-remarkable-year-for-omnifish-glassfish-piranha-and-jakarta-ee"
-frozen: false
 ---
 
 Do you want to have a say in what happens for the next version of Jakarta EE?

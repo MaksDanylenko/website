@@ -11,7 +11,6 @@ categories:
   - "Testing"
 related_posts:
   - "mutation-testing-in-rust"
-frozen: false
 ---
 
 I'm still working on learning Rust. Beyond syntax, learning a language requires familiarizing oneself with its idioms and ecosystem. I'm at a point where I want to explore testing in Rust.

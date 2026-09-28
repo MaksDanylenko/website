@@ -15,7 +15,6 @@ related_posts:
   - "lights-camera-action-github-actions-with-java-part-3"
   - "github-actions-with-java-part-2"
   - "github-actions-with-java-part-1"
-frozen: false
 ---
 
 For once, I'm wondering a bit if this article can be helpful to somebody else since I believe my context is pretty specific. Anyway, just in case it might be the helpful case, here it is!

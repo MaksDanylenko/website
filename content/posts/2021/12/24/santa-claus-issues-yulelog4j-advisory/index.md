@@ -12,7 +12,6 @@ related_posts:
   - "java-where-the-wild-code-isnt"
   - "light-up-your-christmas-tree-with-java-and-raspberry-pi"
   - "creating-a-javafx-world-clock-from-scratch-part-1"
-frozen: false
 ---
 
 Christmas revelers and elves are urged to patch their fireplaces, as a Remote Combustion Effect (RCE) vulnerability has been discovered in the traditional holiday YuleLog4J. YuleLog4J is one of the most popular holiday celebrations, appearing in [approximately 64% of fireplaces](https://www.contrastsecurity.com/security-influencers/log4shell-by-the-numbers) and streamed to millions of homes over [Netflix](https://www.netflix.com/title/70222873) and [Amazon Prime](https://www.amazon.com/Yule-Log-Christmas-Fireplace-Hours/dp/B01MZZWOWH).

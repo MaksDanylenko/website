@@ -14,7 +14,6 @@ related_posts:
   - "fearless-distroless"
   - "introduction-to-kubernetes-extensibility"
   - "running-your-database-on-openshift-and-codeready-containers"
-frozen: false
 ---
 
 In the early days of IT, we manually configured servers–each one a precious snowflake, lovingly maintained and documented. But the size of the infrastructure grew and this approach couldn't scale. Chef and Puppet popularized the idea of Infrastructure-as-Code: engineers would define the state of the machine(s) in text files, stored in Git–hence the name. A global node would read these files to create a registry. Then, a local agent on each machine would check the desired state at regular intervals, and reconcile the current state with the registry.

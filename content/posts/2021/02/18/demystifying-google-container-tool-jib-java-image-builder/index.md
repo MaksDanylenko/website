@@ -10,7 +10,6 @@ image: "jib-ashish-700x400.png"
 categories:
   - "DevOps"
 related_posts:
-frozen: false
 ---
 
 > This article covers some internals of image layering created by container image builder Jib and explore what distroless images are and their benefits.

@@ -14,7 +14,6 @@ related_posts:
   - "a-list-of-cache-providers"
   - "the-right-feature-at-the-right-place"
   - "web-caching-server"
-frozen: false
 ---
 
 Today, I'd like to provide some help on how to choose a cache solution. I will organize it into two parts:

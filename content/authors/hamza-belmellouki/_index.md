@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/hamzabelmellouki/"
 github: ""
 youtube: ""
 website: "https://x.com/HamzaLovesJava"
-frozen: false
 ---

@@ -15,7 +15,6 @@ related_posts:
   - "improve-devops-productivity-with-azul-intelligence-cloud-for-any-jvm"
   - "foojay-podcast-17"
   - "java-security-log4j-the-securitymanager-and-funding"
-frozen: false
 ---
 
 **If raccoons were software engineers, they would feel at home inside many enterprise systems. These systems are often full of unused and dead code that was written, fully tested, then altered in a way that prevents teams from ever running it.**

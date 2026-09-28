@@ -13,7 +13,6 @@ related_posts:
   - "asyncgetcalltrace-reworked-frame-by-frame-with-an-iterative-touch"
   - "book-review-practical-design-patterns-for-java-developers"
   - "is-jdwps-onjcmd-feature-worth-using"
-frozen: false
 ---
 
 A few weeks back, I told you about on-demand debugging in my [Level-up your Java Debugging Skills with on-demand Debugging](https://mostlynerdless.de/blog/2023/10/03/level-up-your-java-debugging-skills-with-on-demand-debugging/) blog post, enabling you to delay a debugging session until:

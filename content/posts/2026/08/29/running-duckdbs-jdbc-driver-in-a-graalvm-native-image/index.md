@@ -12,7 +12,6 @@ categories:
   - "Java"
   - "Performance"
 related_posts:
-frozen: false
 ---
 
 [DuckDB](https://duckdb.org/) is an in-process analytical database. You add one JAR to a Java project and get a SQL engine that reads CSV, Parquet, and JSON files directly, with no server to run.

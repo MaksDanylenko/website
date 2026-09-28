@@ -10,7 +10,6 @@ image: "Favicon-3-2.png"
 categories:
   - "Security"
 related_posts:
-frozen: false
 ---
 
 Cross-site scripting (XSS) is a well-known issue and mostly utilized in JavaScript applications. However, Java is not immune to this. XSS is nothing more than an injection of JavaScript code that's executed remotely. Rule #0 for preventing XSS, according to OWASP, is "Never insert untrusted data except in allowed locations." The basic solution to this Java security risk is to prevent untrusted data, as much as possible, and sanitize everything else before using the data.

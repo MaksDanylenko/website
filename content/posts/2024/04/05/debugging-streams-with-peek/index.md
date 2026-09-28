@@ -14,7 +14,6 @@ related_posts:
   - "dtrace-revisited-advanced-debugging-techniques"
   - "building-gdocweb-with-java-21-spring-boot-3-x-and-beyond"
   - "when-should-we-move-to-microservices"
-frozen: false
 ---
 
 **Table of Contents**

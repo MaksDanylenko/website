@@ -12,7 +12,6 @@ categories:
 related_posts:
   - "my-first-real-rust-project"
   - "error-management-in-rust-and-libs-that-support-it"
-frozen: false
 ---
 
 Rust offers different ways to initialize **compile time-initialized** variables. Recently, I had to create a runtime-initialized variable: existing approaches don't work in this case. I want to describe multiple ways to achieve it in this post.

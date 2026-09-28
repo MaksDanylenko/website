@@ -14,7 +14,6 @@ related_posts:
   - "javafx-links-of-february-2023"
   - "javafx-links-of-january-2023"
   - "javafx-links-of-july-2026"
-frozen: false
 ---
 
 ## JavaFX Core

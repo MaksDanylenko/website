@@ -14,7 +14,6 @@ related_posts:
   - "building-javafx-with-gradle"
   - "javafx-templates-for-desktop-applications"
   - "sheetmusic4j-0-0-3-abc-notation-guitar-pro-engraving-improvements"
-frozen: false
 ---
 
 > "The tools we use have a profound (and devious!) influence on our thinking habits, and, therefore, on our thinking abilities." -- Edsger W. Dijkstra, 18 June 1975

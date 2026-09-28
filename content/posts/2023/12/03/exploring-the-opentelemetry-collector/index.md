@@ -14,7 +14,6 @@ related_posts:
   - "chopping-monolith"
   - "competing-for-the-crown-a-friendly-debate-on-the-future-of-java-and-kotlin-on-foojay-io-today"
   - "improving-upon-my-opentelemetry-tracing-demo"
-frozen: false
 ---
 
 The OpenTelemetry Collector sits at the center of the OpenTelemetry architecture but is unrelated to the W3C Trace Context.

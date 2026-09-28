@@ -16,7 +16,6 @@ related_posts:
   - "a-minor-but-useful-refactoring-technique-that-would-reduce-your-code-footprint-part-1"
   - "breaking-the-code-how-chris-newland-is-changing-the-game-in-jvm-performance"
   - "busting-myths-building-futures-a-conversation-with-cay-horstmann-on-java-and-machine-learning"
-frozen: false
 ---
 
 > **Disclaimer: This article details an experimental project built for learning and demonstration purposes. The implementation described is not intended as production-grade solution. Some parts of the code were generated using JetBrains' AI Agent, [Junie](https://www.jetbrains.com/junie/).**

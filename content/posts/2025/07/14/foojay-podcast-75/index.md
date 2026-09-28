@@ -15,7 +15,6 @@ related_posts:
   - "foojay-podcast-73"
   - "foojay-podcast-72"
   - "foojay-podcast-71"
-frozen: false
 ---
 
 **This is the final part of the JCON 2025 interviews with a lot of tips and tricks!**

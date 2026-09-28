@@ -14,7 +14,6 @@ related_posts:
   - "5-great-reasons-to-use-jooq"
   - "42-practical-java-design-patterns-builder-and-more"
   - "offline-crypto-address-validation-in-java"
-frozen: false
 ---
 
 **There are a lot of ways to version your library but the [semantic versioning scheme](https://semver.org/lang/nl/) is the most used and for a good reason, by looking at the version change you can already defer if you can upgrade the dependency without any problems or if you might have to do some refactoring. Semantic versioning proposes a simple set of rules and requirements that dictate how version numbers are assigned and incremented.**

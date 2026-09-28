@@ -15,7 +15,6 @@ related_posts:
   - "5-tips-to-create-secure-docker-images-for-java-applications"
   - "a-guide-to-creating-javafx-native-images"
   - "comparison-fault-tolerance-libraries"
-frozen: false
 ---
 
 ****JGraphlet is a tiny, zero-dependency Java library for building task pipelines. It uses a graph model where you define tasks as nodes and connect them to create simple or complex workflows (like fan-in/fan-out). It supports both asynchronous (default) and synchronous tasks, has a simple API, allows data sharing via a PipelineContext, and offers optional caching to avoid re-computing results.****

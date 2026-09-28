@@ -15,7 +15,6 @@ related_posts:
   - "ai-powered-chat-application-using-ibm-watsonx-ai-and-spring-ai"
   - "breaktime-tech-talks-ep37-vector-database-frustration-microsoft-lazygraphrag"
   - "building-simple-home-assistant-langchain4j-raspberry-pi"
-frozen: false
 ---
 
 Retrieval Augmented Generation (RAG) may sound complex, but it accurately represents the process of the system. RAG is a method that enhances the capabilities of Large Language Models (LLMs) by integrating them with external knowledge sources.

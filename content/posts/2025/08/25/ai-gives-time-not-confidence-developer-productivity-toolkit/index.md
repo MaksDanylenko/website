@@ -14,7 +14,6 @@ related_posts:
   - "my-final-take-on-gradle-vs-maven"
   - "top-security-flaws-hiding-in-your-code-right-now-and-how-to-fix-them"
   - "we-all-grow-older-but-do-our-projects-really-have-to-openrewrite"
-frozen: false
 ---
 
 Let's be real – keeping up with the pace of software development today is intense. New frameworks pop up and the push for faster, better, *and* more secure code never stops.

@@ -13,7 +13,6 @@ related_posts:
   - "springone-tlv-world-tour-trip-report"
   - "trip-report-dubai-jug-2nd-meetup"
   - "2023-software-conferences-in-the-philippines"
-frozen: false
 ---
 
 I attended the [ConFoo conference in Montreal](https://confoo.ca/en/2023), which covered a range of technologies like cloud computing, Java and JVM technologies, Javascript, DevOps, architecture and design patterns, PHP, security, test and quality, management, UX and UI, and more.

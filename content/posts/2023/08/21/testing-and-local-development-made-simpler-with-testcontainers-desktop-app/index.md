@@ -14,7 +14,6 @@ related_posts:
   - "pitest-do-you-test-your-tests"
   - "seven-reasons-you-should-not-ignore-flaky-tests"
   - "pull-request-testing-on-kubernetes-testing-locally-and-on-github-workflows"
-frozen: false
 ---
 
 **Being able to release new features quickly is a must-have capability in today's competitive world. In order to release your software quickly and often you should have CI/CD infrastructure that can automatically build, test, and release our software with minimal to no human intervention. A comprehensive automated test suite is the key to release your software with confidence.**

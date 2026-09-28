@@ -11,7 +11,6 @@ categories:
   - "Jelastic"
   - "Tutorials"
 related_posts:
-frozen: false
 ---
 
 {{< img src="java-gc-bcf84d7a.png" class="alignleft is-resized" alt="java gc" width="250" >}}

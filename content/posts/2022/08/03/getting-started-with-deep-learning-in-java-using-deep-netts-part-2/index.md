@@ -14,7 +14,6 @@ related_posts:
   - "getting-started-with-deep-learning-in-java-using-deep-netts"
   - "deep-learning-in-java-for-nuclear-physics-using-deep-netts"
   - "deep-learning-in-java-for-drug-discovery"
-frozen: false
 ---
 
 [Deep Netts](https://www.deepnetts.com/) is a deep learning development toolkit that enables Java developers to easily add modern AI to their apps. It provides a deep learning IDE and a Java-native deep learning library for embedding AI models into Java apps.

@@ -13,7 +13,6 @@ related_posts:
   - "12-lessons-learned-from-doing-the-one-billion-row-challenge"
   - "42-practical-java-design-patterns-builder-and-more"
   - "idempotent-spring-boot-starter"
-frozen: false
 ---
 
 Aspect-oriented programming (AOP) is a programming paradigm that seeks to increase modularity by separating cross-cutting concerns from core application logic.

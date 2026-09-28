@@ -5,7 +5,6 @@ description: "Java Quick Start Tutorial: A high-speed introduction to Java in si
 url: "/java-quick-start/quick-start-tutorial/"
 aliases:
   - "/java-learning-trail/quick-start-tutorial/"
-frozen: false
 ---
 
 From Java version 11 onwards, you can run simple Java code in a single source file without compiling it, just like you can run a Python or Bash script.

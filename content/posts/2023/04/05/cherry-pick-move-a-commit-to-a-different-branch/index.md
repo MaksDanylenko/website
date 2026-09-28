@@ -15,7 +15,6 @@ related_posts:
   - "3-ways-to-refactor-your-code-in-intellij-idea"
   - "eight-debugging-tips-for-intellijidea-users-you-never-knew-existed"
   - "more-free-shells-for-your-java-ide"
-frozen: false
 ---
 
 There are several reasons why you might want to move a commit to a different branch.

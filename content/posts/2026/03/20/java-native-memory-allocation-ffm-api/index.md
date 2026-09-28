@@ -16,7 +16,6 @@ related_posts:
   - "async-file-io-with-java-and-io_uring"
   - "offline-crypto-address-validation-in-java"
   - "introducing-boxlang-ai-explorer-a-local-catalog-for-every-ai-pattern"
-frozen: false
 ---
 
 ## What is the Memory API

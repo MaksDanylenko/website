@@ -14,7 +14,6 @@ related_posts:
   - "how-to-run-a-java-application-with-crac-in-a-docker-container"
   - "introducing-the-openjdk-coordinated-restore-at-checkpoint-project"
   - "boxlang-1-15-0-released-blazing-fast-strings-runtime-portability-and-much-more"
-frozen: false
 ---
 
 Do you ever wonder how many Java distributions you have installed on your machine?

@@ -14,7 +14,6 @@ related_posts:
   - "why-picnic-picked-java"
   - "embracing-java-17-heres-what-we-learned-at-picnic"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
-frozen: false
 ---
 
 **When building solutions, the code we write can last many years. While casually browsing legacy code, we might wonder; is this still used? The missing documentation or outdated tests do not help us answer this. When asking around, nobody really knows. Let's try to delete it, shall we? Then, chaos ensues: it turns out it is still used to support some legacy users, in case of emergency, or by that one forgotten integration everyone still uses.**

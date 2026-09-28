@@ -14,7 +14,6 @@ related_posts:
   - "replacing-postman-with-the-jetbrains-http-client"
   - "getting-started-with-openapi-generators-tips-tricks"
   - "unit-testing-supabase-in-kotlin-using-test-containers-part-2"
-frozen: false
 ---
 
 **In this article, I'll dive into several methods I've been looking into to unit test a Kotlin application using Supabase and why I finally decided to go for a Docker Compose / Test Containers solution.**

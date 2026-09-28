@@ -18,7 +18,6 @@ related_posts:
   - "controlling-a-led-strip-with-pi4j-and-jbang"
   - "controlling-electronics-with-jbang-on-the-raspberry-pi"
   - "java-21-on-raspberry-pi-zero-2-is-back-in-business"
-frozen: false
 ---
 
 One of the most "fancy" electronic components is definitely... a LED strip. It's really cool to control a long strip of lights with only a few lines of code.

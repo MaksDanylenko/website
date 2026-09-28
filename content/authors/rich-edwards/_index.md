@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/richedwardslinked/"
 github: ""
 youtube: ""
 website: ""
-frozen: false
 ---

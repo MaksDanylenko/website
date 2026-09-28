@@ -15,7 +15,6 @@ related_posts:
   - "java-where-the-wild-code-isnt"
   - "new-java-17-features-for-improved-security-and-serialization"
   - "offline-crypto-address-validation-in-java"
-frozen: false
 ---
 
 Java has been and continues to be the most popular language over the last two decades. It has always been in the top 5 in the [TIOBE index](https://www.tiobe.com/tiobe-index/) in terms of popularity. Besides popularity, Java is especially dominant in the enterprise world.

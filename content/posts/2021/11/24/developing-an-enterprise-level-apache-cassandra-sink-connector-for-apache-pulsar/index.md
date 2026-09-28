@@ -17,7 +17,6 @@ related_posts:
   - "a-case-for-databases-on-kubernetes-from-a-former-skeptic"
   - "apache-cassandra-4-0-taming-tail-latencies-with-java-16-zgc"
   - "ingesting-time-series-events-from-kafka-into-questdb"
-frozen: false
 ---
 
 When [DataStax started investing in streaming with Apache Pulsar](https://techcrunch.com/2021/01/27/datastax-acquires-kesque-as-it-gets-into-data-streaming/)™, we knew that one of the first things people would want to do was connect existing enterprise data sources to Apache Cassandra™ using Pulsar.

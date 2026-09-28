@@ -13,7 +13,6 @@ related_posts:
   - "java-where-the-wild-code-isnt"
   - "the-costs-of-hidden-logging"
   - "the-debugger-checklist-part-i"
-frozen: false
 ---
 
 Logs are a handy tool to spot mistakes and debug code. For engineers and, specifically, in a DevOps environment, the logs are a very valuable tool.

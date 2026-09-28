@@ -13,7 +13,6 @@ related_posts:
   - "operator-overloading-in-java"
   - "the-reason-java-is-still-popular"
   - "java-string-templates-today"
-frozen: false
 ---
 
 Everything Bad is Good for You is a [pop culture book](https://en.wikipedia.org/wiki/Everything_Bad_Is_Good_for_You) that points out that some things we assume are bad (like TV) have tremendous benefits to our well-being. I love the premise of disrupting the conventional narrative and was reminded of that constantly when debating some of the more controversial features and problems in Java. It's a feature, not a bug…

@@ -25,7 +25,6 @@ related_posts:
   - "jc-ai-newsletter-14"
   - "jc-ai-newsletter-8"
   - "jc-ai-newsletter-6"
-frozen: true
 ---
 
 Two weeks have passed, and it is time to present a new collection of readings that may shape developments, utilization or ideas in the field of artificial intelligence in 2026.

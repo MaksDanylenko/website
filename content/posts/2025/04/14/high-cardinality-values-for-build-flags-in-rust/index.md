@@ -13,7 +13,6 @@ related_posts:
   - "feedback-from-calling-rust-from-python"
   - "introduction-tower"
   - "java-panama-polyglot-rust-part-4"
-frozen: false
 ---
 
 While working on my [demo](https://github.com/ajavageek/wasm-kubernetes) on WebAssembly and Kubernetes, I wanted to create three different binaries based on the same code:

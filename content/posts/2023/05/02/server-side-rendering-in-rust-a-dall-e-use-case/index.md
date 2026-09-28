@@ -10,7 +10,6 @@ image: "img-OVIPFammcxIC2VYojqfYovW4.jpg"
 categories:
   - "Use Cases"
 related_posts:
-frozen: false
 ---
 
 Last week, I decided to see the capabilities of OpenAI's image generation. However, I noticed that one has to pay to use the [web interface](https://labs.openai.com/), while the [API](https://api.openai.com/v1/images/generations) was free, even though rate-limited. Dall.E offers [Node.js and Python](https://platform.openai.com/docs/guides/images/language-specific-tips) samples, but I wanted to keep learning Rust. So far, I've created a [REST API](https://blog.frankel.ch/http-api-rust/). In this post, I want to describe how you can create a webapp with server-side rendering.

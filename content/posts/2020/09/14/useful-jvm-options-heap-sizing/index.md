@@ -10,7 +10,6 @@ image: "Favicon-3-2.png"
 categories:
   - "Performance"
 related_posts:
-frozen: true
 ---
 
 The HotSpot JVM has a lot of options available. Maybe too many. Sometimes we are looking for a specific option or the "magic" one that can give a serious boost in an application. Unfortunately, I think that magic option may not exist! However, some can help you for optimizing your application or for tuning some of its parts.

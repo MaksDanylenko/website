@@ -16,7 +16,6 @@ related_posts:
   - "java-native-memory-access-modes"
   - "10-best-practises-for-jakarta-ee-performance-optimization"
   - "web-crawling-in-java-a-tale-of-classical-threads-and-virtual-threads"
-frozen: false
 ---
 
 Database performances have been massively documented in the literature. Every week, a new blog post or article explains why database X is better than database Y. And, no, this post is not about that. This article summarizes the interactions between your database client (sometimes called driver) and the database server. It is essential to understand the principles of these exchanges to comprehend the limitations of the API the driver can expose safely.

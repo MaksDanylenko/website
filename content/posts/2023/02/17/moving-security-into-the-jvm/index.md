@@ -14,7 +14,6 @@ related_posts:
   - "are-java-security-updates-important"
   - "java-where-the-wild-code-isnt"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
-frozen: false
 ---
 
 The threat model for Java applications is changing, with modern risk coming from the widespread scope and usage of Java and library vulnerabilities.

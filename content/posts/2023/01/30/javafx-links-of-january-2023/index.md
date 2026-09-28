@@ -12,7 +12,6 @@ related_posts:
   - "javafx-links-of-december"
   - "javafx-links-of-november"
   - "javafx-links-of-october"
-frozen: false
 ---
 
 2023 has taken off with a flying start in JavaFX-world!

@@ -15,7 +15,6 @@ related_posts:
   - "authenticate-with-openid-connect-and-apache-apisix"
   - "back-to-basics-accessing-kubernetes-pods"
   - "when-not-to-write-an-apache-apisix-plugin"
-frozen: false
 ---
 
 **Recently, I wrote an [analysis](https://blog.frankel.ch/fix-duplicate-api-requests/) of the [IETF Idempotency-Key specification](https://datatracker.ietf.org/doc/html/draft-ietf-httpapi-idempotency-key-header-04). The specification aims to avoid duplicated requests.**

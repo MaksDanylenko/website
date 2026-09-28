@@ -13,7 +13,6 @@ related_posts:
   - "javafx-links-of-october"
   - "a-javafx-app-on-zulufx-in-60-seconds"
   - "javafx-links-of-july-2026"
-frozen: false
 ---
 
 Time flies when having fun...

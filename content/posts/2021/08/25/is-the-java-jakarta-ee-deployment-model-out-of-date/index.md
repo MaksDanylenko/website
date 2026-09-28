@@ -15,7 +15,6 @@ related_posts:
   - "new-features-in-jakarta-ee-11-with-examples"
   - "reflections-on-2024-a-remarkable-year-for-omnifish-glassfish-piranha-and-jakarta-ee"
   - "issues-with-old-glassfish-server-upgrade-to-eclipse-glassfish"
-frozen: false
 ---
 
 In this myth-busting webinar, Steve Millidge, founder of [Payara](https://www.payara.fish), will show you why the Java EE/[Jakarta EE](https://jakarta.ee/) deployment model is not old fashioned or out of date.

@@ -13,7 +13,6 @@ related_posts:
   - "debugging-streams-and-collections"
   - "the-massive-hidden-power-of-breakpoints"
   - "debugging-program-control-flow"
-frozen: false
 ---
 
 When I mention memory debugging the first thing that comes to the minds of many developers is the profiler. That isn't wrong but it's still a partial picture. Profilers are amazing at mapping that "big picture" but when you want to understand the domain, they fall short.

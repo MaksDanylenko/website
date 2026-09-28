@@ -2,7 +2,6 @@
 title: "Stop-the-World Pause"
 description: "A stop-the-world (STW) pause is a period during garbage collection when all application threads are suspended so the GC can safely examine and modify the heap. Because objects cannot move or be created while pointers are being updated, the collector ..."
 url: "/pedia/stop-the-world-pause/"
-frozen: false
 ---
 
 A stop-the-world (STW) pause is a period during garbage collection when all application threads are suspended so the GC can safely examine and modify the heap. Because objects cannot move or be created while pointers are being updated, the collector temporarily freezes the application.

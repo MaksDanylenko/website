@@ -13,7 +13,6 @@ related_posts:
   - "generating-code-with-intellij-idea"
   - "beginning-javafx-with-intellij"
   - "ask-a-lille-dev-what-java-developers-really-think-about-quality-frameworks-communities-and-careers"
-frozen: false
 ---
 
 Sometimes you need to modify multiple lines of code on separate lines inside IntelliJ IDEA with the same change. The fastest way to achieve that is with [multiple carets](https://www.jetbrains.com/help/idea/working-with-source-code.html?keymap=primary_windows#multiple_cursor). In IntelliJ IDEA you can:

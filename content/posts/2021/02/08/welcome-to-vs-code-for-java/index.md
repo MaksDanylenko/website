@@ -15,7 +15,6 @@ related_posts:
   - "what-are-you-missing-by-debugging-in-vs-code"
   - "java-testing-with-vs-code"
   - "java-development-with-vs-code-on-the-raspberry-pi"
-frozen: false
 ---
 
 VS Code, a.k.a. Visual Studio Code, is a modern editor available for Windows, macOS and Linux. It supports many languages and runtimes including Java. Besides editing features like IntelliSense, Code Action, etc., developers and students also like its lightweight, modern UI, extensibility, and the comprehensive support of remote development. Also, it's free. You can refer to [VS Code Overview](https://code.visualstudio.com/docs "VS Code Overview") for more details.

@@ -14,7 +14,6 @@ related_posts:
   - "the-debugger-checklist-part-ii"
   - "understanding-stack-traces-and-debugging-them-further"
   - "detecting-investigating-and-verifying-fixes-for-security-incidents-and-zero-day-issues-using-lightrun"
-frozen: true
 ---
 
 **It isn't so much a security risk as it is a wide open door with everything labeled for anyone to take freely and matches to burn it all down...**

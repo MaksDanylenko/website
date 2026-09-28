@@ -19,7 +19,6 @@ related_posts:
   - "foojay-podcast-27"
   - "foojay-podcast-26"
   - "where-production-policy-belongs-building-eliya-in-public"
-frozen: false
 ---
 
 Since 2018, we get a new version of Java every 6 months.

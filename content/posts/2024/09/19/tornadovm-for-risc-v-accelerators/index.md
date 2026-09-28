@@ -15,7 +15,6 @@ related_posts:
   - "code-interoperability-mode-for-opencl-portability-across-various-programming-languages-with-tornadovm"
   - "defining-patterns-of-data-transfers-for-java-applications-with-tornadovm"
   - "offline-crypto-address-validation-in-java"
-frozen: false
 ---
 
 ## Takeaways

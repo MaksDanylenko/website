@@ -20,7 +20,6 @@ related_posts:
   - "foojay-podcast-71"
   - "foojay-podcast-70"
   - "receiving-mails-in-java-with-imap-or-pop3"
-frozen: false
 ---
 
 In the second part of our JCON interviews, recorded at the conference in May, we focuses on general evolutions within the Java world and how they influence how we write code and develop applications. We take a look back at the history of Java, discuss new features in the latest release, how Java evolves with OpenJDK projects and JEPS, how Java is used in education, and much more...

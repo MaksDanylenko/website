@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/ravindar-karampuri-445115227/"
 github: ""
 youtube: ""
 website: ""
-frozen: false
 ---

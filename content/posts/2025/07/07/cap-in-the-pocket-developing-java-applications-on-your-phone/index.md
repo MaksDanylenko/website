@@ -13,7 +13,6 @@ related_posts:
   - "asyncgetcalltrace-reworked-frame-by-frame-with-an-iterative-touch"
   - "book-review-practical-design-patterns-for-java-developers"
   - "class-loader-hierarchies"
-frozen: true
 ---
 
 Smartphones are more powerful then ever, with processors rivaling old laptops. So let's try to use them like a laptop to develop web-applications on the go.

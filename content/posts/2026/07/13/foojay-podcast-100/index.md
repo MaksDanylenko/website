@@ -19,7 +19,6 @@ related_posts:
   - "foojay-podcast-70"
   - "foojay-podcast-99"
   - "foojay-podcast-67"
-frozen: false
 aliases:
   - "/today/foojay-podcast-100-when-a-podcaster-interviews-podcasters-and-what-they-all-have-in-common/"
 ---

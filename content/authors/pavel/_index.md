@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/pavel-petroshenko-5220092/"
 github: ""
 youtube: ""
 website: ""
-frozen: false
 ---

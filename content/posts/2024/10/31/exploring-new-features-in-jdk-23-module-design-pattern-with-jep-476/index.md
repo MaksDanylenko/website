@@ -15,7 +15,6 @@ related_posts:
   - "exploring-new-features-in-jdk-23-just-write-and-run-prototyping-with-jep-477-not-only-for-beginners"
   - "exploring-new-features-in-jdk-23-null-object-pattern-to-avoid-null-pointer-exception-with-jep-455"
   - "offline-crypto-address-validation-in-java"
-frozen: false
 ---
 
 Although the module design pattern can be implemented in many different ways, the main motivation behind using it remains the same. This is the isolation of a specific section into small building blocks, which are the so-called modules. Therefore, the module design pattern belongs to the structural design pattern family.

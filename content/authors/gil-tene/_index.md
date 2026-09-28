@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/giltene/"
 github: ""
 youtube: ""
 website: "https://x.com/giltene"
-frozen: false
 ---

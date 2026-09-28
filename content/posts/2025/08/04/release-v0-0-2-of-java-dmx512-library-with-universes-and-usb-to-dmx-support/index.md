@@ -15,7 +15,6 @@ related_posts:
   - "controlling-led-strips-with-java-and-jbang"
   - "blink-a-led-on-raspberry-pi-with-vaadin"
   - "controlling-electronics-with-jbang-on-the-raspberry-pi"
-frozen: false
 ---
 
 Earlier this month, I [released V0.0.1 of my new Java library to interact with DMX512 devices using (optionally) the Open Fixture Library (OFL)](https://webtechie.be/post/2025-07-17-introducing-java-dmx512-library-with-demo-javafx-ui/). After some more experimenting, I'm able to announce the next (beta) release V0.0.2 with the following major changes:

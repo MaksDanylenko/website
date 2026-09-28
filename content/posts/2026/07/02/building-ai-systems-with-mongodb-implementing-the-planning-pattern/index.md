@@ -12,7 +12,6 @@ related_posts:
   - "agents-meet-databases-the-future-of-agentic-architectures"
   - "aggregation-optimization-in-mongodb-a-case-study-from-the-field-part-1"
   - "aggregation-optimization-in-mongodb-unnecessary-unwinds-part-2"
-frozen: false
 ---
 
 Artificial Intelligence has swiftly evolved from a niche research topic to a technology that impacts nearly every aspect of the software industry. Developers now use AI to generate code, review pull requests, create documentation, and accelerate workflows through methods like vibe coding and specification-driven development. While these applications position AI as an engineering tool, a new trend is emerging: integrating AI directly into business workflows within applications.

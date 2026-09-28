@@ -14,7 +14,6 @@ related_posts:
   - "boxlang-1-17-0-released-module-inception-cli-checker-jar-loading-and-much-more"
   - "how-i-built-an-ai-assistant-for-my-career-with-java-spring-ai-and-mongodb"
   - "ai-assisted-genealogy"
-frozen: false
 ---
 
 I like to analyze codebases I start working on, or that I left for months. I ask my coding assistant, case in point, Copilot CLI: "analyze the following codebase and report to me improvements and possible bugs." It's vague enough to leave room for crappy feedback, but also for some interesting insights.

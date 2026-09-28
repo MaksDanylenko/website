@@ -13,7 +13,6 @@ related_posts:
   - "we-all-grow-older-but-do-our-projects-really-have-to-openrewrite"
   - "how-to-upgrade-to-jakarta-ee-10-and-glassfish-7-its-much-easier-than-you-think"
   - "foojay-io-at-fosdem-2023-trip-report"
-frozen: false
 ---
 
 As software engineers and architects, we often face the challenge of upgrading dependencies, security patches, and framework upgrades to the latest versions. Enterprise organizations often have legacy code developed and maintained for a long time.

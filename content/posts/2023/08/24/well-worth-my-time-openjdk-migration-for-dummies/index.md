@@ -15,7 +15,6 @@ related_posts:
   - "book-announcement-openjdk-migration-guide-for-dummies"
   - "book-review-openjdk-migration-for-dummies"
   - "is-openjdk-just-a-drop-in-replacement"
-frozen: false
 ---
 
 I've just read the (free) [OpenJDK Migration for Dummies book](https://www.azul.com/openjdk-migration-for-dummies/). It was well worth my time!

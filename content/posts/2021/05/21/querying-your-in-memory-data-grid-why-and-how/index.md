@@ -12,7 +12,6 @@ categories:
   - "Performance"
   - "Use Cases"
 related_posts:
-frozen: false
 ---
 
 > An in-memory data grid (IMDG) is a set of networked/clustered computers that pool together their random access memory (RAM) to let applications share data with other applications running in the cluster. Though IMDGs are sometimes generically described as a distributed in-memory data store, IMDGs offer more than just storage. IMDGs are built for data processing at extremely high speeds. They are designed for building and running large-scale applications that need more RAM than is typically available in a single computer server. This enables the highest application performance by using RAM along with the processing power of multiple computers that run tasks in parallel. IMDGs are especially valuable for applications that do extensive parallel processing on large data sets.

@@ -13,7 +13,6 @@ related_posts:
   - "javafx-links-of-november"
   - "javafx-links-of-october"
   - "javafx-links-of-july-2026"
-frozen: false
 ---
 
 If anyone needs a reminder Java and JavaFX are "alive and kicking", you can not only check out [jfx-central.com](https://https://www.jfx-central.com/home), but also the list below.

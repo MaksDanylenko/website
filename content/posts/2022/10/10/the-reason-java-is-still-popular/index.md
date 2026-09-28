@@ -14,7 +14,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "great-time-at-javazone-2022"
   - "what-is-debugging-in-140-seconds"
-frozen: false
 ---
 
 A great time to post this, right after the release of Java 19, yes, another "my language is better" post. No, I didn't want to write it. But sometimes people's [bad projection](https://medium.com/codex/i-finally-gave-up-on-java-5187947bef1b) gets the better of me.

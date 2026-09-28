@@ -15,7 +15,6 @@ related_posts:
   - "building-a-real-time-ai-fraud-detection-system-with-spring-kafka-and-mongodb"
   - "building-a-spring-boot-crud-application-using-mongodbs-relational-migrator"
   - "building-an-ai-semantic-movie-recommender-with-vector-search"
-frozen: false
 ---
 
 In the previous issues, I explained how to run a local [MongoDB](https://www.linkedin.com/company/mongodbinc/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BnV1cKI74RDKmiAI4lr1TaA%3D%3D) Atlas cluster using [Atlas CLI](https://www.linkedin.com/pulse/run-local-atlas-cluster-minutes-locally-arek-borucki-mmiqf/?trackingId=M71jHZpGSQCdFygE5EgAOw%3D%3D), what [vector search](https://www.linkedin.com/pulse/power-your-ai-application-vector-search-arek-borucki-sjw0f/?trackingId=vjRobV3lSdy1nc4SIgjM%2Fg%3D%3D) is, and [how to use it](https://www.linkedin.com/pulse/from-zero-vector-hero-locally-arek-borucki-w5otf/?trackingId=S%2FClUOdjSMGzvkR2ZLIS9Q%3D%3D). Now, let's take a closer look at hybrid search.

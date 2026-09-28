@@ -15,7 +15,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "7-ways-to-improve-your-code-reading-skills"
   - "this-dependency-update-looked-exactly-like-an-account-takeover"
-frozen: false
 ---
 
 **I tweet technical content that I consider interesting, but the funny tweets are the ones that get the most engagement.**

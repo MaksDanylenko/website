@@ -12,7 +12,6 @@ related_posts:
   - "contributing-to-openjdk-mission-control"
   - "starting-a-javafx-project-with-gluon-tools"
   - "why-i-love-intellij-idea-for-java-development"
-frozen: false
 ---
 
 One of the highlights of the [Friends Of OpenJDK room at FOSDEM 2021](https://archive.fosdem.org/2021/schedule/track/friends_of_openjdk/) was Marco Vermeulen, the creator of SDKMAN, talking about SDKMAN.

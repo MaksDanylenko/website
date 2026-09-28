@@ -14,7 +14,6 @@ related_posts:
   - "9-outdated-ideas-about-java"
   - "7-functional-programming-techniques-in-java-a-primer"
   - "three-key-elements-to-incorporate-into-your-flaky-test-remediation-approach"
-frozen: false
 ---
 
 Imagine the scenario: you have good automated test coverage of your application code; you run your tests locally; and you have a Continuous Integration (CI) environment which runs your tests regularly.

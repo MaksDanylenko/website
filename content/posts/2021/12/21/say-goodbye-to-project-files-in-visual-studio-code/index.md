@@ -12,7 +12,6 @@ related_posts:
   - "announcing-the-1-0-release-of-language-support-for-java-on-visual-studio-code"
   - "vs-code-java-september-2021-update"
   - "vs-code-java-august-updates-springone-updates-ux-improvements-community-feedback"
-frozen: false
 ---
 
 [Recent 1.1.0 release of Language Support for Java™](https://marketplace.visualstudio.com/items?itemName=redhat.java "Recent 1.1.0 release of Language Support for Java™") contains an important update: now when the extension imports a new Java project, the project metadata files ( .project , .classpath , settings, etc.) will no longer be generated in the project path by default.

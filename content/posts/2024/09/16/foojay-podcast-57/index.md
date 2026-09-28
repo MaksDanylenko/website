@@ -17,7 +17,6 @@ related_posts:
   - "foojay-podcast-55"
   - "foojay-podcast-54"
   - "foojay-podcast-92"
-frozen: false
 aliases:
   - "/today/foojay-podcast-57-welcome-to-openjdk-java-23/"
 ---

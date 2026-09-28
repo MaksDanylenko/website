@@ -16,7 +16,6 @@ related_posts:
   - "foojay-podcast-38"
   - "foojay-podcast-22"
   - "quarkus-unpacked-insights-from-the-foojay-podcast"
-frozen: false
 ---
 
 "Public static void main string array" are the first words everyone sees when they start their first Java Hello World experiments.

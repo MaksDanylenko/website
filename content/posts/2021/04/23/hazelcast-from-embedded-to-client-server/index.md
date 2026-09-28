@@ -16,7 +16,6 @@ related_posts:
   - "chronicle-services-building-fast-microservices-with-java"
   - "when-speed-matters-real-time-stream-processing-with-hazelcast-and-redpanda"
   - "how-to-build-and-deploy-a-real-time-cloud-based-logging-system"
-frozen: false
 ---
 
 Java developers are particularly spoiled when using Hazelcast. Because Hazelcast is developed in Java, it's available as a JAR, and we can integrate it as a library in our application. Just add it to the application's classpath, start a node, and we're good to go. However, I believe that once you start relying on Hazelcast as a critical infrastructure component, embedding limits your options. In this post, I'd like to dive a bit deeper into the subject.

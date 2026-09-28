@@ -13,7 +13,6 @@ related_posts:
   - "building-for-failure-best-practices-for-easy-production-debugging"
   - "graphql-javascript-preprocessor-sql-and-more-in-manifold"
   - "spring-boot-debugging-with-aspect-oriented-programming-aop"
-frozen: false
 ---
 
 The phrase "it works on my machine" can be a source of amusement, but it also represents a prevailing attitude in the world of development - an attitude that often forces users to prove bugs before we're willing to investigate them. But in reality, we need to take responsibility and chase the issue, regardless of where it takes us.

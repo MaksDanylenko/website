@@ -17,7 +17,6 @@ related_posts:
   - "idempotent-spring-boot-starter"
   - "first-experiments-with-java-on-the-lattepanda-iota"
   - "javafx-links-of-november-2025"
-frozen: false
 ---
 
 In this post, I would like to inform you about a new Java library that is now available on Maven Central, allowing interaction with DMX512 devices using (optionally) the Open Fixture Library (OFL). I also published a video with a code walkthrough of my test setup and demo code.

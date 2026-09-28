@@ -17,7 +17,6 @@ related_posts:
   - "a-simple-service-with-spring-boot"
   - "are-java-jakarta-ee-application-servers-heavy"
   - "issues-with-old-glassfish-server-upgrade-to-eclipse-glassfish"
-frozen: false
 ---
 
 Java Records, one of the major highlights of the Java 16 release, provides a concise and immutable way to define classes for modelling data.

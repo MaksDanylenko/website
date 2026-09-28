@@ -13,7 +13,6 @@ related_posts:
   - "java-thread-programming-part-2"
   - "java-thread-programming-part-3"
   - "java-thread-programming-part-6"
-frozen: false
 ---
 
 In [the previous article](https://foojay.io/today/java-thread-programming-part-3/), we discussed the visibility problem while working with multiple threads.

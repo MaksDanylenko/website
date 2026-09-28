@@ -16,7 +16,6 @@ related_posts:
   - "github-actions-with-java-part-1"
   - "github-actions-with-java-part-2"
   - "lights-camera-action-github-actions-with-java-part-3"
-frozen: false
 ---
 
 This article was originally post at[Snyk.io](https://snyk.io/blog/building-a-secure-pipeline-with-github-actions/) and is used with permission

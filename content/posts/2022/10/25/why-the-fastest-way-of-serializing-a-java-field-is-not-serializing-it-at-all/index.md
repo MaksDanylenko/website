@@ -14,7 +14,6 @@ related_posts:
   - "foojay-podcast-6"
   - "how-to-use-java-dtos-to-stay-secure"
   - "a-minor-but-useful-refactoring-technique-that-would-reduce-your-code-footprint-part-1"
-frozen: false
 ---
 
 This article elaborates on different ways of serializing Java objects and benchmarks performance for the variants. Read this article and become aware of different ways to improve Java serialization performance.

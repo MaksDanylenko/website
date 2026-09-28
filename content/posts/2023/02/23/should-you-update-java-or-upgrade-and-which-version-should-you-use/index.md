@@ -16,7 +16,6 @@ related_posts:
   - "foojay-podcast-5"
   - "are-java-security-updates-important"
   - "azul-zulu-july-2026-quarterly-update-released"
-frozen: false
 ---
 
 ## *Update versus Upgrade: what's the difference and what are the consequences of your decision?*

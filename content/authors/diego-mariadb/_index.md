@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/diego-dupin-129531a3/"
 github: ""
 youtube: ""
 website: ""
-frozen: false
 ---

@@ -14,7 +14,6 @@ related_posts:
   - "a-simple-service-with-spring-boot"
   - "book-review-why-programs-fail"
   - "general-build-distribution-a-game-changer-or-a-gimmick"
-frozen: false
 ---
 
 **Remote and distributed builds are terms frequently used, misused and abused. Here we share insight for what these terms mean and how they affect your build feedback times.**

@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/sandermak/"
 github: ""
 youtube: ""
 website: "https://x.com/Sander_Mak"
-frozen: false
 ---

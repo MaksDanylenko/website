@@ -11,7 +11,6 @@ categories:
 related_posts:
   - "how-does-kafka-perform-when-you-need-low-latency"
   - "how-object-reuse-can-reduce-latency-and-improve-performance"
-frozen: false
 ---
 
 A few years ago we had a global shortage of microchips; now, I feel there is a worldwide shortage of software developers.

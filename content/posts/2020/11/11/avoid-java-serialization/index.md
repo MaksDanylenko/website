@@ -9,7 +9,6 @@ image: "Favicon-3-2.png"
 categories:
   - "Security"
 related_posts:
-frozen: false
 ---
 
 Serialization in Java allows us to transform an object to a byte stream. This byte stream is either saved to disk or transported to another system. The other way around, a byte stream can be deserialized and allows us to recreate the original object.

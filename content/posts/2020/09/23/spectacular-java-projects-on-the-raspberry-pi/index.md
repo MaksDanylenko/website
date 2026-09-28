@@ -16,7 +16,6 @@ related_posts:
   - "sheetmusic4j-0-0-3-abc-notation-guitar-pro-engraving-improvements"
   - "first-experiments-with-java-on-the-lattepanda-iota"
   - "javafx-links-of-november-2025"
-frozen: false
 ---
 
 Thanks to Twitter and LinkedIn, I've been in touch with several developers who are doing cool Java stuff on the Raspberry Pi.

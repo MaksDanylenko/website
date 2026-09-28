@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/yuelinou/"
 github: "https://github.com/yuelinou999"
 youtube: ""
 website: "https://yuelinou.com/"
-frozen: false
 ---

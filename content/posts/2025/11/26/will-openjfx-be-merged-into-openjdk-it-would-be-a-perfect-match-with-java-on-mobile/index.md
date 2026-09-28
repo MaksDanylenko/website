@@ -13,7 +13,6 @@ related_posts:
   - "beginning-javafx-with-intellij"
   - "javafx-links-of-october-2025"
   - "javafx-nodes-versus-canvas"
-frozen: false
 ---
 
 While looking for articles for the [JFX Central Links Of The Week](https://www.jfx-central.com/links), I found this very interesting [article by **Paul Krill** on InfoWorld](https://www.infoworld.com/article/4082709/will-javafx-return-to-java.html). It's based on an [October 29 post by **Bruce Haddon** on an OpenJDK discussion list](https://mail.openjdk.org/pipermail/discuss/2025-October/006553.html) in which he argues that the reasons for the separation of OpenJFX from OpenJDK in Java 11, more than seven years ago, are much less applicable today.

@@ -15,7 +15,6 @@ related_posts:
   - "sheetmusic4j-0-0-3-abc-notation-guitar-pro-engraving-improvements"
   - "first-experiments-with-java-on-the-lattepanda-iota"
   - "javafx-links-of-november-2025"
-frozen: false
 ---
 
 After my virtual conference talk ["Java and JavaFX on the Raspberry Pi" at the "Oracle Groundbreakers APAC Virtual Tour 2020"](https://webtechie.be/post/2020-10-21-apacouc-java-and-javafx-on-raspberry-pi/), I got in touch with some people who were working on JavaFX 3D in the past, and were curious how that would behave on the Raspberry Pi.

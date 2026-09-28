@@ -17,7 +17,6 @@ related_posts:
   - "semantic-search-with-spring-boot-redis"
   - "sliding-window-counter-rate-limiter-redis-java"
   - "sliding-window-log-rate-limiter-redis-java"
-frozen: false
 ---
 
 > **TL;DR:** You're building a semantic caching system using Spring AI and Redis to improve LLM application performance.

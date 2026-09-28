@@ -10,7 +10,6 @@ image: "cover-improving-1024x683.jpg"
 categories:
   - "Java"
 related_posts:
-frozen: false
 ---
 
 I started discovering OpenRewrite last week by writing a Kotlin recipe that moves Kotlin files according to the official directory structure recommendation. I mentioned some future works, and here they are. In this post, I want to describe how to compute the root package instead of letting the user set it.

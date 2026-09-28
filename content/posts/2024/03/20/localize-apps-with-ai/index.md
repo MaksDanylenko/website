@@ -17,7 +17,6 @@ related_posts:
   - "state-of-open-source-and-free-ai-a-fosdem-recap"
   - "springboot-3-2-crac"
   - "idempotent-spring-boot-starter"
-frozen: false
 ---
 
 Read in other languages: [中文](https://flounder.dev/zh/posts/localize-apps-with-ai/) [Español](https://flounder.dev/es/posts/localize-apps-with-ai/) [Português](https://flounder.dev/pt/posts/localize-apps-with-ai/)

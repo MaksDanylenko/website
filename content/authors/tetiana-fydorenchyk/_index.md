@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/tetiana-fydorenchyk/"
 github: ""
 youtube: ""
 website: "https://x.com/tetiana_ftv"
-frozen: false
 ---

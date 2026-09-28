@@ -10,7 +10,6 @@ categories:
   - "JavaFX"
   - "Pi4J"
 related_posts:
-frozen: false
 ---
 
 **To celebrate the world of Java and predict some highlights for 2021, several key Foojay participants will share their thoughts and hopes during the coming days on Foojay, starting with Frank Delporte, Foojay Community Manager for the Raspberry Pi.**

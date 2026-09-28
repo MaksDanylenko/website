@@ -16,7 +16,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "blockhound-how-it-works"
   - "securing-microservices-with-auth0-and-microprofile-in-kubernetes"
-frozen: false
 ---
 
 Last year, I spoke at the [National DevOps Conference](https://www.devopsonline.co.uk/national-devops-conference/) that took place at the British Museum. I had already visited the museum before, but speaking there was a fantastic experience. Besides, we had the museum all for ourselves for a couple of hours. If you've ever visited the place, you know what I mean.

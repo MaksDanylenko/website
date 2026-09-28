@@ -14,7 +14,6 @@ related_posts:
   - "foojay-podcast-24"
   - "foojay-podcast-23"
   - "api-versioning"
-frozen: true
 ---
 
 We are excited to share that Foojay is growing and offering additional resources to bring the Java and OpenJDK community together on a global scale.

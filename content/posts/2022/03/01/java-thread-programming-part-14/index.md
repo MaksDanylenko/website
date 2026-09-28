@@ -13,7 +13,6 @@ related_posts:
   - "java-thread-programming-part-10"
   - "java-thread-programming-part-11"
   - "relearning-java-thread-primitives"
-frozen: true
 ---
 
 In our [previous article](https://foojay.io/today/java-thread-programming-part-13/), we discussed the thread pool's sizing. We stipulated that if work is computational, we don't need more threads than the available number of processors. We will discuss this idea a bit further in this article.

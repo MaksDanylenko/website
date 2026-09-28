@@ -14,7 +14,6 @@ related_posts:
   - "automatically-creating-microservices-architecture-diagrams"
   - "building-custom-solutions-vs-buy-and-build-software"
   - "how-is-leyden-improving-java-performance-part-3-of-3"
-frozen: false
 ---
 
 #### What are the challenges of tuning your CPU and system for optimal performance with Linux, and how does Chronicle Tune address them?

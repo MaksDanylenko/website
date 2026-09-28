@@ -13,7 +13,6 @@ related_posts:
   - "openjdk-19-released"
   - "what-the-heck-is-project-loom-for-java"
   - "what-can-we-expect-in-openjdk-19"
-frozen: false
 ---
 
 Although [OpenJDK 19](https://foojay.io/today/openjdk-19-released/) is not an LTS, it is still a significant release, in my opinion.

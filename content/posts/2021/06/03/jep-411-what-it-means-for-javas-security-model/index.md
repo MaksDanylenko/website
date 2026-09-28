@@ -10,7 +10,6 @@ categories:
   - "JEPs"
   - "Security"
 related_posts:
-frozen: false
 ---
 
 ![](Swiss_cheese_model-47912861.svg)

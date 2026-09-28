@@ -17,7 +17,6 @@ categories:
 related_posts:
   - "a-case-for-databases-on-kubernetes-from-a-former-skeptic"
   - "how-to-put-a-database-in-kubernetes"
-frozen: false
 ---
 
 ***Setting up K8ssandra in your workflow just got a whole lot easier. With the new Config Builder you can be running Apache Cassandra® on Kubernetes in a matter of minutes.***

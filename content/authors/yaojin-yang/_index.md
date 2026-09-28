@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/yaojin-yang-2b72a515/"
 github: ""
 youtube: ""
 website: "https://x.com/yaojinyang"
-frozen: false
 ---

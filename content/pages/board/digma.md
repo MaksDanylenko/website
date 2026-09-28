@@ -12,7 +12,6 @@ twitterLabel: "@Digma_ai"
 quote: |
   Foojay is a prominent global community for Java developers, and we’re excited to connect with like-minded individuals, exchanging ideas, and collectively elevating the Java ecosystem as members of the Foojay Board.
 quoteAuthor: "Roni Dover, Digma CTO and co-founder"
-frozen: false
 ---
 
 Digma is the first Continuous Feedback (CF) platform for developers. Developers use Digma to code faster in distributed, complex or legacy systems with faster feedback loops. Our platform integrates into the code and IDE to enable developers to find runtime issues earlier in the dev cycle, decipher complex code behavior and rapidly validate code changes.

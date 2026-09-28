@@ -16,7 +16,6 @@ related_posts:
   - "using-the-azul-zulu-docker-official-images-from-simple-pull-to-lean-container"
   - "official-azul-zulu-openjdk-images-now-available-on-docker-hub"
   - "azul-august-2026-release-javas-first-monthly-cspu"
-frozen: false
 ---
 
 *Previously in this series:*

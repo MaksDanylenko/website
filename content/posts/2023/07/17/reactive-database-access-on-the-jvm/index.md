@@ -14,7 +14,6 @@ related_posts:
   - "are-java-security-updates-important"
   - "backpressure-in-reactive-systems"
   - "blockhound-how-it-works"
-frozen: false
 ---
 
 A couple of years ago, [Reactive Programming](https://en.wikipedia.org/wiki/Reactive_programming) was all the rage, but it had one big issue: reactive stopped as soon as you accessed a SQL database.

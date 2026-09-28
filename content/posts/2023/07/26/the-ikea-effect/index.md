@@ -14,7 +14,6 @@ related_posts:
   - "the-more-you-say-the-less-people-remember"
   - "automatically-creating-microservices-architecture-diagrams"
   - "billions-of-messages-tcp-ip"
-frozen: false
 ---
 
 **The [IKEA effect](https://theconversation.com/the-ikea-effect-how-we-value-the-fruits-of-our-labour-over-instant-gratification-113647 "IKEA effect") is a fascinating phenomenon whereby consumers place a (sometimes disproportionately) higher value on things that they have either made themselves, or to which they've contributed towards making.**

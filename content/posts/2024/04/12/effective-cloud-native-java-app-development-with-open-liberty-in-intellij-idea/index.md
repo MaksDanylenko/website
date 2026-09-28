@@ -21,7 +21,6 @@ related_posts:
   - "effective-cloud-native-development-eclipse-ide-open-liberty"
   - "getting-started-with-intellij-idea"
   - "whats-new-in-the-august-2026-azul-payara-release"
-frozen: false
 ---
 
 **See how you can use Liberty Tools for IntelliJ IDEA to enable rapid, easy, and efficient development of cloud-native Java applications with Open Liberty and WebSphere Liberty**

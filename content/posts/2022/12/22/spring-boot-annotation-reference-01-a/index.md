@@ -15,7 +15,6 @@ related_posts:
   - "a-simple-service-with-spring-boot"
   - "better-error-handling-for-your-spring-boot-rest-apis"
   - "idempotent-spring-boot-starter"
-frozen: false
 ---
 
 In 2018, I was introduced to the topic of Microservices and Spring Boot via a formal training, during my brief stint as a Senior Architect in Manila, Philippines.

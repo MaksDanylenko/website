@@ -15,7 +15,6 @@ related_posts:
   - "understanding-apache-maven-part-1-the-basics"
   - "understanding-apache-maven-part-2-pom-hierarchy"
   - "boxlang-1-15-0-released-blazing-fast-strings-runtime-portability-and-much-more"
-frozen: false
 ---
 
 Builds require a few properties, chief among them reproducibility. I would consider speed to be low on the order of priorities. However, it's also one of the most limiting factors to your release cycle: if your build takes *T* , you cannot release faster than each *T*. Hence, you'll probably want to speed up your builds after you've reached a certain maturity level to enable more frequent releases.

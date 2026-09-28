@@ -13,7 +13,6 @@ related_posts:
   - "comparison-fault-tolerance-libraries"
   - "building-command-line-interfaces-with-kotlin-using-picocli"
   - "handling-null-optional-and-nullable-types"
-frozen: false
 ---
 
 There's no support for the pipe operator `|>` in Kotlin, so we have to come up with a custom and clean implementation for this function.

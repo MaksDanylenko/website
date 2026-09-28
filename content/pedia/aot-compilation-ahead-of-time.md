@@ -2,7 +2,6 @@
 title: "AOT Compilation (Ahead-of-Time)"
 description: "Ahead-of-time (AOT) compilation converts Java source code or bytecode into native machine code before the application runs, rather than during execution. The result is a self-contained native binary that starts nearly instantly, without the warm-up phase that a JIT-compiled JVM ..."
 url: "/pedia/aot-compilation-ahead-of-time/"
-frozen: false
 ---
 
 Ahead-of-time (AOT) compilation converts Java source code or bytecode into native machine code before the application runs, rather than during execution. The result is a self-contained native binary that starts nearly instantly, without the warm-up phase that a JIT-compiled JVM requires.

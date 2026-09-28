@@ -12,7 +12,6 @@ related_posts:
   - "mqtt-on-raspberry-pi-part-1-send-sensor-data-to-hivemq-cloud-with-java-and-pi4j"
   - "are-java-security-updates-important"
   - "new-java-17-features-for-improved-security-and-serialization"
-frozen: false
 aliases:
   - "/today/friends-of-openjdk-at-fosdem-with-prizes/"
 ---

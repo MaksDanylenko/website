@@ -9,7 +9,6 @@ image: "547386585-b25e6389-9134-42f1-aa0d-f7d941ca5c47.webp"
 categories:
   - "AI"
 related_posts:
-frozen: false
 ---
 
 If you maintain a busy codebase, you already know the daily grind: triaging issues, writing status reports, updating documentation, and chasing down failed CI builds. What if your repository could handle that routine maintenance for you, using natural language instead of complex, fragile scripts?

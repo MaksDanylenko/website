@@ -15,7 +15,6 @@ related_posts:
   - "jdkmon-your-friendly-jdk-distribution-updater"
   - "jdkmon-17-0-18-released"
   - "boxlang-aws-azure-and-google-secrets-manager-module-released"
-frozen: false
 ---
 
 JDKMon is a little tool written in JavaFX that tries to detect all OpenJDK distributions installed on your machine while keeping track of updates for those distributions.

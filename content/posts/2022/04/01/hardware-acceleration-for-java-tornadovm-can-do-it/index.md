@@ -17,7 +17,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "5-things-you-probably-didnt-know-about-java-concurrency"
   - "a-flavour-of-tornadovm-on-apple-m1-pro"
-frozen: false
 ---
 
 Java programs can primarily run on x86 and Arm platforms and recent efforts focus on ports to PowerPC and RISC-V.

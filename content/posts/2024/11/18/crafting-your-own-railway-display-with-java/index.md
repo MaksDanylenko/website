@@ -16,7 +16,6 @@ related_posts:
   - "blink-a-led-on-raspberry-pi-with-vaadin"
   - "build-web-apps-in-pure-java-with-vaadin-flow"
   - "idempotent-spring-boot-starter"
-frozen: false
 ---
 
 **Have you fancied to have your own railway display at home? If you love traveling by public transport and always jump on the train just before the door closes like us, it's really cool and highly efficient to have your own personalized display.**

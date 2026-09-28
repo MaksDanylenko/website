@@ -16,7 +16,6 @@ related_posts:
   - "boxlang-1-7-0-delivers-streaming-distributed-caching-and-enhanced-jvm-performance"
   - "boxlang-couchbase-module-enterprise-caching-distributed-locking-and-ai-vector-memory"
   - "boxlang-redis-has-landed-enterprise-grade-caching-pub-sub-and-distributed-locking"
-frozen: false
 ---
 
 ## BoxLang CouchBase Module: Enterprise Caching, Distributed Locking, and AI Vector Memory

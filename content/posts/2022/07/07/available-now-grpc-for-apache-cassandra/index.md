@@ -18,7 +18,6 @@ related_posts:
   - "bring-streaming-to-apache-cassandra-with-apache-pulsar"
   - "build-a-status-dashboard-using-spring-boot-and-astra-db"
   - "unified-event-driven-architecture-for-the-cloud-native-enterprise"
-frozen: false
 ---
 
 **Build microservices easily with the NoSQL standard database**

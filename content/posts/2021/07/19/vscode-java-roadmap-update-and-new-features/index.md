@@ -9,7 +9,6 @@ image: "juneblogfoojay.png"
 categories:
   - "VS Code"
 related_posts:
-frozen: true
 ---
 
 Welcome to the special mid-year edition for Visual Studio Code Java updates.

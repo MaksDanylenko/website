@@ -40,7 +40,6 @@ topics:
 # bundle would be overwritten by that scrape and this hand-written copy (with its
 # authors list) would be lost. Unfreeze deliberately if WordPress ever becomes
 # the better source for it.
-frozen: true
 ---
 
 HeroDevs is the trusted leader in providing secure, never-ending support for deprecated open source software. The company's mission is to keep critical technologies running smoothly, securely, and in compliance long after their official end-of-life. From AngularJS to .NET, HeroDevs' Never-Ending Support (NES) solutions give businesses the freedom to plan migrations on their own terms while staying protected against vulnerabilities and compliance risks. Serving industries where security and uptime are non-negotiable, including finance, healthcare, and government, HeroDevs has earned the trust of more than 900 companies, including nearly half of the Fortune 100.

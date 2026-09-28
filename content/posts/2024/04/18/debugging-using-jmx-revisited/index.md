@@ -13,7 +13,6 @@ related_posts:
   - "dtrace-revisited-advanced-debugging-techniques"
   - "building-gdocweb-with-java-21-spring-boot-3-x-and-beyond"
   - "the-theory-of-debugging"
-frozen: false
 ---
 
 * [The Need for Advanced Management Tools in Development](#the-need-for-advanced-management-tools-in-development)

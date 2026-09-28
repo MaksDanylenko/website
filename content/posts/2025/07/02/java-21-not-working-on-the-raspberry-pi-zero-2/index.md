@@ -16,7 +16,6 @@ related_posts:
   - "controlling-electronics-with-jbang-on-the-raspberry-pi"
   - "evolutions-in-the-pi4j-library-by-tom-aarts-and-robert-von-burg"
   - "foojay-podcast-55"
-frozen: true
 ---
 
 This story is about how "Write Once, Run Anywhere" got broken in a specific use case. It reveals the complexity of maintaining this "Run Anywhere" principle. At the same time, it shows how the OpenJDK community already detected this issue and has a fix available for the next update.

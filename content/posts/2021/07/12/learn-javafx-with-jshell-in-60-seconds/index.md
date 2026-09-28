@@ -14,7 +14,6 @@ related_posts:
   - "sheetmusic4j-0-0-3-abc-notation-guitar-pro-engraving-improvements"
   - "closing-the-visual-gap-between-the-official-lottie-webplayer-and-lottie4j"
   - "first-experiments-with-java-on-the-lattepanda-iota"
-frozen: false
 ---
 
 > **Spoon boy** : Do not try and bend the spoon. That's impossible. Instead... only try to realize the truth.  

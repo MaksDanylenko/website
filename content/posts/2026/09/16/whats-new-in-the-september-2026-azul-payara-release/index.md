@@ -10,7 +10,6 @@ categories:
   - "Jakarta EE"
   - "Payara"
 related_posts:
-frozen: false
 ---
 
 The September 2026 release brings Azul Payara Server & Micro 7.4.0, Payara Community 7.2026.9, as well as Azul Payara Server & Micro 6.42.0 5.91.0 & 4.1.2.191.59.

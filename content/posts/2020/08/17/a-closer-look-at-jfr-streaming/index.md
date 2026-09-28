@@ -15,7 +15,6 @@ related_posts:
   - "how-is-leyden-improving-java-performance-part-2-of-3"
   - "a-glance-into-jfr-class-and-method-tagging"
   - "indexing-all-of-wikipedia-on-a-laptop"
-frozen: false
 ---
 
 *By* [*Marcus Hirt*](https://twitter.com/hirt)*and* [*JP Bempel*](https://twitter.com/jpbempel)

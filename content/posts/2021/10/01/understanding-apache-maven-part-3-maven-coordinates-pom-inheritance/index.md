@@ -13,7 +13,6 @@ related_posts:
   - "understanding-apache-maven-part-1-the-basics"
   - "understanding-apache-maven-part-2-pom-hierarchy"
   - "creating-a-simple-spring-boot-application-in-intellij-idea"
-frozen: false
 ---
 
 In Part 3 of the series, an explanation of dependency coordinates and "distinguishers" as well as a more detailed look at POM hierarchies are covered.

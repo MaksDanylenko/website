@@ -10,7 +10,6 @@ categories:
   - "Java"
   - "Mongo"
 related_posts:
-frozen: false
 ---
 
 In a multi-threaded, distributed environment like MongoDB, when clients execute queries concurrently, operations interleave with one another if they are not isolated, whether those operations involve single-document or multi-document operations.

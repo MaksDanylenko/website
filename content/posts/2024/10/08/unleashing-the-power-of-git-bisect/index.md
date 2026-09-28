@@ -14,7 +14,6 @@ related_posts:
   - "dtrace-revisited-advanced-debugging-techniques"
   - "when-should-we-move-to-microservices"
   - "the-theory-of-debugging"
-frozen: false
 ---
 
 * [The Essence of Debugging with Git](#the-essence-of-debugging-with-git)

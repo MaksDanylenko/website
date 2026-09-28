@@ -15,7 +15,6 @@ related_posts:
   - "azul-and-jetbrains-collaborate-to-enhance-runtime-performance-for-kotlin-workloads"
   - "are-java-security-updates-important"
   - "azul-enhances-readynow-to-solve-javas-warmup-problem-simplify-operations-and-optimize-cloud-costs"
-frozen: false
 ---
 
 Do you want to know which Java JDK distribution is used where for what and when? The time has come again to take the State of Java Survey and share insights while gaining Java ecosystem knowledge.

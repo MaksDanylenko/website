@@ -16,7 +16,6 @@ related_posts:
   - "boxlang-ai-v3-has-landed-multi-agent-orchestration-tooling-skills-and-so-much-more"
   - "introducing-boxlings-an-interactive-teacher-for-boxlang-and-tdd-bdd"
   - "intro-to-the-boxlang-formatter"
-frozen: false
 ---
 
 BoxLang is a modern dynamic JVM language built for rapid application development. It's 100% Java-interoperable, compiles to JVM bytecode, and deployable anywhere from OS to AWS Lambda to Spring Boot. In this episode, we sit down with Luis Majano (CEO of Ortus Solutions and creator of BoxLang) and Cristobal Escobar (BoxLang community manager) to dig into the wave of innovation that has hit the platform over the past few months.

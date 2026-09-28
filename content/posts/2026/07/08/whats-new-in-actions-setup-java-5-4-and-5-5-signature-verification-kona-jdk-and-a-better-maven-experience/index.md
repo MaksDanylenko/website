@@ -13,7 +13,6 @@ related_posts:
   - "a-better-way-to-use-gradle-with-github-actions"
   - "building-secure-ci-cd-pipelines-with-github-actions-for-your-java-application"
   - "devops-for-developers-continuous-integration-github-actions-and-sonar-cloud"
-frozen: false
 ---
 
 If you build Java on GitHub Actions, `actions/setup-java` is almost certainly the first step in your workflow. It installs a JDK, wires up `JAVA_HOME` and the `PATH`, configures Maven `settings.xml`, sets up dependency caching, and registers Maven toolchains — all before your build even starts.

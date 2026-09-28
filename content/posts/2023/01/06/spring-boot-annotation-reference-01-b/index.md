@@ -15,7 +15,6 @@ related_posts:
   - "clean-shutdown-of-spring-boot-applications"
   - "starting-docker-desktop-with-spring-boot"
   - "idempotent-spring-boot-starter"
-frozen: false
 aliases:
   - "/today/spring-boot-annotation-reference-01-b-foojay-io-today/"
 ---

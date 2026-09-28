@@ -16,7 +16,6 @@ related_posts:
   - "foojay-podcast-34"
   - "foojay-podcast-32"
   - "foojay-podcast-56"
-frozen: false
 ---
 
 About one and a half years ago, ChatGPT was launched.

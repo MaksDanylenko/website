@@ -15,7 +15,6 @@ related_posts:
   - "book-review-openjdk-migration-for-dummies-2"
   - "is-openjdk-just-a-drop-in-replacement"
   - "where-production-policy-belongs-building-eliya-in-public"
-frozen: false
 ---
 
 I recently read the free book [OpenJDK Migration for Dummies](https://www.azul.com/openjdk-migration-for-dummies/) by [Simon Ritter](https://www.linkedin.com/in/siritter/). Simon is the Deputy CTO at Azul Systems.

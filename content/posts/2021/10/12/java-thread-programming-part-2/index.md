@@ -13,7 +13,6 @@ related_posts:
   - "java-thread-programming-part-3"
   - "demystifying-jvm-memory-management"
   - "java-thread-programming-part-6"
-frozen: false
 ---
 
 In [our earlier article](https://foojay.io/today/java-thread-programming-part-1/), we explained the background to threading and how to create and start a thread.

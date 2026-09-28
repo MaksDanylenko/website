@@ -4,7 +4,6 @@ description: "Install Java on Linux with a Debian package installer, and find th
 url: "/java-quick-start/install-java/install-java-on-linux/"
 aliases:
   - "/install-java-on-linux/"
-frozen: false
 ---
 
 Is Java not available on your Linux computer yet?

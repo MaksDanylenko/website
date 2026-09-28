@@ -9,7 +9,6 @@ image: "image-3-1024x813.png"
 categories:
   - "Events"
 related_posts:
-frozen: false
 ---
 
 Subject to change, here's the schedule for FOSDEM 2021, which will be a virtual event this year on 6 and 7 February, for the Friends Of OpenJDK devroom, featuring a range of great speakers on a variety of interesting topics related to the usage of Java in the real world.

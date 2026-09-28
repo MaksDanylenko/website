@@ -2,7 +2,6 @@
 title: "Accessibility"
 description: "How accessible foojay.io is, which standard we hold it to, what we know is not there yet, and how to tell us when something blocks you."
 url: "/accessibility/"
-frozen: false
 ---
 
 We want everything on foojay.io to be readable and usable however you browse it —

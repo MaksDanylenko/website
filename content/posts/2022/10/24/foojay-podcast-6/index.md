@@ -17,7 +17,6 @@ related_posts:
   - "how-to-submit-your-next-article-on-foojay-io"
   - "azul-datadog-datastax-jfrog-payara-and-snyk-form-inaugural-foojay-advisory-board"
   - "foojay-podcast-67"
-frozen: false
 aliases:
   - "/today/foojay-podcast-6-welcome-to-foojay/"
 ---

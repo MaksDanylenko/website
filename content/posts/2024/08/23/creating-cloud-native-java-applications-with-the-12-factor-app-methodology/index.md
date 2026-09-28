@@ -19,7 +19,6 @@ related_posts:
   - "effective-cloud-native-java-app-development-with-open-liberty-in-intellij-idea"
   - "effective-cloud-native-development-open-liberty-vs-code"
   - "get-recognized-for-your-cloud-native-java-development-skills-with-this-new-badge"
-frozen: false
 ---
 
 **Learn how you could create cloud-native Java apps that are portable, scalable, and reliable with the 12 factor app methodology and open source Java frameworks.**

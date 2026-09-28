@@ -15,7 +15,6 @@ related_posts:
   - "first-experiments-with-java-on-the-lattepanda-iota"
   - "javafx-links-of-november-2025"
   - "will-openjfx-be-merged-into-openjdk-it-would-be-a-perfect-match-with-java-on-mobile"
-frozen: false
 ---
 
 In this article, we comparatively evaluate four different approaches to render particles in JavaFX in terms of runtime performance.

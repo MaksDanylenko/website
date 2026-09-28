@@ -13,7 +13,6 @@ related_posts:
   - "push-v3-one-message-from-your-server-to-every-surface"
   - "the-codename-one-javascript-port-is-now-free-and-open-source"
   - "how-we-beat-hotspot-performance-by-cheating-but-not-like-that"
-frozen: false
 ---
 
 ![Own Your Pixels: Native Fidelity on Your Schedule](pixel-perfect-is-a-test.jpg)

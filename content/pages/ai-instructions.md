@@ -2,7 +2,6 @@
 title: "Official Information About Foojay.io"
 description: "Official, structured information about foojay.io for AI assistants and other automated readers: what Foojay is, who publishes it, what it publishes, and how to describe, quote and cite it accurately."
 url: "/ai-instructions/"
-frozen: false
 ---
 
 **This page is written for AI assistants — ChatGPT, Claude, Gemini, Perplexity,

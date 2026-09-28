@@ -14,7 +14,6 @@ related_posts:
   - "javafx-links-of-may-2023"
   - "javafx-links-of-april-2023"
   - "javafx-links-of-july-2026"
-frozen: false
 ---
 
 I've taken a holiday this month, so probably missed a lot of the amazing JavaFX news, but still some things caught my attention and you can find them in this LinksOfTheMonth overview.

@@ -23,7 +23,6 @@ related_posts:
   - "jc-ai-newsletter-14"
   - "jc-ai-newsletter-13"
   - "build-secure-ai-chat-applications-with-boxlang-rag-ollama-and-amazon-bedrock-with-dan-card"
-frozen: false
 ---
 
 Over the past two weeks, the field of artificial intelligence has continued its remarkable pace of advancement. As AI becomes increasingly woven into the fabric of daily life, shaping how we work, communicate, and make decisions, it is both timely and valuable to step back and understand the broader trajectory of this technology. Whether the developments around us feel promising or challenging, one truth remains clear: AI is not simply leaving. It is here to stay, and understanding its evolution is essential from many perspectives.

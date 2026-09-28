@@ -13,7 +13,6 @@ related_posts:
   - "visual-recognition-for-chess-with-deep-learning-in-java-on-android"
   - "deep-learning-in-java-for-drug-discovery"
   - "deep-learning-in-java-for-nuclear-physics-using-deep-netts"
-frozen: false
 ---
 
 So you're a Java developer and you want to do some machine learning. Some of the questions that you might be wondering about are—what can machine learning do for me anyway, which library to use, which algorithms, and is there a common standard API?

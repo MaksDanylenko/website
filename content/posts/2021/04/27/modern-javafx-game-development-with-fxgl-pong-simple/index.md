@@ -11,7 +11,6 @@ categories:
   - "JavaFX"
   - "Tutorials"
 related_posts:
-frozen: false
 ---
 
 In this tutorial we will make a very simple clone of the classic Pong game using the [FXGL game engine](https://github.com/AlmasB/FXGL).

@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/aerabi/"
 github: ""
 youtube: ""
 website: "https://x.com/MohammadAliEN"
-frozen: false
 ---

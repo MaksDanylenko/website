@@ -20,7 +20,6 @@ related_posts:
   - "foojay-podcast-28"
   - "foojay-podcast-4"
   - "where-production-policy-belongs-building-eliya-in-public"
-frozen: false
 aliases:
   - "/today/welcome-to-java-22/"
 ---

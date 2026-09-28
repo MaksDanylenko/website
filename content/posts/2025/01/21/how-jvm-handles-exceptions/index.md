@@ -15,7 +15,6 @@ related_posts:
   - "understanding-jvm-memory-layout-with-openjdk24s-new-printmemorymapatexit-vm-option"
   - "dynamic-watermarking-on-the-jvm"
   - "clean-memory-from-finalize-to-cleaner"
-frozen: false
 ---
 
 **It's interesting to know how the JVM runs bytecode instructions… But do you know what is going on when an exception is thrown? How does the JVM handle the delegation of control? What does it look like in the bytecode?**

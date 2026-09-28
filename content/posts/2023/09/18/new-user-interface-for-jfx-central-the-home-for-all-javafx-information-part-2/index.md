@@ -13,7 +13,6 @@ related_posts:
   - "new-user-interface-for-jfx-central-the-home-for-all-javafx-information-part-1"
   - "beginning-javafx-with-intellij"
   - "creating-a-javafx-world-clock-from-scratch-part-1"
-frozen: false
 ---
 
 In [part 1 of this series](https://foojay.io/today/new-user-interface-for-jfx-central-the-home-for-all-javafx-information-part-1/), we looked into the new design of [JFX Central](https://www.jfx-central.com/), the place to be for all JavaFX info.

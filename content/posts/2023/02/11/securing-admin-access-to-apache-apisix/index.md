@@ -15,7 +15,6 @@ related_posts:
   - "geo-routing-with-apache-apisix"
   - "apache-apisix-loves-rust"
   - "dry-your-apache-apisix-config"
-frozen: false
 ---
 
 API Gateways are critical components in one's infrastructure.

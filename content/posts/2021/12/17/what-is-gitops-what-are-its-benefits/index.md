@@ -11,7 +11,6 @@ categories:
   - "Books"
   - "DevOps"
 related_posts:
-frozen: false
 ---
 
 > Let's understand what GitOps is and its benefits. You will also learn how ArgoCD can help with the continuous delivery of Kubernetes-based applications.

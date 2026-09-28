@@ -17,7 +17,6 @@ related_posts:
   - "ask-a-lille-dev-what-java-developers-really-think-about-quality-frameworks-communities-and-careers"
   - "spring-ai-agents-no-second-runtime"
   - "jc-ai-newsletter-16"
-frozen: true
 ---
 
 Every Java developer has been in a code review where the question is simple: "What does this method do?"

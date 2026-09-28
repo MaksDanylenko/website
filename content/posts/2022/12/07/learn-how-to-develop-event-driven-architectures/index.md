@@ -15,7 +15,6 @@ related_posts:
   - "creating-terabyte-sized-queues-with-low-latency"
   - "did-you-know-you-can-create-mappers-without-creating-underlying-objects-in-java"
   - "chronicle-services-building-fast-microservices-with-java"
-frozen: false
 ---
 
 Previously, I wrote [an article on Open source Chronicle Wire](https://foojay.io/today/high-performance-java-serialisation/ "an article on Open source Chronicle Wire"), that discusses how we could serialise an application's state into different message formats.

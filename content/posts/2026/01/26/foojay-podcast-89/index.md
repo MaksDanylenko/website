@@ -13,7 +13,6 @@ related_posts:
   - "optimizing-java-for-the-cloud-native-era-with-quarkus"
   - "not-a-lucid-web3-dream-anymore-x402-erc-8004-a2a-and-the-next-wave-of-ai-commerce"
   - "foojay-podcast-87"
-frozen: false
 ---
 
 For this episode of the Foojay Podcast, we invited the author of three recent posts published on Foojay. And he brought a colleague to get even more expert knowledge in this podcast! We talk about Quarkus, how it is "cloud-native", how it compares to other frameworks, the advantages for developers and managers, etc. We also discussed nano businesses and how they can serve as a model for paying creators of digital content, thanks to x402 and ERC-8004.

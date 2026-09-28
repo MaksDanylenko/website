@@ -18,7 +18,6 @@ related_posts:
   - "book-review-help-your-boss-help-you"
   - "book-review-openjdk-migration-for-dummies-2"
   - "book-review-learn-javafx-game-and-app-development-with-fxgl-17"
-frozen: false
 ---
 
 **I recently completed reading "Get Your Hands Dirty on Clean Architecture" authored by Tom Hombergs and I deem it an indispensable resource for developers aspiring to produce clean code and implement the Hexagonal Architecture. Consequently, I have resolved to compose a review to aid numerous individuals who harbor a fervent interest in technology!**

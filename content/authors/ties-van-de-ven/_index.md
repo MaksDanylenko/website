@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/ties-van-de-ven-a24480a/"
 github: ""
 youtube: ""
 website: "https://x.com/ties_ven"
-frozen: false
 ---

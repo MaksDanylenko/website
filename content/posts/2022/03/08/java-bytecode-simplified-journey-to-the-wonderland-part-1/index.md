@@ -12,7 +12,6 @@ related_posts:
   - "java-bytecode-simplified-journey-to-the-wonderland-part-2"
   - "compiling-java-code-executing-bytecode"
   - "what-is-jvm-bytecode"
-frozen: false
 ---
 
 There are two ways to see a thing. One, see it as it appears to us; two, see it and appreciate it. For example, we get light when we switch on a lightbulb. We press the button and then get busy with our life. Pretty simple, but boring. On the other hand, if we know how the light gets energy from an electrical power grid far from our home with wires and while travelling through the wires and filament, the filament heats up and starts emitting photons, we get to see in the light; we can then appreciate the blessing.

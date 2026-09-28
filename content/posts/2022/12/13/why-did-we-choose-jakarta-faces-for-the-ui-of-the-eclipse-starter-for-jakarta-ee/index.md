@@ -13,7 +13,6 @@ related_posts:
   - "5-things-you-probably-didnt-know-about-java-concurrency"
   - "eight-debugging-tips-for-intellijidea-users-you-never-knew-existed"
   - "offline-crypto-address-validation-in-java"
-frozen: false
 ---
 
 After being taken care of by the [Java Community Process](https://www.jcp.org/en/home/index) (JCP), Java EE is now supported by the [Eclipse Foundation](https://www.eclipse.org/org/foundation/) as [Jakarta EE](https://jakarta.ee/).

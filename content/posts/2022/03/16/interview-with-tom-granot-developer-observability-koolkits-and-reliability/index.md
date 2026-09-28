@@ -15,7 +15,6 @@ related_posts:
   - "the-debugger-checklist-part-ii"
   - "what-is-debugging-in-140-seconds"
   - "warm-up-fast-run-lean-vertical-scaling-for-java-on-kubernetes-with-azul-prime-and-kedify"
-frozen: false
 ---
 
 In preparation for the upcoming [Developer Observability Masterclass](https://www.linkedin.com/events/developerobservabilitymastercla6909167343625482241/about/) we're hosting at Lightrun with [Thoughtworks](https://www.thoughtworks.com/), [RedMonk](https://redmonk.com/) and [JFrog](https://jfrog.com/), I sat down for a brief interview with Tom Granot - the Director of Developer Relations at Lightrun.

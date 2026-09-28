@@ -14,7 +14,6 @@ related_posts:
   - "foojay-podcast-95"
   - "foojay-podcast-94"
   - "foojay-podcast-93"
-frozen: false
 ---
 
 What if you could run 35 AWS services locally in under 25 milliseconds, using just 13 megabytes of memory, with a single Docker command and no cloud bill? That's exactly what Floci does.

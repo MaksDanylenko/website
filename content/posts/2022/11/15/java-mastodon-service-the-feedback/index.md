@@ -14,7 +14,6 @@ related_posts:
   - "foojay-podcast-6"
   - "foojay-a-place-for-friends-of-openjdk-adt-magazine"
   - "foojay-mastodon-service-here-it-is"
-frozen: false
 ---
 
 Yesterday we launched this idea: [Let's Start a Java Mastodon Community for Friends Of OpenJDK!](https://foojay.io/today/lets-start-a-java-mastodon-community-for-friends-of-openjdk/).

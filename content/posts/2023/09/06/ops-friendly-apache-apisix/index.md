@@ -13,7 +13,6 @@ related_posts:
   - "poor-mans-api"
   - "kubernetes-gateway-api"
   - "apache-apisix-loves-rust"
-frozen: false
 ---
 
 **Though I always worked on the Dev side of IT, I was also interested in the Ops side. I even had a short experience being a WebSphere admin: I used it several times, helping Ops deal with the Admin console while being a developer.**

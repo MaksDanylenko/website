@@ -5,7 +5,6 @@ description: "Java Quick Start Tutorial: Write and run your first Java program w
 url: "/java-quick-start/quick-start-tutorial/hello-world/"
 aliases:
   - "/getting-started-with-java/quick-start-tutorial/helloworld-running-a-single-file-java-application/"
-frozen: false
 duration: "2:42"
 weight: 2
 ---

@@ -15,7 +15,6 @@ related_posts:
   - "boldness-in-refactoring"
   - "book-review-get-your-hands-dirty-on-clean-architecture"
   - "debug-like-a-senior-developer"
-frozen: false
 ---
 
 Code reviews are a cornerstone of software development. They're where we share knowledge, catch bugs early, and ensure our code meets the highest standards.

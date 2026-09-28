@@ -13,7 +13,6 @@ related_posts:
   - "metal-and-skins"
   - "navigating-the-challenges-of-modern-software-development-an-exclusive-interview-with-shai-almog"
   - "production-horrors-handling-disasters-public-debrief"
-frozen: false
 ---
 
 ![Skills, Java 17, And Theme Accents](skills-java17-and-theme-accents.jpg)

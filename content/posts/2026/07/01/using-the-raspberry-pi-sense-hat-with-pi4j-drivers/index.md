@@ -16,7 +16,6 @@ related_posts:
   - "bringing-raspberry-pi-development-to-quarkus-with-the-quarkus-pi4j-extension"
   - "controlling-a-led-strip-with-pi4j-and-jbang"
   - "controlling-electronics-with-jbang-on-the-raspberry-pi"
-frozen: false
 ---
 
 {{< img src="duke_sensehat-819x1024.jpg" class="alignleft is-resized" style="width:250px" >}}

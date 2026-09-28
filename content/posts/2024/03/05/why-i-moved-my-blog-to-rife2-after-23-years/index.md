@@ -16,7 +16,6 @@ related_posts:
   - "web-app-startup-in-3ms-with-rife2-and-graalvm"
   - "introducing-bld-a-new-pure-java-build-system"
   - "offline-crypto-address-validation-in-java"
-frozen: false
 ---
 
 In April 2023, I decided to move [my blog](https://erik.thauvin.net/blog/ "my blog") to [RIFE2](https://rife2.com/), a full-stack framework. It was previously built [using my own custom JSP tag library](https://erik.thauvin.net/blog/stories//15/behind-this-blog), which ran non-stop for 23 years. At one point in time, it was handling close to 5 connections per second, or around 12 million a month, on a single Apache/Tomcat instance.

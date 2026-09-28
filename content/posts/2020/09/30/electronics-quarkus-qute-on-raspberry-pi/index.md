@@ -17,7 +17,6 @@ related_posts:
   - "bringing-raspberry-pi-development-to-quarkus-with-the-quarkus-pi4j-extension"
   - "crafting-your-own-railway-display-with-java"
   - "a-fresh-look-at-embedded-java"
-frozen: false
 ---
 
 The "Hello World" version of electronics programming is a blinking LED. But, in this post, we will go a few steps further and control 8 LEDs inside a number display.

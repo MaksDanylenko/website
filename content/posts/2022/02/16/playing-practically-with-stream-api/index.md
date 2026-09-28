@@ -13,7 +13,6 @@ related_posts:
   - "book-review-java-by-comparison"
   - "journeys-in-java-level-1-building-an-empire-of-microservices"
   - "debugging-streams-and-collections"
-frozen: false
 ---
 
 We can find many Stream API examples on Google, but most of them don't represent real life scenarios. Hence, it often remains a black box to understand the power of the Stream API for many rising programmers.

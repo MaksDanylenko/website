@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/hakdogan/"
 github: ""
 youtube: ""
 website: "https://x.com/hakdoganhoca"
-frozen: false
 ---

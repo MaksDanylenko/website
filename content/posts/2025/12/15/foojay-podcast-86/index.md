@@ -15,7 +15,6 @@ related_posts:
   - "foojay-podcast-84"
   - "foojay-podcast-83"
   - "foojay-podcast-82"
-frozen: false
 ---
 
 ***The AI revolution isn't replacing Java developers. No, it's forcing us to think harder.***

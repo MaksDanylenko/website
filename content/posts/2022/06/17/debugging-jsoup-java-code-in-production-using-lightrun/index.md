@@ -15,7 +15,6 @@ related_posts:
   - "debugging-jaxb-production-issues"
   - "debugging-race-conditions-in-production"
   - "get-started-with-allocation-profiling"
-frozen: false
 ---
 
 Scraping websites built for modern browsers is far more challenging than it was a decade ago.

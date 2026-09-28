@@ -15,7 +15,6 @@ related_posts:
   - "agents-meet-databases-the-future-of-agentic-architectures"
   - "atlas-online-archive-efficiently-manage-the-data-lifecycle"
   - "atlas-searching-with-the-java-driver"
-frozen: false
 ---
 
 Modern data-driven systems. ETL pipelines are no longer simply scheduled background processes that run silently overnight, one after another. They are the backbone of real-time analytics, powering operational dashboards and recommendation systems. They enable machine learning workflows.

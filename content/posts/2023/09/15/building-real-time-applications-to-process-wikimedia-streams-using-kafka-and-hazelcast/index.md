@@ -19,7 +19,6 @@ related_posts:
   - "getting-more-mileage-out-of-kafka-openjdk-vs-azul-prime"
   - "when-speed-matters-real-time-stream-processing-with-hazelcast-and-redpanda"
   - "micrometer-prometheus-in-spring-boot-kafka-burger-orders"
-frozen: false
 ---
 
 **In this tutorial, developers, solution architects, and data engineers can learn how to build high-performance, scalable, and fault-tolerant applications that react to real-time data using Kafka and Hazelcast.**

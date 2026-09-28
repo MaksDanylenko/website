@@ -11,7 +11,6 @@ categories:
   - "Java Core"
 related_posts:
   - "optional-stream"
-frozen: false
 ---
 
 Last week, I [described a use-case](https://blog.frankel.ch/real-world-stream-collector/) for a custom Stream `Collector`. I received a intriguing comment on Twitter:

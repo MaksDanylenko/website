@@ -15,7 +15,6 @@ related_posts:
   - "how-to-beautify-your-github-repo"
   - "github-actions-with-java-part-1"
   - "boxlang-aws-azure-and-google-secrets-manager-module-released"
-frozen: false
 ---
 
 Regular readers of my articles know that I'm using [Jekyll](https://jekyllrb.com/) to generate my static blog site, together with GitLab. When I push on the `master` branch, it triggers the generation job.

@@ -10,7 +10,6 @@ image: "cover_large.jpg"
 categories:
   - "Library"
 related_posts:
-frozen: false
 ---
 
 Fun fact, I thought I had already written this post, but when I wanted to reference it, I found out that I didn't. In this post, I'd like to describe my approach when choosing a dependency. I'll first define what I mean by dependency in the context of this post. Then, I'll list a grid of several criteria to analyze possible dependencies with.

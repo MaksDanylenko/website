@@ -14,7 +14,6 @@ related_posts:
   - "jreleaser-0-9-0-released"
   - "jreleaser-0-8-0-released"
   - "jreleaser-0-6-0-released"
-frozen: false
 ---
 
 JReleaser is a tool that streamlines creating releases for \[Java\] projects.

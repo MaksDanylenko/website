@@ -15,7 +15,6 @@ related_posts:
   - "idempotent-spring-boot-starter"
   - "effortless-updates-zero-migration"
   - "get-recognized-for-your-cloud-native-java-development-skills-with-this-new-badge"
-frozen: false
 ---
 
 **\[About SKP's Definitive Microservices Primer\]**  

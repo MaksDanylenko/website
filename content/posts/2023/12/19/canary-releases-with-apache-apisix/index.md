@@ -14,7 +14,6 @@ related_posts:
   - "chopping-monolith"
   - "how-to-beautify-your-github-repo"
   - "dry-your-apache-apisix-config"
-frozen: false
 ---
 
 **In a few words, the idea of canary releases is to deliver a new software version to only a fraction of the users, analyze the results, and decide whether to proceed further or not. If results are not aligned with expectations, roll back; if they are, increase the number of users exposed until all users benefit from the new version.**

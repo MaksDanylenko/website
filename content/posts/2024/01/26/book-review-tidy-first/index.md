@@ -13,7 +13,6 @@ related_posts:
   - "book-review-designing-apis-with-swagger-and-openapi"
   - "book-review-effortless-cloud-native-app-development-using-skaffold"
   - "book-review-persistence-best-practices-for-java-applications"
-frozen: false
 ---
 
 ![Tidy first](learning-oreilly-com-a8475420.jpg)

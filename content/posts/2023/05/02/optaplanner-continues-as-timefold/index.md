@@ -14,7 +14,6 @@ related_posts:
   - "7-reasons-to-switch-to-openjdk-17-as-a-jakarta-ee-developer"
   - "9-outdated-ideas-about-java"
   - "jc-ai-newsletter-16"
-frozen: true
 ---
 
 **OptaPlanner is an Open Source project used globally to optimize operational planning. Every day, it saves thousands of organizations time, money and resources.**

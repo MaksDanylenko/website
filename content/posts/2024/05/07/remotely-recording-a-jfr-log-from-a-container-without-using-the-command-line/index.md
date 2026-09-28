@@ -14,7 +14,6 @@ related_posts:
   - "using-java-flight-recorder-and-mission-control-part-2"
   - "using-java-flight-recorder-and-mission-control-part-3"
   - "java-native-memory-allocation-ffm-api"
-frozen: false
 ---
 
 Java Flight Recorder (JFR) is the go-to technology for recording and viewing JVM and system metrics.

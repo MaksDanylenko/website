@@ -14,7 +14,6 @@ related_posts:
   - "discovering-the-secrets-to-success-an-exclusive-interview-with-java-champion-michael-p-redlich"
   - "easily-manage-different-java-versions-on-your-machine-with-sdkman"
   - "jug-ph-1h-2024-meetups"
-frozen: false
 ---
 
 ## JUG PH: ING Partnership, Certification and Generative AI

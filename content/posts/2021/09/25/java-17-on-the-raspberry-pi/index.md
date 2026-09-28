@@ -16,7 +16,6 @@ related_posts:
   - "building-openjdk-from-github-sources-on-64-bit-raspberry-pi"
   - "64-bit-raspbian-os-on-raspberry-pi-4-with-usb-boot"
   - "a-fresh-look-at-embedded-java"
-frozen: false
 ---
 
 As part of the [Foojay Virtual OpenJDK 17+ JUG Tour](https://foojay.io/today/schedule-for-foojay-virtual-openjdk-17-jug-tour/), I was asked to present the state of Java and JavaFX 17 on the Raspberry Pi.

@@ -9,7 +9,6 @@ image: "Favicon-3-2.png"
 categories:
   - "Security"
 related_posts:
-frozen: false
 ---
 
 With XML eXternal Entity (XXE) enabled, it is possible to create a malicious XML, as shown below, and read the content of an arbitrary file on the machine. It's not a surprise that XXE attacks are part of the OWASP Top 10 vulnerabilities. Java XML libraries are particularly vulnerable to XXE injection because most XML parsers have external entities by default enabled.

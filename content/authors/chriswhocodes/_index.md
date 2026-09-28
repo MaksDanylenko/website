@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/chriswhocodes/"
 github: ""
 youtube: ""
 website: "https://chriswhocodes.com"
-frozen: false
 ---

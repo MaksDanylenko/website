@@ -14,7 +14,6 @@ related_posts:
   - "scalable-enterprise-java-for-the-cloud"
   - "jakarta-data-makes-persistence-a-breeze"
   - "goodbye-payara-community-6-on-to-the-next-chapter-with-payara-community-7"
-frozen: false
 ---
 
 Something has been in the works since [Azul completed its acquisition of Payara in December 2025](https://www.azul.com/company/payara-acquisition/ "Azul completed its acquisition of Payara in December 2025"), and today we're ready to share it: the community edition of Payara has a new name and logo – but not so very different from the one you already know!

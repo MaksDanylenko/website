@@ -15,7 +15,6 @@ related_posts:
   - "is-it-time-to-go-back-to-the-monolith"
   - "when-should-we-move-to-microservices"
   - "everything-bad-in-java-is-good-for-you"
-frozen: false
 ---
 
 **Table of Contents**

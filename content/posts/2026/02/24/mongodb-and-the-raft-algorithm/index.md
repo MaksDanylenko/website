@@ -14,7 +14,6 @@ related_posts:
   - "atlas-searching-with-the-java-driver"
   - "best-practices-for-deploying-mongodb-in-kubernetes"
   - "building-a-real-time-ai-fraud-detection-system-with-spring-kafka-and-mongodb"
-frozen: false
 ---
 
 [MongoDB's replica](https://www.mongodb.com/docs/manual/replication/?utm_campaign=devrel&utm_source=third-party-content&utm_medium=cta&utm_content=mongodb-raft-foojay&utm_term=tony.kim) set architecture uses distributed consensus to ensure consistency, availability, and fault tolerance across nodes. At the core of this architecture is the **Raft consensus algorithm**, which breaks the complexities of distributed consensus into manageable operations: leader election, log replication, and commitment. This document explores how MongoDB integrates and optimizes Raft for its high-performance replication needs.  

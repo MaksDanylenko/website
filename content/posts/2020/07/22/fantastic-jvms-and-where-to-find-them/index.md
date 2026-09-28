@@ -13,7 +13,6 @@ related_posts:
   - "embracing-jvm-unified-logging"
   - "learning-java-as-a-first-language"
   - "running-single-file-java-source-code-without-compiling-part-1"
-frozen: false
 ---
 
 Since you're reading this blog, chances are that you're writing software which will eventually run on a JVM. Most of you are using the Java language. Many of you are using a variety of other languages that target the JVM, such as Scala, Kotlin, Clojure, Groovy, (J)Ruby etc. Eventually you'll need to decide on which JDK/JRE to deploy your software on in production. This is much easier said than done. There are quite a few different vendors out there, providing support and taking responsibility for the binaries they produce. They can have different support lengths for specific versions, and whereas you can sometimes find a vendor providing extended support for a version that has been officially end-of-lifed at Oracle, you may not find builds with the latest fixes in them publicly available. You'll need to get those directly from the vendor.

@@ -14,7 +14,6 @@ related_posts:
   - "blockhound-how-it-works"
   - "chopping-monolith"
   - "foojay-podcast-20"
-frozen: false
 ---
 
 A ruthless battle occurs every day on the World Wide Web. Its goal is to decide which programming flavor is the best: or ? I assume that imperative and procedural programming are not part of the contenders.

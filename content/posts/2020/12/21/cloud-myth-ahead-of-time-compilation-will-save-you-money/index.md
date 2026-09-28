@@ -14,7 +14,6 @@ related_posts:
   - "is-java-jakarta-ee-cloud-native"
   - "how-to-bring-your-java-microservices-to-the-cloud"
   - "enterprise-java-in-practice-fragmentation-platforms-and-real-world-trade-offs"
-frozen: false
 ---
 
 There is a lot of interest in the server-side Java community around using ahead of time (AOT) native compilation provided by [Graal Substrate VM](https://www.graalvm.org/reference-manual/native-image/SubstrateVM/ "Graal Substrate VM") to drive down memory usage and cold start times of Java microservices.

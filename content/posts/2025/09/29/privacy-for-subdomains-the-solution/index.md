@@ -11,7 +11,6 @@ categories:
   - "Java"
 related_posts:
   - "privacy-for-subdomains-the-problem"
-frozen: false
 ---
 
 Last week, I described a [gloomy situation](https://blog.frankel.ch/privacy-subdomains/1/): all public TLS certificate providers log your requests. By browsing through the subdomains, one can get their respective IP addresses. If one of them points to your home route, they know your general location.

@@ -14,7 +14,6 @@ related_posts:
   - "foojay-podcast-78"
   - "foojay-podcast-77"
   - "foojay-podcast-76"
-frozen: false
 ---
 
 This is part 2 of the interviews recorded on September 19th, 2025, at the first [AI4Devs conference](https://amsterdam.ai4devs.io/) in Amsterdam. In Part 1, we explored many AI-related topics as libraries, security, infrastructure, use cases, and more. In this second part, we'll dive into data science, tools for better AI development, Java in the cloud, and get a behind-the-scenes look at how the conference came together.

@@ -13,7 +13,6 @@ related_posts:
   - "patterns-for-the-design-of-microservices-part-1"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "stochastic-ai-agility-breaking-cycles-of-debt"
-frozen: false
 ---
 
 Welcome back to the journey through the world of **Scrum** ! If you've read [Part 1](https://foojay.io/today/unlocking-scrum-a-software-engineers-journey-part-1/), you're already familiar with the basics of Scrum and how it can help teams manage their work efficiently. Now, let's dive deeper and explore a day in the life of Alex, a software engineer in a Payment Scrum Team.

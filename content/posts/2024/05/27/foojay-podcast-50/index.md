@@ -24,7 +24,6 @@ related_posts:
   - "foojay-podcast-48"
   - "foojay-podcast-47"
   - "foojay-podcast-36"
-frozen: false
 ---
 
 This is part 2 of the interviews we recorded at the JCON conference earlier this month in Germany. In this episode, you get two main topics: **Maven and Code Quality**.

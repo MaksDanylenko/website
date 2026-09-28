@@ -14,7 +14,6 @@ related_posts:
   - "dockerizing-a-java-26-project-with-docker-init"
   - "official-azul-zulu-openjdk-images-now-available-on-docker-hub"
   - "run-a-java-lambda-function-from-a-docker-image"
-frozen: false
 ---
 
 Since Docker announced that it would remove unused images from Docker Hub, I've been interested in listing places where I could host mine.

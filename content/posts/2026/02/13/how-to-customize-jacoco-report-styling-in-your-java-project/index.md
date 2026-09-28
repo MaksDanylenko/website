@@ -14,7 +14,6 @@ related_posts:
   - "pitest-do-you-test-your-tests"
   - "how-to-find-dead-code-in-your-java-services"
   - "embracing-java-17-heres-what-we-learned-at-picnic"
-frozen: false
 ---
 
 JaCoCo is the go-to code coverage tool for Java projects. It integrates seamlessly with Maven, generates detailed HTML reports, and works out of the box. But let's be honest — the default reports look like they were designed in 2008, because they were.

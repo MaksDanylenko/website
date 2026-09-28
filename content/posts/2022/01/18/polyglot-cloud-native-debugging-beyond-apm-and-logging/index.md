@@ -15,7 +15,6 @@ related_posts:
   - "the-debugger-checklist-part-ii"
   - "debugging-ram-java-garbage-collection-java-heap-deep-dive-part-1"
   - "optimizing-the-garbage-collector-when-migrating-cloud-workloads"
-frozen: true
 ---
 
 **I've done quite a few conference talks since I became a developer advocate for [Lightrun](https://lightrun.com/). One of my most popular talks has a title similar to the title of this article. In this article I'll try to cover the gist of the talk.**

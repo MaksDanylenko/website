@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/michal-broz-16a5399a/"
 github: ""
 youtube: ""
 website: ""
-frozen: false
 ---

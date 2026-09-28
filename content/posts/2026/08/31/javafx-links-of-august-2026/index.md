@@ -13,7 +13,6 @@ related_posts:
   - "javafx-links-of-june-2026"
   - "javafx-links-of-may-2026"
   - "javafx-links-of-april-2026"
-frozen: false
 ---
 
 Here are the JavaFX LinksOfTheMonth of August 2026. We took a summer break, so there was only one "Links Of The Week" this month, and it covers all of August. We hope you had a great summer and are ready for more JavaFX news in the coming weeks!

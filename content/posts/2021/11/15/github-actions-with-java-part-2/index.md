@@ -14,7 +14,6 @@ related_posts:
   - "container-awareness-for-java"
   - "continuous-production-profiling-and-diagnostics"
   - "whats-new-in-actions-setup-java-5-4-and-5-5-signature-verification-kona-jdk-and-a-better-maven-experience"
-frozen: false
 ---
 
 {{< img src="distro-choice.jpg" class="alignright is-resized" alt="Distro Choice 337" width="308" height="465" >}}

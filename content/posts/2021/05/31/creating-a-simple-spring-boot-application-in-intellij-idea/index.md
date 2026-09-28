@@ -15,7 +15,6 @@ related_posts:
   - "beginning-javafx-with-intellij"
   - "creating-a-javafx-world-clock-from-scratch-part-1"
   - "ask-a-lille-dev-what-java-developers-really-think-about-quality-frameworks-communities-and-careers"
-frozen: false
 ---
 
 This tutorial uses IntelliJ IDEA Ultimate because we want to create a new project using Spring Initializr. This functionality is only available with IntelliJ IDEA Ultimate. It is based off [Building an Application with Spring Boot](https://spring.io/guides/gs/spring-boot/).

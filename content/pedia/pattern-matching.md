@@ -2,7 +2,6 @@
 title: "Pattern Matching"
 description: "Pattern matching is a set of language features that allow you to test the structure or type of a value and extract components from it in a single, concise expression. Java has added pattern matching incrementally since Java 14, progressively ..."
 url: "/pedia/pattern-matching/"
-frozen: false
 ---
 
 Pattern matching is a set of language features that allow you to test the structure or type of a value and extract components from it in a single, concise expression. Java has added pattern matching incrementally since Java 14, progressively replacing verbose, error-prone type-checking idioms.

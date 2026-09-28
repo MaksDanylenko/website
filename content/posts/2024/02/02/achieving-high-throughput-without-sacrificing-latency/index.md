@@ -17,7 +17,6 @@ related_posts:
   - "building-custom-solutions-vs-buy-and-build-software"
   - "challenges-when-developing-a-gui-for-fix"
   - "the-high-availability-features-of-microservices-using-chronicle-services"
-frozen: false
 ---
 
 ## Latency and Throughput

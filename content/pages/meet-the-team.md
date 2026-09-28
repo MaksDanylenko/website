@@ -10,7 +10,6 @@ aliases:
   # this line 404s it.
   - "/team/"
   - "/about-our-team/"
-frozen: false
 ---
 
 **Foojay is run by a small team of Java community people, backed by a much larger group of contributors, authors and podcast guests who make the site what it is day to day. Here's who's steering the ship.**

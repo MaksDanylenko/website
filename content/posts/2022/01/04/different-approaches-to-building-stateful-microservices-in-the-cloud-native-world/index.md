@@ -16,7 +16,6 @@ related_posts:
   - "book-review-effortless-cloud-native-app-development-using-skaffold"
   - "container-awareness-for-java"
   - "announcing-cloud-native-boxlang-for-5-month"
-frozen: false
 ---
 
 ![Snow-capped mountains and landscape with clouds](pexels-photo-164170-7a0a6049.jpeg) Cloud Native computing is all about working with stateless data and serverless systems. But we all live in a stateful world, in which data flows through systems interconnected with one another through complex networks.

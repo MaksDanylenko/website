@@ -13,7 +13,6 @@ related_posts:
   - "billion-events-per-second-with-millisecond-latency"
   - "enriching-kafka-applications-with-contextual-data"
   - "hazelcast-kibana-best-buddies-for-exploring-visualizing-data"
-frozen: false
 ---
 
 The goal of similarity search and vector databases is to find similar results to the search query for unstructured data, such as text, images and videos. The unstructured data first is vectorised, and stored in a vector format. There are publicly available tools to create vectors from unstructured data, similarly, there are vector databases to store and perform similarity searches. This is important because of the rising popularity of Large Language Models (LLMs) and their combination with vector databases.

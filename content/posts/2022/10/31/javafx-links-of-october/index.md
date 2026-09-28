@@ -13,7 +13,6 @@ related_posts:
   - "javafx-links-of-june-2026"
   - "javafx-links-of-may-2026"
   - "javafx-links-of-april-2026"
-frozen: false
 ---
 
 When I (re)started the JavaFX Links Of The Week on [jfx-central.com](https://www.jfx-central.com/home) in September, I was wondering if there would be enough material to share every week.

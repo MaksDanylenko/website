@@ -13,7 +13,6 @@ related_posts:
   - "blockhound-how-it-works"
   - "chopping-monolith"
   - "competing-for-the-crown-a-friendly-debate-on-the-future-of-java-and-kotlin-on-foojay-io-today"
-frozen: false
 ---
 
 The JVM is an excellent platform for monkey-patching.

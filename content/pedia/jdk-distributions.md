@@ -2,7 +2,6 @@
 title: "JDK Distributions"
 description: "The OpenJDK project publishes source code, not binaries. To actually run Java, you need a distribution: a pre-built, tested binary of OpenJDK packaged by a vendor. Multiple vendors publish OpenJDK distributions, each adding their own packaging, support commitments, and sometimes ..."
 url: "/pedia/jdk-distributions/"
-frozen: false
 ---
 
 The OpenJDK project publishes source code, not binaries. To actually run Java, you need a **distribution**: a pre-built, tested binary of OpenJDK packaged by a vendor. Multiple vendors publish OpenJDK distributions, each adding their own packaging, support commitments, and sometimes additional features or patches.

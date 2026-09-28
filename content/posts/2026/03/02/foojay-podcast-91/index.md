@@ -15,7 +15,6 @@ related_posts:
   - "command-completion-intellij-idea"
   - "youre-invited-to-intellij-idea-conf-2026"
   - "eight-debugging-tips-for-intellijidea-users-you-never-knew-existed"
-frozen: false
 ---
 
 In this Foojay Podcast, we're celebrating a major milestone in Java development history: 25 years of IntelliJ IDEA.

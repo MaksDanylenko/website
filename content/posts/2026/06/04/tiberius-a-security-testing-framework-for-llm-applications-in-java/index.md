@@ -20,7 +20,6 @@ related_posts:
   - "boxlang-ai-3-2-0-image-generation-web-search-fluent-audio-agent-registry-mcp-observability"
   - "jc-ai-newsletter-9"
   - "build-secure-ai-chat-applications-with-boxlang-rag-ollama-and-amazon-bedrock-with-dan-card"
-frozen: false
 ---
 
 ## Tiberius: A Security Testing Framework for LLM Applications in Java

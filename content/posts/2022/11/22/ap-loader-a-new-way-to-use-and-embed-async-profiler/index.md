@@ -15,7 +15,6 @@ related_posts:
   - "contributing-to-openjdk-mission-control"
   - "debugging-ram-detect-fix-memory-leaks-in-managed-languages-heap-deep-dive-part-2"
   - "using-async-profiler-and-jattach-programmatically-with-ap-loader"
-frozen: false
 ---
 
 Using [async-profiler](https://github.com/jvm-profiling-tools/async-profiler) can be quite a hassle.

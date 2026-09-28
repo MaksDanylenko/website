@@ -16,7 +16,6 @@ related_posts:
   - "developing-an-enterprise-level-apache-cassandra-sink-connector-for-apache-pulsar"
   - "k8ssandra-production-ready-platform-for-running-apache-cassandra-on-kubernetes"
   - "why-developers-should-use-apache-pulsar"
-frozen: false
 ---
 
 DataStax recently announced the availability of [Fast JMS for Apache Pulsar](https://github.com/datastax/pulsar-jms), a JMS 2.0 API. By combining the industry-standard Java Messaging Service (JMS) API with the cloud-native and horizontally scalable Apache Pulsar™ streaming platform, DataStax is providing a powerful way to modernize your JMS infrastructure, improve performance, and reduce costs. Fast JMS is open source and is included in DataStax's Luna Streaming Enterprise support of Apache Pulsar.

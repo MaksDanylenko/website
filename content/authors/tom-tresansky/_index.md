@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/tom-t-373ba0b/"
 github: ""
 youtube: ""
 website: ""
-frozen: false
 ---

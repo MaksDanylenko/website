@@ -9,5 +9,4 @@ linkedin: ""
 github: "https://github.com/spannm"
 youtube: ""
 website: "https://www.speedbanking.de/"
-frozen: false
 ---

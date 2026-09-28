@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/muaath-bin-ali/"
 github: ""
 youtube: ""
 website: "https://x.com/mezoCode"
-frozen: false
 ---

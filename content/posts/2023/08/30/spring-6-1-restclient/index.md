@@ -13,7 +13,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "annotation-free-spring"
   - "jurassic-jdk-migrate-or-extinct"
-frozen: false
 ---
 
 As you might have read in this [blogpost](https://spring.io/blog/2023/07/13/new-in-spring-6-1-restclient), Spring is introducing a `RestClient` in Spring 6.1 to interact with HTTP backends.

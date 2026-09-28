@@ -13,7 +13,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "controlling-electronics-with-jbang-on-the-raspberry-pi"
   - "continuous-production-profiling-and-diagnostics"
-frozen: false
 ---
 
 For over 20 years, I've developed code for the JVM, first in Java, then in Kotlin.

@@ -14,7 +14,6 @@ related_posts:
   - "foojay-podcast-77"
   - "foojay-podcast-76"
   - "foojay-podcast-75"
-frozen: false
 aliases:
   - "/today/foojay-podcast-79-ai4devs-interviews-part-1/"
 ---

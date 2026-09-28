@@ -15,7 +15,6 @@ related_posts:
   - "java-24-rolls-out-today-find-out-why-its-aptly-named"
   - "java-24-whats-new"
   - "are-java-security-updates-important"
-frozen: false
 ---
 
 *Since 2018, we've had a new release of the Java platform every six months. With Swiss watch-like regularity, the latest version of Java is upon us. This time it's JDK 24. In an almost poetic way, it contains 24 JDK Enhancement Proposals (JEPs).*

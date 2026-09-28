@@ -14,7 +14,6 @@ related_posts:
   - "azul-brings-java-from-edge-to-cloud"
   - "faster-java-warmup-crac-versus-readynow"
   - "java-security-starts-with-the-jvm"
-frozen: false
 ---
 
 The **April 2026 quarterly update for Azul Zulu Builds of OpenJDK** is now available. This quarterly release brings **security and bug fixes**, along with a few notable new changes, to all currently supported Java versions.

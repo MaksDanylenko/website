@@ -2,7 +2,6 @@
 title: "Project Leyden"
 description: "Project Leyden is the OpenJDK initiative focused on improving the startup time, warmup time, and footprint of Java programs by capturing and reusing work done in previous runs. Unlike GraalVM Native Image, which produces a self-contained native binary, Leyden keeps ..."
 url: "/pedia/project-leyden/"
-frozen: false
 ---
 
 Project Leyden is the OpenJDK initiative focused on improving the **startup time, warmup time, and footprint** of Java programs by capturing and reusing work done in previous runs. Unlike GraalVM Native Image, which produces a self-contained native binary, Leyden keeps the JVM running — it optimises the JVM's initialisation work, not the compiled code model.

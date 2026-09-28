@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/ji-holua-16987874/"
 github: ""
 youtube: ""
 website: "https://x.com/jholusa"
-frozen: false
 ---

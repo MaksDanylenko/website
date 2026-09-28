@@ -11,7 +11,6 @@ categories:
   - "IntelliJ IDEA"
   - "Tutorials"
 related_posts:
-frozen: false
 ---
 
 In this tutorial, we'll look at exploring project structure with [IntelliJ IDEA](https://www.jetbrains.com/idea/)'s Dependency Matrix.

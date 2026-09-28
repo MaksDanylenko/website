@@ -12,7 +12,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "5-things-you-probably-didnt-know-about-java-concurrency"
   - "java-bytecode-simplified-journey-to-the-wonderland-part-1"
-frozen: false
 ---
 
 Finally, we upgraded to Java 11 from Java 8.

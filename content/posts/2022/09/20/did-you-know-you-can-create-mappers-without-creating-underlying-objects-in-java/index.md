@@ -14,7 +14,6 @@ related_posts:
   - "peter-lawrey-latency-performance"
   - "the-unix-philosophy-for-low-latency"
   - "7-functional-programming-techniques-in-java-a-primer"
-frozen: false
 ---
 
 As most Java developers know, putting values in a Java Map (like a HashMap) involves creating a large number of auxiliary objects under the covers.

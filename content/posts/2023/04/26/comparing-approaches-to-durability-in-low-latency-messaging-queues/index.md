@@ -14,7 +14,6 @@ related_posts:
   - "challenges-when-developing-a-gui-for-fix"
   - "chronicle-fix-designed-not-to-skip-a-message-even-if-your-data-centre-fails"
   - "reducing-tail-latencies-with-chronicle-queue-enterprise"
-frozen: false
 ---
 
 A significant feature of [Chronicle Queue Enterprise](https://chronicle.software/queue-enterprise/?utm_source=foojay&utm_medium=article&utm_campaign=comparing-approaches "Chronicle Queue Enterprise") is support for TCP replication across multiple servers to ensure high availability of application infrastructure.

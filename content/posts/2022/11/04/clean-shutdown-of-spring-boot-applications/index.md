@@ -14,7 +14,6 @@ related_posts:
   - "a-simple-service-with-spring-boot"
   - "annotation-free-spring"
   - "ask-a-lille-dev-what-java-developers-really-think-about-quality-frameworks-communities-and-careers"
-frozen: false
 ---
 
 For the last three to four years, I have been working on Spring Boot and its associations, such as Spring Cloud, Spring Data, and Spring Security.

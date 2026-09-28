@@ -14,7 +14,6 @@ quote: |
 
   Foojay is your OpenJDK dashboard where you go to every day for the latest and greatest information on the OpenJDK, with tips, tricks, and insights into every area of OpenJDK usage, a place of learning for newbies to the OpenJDK world and a place where snippets of curated code content is provided to the benefit of everyone.
 quoteAuthor: "Geertjan Wielenga, Senior Director of Open Source Projects at Azul"
-frozen: false
 ---
 
 Azul is the world’s only company exclusively focused on Java and the Java Virtual Machine (JVM). Founded in 2002, we are a private software company headquartered in Sunnyvale, California with additional Sales, Support, and Engineering locations worldwide.

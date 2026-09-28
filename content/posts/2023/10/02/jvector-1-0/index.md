@@ -14,7 +14,6 @@ related_posts:
   - "adelphi-apache-cassandra-testing-goes-cloud-native"
   - "a-case-for-databases-on-kubernetes-from-a-former-skeptic"
   - "announcing-the-astra-service-broker-tradeoff-free-cassandra-in-kubernetes"
-frozen: false
 ---
 
 JVector is a pure Java embedded vector search engine that powers [DataStax Astra](https://www.datastax.com/products/datastax-astra) and is being [added to Apache Cassandra](https://issues.apache.org/jira/browse/CASSANDRA-18557).

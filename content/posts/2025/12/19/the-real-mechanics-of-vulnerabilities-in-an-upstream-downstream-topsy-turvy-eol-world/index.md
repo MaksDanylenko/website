@@ -9,7 +9,6 @@ categories:
   - "Java"
   - "Security"
 related_posts:
-frozen: false
 ---
 
 ### In this article you'll learn

@@ -15,7 +15,6 @@ related_posts:
   - "low-latency-microservices-a-retrospective"
   - "chronicle-queue-storing-1tb-in-virtual-memory-on-a-128gb-machine"
   - "did-you-know-you-can-create-mappers-without-creating-underlying-objects-in-java"
-frozen: false
 ---
 
 Java serialisation is a popular mechanism where you are able to serialise and deserialise complex object graphs; for example where object A can contain a reference to object B, which in turn has a reference back to object A.

@@ -10,7 +10,6 @@ image: "cover_large-1.jpg"
 categories:
   - "AI"
 related_posts:
-frozen: false
 ---
 
 Most developers now use coding assistants. I do too—Copilot at work, Claude Code at home. As a developer, I prefer not to repeat myself. This post explains why and how to avoid repetition as a skill.

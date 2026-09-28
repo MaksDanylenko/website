@@ -15,7 +15,6 @@ related_posts:
   - "building-simple-home-assistant-langchain4j-raspberry-pi"
   - "foojay-podcast-47"
   - "foojay-podcast-56"
-frozen: false
 ---
 
 Traditionally, many AI-powered applications rely on cloud-based APIs or centralized services for model hosting and execution. While this approach has its advantages, such as scalability and ease of use, it also introduces challenges around latency, data privacy, and dependency on third-party providers.

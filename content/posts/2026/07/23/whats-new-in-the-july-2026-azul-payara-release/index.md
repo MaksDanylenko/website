@@ -15,7 +15,6 @@ related_posts:
   - "get-recognized-for-your-cloud-native-java-development-skills-with-this-new-badge"
   - "creating-cloud-native-java-applications-with-the-12-factor-app-methodology"
   - "payara-cloud-hackathon-is-open-for-sign-ups"
-frozen: false
 ---
 
 The July 2026 release brings Azul Payara 7.2.0, Azul Payara Community 7.2026.7, Azul Payara 6.40.0, Azul Payara 5.89.0, and Azul Payara 4.1.2.191.57. A single security fix runs through every release, backported from the 7 line down to Payara 4: brute force attack prevention for authentication. Enterprise 6.40.0 additionally closes two Jackson CVEs that apply to the 6 line.

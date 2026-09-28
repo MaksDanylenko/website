@@ -11,7 +11,6 @@ categories:
   - "Security"
   - "Tools"
 related_posts:
-frozen: false
 ---
 
 Now that 2021 is well underway, many prominent Java developers have taken the time to predict what 2021 may bring to the Java universe.

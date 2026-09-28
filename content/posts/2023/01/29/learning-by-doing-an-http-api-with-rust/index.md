@@ -14,7 +14,6 @@ related_posts:
   - "the-try-block-in-rust"
   - "parsing-structured-environment-variables-in-rust"
   - "fixing-duplicate-api-requests"
-frozen: false
 ---
 
 When I started working on this post, I had another idea in mind: I wanted to compare the developer experience and performance of Spring Boot and GraalVM with Rust on a demo HTTP API application. Unfortunately, the M1 processor of my MacBook Pro had other ideas.

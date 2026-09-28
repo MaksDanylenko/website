@@ -16,7 +16,6 @@ related_posts:
   - "a-faster-way-to-build-react-spring-boot-apps-using-hilla-1-3"
   - "a-simple-service-with-spring-boot"
   - "a-walk-to-lazy-fetching-with-hibernate-and-spring-data-jpa"
-frozen: false
 ---
 
 In my previous [article](https://foojay.io/today/preparing-for-spring-framework-7-and-spring-boot-4/), I outlined a comprehensive list of features introduced in Spring Framework 7 and Spring Boot 4.

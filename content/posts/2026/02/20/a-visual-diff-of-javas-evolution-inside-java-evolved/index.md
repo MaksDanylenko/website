@@ -12,7 +12,6 @@ related_posts:
   - "a-minor-but-useful-refactoring-technique-that-would-reduce-your-code-footprint-part-1"
   - "announcing-sustainability-for-java-developers-a-new-collaborative-guide-from-the-foojay-io-community"
   - "5-things-you-probably-didnt-know-about-java-concurrency"
-frozen: false
 ---
 
 A community project called [**java.evolved**](https://javaevolved.github.io/) was recently launched to document how common Java coding patterns have changed across releases. Instead of explaining features in isolation, the site presents "before and after" examples: traditional idioms next to modern alternatives.

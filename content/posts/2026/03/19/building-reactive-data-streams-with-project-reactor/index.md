@@ -15,7 +15,6 @@ related_posts:
   - "agents-meet-databases-the-future-of-agentic-architectures"
   - "atlas-online-archive-efficiently-manage-the-data-lifecycle"
   - "atlas-searching-with-the-java-driver"
-frozen: false
 ---
 
 ## Creating Non-Blocking Streaming Endpoints for High-Throughput Applications

@@ -11,7 +11,6 @@ categories:
   - "Java"
   - "Mongo"
 related_posts:
-frozen: false
 ---
 
 Most Spring Boot tutorials tightly wire everything together. Controllers call services, services call repositories, and MongoDB annotations like `@Document` and `@Field` sit right next to your business logic. It works until you need to swap the database, test logic in isolation, or reuse domain rules in a different context.

@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/rjtmahinay/"
 github: ""
 youtube: ""
 website: "https://x.com/rjtmahinay"
-frozen: false
 ---

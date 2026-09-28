@@ -14,7 +14,6 @@ quote: |
 
   It is exciting to see that Foojay covers very different parts of the Java ecosystem and thereby spreads the message that the work done in the larger OpenJDK community is very relevant to many developers, working on server or client technologies, or on both.
 quoteAuthor: "Johan Vos, Gluon co-founder"
-frozen: false
 ---
 
 Gluon enables the Java client-enterprise, by making sure that applications created with Java and JavaFX can be deployed to all kinds of client devices, including desktop, mobile, and embedded, and by providing an easy way to link those client applications with enterprise and Cloud systems.

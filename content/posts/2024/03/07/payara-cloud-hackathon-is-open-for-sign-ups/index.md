@@ -16,7 +16,6 @@ related_posts:
   - "are-java-jakarta-ee-application-servers-heavy"
   - "can-java-jakarta-ee-do-microservices"
   - "creating-cloud-native-java-applications-with-the-12-factor-app-methodology"
-frozen: false
 ---
 
 We're excited to announce that the 2nd edition of Payara Hackathon is now open for sign ups! [Find out more and sign up here!](https://www.payara.fish/page/payara-hackathon-2024/)

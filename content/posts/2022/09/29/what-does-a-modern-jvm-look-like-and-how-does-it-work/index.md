@@ -13,7 +13,6 @@ related_posts:
   - "java-bytecode-simplified-journey-to-the-wonderland-part-2"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "boxlang-1-15-0-released-blazing-fast-strings-runtime-portability-and-much-more"
-frozen: false
 ---
 
 Knowing how to code is fantastic, but it is even more enjoyable if we understand how a specific programming ecosystem works.

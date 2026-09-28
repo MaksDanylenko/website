@@ -2,7 +2,6 @@
 title: "CPU and PSU"
 description: "From Java 9 onward, Oracle moved to a six-month release cadence, releasing a new JDK version every March and September. Security patches, bug fixes, and critical updates are delivered in three ways: CPU (Critical Patch Update) — Oracle's quarterly security ..."
 url: "/pedia/cpu-and-psu/"
-frozen: false
 ---
 
 From Java 9 onward, Oracle moved to a **six-month release cadence**, releasing a new JDK version every March and September. Security patches, bug fixes, and critical updates are delivered in three ways:

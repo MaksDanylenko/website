@@ -15,7 +15,6 @@ related_posts:
   - "chronicle-fix-designed-not-to-skip-a-message-even-if-your-data-centre-fails"
   - "challenges-when-developing-a-gui-for-fix"
   - "using-pausers-in-event-loops"
-frozen: false
 ---
 
 Chronicle's open source [Chronicle Threads](https://github.com/OpenHFT/Chronicle-Threads "Chronicle Threads ") library has a little known feature which is one of the first tools I get from my bag if a client reports that they are seeing latency outliers.

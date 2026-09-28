@@ -18,7 +18,6 @@ related_posts:
   - "aggregation-optimization-in-mongodb-optimizing-many-to-many-relationships-part-3"
   - "introducing-boxlang-ai-explorer-a-local-catalog-for-every-ai-pattern"
   - "build-secure-ai-chat-applications-with-boxlang-rag-ollama-and-amazon-bedrock-with-dan-card"
-frozen: false
 ---
 
 The June 2026 cycle ships the first regular monthly release of the Payara 7 line, plus a critical security fix that lands across every supported branch. Azul Payara 7.1.0 continues the Jakarta EE 11 line that went generally available in May, and is joined by Azul Payara Community 7.2026.6, Azul Payara 6.39.0, Azul Payara 5.88.0, and Azul Payara 4.1.2.191.56.

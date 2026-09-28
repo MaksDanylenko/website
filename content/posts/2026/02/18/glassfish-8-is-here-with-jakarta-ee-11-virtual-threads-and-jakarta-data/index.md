@@ -15,7 +15,6 @@ related_posts:
   - "reflections-on-2024-a-remarkable-year-for-omnifish-glassfish-piranha-and-jakarta-ee"
   - "glassfish-is-rolling-forward-whats-new"
   - "glassfish-embedded-a-simple-way-to-run-jakarta-ee-apps"
-frozen: true
 ---
 
 The final version of Eclipse GlassFish 8 is here, released on 5 February 2026. As a GlassFish committer, I'd like to share what it brings for the Java community and some behind-the-scenes stories from the development process

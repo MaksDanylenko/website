@@ -14,7 +14,6 @@ related_posts:
   - "integrate-executable-java-code-in-your-blog-posts"
   - "integrate-executable-java-code-in-your-blog-posts-part-2-how-to-use-dependencies"
   - "how-to-submit-your-next-article-on-foojay-io"
-frozen: false
 ---
 
 ![](JDoodle-Gokul.png)  

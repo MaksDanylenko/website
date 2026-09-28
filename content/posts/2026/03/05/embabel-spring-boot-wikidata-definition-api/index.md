@@ -12,7 +12,6 @@ categories:
   - "Spring"
   - "Videos"
 related_posts:
-frozen: false
 ---
 
 ## TL;DR

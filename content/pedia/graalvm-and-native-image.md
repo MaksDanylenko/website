@@ -2,7 +2,6 @@
 title: "GraalVM and Native Image"
 description: "GraalVM is a high-performance JDK distribution and runtime developed by Oracle. It extends the standard JDK with two key capabilities: the Graal JIT compiler (a Java-written replacement for HotSpot's C2 JIT that can deliver improved peak throughput for certain workloads) ..."
 url: "/pedia/graalvm-and-native-image/"
-frozen: false
 ---
 
 **GraalVM** is a high-performance JDK distribution and runtime developed by Oracle. It extends the standard JDK with two key capabilities: the **Graal JIT compiler** (a Java-written replacement for HotSpot's C2 JIT that can deliver improved peak throughput for certain workloads) and **Native Image** (an AOT compilation tool that produces self-contained native executables).

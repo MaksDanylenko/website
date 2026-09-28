@@ -11,7 +11,6 @@ categories:
   - "Java"
 related_posts:
   - "privacy-for-subdomains-the-solution"
-frozen: false
 ---
 
 I recently learned about a new way to leak your privacy, and it's a scary one. Before going further, know that I'm not a network engineer: perhaps if you work in this field, you've known it for your whole career, but it's quite new to me. Let me share my findings, and you can judge for yourself.

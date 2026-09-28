@@ -13,7 +13,6 @@ related_posts:
   - "the-debugger-checklist-part-ii"
   - "psa-the-risks-of-remote-jdwp-debugging"
   - "boxlang-aws-azure-and-google-secrets-manager-module-released"
-frozen: true
 ---
 
 ### **Production disasters are sometimes those pileups we can see coming from miles away. But the train is moving so fast we can't possibly stop it. This is one of those stories. In it a combination of bad communication, missing skills, immature technological choices created a pile up.**

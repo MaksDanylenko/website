@@ -15,7 +15,6 @@ related_posts:
   - "agents-meet-databases-the-future-of-agentic-architectures"
   - "atlas-searching-with-the-java-driver"
   - "best-practices-for-deploying-mongodb-in-kubernetes"
-frozen: false
 ---
 
 We often work with Java applications where security begins and ends with authentication. The JWT token is validated, Spring Security is integrated, and an identity provider is added, thinking that this type of configuration is sufficiently secure.

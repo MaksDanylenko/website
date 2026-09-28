@@ -11,7 +11,6 @@ categories:
   - "Kubernetes"
   - "Security"
 related_posts:
-frozen: false
 ---
 
 YAML is a human-readable language to serialize data that's commonly used for config files. The word YAML is an acronym for "YAML ain't a markup language" and was first released in 2001. You can compare YAML to JSON or XML as all of them are text-based structured formats.

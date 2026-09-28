@@ -14,7 +14,6 @@ related_posts:
   - "effective-cloud-native-development-eclipse-ide-open-liberty"
   - "write-once-run-embedded-in-any-ide"
   - "the-visitor-pattern-revisited-using-data-oriented-programming-techniques"
-frozen: false
 ---
 
 The Java language has been evolving at a fast pace with a six month release cadence and preview features.

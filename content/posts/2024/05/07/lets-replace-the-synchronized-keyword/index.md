@@ -15,7 +15,6 @@ related_posts:
   - "how-to-diagnose-and-mitigate-pinning-in-javas-virtual-thread-execution"
   - "web-crawling-in-java-a-tale-of-classical-threads-and-virtual-threads"
   - "relearning-java-thread-primitives"
-frozen: false
 ---
 
 **Let's see in this article different ways to replace the synchronized keyword to make our code more virtual threads friendly.**  

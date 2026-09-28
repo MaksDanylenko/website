@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/fahimfarookme/"
 github: "https://github.com/fahimfarookme"
 youtube: ""
 website: "https://x.com/fahim_asymm"
-frozen: false
 ---

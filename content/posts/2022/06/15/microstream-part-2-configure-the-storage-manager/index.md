@@ -15,7 +15,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "7-functional-programming-techniques-in-java-a-primer"
   - "microstream-part-5-caching-integrations-and-clustering"
-frozen: false
 ---
 
 **In this second article in the series, we cover how to get started configuring the StorageManager of MicroStream!**

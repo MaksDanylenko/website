@@ -10,7 +10,6 @@ categories:
   - "IntelliJ IDEA"
   - "Tools"
 related_posts:
-frozen: false
 ---
 
 ## Live Templates in IntelliJ IDEA

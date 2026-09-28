@@ -18,7 +18,6 @@ related_posts:
   - "event-driven-architecture-and-change-data-capture-made-easy"
   - "running-your-database-on-openshift-and-codeready-containers"
   - "available-now-grpc-for-apache-cassandra"
-frozen: false
 ---
 
 CTOs and enterprise architects have long recognized the importance of event-driven architectures (EDA). While once considered purely a technology concern, the foresight of organizations that have invested in EDA has become readily apparent as the world has shifted around us. In the past decade, we've witnessed changes in nearly every aspect of our technological worlds, and the vast majority of those have been affected in some way by a move toward event-driven, real-time processing.

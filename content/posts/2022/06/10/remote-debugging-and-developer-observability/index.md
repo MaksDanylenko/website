@@ -15,7 +15,6 @@ related_posts:
   - "what-is-debugging-in-140-seconds"
   - "memory-debugging-and-watch-annotations"
   - "get-started-with-allocation-profiling"
-frozen: true
 ---
 
 In this post, we'll go over remote debugging. Debugging production with developer observability tools and debugging asynchronous code which presents its own unique challenges!

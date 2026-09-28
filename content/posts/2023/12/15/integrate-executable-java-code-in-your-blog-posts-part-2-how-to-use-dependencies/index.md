@@ -14,7 +14,6 @@ related_posts:
   - "how-to-submit-your-next-article-on-foojay-io"
   - "join-slack-com-t-foojay-signup"
   - "interview-with-gokul-chandrasekaran-the-creator-of-jdoodle"
-frozen: true
 ---
 
 In a previous post, we [explained how you can add executable Java code to your posts here on Foojay](https://foojay.io/today/integrate-executable-java-code-in-your-blog-posts/), by using JDoodle. In this post, you will learn how you can extend this with one or more libraries.

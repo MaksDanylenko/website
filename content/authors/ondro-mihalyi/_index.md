@@ -9,5 +9,4 @@ linkedin: "https://cz.linkedin.com/in/mihalyiondrej"
 github: ""
 youtube: ""
 website: "https://x.com/OndroMih"
-frozen: false
 ---

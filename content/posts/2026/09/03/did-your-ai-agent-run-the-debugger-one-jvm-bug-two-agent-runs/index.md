@@ -23,7 +23,6 @@ related_posts:
 # in the WP editor. A re-scrape reproduces the damage faithfully, so this file
 # keeps the title from that edit (a real improvement) and the body from before
 # it. Nothing here needs re-fetching; the dump confirms WP has no better copy.
-frozen: true
 ---
 
 Java developers reach for the debugger without thinking about it. Set a breakpoint, run the failing test, look at the variables, then decide what to change.

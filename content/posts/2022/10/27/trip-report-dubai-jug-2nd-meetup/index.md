@@ -15,7 +15,6 @@ related_posts:
   - "7-ways-to-improve-your-code-reading-skills"
   - "a-case-for-databases-on-kubernetes-from-a-former-skeptic"
   - "jug-ph-1h-2024-meetups"
-frozen: false
 ---
 
 This was the second Dubai JUG meetup, yet the first **real** one. The first meetup was more of a practice team building session. Here is a trip report of the second Dubai JUG meetup at the PWC office.

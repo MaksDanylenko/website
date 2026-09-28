@@ -9,7 +9,6 @@ image: "Screenshot-2026-02-25-at-22.43.09.png"
 categories:
   - "AI"
 related_posts:
-frozen: false
 ---
 
 ## How I used Claude Sonnet 4.6 and fleets of GitHub Copilot Coding Agents to internationalize java.evolved — from spec to deployment

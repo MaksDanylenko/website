@@ -14,7 +14,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "a-simple-service-with-spring-boot"
   - "getting-started-with-apache-camel-on-jakarta-ee-10"
-frozen: false
 ---
 
 Java EE has been a dominant force behind all enterprise development in Java. Lately, it was renamed to [Jakarta EE](https://jakarta.ee/), while transitioning to the Eclipse Foundation.

@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/carldea/"
 github: ""
 youtube: "https://www.youtube.com/user/carldea"
 website: "https://x.com/carldea"
-frozen: false
 ---

@@ -24,7 +24,6 @@ related_posts:
   - "foojay-podcast-62"
   - "foojay-podcast-61"
   - "foojay-podcast-92"
-frozen: false
 aliases:
   - "/today/foojay-podcast-64-interviews-at-jfall-about-opensource-openjdk-evolutions-project-loom-jvm/"
 ---

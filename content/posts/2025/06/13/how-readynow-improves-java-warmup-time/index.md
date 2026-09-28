@@ -14,7 +14,6 @@ related_posts:
   - "superfast-application-startup-java-on-crac"
   - "azul-brings-java-from-edge-to-cloud"
   - "the-anatomy-of-a-jvm"
-frozen: false
 ---
 
 ***This is the second article in a series on faster Java application warmup. The first blog post, [Faster Java Warmup: CRaC versus ReadyNow](https://foojay.io/today/faster-java-warmup-crac-versus-readynow/), explained how CRaC and ReadyNow use different methods to achieve faster Java warmup. This post takes a deeper look into how ReadyNow improves Java warmup time and reduces latency.***

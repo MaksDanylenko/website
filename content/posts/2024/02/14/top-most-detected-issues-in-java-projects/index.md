@@ -15,7 +15,6 @@ related_posts:
   - "building-for-failure-best-practices-for-easy-production-debugging"
   - "effective-coding-with-java-observability"
   - "offline-crypto-address-validation-in-java"
-frozen: false
 ---
 
 **Using the telemetry from SonarLint after analyzing thousands of projects, these are the top most raised issues in Java projects.**

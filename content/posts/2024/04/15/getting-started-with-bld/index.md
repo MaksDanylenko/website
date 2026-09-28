@@ -16,7 +16,6 @@ related_posts:
   - "introducing-bld-a-new-pure-java-build-system"
   - "spring-boot-local-development-enhancements-lets-compose"
   - "why-i-moved-my-blog-to-rife2-after-23-years"
-frozen: true
 ---
 
 **bld is an up-and-coming build tool for the Java ecosystem. This article guides you through getting set up to use it in your own projects.**

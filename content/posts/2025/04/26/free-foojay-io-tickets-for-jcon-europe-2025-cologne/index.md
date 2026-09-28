@@ -13,7 +13,6 @@ related_posts:
   - "foojay-podcast-53"
   - "foojay-podcast-52"
   - "foojay-podcast-51"
-frozen: false
 ---
 
 ## 🎉 JCON EUROPE 2025 (May 12–15)

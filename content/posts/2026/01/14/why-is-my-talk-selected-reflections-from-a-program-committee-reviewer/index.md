@@ -15,7 +15,6 @@ related_posts:
   - "api-versioning"
   - "apache-cassandra-4-0-taming-tail-latencies-with-java-16-zgc"
   - "automatic-wildfly-clustering-managed-domain-scaling-containers"
-frozen: false
 ---
 
 If you are like me, get the adrenaline rush of getting up on stage and can't wait to share things that you experienced and learned, then submitting talks to conferences and local meetups excites you.

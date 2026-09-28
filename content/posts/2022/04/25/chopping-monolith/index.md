@@ -15,7 +15,6 @@ related_posts:
   - "deploying-spring-boot-applications-on-kubernetes"
   - "do-you-really-need-kubernetes"
   - "idempotent-spring-boot-starter"
-frozen: false
 ---
 
 If you attend conferences or read technical articles, you could think that microservices are the correct and only way to build a system at the moment.

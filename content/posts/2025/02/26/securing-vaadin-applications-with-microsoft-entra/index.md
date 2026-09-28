@@ -16,7 +16,6 @@ related_posts:
   - "build-web-apps-in-pure-java-with-vaadin-flow"
   - "crafting-your-own-railway-display-with-java"
   - "foojay-podcast-41"
-frozen: false
 ---
 
 Many companies use Microsoft 365, so letting users log in with their Microsoft account is a good choice. This blog post shows how to secure your Vaadin applications using Microsoft Entra for authentication and authorization and explains how Karibu Testing must be configured.

@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/thomasdarimont/"
 github: "https://github.com/thomasdarimont"
 youtube: ""
 website: "https://x.com/thomasdarimont"
-frozen: false
 ---

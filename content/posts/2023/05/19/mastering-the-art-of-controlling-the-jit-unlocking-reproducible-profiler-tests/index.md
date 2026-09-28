@@ -13,7 +13,6 @@ related_posts:
   - "asyncgetstacktrace-a-better-stack-trace-api-for-the-jvm"
   - "do-you-trust-profilers-i-once-did-too"
   - "how-is-leyden-improving-java-performance-part-3-of-3"
-frozen: false
 ---
 
 In my last article, [Using Async-Profiler and Jattach Programmatically with AP-Loader](https://foojay.io/today/using-async-profiler-and-jattach-programmatically-with-ap-loader/), I hinted that I'm currently working on a test library for writing better profiling API tests.

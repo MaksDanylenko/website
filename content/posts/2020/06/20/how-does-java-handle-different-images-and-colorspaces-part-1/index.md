@@ -13,7 +13,6 @@ related_posts:
   - "running-single-file-java-source-code-without-compiling-part-1"
   - "fantastic-jvms-and-where-to-find-them"
   - "highlights-of-changes-to-the-core-java-platform"
-frozen: false
 ---
 
 One of the attractions of Java is the way it abstracts and simplifies many programming constructs. In place of Tiffs, PNGs, JPEGs and other Image formats, you get a simple BufferedImage object. ImageIO and other third-party libraries such as our own [JDeli image library](https://www.idrsolutions.com/jdeli/) provide methods to read and write a BufferedImage.

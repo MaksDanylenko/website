@@ -11,7 +11,6 @@ categories:
   - "Java"
   - "Testing"
 related_posts:
-frozen: false
 ---
 
 I'm currently working on a software designed more than a decade ago. It offers a plugin architecture: you can develop a plugin whose lifecycle is handled by the software. The tough part, though, is how you access the platform capabilities: via static methods on singletons.

@@ -18,7 +18,6 @@ quote: |
 
   The Payara team will be contributing our expertise to Foojay, particularly around Jakarta EE, Cloud Native Java, and Microservices, as well as using it ourselves to learn and build more opportunities for growth.
 quoteAuthor: "Steve Millidge, CEO and Founder of Payara"
-frozen: false
 ---
 
 Open Source Server Runtimes & Support Stable, Supported, Aggressively compatible software for production & containerized Jakarta EE & Microservices deployments.

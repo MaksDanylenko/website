@@ -14,7 +14,6 @@ related_posts:
   - "boxlang-rss-full-featured-rss-atom-feed-module-for-boxlang"
   - "get-started-with-allocation-profiling"
   - "beginners-guide-to-java-profiler"
-frozen: false
 ---
 
 ![Primitive Set Operations in Eclipse Collections - Part 2](foojay-2-featured.png)

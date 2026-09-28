@@ -14,7 +14,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "a-simple-service-with-spring-boot"
   - "annotation-free-spring"
-frozen: true
 ---
 
 **In today's fast-paced development environment, ensuring the performance and reliability of your services is critical. Imagine you are part of a team responsible for several services essential to both internal teams and external customers. These services are the backbone of various business operations, and any downtime or performance degradation can have significant repercussions.**

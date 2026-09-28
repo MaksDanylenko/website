@@ -9,7 +9,6 @@ image: "image-641x1024.jpg"
 categories:
   - "Press"
 related_posts:
-frozen: false
 ---
 
 Today, published [by John K. Waters in ADT Magazine](https://adtmag.com/blogs/watersworks/2021/02/foojay-for-openjdk.aspx):

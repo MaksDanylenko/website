@@ -12,7 +12,6 @@ categories:
   - "Streaming"
   - "Tutorials"
 related_posts:
-frozen: false
 ---
 
 ## A reconciliation that didn't add up

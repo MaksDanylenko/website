@@ -2,7 +2,6 @@
 title: "Virtual Threads"
 description: "Virtual threads, introduced as a preview in Java 19–20 and finalised in Java 21 (JEP 444), are lightweight threads managed by the JVM rather than the operating system. They make it practical to have hundreds of thousands — or even ..."
 url: "/pedia/virtual-threads/"
-frozen: false
 ---
 
 Virtual threads, introduced as a preview in Java 19–20 and **finalised in Java 21** (JEP 444), are lightweight threads managed by the JVM rather than the operating system. They make it practical to have hundreds of thousands — or even millions — of concurrent threads in a single JVM, something that is impossible with traditional OS-backed threads.

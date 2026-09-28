@@ -17,7 +17,6 @@ related_posts:
   - "journeys-in-java-level-2-building-an-empire-of-microservices"
   - "journeys-in-java-level-3-building-an-empire-of-microservices"
   - "journeys-in-java-level-5-building-an-empire-of-microservices"
-frozen: false
 ---
 
 For our next adventure in Java microservices, we want to expand our system for book review data.

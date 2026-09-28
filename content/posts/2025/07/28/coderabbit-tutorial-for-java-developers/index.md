@@ -16,7 +16,6 @@ related_posts:
   - "analyzing-and-tuning-warm-up-of-the-jvm-with-azul-zulu-prime-builds-of-openjdk"
   - "ai-driven-testing-best-practices"
   - "azul-and-jetbrains-collaborate-to-enhance-runtime-performance-for-kotlin-workloads"
-frozen: false
 ---
 
 [CodeRabbit](https://www.coderabbit.ai/ "CodeRabbit") is an AI-powered code review tool that integrates seamlessly with your Git workflow to provide intelligent, automated code reviews.

@@ -2,7 +2,6 @@
 title: "Garbage Collection"
 description: "Garbage Collection (GC) is the process by which the JVM automatically reclaims memory occupied by objects that are no longer reachable by the running application. Java developers do not call free() or delete() as in C or C++; the garbage ..."
 url: "/pedia/garbage-collection/"
-frozen: false
 ---
 
 Garbage Collection (GC) is the process by which the JVM automatically reclaims memory occupied by objects that are no longer reachable by the running application. Java developers do not call `free()` or `delete()` as in C or C++; the garbage collector handles memory management automatically.

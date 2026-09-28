@@ -14,7 +14,6 @@ related_posts:
   - "billion-events-per-second-with-millisecond-latency"
   - "book-review-seriously-good-software"
   - "boxlang-1-15-0-released-blazing-fast-strings-runtime-portability-and-much-more"
-frozen: false
 ---
 
 With the launch of [IBM Semeru Runtimes](https://developer.ibm.com/blogs/introducing-the-ibm-semeru-runtimes/), IBM makes it easier than ever to develop and run Java applications more cost-effectively in hybrid cloud environments, from public cloud to data centers.

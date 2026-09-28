@@ -16,7 +16,6 @@ related_posts:
   - "jugph-continuing-the-connection-with-the-java-enthusiasts"
   - "jug-ph-meetup-4-and-5"
   - "ai4devs-schedule-published"
-frozen: false
 ---
 
 In the last months of 2023, technical conferences took place in the Philippines focusing on Artificial Intelligence (AI), Cloud Computing, Java, Open-source and Data related topics.

@@ -10,7 +10,6 @@ image: "records.jpg"
 categories:
   - "Tutorials"
 related_posts:
-frozen: false
 ---
 
 Ever since Java announced their 6-month release cycle, there is excitement around exploring new features and even more so with preview features.

@@ -15,7 +15,6 @@ related_posts:
   - "atlas-searching-with-the-java-driver"
   - "best-practices-for-deploying-mongodb-in-kubernetes"
   - "beyond-keywords-hybrid-search-with-atlas-and-vector-search-part-3"
-frozen: false
 ---
 
 We need to code our way from the search box to our search index. Performing a search and rendering the results in a presentable fashion, itself, is not a tricky endeavor: Send the user's query to the search server, and translate the response data into some user interface technology. However, there are some important issues that need to be addressed, such as security, error handling, performance, and other concerns that deserve isolation and control.

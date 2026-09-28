@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/svenruppert/"
 github: ""
 youtube: ""
 website: "https://x.com/SvenRuppert"
-frozen: false
 ---

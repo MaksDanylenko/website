@@ -14,7 +14,6 @@ related_posts:
   - "sboms-first-steps-in-a-new-journey-for-developers"
   - "how-to-create-sboms-in-java-with-maven-and-gradle"
   - "solarwinds-hack-and-the-executive-order-of-cybersecurity-what-does-this-mean-for-us"
-frozen: false
 ---
 
 If you've searched for [Maven Central components](http://central.sonatype.com "Maven Central components") in the last six months, you may have noticed some pretty big changes to the website, including a UI facelift and some new component analysis tools like [BOM Doctor](https://bomdoctor.sonatype.com/#/home "BOM Doctor") and the Sonatype Safety Rating.

@@ -14,7 +14,6 @@ related_posts:
   - "book-review-modern-frontends-with-htmx"
   - "foojay-podcast-41"
   - "foojay-podcast-36"
-frozen: false
 ---
 
 **I was experimenting with a Java application that can act as a web server and includes the user interface HTML-files that get modified with htmx, to replace certain parts of the HTML with other ones created in Java.**

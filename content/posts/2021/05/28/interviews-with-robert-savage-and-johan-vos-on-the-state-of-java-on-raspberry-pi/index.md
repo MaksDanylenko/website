@@ -17,7 +17,6 @@ related_posts:
   - "the-javafx-revival"
   - "pi4j-welcomes-java-21-on-the-raspberry-pi"
   - "a-fresh-look-at-embedded-java"
-frozen: true
 ---
 
 > This post is part of an [article published (in German) in Java Magazine](https://kiosk.entwickler.de/java-magazin/java-magazin-6-2021/status-quo-und-expertenstimmen/).

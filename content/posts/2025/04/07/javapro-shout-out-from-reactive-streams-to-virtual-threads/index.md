@@ -14,7 +14,6 @@ related_posts:
   - "eight-debugging-tips-for-intellijidea-users-you-never-knew-existed"
   - "9-outdated-ideas-about-java"
   - "5-more-reasons-to-choose-apache-pulsar-over-apache-kafka"
-frozen: false
 ---
 
 Virtual Threads deliver a fast, cheap (in terms of memory \& switching speed) threading solution for the JVM.

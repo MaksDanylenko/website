@@ -16,7 +16,6 @@ related_posts:
   - "unified-event-driven-architecture-for-the-cloud-native-enterprise"
   - "why-the-cool-kids-use-event-loops"
   - "event-driven-architecture-and-change-data-capture-made-easy"
-frozen: false
 ---
 
 ## History of Services and APIs

@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/hectorvent/"
 github: "https://github.com/hectorvent/"
 youtube: ""
 website: "https://hectorvent.dev"
-frozen: false
 ---

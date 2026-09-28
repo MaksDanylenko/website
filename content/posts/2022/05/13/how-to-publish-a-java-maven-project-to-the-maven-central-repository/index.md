@@ -16,7 +16,6 @@ related_posts:
   - "faster-maven-builds-part-2"
   - "fixing-vulnerabilities-in-maven-projects"
   - "enterprise-java-quality-gates-ai"
-frozen: false
 ---
 
 This guide will describe how to publish the [JDesk framework](https://github.com/tobiasbriones/jdesk) to Maven Central.

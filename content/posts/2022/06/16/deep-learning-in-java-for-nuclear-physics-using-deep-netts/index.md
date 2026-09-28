@@ -16,7 +16,6 @@ related_posts:
   - "visual-recognition-for-chess-with-deep-learning-in-java-on-android"
   - "deep-learning-in-java-for-drug-discovery"
   - "foojay-podcast-56"
-frozen: false
 ---
 
 ![](CLAS12-side.jpg)

@@ -14,7 +14,6 @@ related_posts:
   - "asyncgetstacktrace-a-better-stack-trace-api-for-the-jvm"
   - "java-profiling-overview"
   - "using-async-profiler-and-jattach-programmatically-with-ap-loader"
-frozen: false
 ---
 
 I'm keenly interested in everything related to profiling on the JVM, especially if it is related to AsyncGetCallTrace, this tiny unofficial API that powers most profilers out there, heck, I'm even in the process of adding an [improved version to the OpenJDK](https://mostlynerdless.de/blog/2023/01/19/asyncgetstacktrace-a-better-stack-trace-api-for-the-jvm/), AsyncGetStackTrace.

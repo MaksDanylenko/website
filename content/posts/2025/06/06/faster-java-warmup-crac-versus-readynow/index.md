@@ -16,7 +16,6 @@ related_posts:
   - "analyzing-and-tuning-warm-up-of-the-jvm-with-azul-zulu-prime-builds-of-openjdk"
   - "azul-enhances-readynow-to-solve-javas-warmup-problem-simplify-operations-and-optimize-cloud-costs"
   - "introducing-the-openjdk-coordinated-restore-at-checkpoint-project"
-frozen: false
 ---
 
 *This is the first blog post in a series on faster Java application warmup with ReadyNow.*   

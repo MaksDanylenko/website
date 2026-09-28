@@ -15,7 +15,6 @@ related_posts:
   - "first-experiments-with-java-on-the-lattepanda-iota"
   - "javafx-links-of-november-2025"
   - "will-openjfx-be-merged-into-openjdk-it-would-be-a-perfect-match-with-java-on-mobile"
-frozen: false
 ---
 
 > Good design's not about what medium you're working in. It's about thinking hard about what you want to do and what you have to work with before you start." – Susan Kare [\[6\]](https://en.wikipedia.org/wiki/Susan_Kare "Susan Kare")

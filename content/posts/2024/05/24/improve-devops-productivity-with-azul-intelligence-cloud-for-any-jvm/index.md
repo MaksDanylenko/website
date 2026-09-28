@@ -15,7 +15,6 @@ related_posts:
   - "moving-security-into-the-jvm"
   - "log4j-isnt-killing-java"
   - "java-where-the-wild-code-isnt"
-frozen: false
 ---
 
 For decades DevOps teams have been under pressure to do four things: make software faster, make it cheaper, keep it secure, and accelerate time to market.

@@ -14,7 +14,6 @@ related_posts:
   - "foojay-podcast-33"
   - "foojay-podcast-31"
   - "foojay-podcast-60"
-frozen: false
 ---
 
 In Episodes [33](https://foojay.io/today/foojay-podcast-33/) and [34](https://foojay.io/today/foojay-podcast-34/) of the Foojay Podcast, you got the first two parts of our J-Fall Report.

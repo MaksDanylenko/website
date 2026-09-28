@@ -16,7 +16,6 @@ related_posts:
   - "atlas-searching-with-the-java-driver"
   - "best-practices-for-deploying-mongodb-in-kubernetes"
   - "building-a-real-time-ai-fraud-detection-system-with-spring-kafka-and-mongodb"
-frozen: false
 ---
 
 When we face software development, the biggest mistake is about delivering what the client wants. It sounds like a cliché, but after decades, we are still facing this problem. One good way to solve it is to start the test focusing on what the business needs.

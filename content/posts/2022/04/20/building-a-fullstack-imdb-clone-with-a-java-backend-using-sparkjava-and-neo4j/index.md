@@ -16,7 +16,6 @@ related_posts:
   - "journeys-in-java-level-1-building-an-empire-of-microservices"
   - "journeys-in-java-level-2-building-an-empire-of-microservices"
   - "gear-up-for-nodes-2024-what-to-know"
-frozen: false
 ---
 
 Our [GraphAcademy](https://graphacademy.neo4j.com) is teaching folks starting out in the graph space the fundamentals of the data model, query language, and graph algorithms.

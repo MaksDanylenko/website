@@ -13,7 +13,6 @@ related_posts:
   - "foojay-podcast-64"
   - "foojay-podcast-63"
   - "foojay-podcast-62"
-frozen: false
 ---
 
 With the first Foojay podcast of 2025, we want to help you to boost your career!

@@ -14,7 +14,6 @@ related_posts:
   - "k8ssandra-performance-benchmarks-on-cloud-managed-kubernetes"
   - "6-considerations-when-building-high-performance-java-microservices-with-eda"
   - "everything-bad-in-java-is-good-for-you"
-frozen: false
 ---
 
 Why should Java and database developers care about Virtual Threads? Developers can write faster and more resource efficient applications without having to refactor synchronous code a.k.a. "imperative") JDBC code into asynchronous (a.k.a "reactive") code that is hard to create, debug and maintain.

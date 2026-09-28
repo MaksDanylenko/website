@@ -14,7 +14,6 @@ related_posts:
   - "javafx-links-of-june-2023"
   - "javafx-links-of-may-2023"
   - "javafx-links-of-july-2026"
-frozen: false
 ---
 
 Although I skipped a few weeks because of busy schedules, holiday interruptions, and too few hours in a day, there was still a lot to report in the two #LinksOfTheWeek that were published on [jfx-central.com](https://www.jfx-central.com/) in July.

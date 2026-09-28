@@ -15,7 +15,6 @@ related_posts:
   - "foojay-podcast-68"
   - "foojay-podcast-57"
   - "openjdk-january-2026-critical-patch-update-and-patch-set-update-released"
-frozen: false
 ---
 
 We're excited to present the first episode of the Foojay Podcast's fifth season, marking the release of OpenJDK 25!

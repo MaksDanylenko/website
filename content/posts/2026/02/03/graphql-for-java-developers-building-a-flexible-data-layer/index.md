@@ -15,7 +15,6 @@ related_posts:
   - "atlas-searching-with-the-java-driver"
   - "best-practices-for-deploying-mongodb-in-kubernetes"
   - "beyond-keywords-hybrid-search-with-atlas-and-vector-search-part-3"
-frozen: false
 ---
 
 For many years, REST has been the standard architectural style for creating APIs in the Java ecosystem. Frameworks such as Spring MVC and, more recently, Spring WebFlux make it easy to expose HTTP endpoints with the REST paradigm, supported by well-structured service layers. In many cases, this model works well and serves as the basis for numerous enterprise solutions.

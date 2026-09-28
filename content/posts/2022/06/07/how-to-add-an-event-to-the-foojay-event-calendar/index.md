@@ -14,7 +14,6 @@ related_posts:
   - "how-to-submit-your-next-article-on-foojay-io"
   - "friends-of-openjdk-at-fosdem-2022"
   - "getting-started-with-java-17-and-intellij-idea"
-frozen: true
 ---
 
 Foojay.io, the place for **F**riends **O**f **O**pen**J**DK, is a friendly community of users of the OpenJDK, such as Java developers and Kotlin developers. It is a collaborative community with tips and insights being shared on a daily basis on [Foojay Today](https://foojay.io/today/).

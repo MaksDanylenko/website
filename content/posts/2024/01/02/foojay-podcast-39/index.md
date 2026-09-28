@@ -14,7 +14,6 @@ related_posts:
   - "foojay-podcast-35"
   - "foojay-podcast-32"
   - "foojay-podcast-30"
-frozen: false
 ---
 
 Once a month in this podcast, we talk about the history of a Java User Group and the people behind it.

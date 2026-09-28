@@ -13,7 +13,6 @@ related_posts:
   - "first-test-of-java-on-the-orange-pi-arm-and-risc-v"
   - "java-on-single-board-computers-x86-vs-arm-vs-risc-v"
   - "java-on-raspberry-pi-5-with-pi4j"
-frozen: false
 ---
 
 As part of my 2026 learning goals around Java on RISC-V (see [this post about x86 versus ARM versus RISC-V](https://foojay.io/today/java-on-single-board-computers-x86-vs-arm-vs-risc-v/)), I've asking various suppliers to send me evaluation boards. I already published about two and adding a third one now:

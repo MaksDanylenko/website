@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/charl-fasching-77843288/"
 github: ""
 youtube: ""
 website: ""
-frozen: false
 ---

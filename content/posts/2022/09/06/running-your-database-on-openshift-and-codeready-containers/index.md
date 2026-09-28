@@ -19,7 +19,6 @@ related_posts:
   - "run-websphere-liberty-and-open-liberty-on-openshift"
   - "log4shell-shows-the-need-for-trustworthy-java"
   - "deploying-to-multiple-kubernetes-clusters-with-the-k8ssandra-operator"
-frozen: false
 ---
 
 Let's take an introductory run-through of setting up your database on OpenShift, using your own hardware and RedHat's CodeReady Containers.

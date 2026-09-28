@@ -20,7 +20,6 @@ related_posts:
   - "do-java-jakarta-ee-standards-matter"
   - "easy-jakarta-ee-integration-testing"
   - "foojay-podcast-62"
-frozen: false
 ---
 
 If you've been living in the Spring ecosystem, you're used to fast project setup. Spring Initializr gives you a sleek interface, some starter dependencies and a running project within minutes. Now you're moving to Jakarta EE, where do you begin?

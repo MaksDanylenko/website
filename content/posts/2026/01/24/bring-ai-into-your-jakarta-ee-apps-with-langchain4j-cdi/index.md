@@ -18,7 +18,6 @@ related_posts:
   - "run-ai-enabled-jakarta-ee-and-microprofile-applications-with-langchain4j-and-open-liberty"
   - "whats-new-in-the-august-2026-azul-payara-release"
   - "shaping-jakarta-agentic-ai-together-watch-the-open-conversation"
-frozen: false
 ---
 
 **Goal** : This article will demonstrate how to add AI features to a Jakarta EE / MicroProfile application using **LangChain4J‑CDI**, with simple to implement examples that runs on Payara, WildFly, Open Liberty, Helidon, Quarkus or any CDI 4.x compatible runtime.

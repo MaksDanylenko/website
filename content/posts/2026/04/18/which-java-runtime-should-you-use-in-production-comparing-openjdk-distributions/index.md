@@ -9,7 +9,6 @@ image: "distro-choice.jpg"
 categories:
   - "Java"
 related_posts:
-frozen: false
 ---
 
 ## TLDR

@@ -13,7 +13,6 @@ related_posts:
   - "java-development-with-vs-code-on-the-raspberry-pi"
   - "say-goodbye-to-project-files-in-visual-studio-code"
   - "java-on-visual-studio-code-update-january-2022"
-frozen: false
 ---
 
 Hi everyone, welcome to the February update of Visual Studio Code Java and this time we have a special edition for education!

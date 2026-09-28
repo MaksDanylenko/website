@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/enrico-olivelli-984b7874/"
 github: ""
 youtube: ""
 website: "https://x.com/eolivelli"
-frozen: false
 ---

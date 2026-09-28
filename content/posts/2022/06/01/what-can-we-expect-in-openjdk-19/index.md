@@ -15,7 +15,6 @@ related_posts:
   - "are-java-security-updates-important"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "the-5-most-pivotal-and-innovative-additions-to-openjdk-19"
-frozen: false
 ---
 
 Although the Java 19 release is coming in September (2022-09-20), we already know what will happen in that release!

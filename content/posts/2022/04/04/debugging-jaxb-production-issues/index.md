@@ -15,7 +15,6 @@ related_posts:
   - "what-is-debugging-in-140-seconds"
   - "the-basics-of-breakpoints-you-might-not-know"
   - "debugging-collections-streams-and-watch-renderers"
-frozen: false
 ---
 
 Java Architecture for XML Binding (AKA JAXB API) is a popular API for marshalling XML data. It's a framework for mapping between XML documents and Java POJOs (Plain Old Java Objects, AKA regular Java classes) almost seamlessly. The API is very easy to use and many frameworks leverage it to provide their XML support. JAXB2.0 has gained popularity both in desktop applications (Java SE) and in application server code (Spring Boot, Java EE/Jakarta EE, Microprofile etc.).

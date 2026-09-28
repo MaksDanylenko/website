@@ -16,7 +16,6 @@ related_posts:
   - "creating-a-javafx-world-clock-from-scratch-part-1"
   - "custom-controls-in-javafx-part-i"
   - "sheetmusic4j-0-0-3-abc-notation-guitar-pro-engraving-improvements"
-frozen: false
 ---
 
 ## Building Games and Having Fun with Java and JavaFX

@@ -15,7 +15,6 @@ outputs:
   - rss
 aliases:
   - "/all-events/"
-frozen: true
 ---
 
 What's on in the Java community: meetups hosted by Java User Groups worldwide,

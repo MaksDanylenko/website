@@ -17,7 +17,6 @@ related_posts:
   - "real-world-stream-collector"
   - "a-short-history-of-ajax-and-ssr"
   - "poor-mans-api"
-frozen: false
 ---
 
 Pattern matching is a major feature in software development. While pattern matching applies in several locations, its current usage is limited to `switch case` blocks. I want to compare the power of pattern matching across a couple of programming languages I'm familiar with in this post.

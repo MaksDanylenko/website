@@ -13,7 +13,6 @@ related_posts:
   - "what-is-debugging-in-140-seconds"
   - "the-basics-of-breakpoints-you-might-not-know"
   - "debugging-collections-streams-and-watch-renderers"
-frozen: true
 ---
 
 Two weeks ago, [I left this series in a "cliffhanger"](https://talktotheduck.dev/basics-of-breakpoints-you-might-not-know) of sorts. Well, as much as a programming blog can leave things in the air… The big one amongst them is the premise that exception breakpoints don't have to suck. If you used them in the past, you would know that grabbing all exceptions is ridiculous. You end up at a breakpoint every second and it doesn't help.

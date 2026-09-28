@@ -17,7 +17,6 @@ related_posts:
   - "java-on-azure-tooling-update-september-2022"
   - "java-virtual-threads-in-action-optimizing-mongodb-operation"
   - "understanding-bson-a-beginners-guide-to-mongodbs-data-format"
-frozen: false
 ---
 
 Retrieval-augmented generation, or RAG, introduces some serious capabilities to your large language models (LLMs). These applications can answer questions about your specific corpus of knowledge, while leveraging all the nuance and sophistication of a traditional LLM.

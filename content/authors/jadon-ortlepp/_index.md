@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/jadon-ortlepp-0149b147/"
 github: ""
 youtube: ""
 website: "https://x.com/Jadonblade"
-frozen: false
 ---

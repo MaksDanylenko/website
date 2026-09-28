@@ -13,7 +13,6 @@ related_posts:
   - "jedi-lambda-join-java-challenge"
   - "type-erasure-generics-java-challenge"
   - "soprano-ofnullable-stream-java-challenge"
-frozen: false
 ---
 
 To manipulate data from a collection by using a Java stream is handy and cleaner than the alternatives.

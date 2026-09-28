@@ -2,7 +2,6 @@
 title: "Basic Java Concepts"
 description: "The Java programming language and Java virtual machine (also known as Java runtime environment) provide the tools to write operating system independent applications. A Java application employs the JVM (Java Virtual Machine) on the target system to run its code. ..."
 url: "/pedia/basic-java-concepts/"
-frozen: false
 ---
 
 The Java programming language and Java virtual machine (also known as Java runtime environment) provide the tools to write operating system independent applications. A Java application employs the JVM (Java Virtual Machine) on the target system to run its code. Java applications are therefore independent from the JVM and one can be updated/patched independent from the other.

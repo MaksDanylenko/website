@@ -21,7 +21,6 @@ related_posts:
   - "introduction-to-maven-toolchains"
   - "foojay-io-at-fosdem-2023-trip-report"
   - "foojay-podcast-81"
-frozen: false
 ---
 
 Many developers spend a lot of their time on side projects. It's an opportunity to learn new techniques and get involved in communities.

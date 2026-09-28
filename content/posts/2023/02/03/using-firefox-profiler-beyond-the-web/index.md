@@ -14,7 +14,6 @@ related_posts:
   - "asyncgetstacktrace-a-better-stack-trace-api-for-the-jvm"
   - "ap-loader-a-new-way-to-use-and-embed-async-profiler"
   - "runtime-code-analysis-in-the-age-of-vibe-coding"
-frozen: false
 ---
 
 *This blog post is the base for the second half of my upcoming talk at FOSDEM 2023 on the topic "[Firefox Profiler beyond the web: Using Firefox Profiler to view Java profiling data](http://%22https://fosdem.org/2023/schedule/event/mozilla_firefox_profiler_beyond_the_web/)."*

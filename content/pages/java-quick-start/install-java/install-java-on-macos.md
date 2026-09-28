@@ -2,7 +2,6 @@
 title: "Install Java on MacOS"
 description: "Install Java on macOS with a ready-made installer, for both Intel and Apple silicon Macs."
 url: "/java-quick-start/install-java/install-java-on-macos/"
-frozen: false
 ---
 
 Is Java not available on your Mac OS X computer yet?

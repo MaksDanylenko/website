@@ -17,7 +17,6 @@ related_posts:
   - "detecting-investigating-and-verifying-fixes-for-security-incidents-and-zero-day-issues-using-lightrun"
   - "psa-the-risks-of-remote-jdwp-debugging"
   - "sast-dast-iast-and-rasp"
-frozen: false
 ---
 
 In the past two years, we have had to learn a lot about cybersecurity. New attack vectors are becoming more and more sophisticated and are directed more and more against the value chain in general.

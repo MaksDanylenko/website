@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/joost-kaan/"
 github: ""
 youtube: ""
 website: ""
-frozen: false
 ---

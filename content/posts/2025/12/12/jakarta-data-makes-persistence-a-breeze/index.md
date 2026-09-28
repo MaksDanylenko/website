@@ -16,7 +16,6 @@ related_posts:
   - "goodbye-payara-community-6-on-to-the-next-chapter-with-payara-community-7"
   - "a-new-chapter-for-the-payara-community"
   - "whats-new-in-the-may-2026-azul-payara-release"
-frozen: false
 ---
 
 Working with enterprise Java databases can sometimes feel like swimming upstream. Jakarta EE 11's Jakarta Data helps developers glide through data operations effortlessly, cutting complexity and keeping projects flowing smoothly.

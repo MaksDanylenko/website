@@ -2,7 +2,6 @@
 title: "The JVM Options Explorer"
 description: "Every JVM command-line flag, for every JDK version and every vendor, in one searchable table — where it came from, what it defaults to, and which release added it."
 url: "/jvm-options/"
-frozen: false
 ---
 
 **Ever needed to know whether a `-XX:` flag exists in the JDK you are actually running?**

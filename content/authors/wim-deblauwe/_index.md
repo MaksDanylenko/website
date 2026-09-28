@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/wimdeblauwe/"
 github: ""
 youtube: ""
 website: "https://x.com/wimdeblauwe"
-frozen: false
 ---

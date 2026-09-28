@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/georgeball/"
 github: ""
 youtube: ""
 website: "https://x.com/georgerball"
-frozen: false
 ---

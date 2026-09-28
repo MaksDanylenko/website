@@ -13,7 +13,6 @@ related_posts:
   - "the-third-generation-gui-builder-one-workspace-for-every-form"
   - "push-v3-one-message-from-your-server-to-every-surface"
   - "the-codename-one-javascript-port-is-now-free-and-open-source"
-frozen: false
 ---
 
 ![A locked SQLite database connected to mobile, web, desktop, and watch applications](sqlite-portable-encrypted.jpg)

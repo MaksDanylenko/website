@@ -10,7 +10,6 @@ image: "leak4j1-db2f246e.jpg"
 categories:
   - "Security"
 related_posts:
-frozen: false
 ---
 
 Over the last couple of days (and nights) I've been studying the new (extremely dangerous) vulnerability in log4j2 called [Log4Shell](https://en.wikipedia.org/wiki/Log4Shell)).

@@ -14,7 +14,6 @@ related_posts:
   - "build-web-apps-in-pure-java-with-vaadin-flow"
   - "blink-a-led-on-raspberry-pi-with-vaadin"
   - "create-a-crud-ui-in-pure-java"
-frozen: false
 ---
 
 I am pleased to announce the publication of Practical Vaadin by Alejandro Duarte.

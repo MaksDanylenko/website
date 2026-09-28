@@ -13,7 +13,6 @@ related_posts:
   - "3-ways-to-refactor-your-code-in-intellij-idea"
   - "eight-debugging-tips-for-intellijidea-users-you-never-knew-existed"
   - "analyzing-dependencies-in-intellij-idea"
-frozen: false
 ---
 
 AI Assistant provides AI-powered features for software development based on the JetBrains AI service. The service transparently connects you, the IDE user, to different large language models.

@@ -19,7 +19,6 @@ related_posts:
   - "ask-a-lille-dev-what-java-developers-really-think-about-quality-frameworks-communities-and-careers"
   - "spring-ai-agents-no-second-runtime"
   - "tiberius-a-security-testing-framework-for-llm-applications-in-java"
-frozen: false
 ---
 
 ## Idempotent REST Endpoints Without the Boilerplate

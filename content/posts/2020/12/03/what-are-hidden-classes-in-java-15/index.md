@@ -11,7 +11,6 @@ categories:
   - "JEPs"
   - "Tutorials"
 related_posts:
-frozen: false
 ---
 
 As we know, `sun.misc.Unsafe` APIs are not recommended to use outside the JDK, with a slight mistake you may cause the JVM to crash. In some cases, code may not be portable across different platforms and many other related problems may occur.

@@ -13,7 +13,6 @@ related_posts:
   - "will-openjfx-be-merged-into-openjdk-it-would-be-a-perfect-match-with-java-on-mobile"
   - "foojay-podcast-83"
   - "java-for-desktop-applications-part-1"
-frozen: false
 ---
 
 I don't know if you have the same problem but I have around 8 OpenJDK distributions installed on my machine and I always have the problem of keeping them up to date. I know there is [sdkman](https://sdkman.io/ "sdkman") which is awesome but I somehow never got used to it.

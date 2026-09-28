@@ -17,7 +17,6 @@ related_posts:
   - "what-the-heck-is-project-loom-for-java"
   - "an-introduction-to-scoped-values-in-java"
   - "virtual-thread-pinning-field-guide"
-frozen: true
 ---
 
 This will be a good day, because it's Java 20 release day!

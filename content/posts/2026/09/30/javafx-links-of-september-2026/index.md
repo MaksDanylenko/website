@@ -13,7 +13,6 @@ related_posts:
   - "javafx-links-of-july-2026"
   - "javafx-links-of-june-2026"
   - "javafx-links-of-may-2026"
-frozen: false
 ---
 
 Here are the JavaFX LinksOfTheMonth of September 2026. This was a big month with the release of JavaFX 27!

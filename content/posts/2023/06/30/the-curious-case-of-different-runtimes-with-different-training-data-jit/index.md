@@ -14,7 +14,6 @@ related_posts:
   - "mastering-the-art-of-controlling-the-jit-unlocking-reproducible-profiler-tests"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "boxlang-1-15-0-released-blazing-fast-strings-runtime-portability-and-much-more"
-frozen: false
 ---
 
 **While running some final tests, we noticed extremely erratic runtime behavior. It was hard to reproduce but very annoying because it means that the application runtime goes up from 5 to almost 14 min. This article tries to show how we diagnosed it and condensed it down to a few test cases. These might hopefully help us to provide some answers. Maybe, but only maybe, we discovered a defect or at least strange edge-case in the JVM.**

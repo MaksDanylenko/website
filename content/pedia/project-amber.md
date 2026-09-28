@@ -2,7 +2,6 @@
 title: "Project Amber"
 description: "Project Amber is the OpenJDK project behind most of what makes modern Java look different from Java 8: records, sealed classes, pattern matching, text blocks, switch expressions and var."
 url: "/pedia/project-amber/"
-frozen: false
 ---
 
 Project Amber is the OpenJDK project for **smaller, productivity-oriented language features** — the ones that change how everyday Java reads rather than how the JVM performs. If code written today looks unlike Java 8, Amber is most of the reason.

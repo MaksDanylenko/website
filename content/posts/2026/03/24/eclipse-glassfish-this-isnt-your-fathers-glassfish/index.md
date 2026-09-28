@@ -13,7 +13,6 @@ related_posts:
   - "issues-with-old-glassfish-server-upgrade-to-eclipse-glassfish"
   - "whats-new-in-the-july-2026-azul-payara-release"
   - "glassfish-8-0-2-released"
-frozen: false
 ---
 
 GlassFish is an application server with a long history and has always had a special role in the Java world as the reference implementation of Java EE, being one of the most popular Java EE servers. Since Oracle lost interest in the project several years ago, developers and organizations have held certain beliefs about GlassFish, often based on their experiences with older versions.

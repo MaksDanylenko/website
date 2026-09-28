@@ -14,7 +14,6 @@ related_posts:
   - "a-glance-into-jfr-class-and-method-tagging"
   - "where-do-you-get-your-java"
   - "the-files-in-jdk-21"
-frozen: false
 ---
 
 This is an argument about where production intent belongs in a managed runtime, and the OpenJDK distribution we built to act on it - Eliya, an opinionated, compliance-conscious OpenJDK distribution. This is the first article in a series. The later parts are engineering: reproducible builds, the glibc floor, release signing, the one source patch we shipped. This part is the thesis they all serve.

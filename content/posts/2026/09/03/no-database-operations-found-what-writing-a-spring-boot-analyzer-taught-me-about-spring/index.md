@@ -14,7 +14,6 @@ related_posts:
   - "statically-spilling-your-spring-beans"
   - "transactions-and-threadlocal-in-spring"
   - "a-walk-to-lazy-fetching-with-hibernate-and-spring-data-jpa"
-frozen: false
 ---
 
 I spent months building a static analyzer that answers one question about a Spring Boot codebase: if I change this endpoint, what does the change reach?

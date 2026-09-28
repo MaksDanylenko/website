@@ -15,7 +15,6 @@ related_posts:
   - "7-reasons-to-choose-apache-pulsar-over-apache-kafka"
   - "a-closer-look-at-jfr-streaming"
   - "async-file-io-with-java-and-io_uring"
-frozen: false
 ---
 
 ## Introduction: Why JMH?

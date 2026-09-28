@@ -14,7 +14,6 @@ related_posts:
   - "foojay-podcast-83"
   - "azul-brings-java-from-edge-to-cloud"
   - "foojay-podcast-9"
-frozen: false
 ---
 
 A couple of weeks ago, JavaFX version 15 was released.

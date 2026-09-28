@@ -12,7 +12,6 @@ related_posts:
   - "gitlab-pages-preview"
   - "foojay-podcast-26"
   - "gitlab-continuous-deployment-one-stop-shop"
-frozen: false
 ---
 
 Writing documentation should be as low-key as possible to remove the pain from the process. One way to achieve this is through Documentation as Code. Setting it up and configuring it may take some time, but once it's done, you can focus on creating the content itself.

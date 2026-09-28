@@ -15,7 +15,6 @@ related_posts:
   - "solving-gradle-metadata-and-renovate-integration"
   - "whats-new-in-actions-setup-java-5-4-and-5-5-signature-verification-kona-jdk-and-a-better-maven-experience"
   - "how-to-publish-a-java-maven-project-to-maven-central-using-jreleaser-and-github-actions-2025-guide"
-frozen: false
 ---
 
 I've been a big fan of Renovate for [a couple of years already](https://blog.frankel.ch/renovate-alternative-dependabot/). Renovate scans your repositories, detects outdated package versions, and opens pull requests to automatically bump them. It's similar to Dependabot in that it keeps your dependencies up to date. If I had to compare them in one sentence, I'd say Renovate is less integrated in the GitHub ecosystem, but handles more ecosystems and, more importantly, is extensible. My current company is a happy Renovate user, and I already started to use it in some repositories.

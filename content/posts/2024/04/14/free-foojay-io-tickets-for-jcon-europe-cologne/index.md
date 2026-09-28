@@ -14,7 +14,6 @@ related_posts:
   - "foojay-io-at-fosdem-2023-trip-report"
   - "springone-tlv-world-tour-trip-report"
   - "trip-report-dubai-jug-2nd-meetup"
-frozen: false
 ---
 
 [Welcome to JCON EUROPE](https://2024.europe.jcon.one/) (May 13 - 16, 2024) - a conference and unique platform to come together with Java developers from all over the world to network, learn from each other and develop your personal skills. At JCON EUROPE, we create room for complex topics to unfold. Literally, hosted in a multiplex movie theater, Java code, concepts and programming are brought to life on impressively large cinema screens.

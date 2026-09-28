@@ -14,7 +14,6 @@ related_posts:
   - "book-review-designing-apis-with-swagger-and-openapi"
   - "book-review-effortless-cloud-native-app-development-using-skaffold"
   - "book-announcement-openjdk-migration-guide-for-dummies"
-frozen: false
 ---
 
 "[Raising Young Coders](https://www.amazon.com/Raising-Young-Coders-Teaching-Programming/dp/B0DVBQZ483/)" by Cassandra Chin: A Parent's Guide to Inspiring the Next Generation of Technologists

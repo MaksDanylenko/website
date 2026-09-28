@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/sirisha-pratha-4a34b218/"
 github: ""
 youtube: ""
 website: "https://x.com/sirishapratha"
-frozen: false
 ---

@@ -20,7 +20,6 @@ related_posts:
   - "foojay-podcast-48"
   - "foojay-podcast-47"
   - "foojay-podcast-46"
-frozen: false
 ---
 
 On Tuesday, May 14th, the Foojay Podcast went live at the JCON conference in Cologne, Germany, to talk with speakers and visitors about all things Java.

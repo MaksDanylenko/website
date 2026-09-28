@@ -11,7 +11,6 @@ categories:
   - "Research"
 related_posts:
   - "learning-by-doing-an-http-api-with-rust"
-frozen: false
 ---
 
 The first rule of distributed systems is "Don't distribute your system". Designing distributed systems right is infamously hard for multiple  

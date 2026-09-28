@@ -15,7 +15,6 @@ related_posts:
   - "achieving-high-throughput-without-sacrificing-latency"
   - "automatically-creating-microservices-architecture-diagrams"
   - "microservices-architecture-navigating-the-buzz"
-frozen: false
 ---
 
 **In low-latency microservices, ensuring system resilience without compromising performance is vital.**

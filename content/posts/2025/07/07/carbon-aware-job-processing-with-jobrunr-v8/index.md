@@ -14,7 +14,6 @@ related_posts:
   - "task-schedulers-in-java-modern-alternatives-to-quartz-scheduler"
   - "foojay-podcast-60"
   - "offline-crypto-address-validation-in-java"
-frozen: false
 ---
 
 As we produce, mutate, configure, and consume more and more data in various shapes and forms, think: video on demand, AI ingestion and generation of content, Internet of Things always-on connectivity, and more.

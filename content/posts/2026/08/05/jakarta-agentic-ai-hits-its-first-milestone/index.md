@@ -12,7 +12,6 @@ categories:
 related_posts:
   - "whats-new-in-the-august-2026-azul-payara-release"
   - "shaping-jakarta-agentic-ai-together-watch-the-open-conversation"
-frozen: false
 ---
 
 [Jakarta Agentic AI](https://jakarta.ee/specifications/agentic-ai/1.0/) just shipped its first deliverable: [version 1.0.0-M1 is live on Maven Central](https://central.sonatype.com/artifact/jakarta.agentic-ai/jakarta.agentic-ai-api/1.0.0-M1) and [the draft 1.0 specification is out for review](https://github.com/jakartaee/agentic-ai/releases/download/1.0.0-M1/jakarta-agentic-ai-1.0.0-M1.pdf). The project now has a specific API surface that developers can look at, try out and give feedback on.

@@ -14,7 +14,6 @@ related_posts:
   - "5-things-you-probably-didnt-know-about-java-concurrency"
   - "5-tips-to-create-secure-docker-images-for-java-applications"
   - "boxlang-1-14-0-sets-ranges-inner-classes-and-a-runtime-that-talks-back"
-frozen: false
 ---
 
 [![Free Software](Free-software-article.jpg "Free Software")](Free-software-article.jpg "Free Software")

@@ -11,7 +11,6 @@ categories:
   - "Microservices"
   - "Surveys"
 related_posts:
-frozen: false
 ---
 
 The Azure team at Microsoft has been strengthening its commitment and outreach to the [Jakarta EE](https://jakarta.ee/), [Java EE](https://www.oracle.com/java/technologies/java-ee-glance.html), and [MicroProfile](https://microprofile.io/) communities.

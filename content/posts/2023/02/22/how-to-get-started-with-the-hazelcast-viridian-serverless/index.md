@@ -14,7 +14,6 @@ related_posts:
   - "hazelcast-kibana-best-buddies-for-exploring-visualizing-data"
   - "hazelcast-from-embedded-to-client-server"
   - "building-real-time-applications-to-process-wikimedia-streams-using-kafka-and-hazelcast"
-frozen: false
 ---
 
 Hazelcast Serverless means that Hazelcast manages your Cloud infrastructure for you.

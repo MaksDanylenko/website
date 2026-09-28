@@ -14,7 +14,6 @@ related_posts:
   - "advanced-url-rewriting-with-apache-apisix"
   - "api-versioning"
   - "health-check-response-format-for-http-apis"
-frozen: false
 ---
 
 **Lots of service providers offer a free tier of their service. The idea is to let you kick their service's tires freely. If you need to go above the free tier at any point, you'll likely stay on the service and pay.**

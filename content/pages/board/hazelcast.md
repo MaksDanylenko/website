@@ -14,7 +14,6 @@ quote: |
 
   Foojay has become an invaluable resource for developers to keep abreast of the latest with Java and OpenJDK. I learn something every time I visit the site.
 quoteAuthor: "John DesJardins, Chief Technology Officer, Hazelcast"
-frozen: false
 ---
 
 Application performance at scale. Simplified.

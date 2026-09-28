@@ -10,7 +10,6 @@ image: "Favicon-3-2.png"
 categories:
   - "Java"
 related_posts:
-frozen: false
 ---
 
 This week, I received an interesting task: dusting off a legacy Java application. The application analyzes specific XML files in proprietary format. I know XML doesn't sound sexy to junior developers, but it has an amazing benefit. One can validate a file against a grammar. Such grammar is called an XSD, the acronym for XML Schema Definition. Fun fact: you write XSDs in XML.

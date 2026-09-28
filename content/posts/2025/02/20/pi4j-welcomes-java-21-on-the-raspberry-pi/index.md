@@ -15,7 +15,6 @@ related_posts:
   - "evolutions-in-the-pi4j-library-by-tom-aarts-and-robert-von-burg"
   - "interview-frank-delporte-foojay-raspberry-pi-community-manager"
   - "java-on-raspberry-pi-5-with-pi4j"
-frozen: false
 ---
 
 **Pi4J provides a friendly object-oriented I/O API and implementation libraries for Java Programmers to access the full I/O capabilities of the Raspberry Pi platform.**

@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/simonmartinelli/"
 github: ""
 youtube: ""
 website: "https://x.com/simas_ch"
-frozen: false
 ---

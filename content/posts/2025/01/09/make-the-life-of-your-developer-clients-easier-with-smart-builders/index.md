@@ -14,7 +14,6 @@ related_posts:
   - "7-ways-to-contribute-to-openjdk"
   - "7-reasons-to-choose-apache-pulsar-over-apache-kafka"
   - "offline-crypto-address-validation-in-java"
-frozen: false
 ---
 
 **We often hear the phrase: "Make the life of your client easier". But, what about the developers? They are the ones who will be working with the code you write. It is important to make their lives easier too.**

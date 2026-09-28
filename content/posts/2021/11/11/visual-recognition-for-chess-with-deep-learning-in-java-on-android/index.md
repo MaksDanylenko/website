@@ -15,7 +15,6 @@ related_posts:
   - "deep-learning-in-java-for-drug-discovery"
   - "creating-a-snake-game-with-javafx-fxgl-in-three-pair-programming-sessions"
   - "foojay-podcast-1"
-frozen: false
 aliases:
   - "/today/visual-recognition-for-chess-using-deep-learning-in-java-on-android/"
 ---

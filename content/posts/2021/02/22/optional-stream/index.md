@@ -12,7 +12,6 @@ categories:
 related_posts:
   - "teeing-java-api"
   - "lets-use-optional-to-fix-method-contracts"
-frozen: false
 ---
 
 This week, I learned about a nifty "new" feature of `Optional` that I want to share in this post. It's available since Java 9, so its novelty is relative.

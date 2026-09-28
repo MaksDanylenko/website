@@ -14,7 +14,6 @@ related_posts:
   - "7-ways-to-contribute-to-openjdk"
   - "a-closer-look-at-jfr-streaming"
   - "boxlang-neovim-plugin-released"
-frozen: false
 ---
 
 Whether you like it or not, GitHub has become the primary provider to host one's code.

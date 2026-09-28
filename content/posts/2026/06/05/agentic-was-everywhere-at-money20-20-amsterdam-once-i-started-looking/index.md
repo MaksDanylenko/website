@@ -10,7 +10,6 @@ categories:
   - "AI"
   - "Machine Learning"
 related_posts:
-frozen: false
 ---
 
 **I walked the floor at [Money20/20](https://www.money2020.com/) in Amsterdam with a simple little mission: count the first ten vendor booths using "AI," "agent," or "agentic" in their pitch.**

@@ -16,7 +16,6 @@ related_posts:
   - "testing-mongodb-atlas-search-java-apps-using-testcontainers"
   - "understanding-bson-a-beginners-guide-to-mongodbs-data-format"
   - "why-mirroring-production-in-dev-helps-you-avoid-costly-mistakes"
-frozen: false
 ---
 
 REST has become the default choice for building web services, and for good reason. It's straightforward to implement, easy for clients to consume, and built directly on top of the same principles of the web itself.

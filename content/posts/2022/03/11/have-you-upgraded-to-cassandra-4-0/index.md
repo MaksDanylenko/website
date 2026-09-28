@@ -16,7 +16,6 @@ related_posts:
   - "a-case-for-databases-on-kubernetes-from-a-former-skeptic"
   - "apache-cassandra-4-0-taming-tail-latencies-with-java-16-zgc"
   - "announcing-the-astra-service-broker-tradeoff-free-cassandra-in-kubernetes"
-frozen: false
 ---
 
 ![](shutterstock_140530141-350x233-1.jpg) © Shutterstock / Phototribe   

@@ -14,7 +14,6 @@ related_posts:
   - "from-azure-active-directory-via-openid-connect-to-open-liberty-and-java"
   - "how-we-developed-the-eclipse-openj9-criu-support-for-fast-java-startup"
   - "semeru-v11-beyond-oct-2024"
-frozen: false
 ---
 
 **Java 21 is finally here! Java 21 is the first long-term support (LTS) release since Java 17 was released two years ago. It offers some new functionality and changes that you'll want to check out for yourself. In particular, there's the introduction of virtual threads. And you can try it all out now on Open Liberty 23.0.0.10.**

@@ -16,7 +16,6 @@ related_posts:
   - "jc-ai-newsletter-2"
   - "foojay-podcast-65"
   - "book-review-tidy-first"
-frozen: false
 ---
 
 ### I remember the first time I saw a diagram of a neuron (*Img.1.*). I was a school kid, and among other hobbies, I was interested in the human brain, it fascinated me. I borrowed a book from the bookstore to find out how it all worked, because these cells are responsible for more than just the functioning of the human species.

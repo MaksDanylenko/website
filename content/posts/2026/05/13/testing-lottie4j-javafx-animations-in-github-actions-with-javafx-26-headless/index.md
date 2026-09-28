@@ -13,7 +13,6 @@ related_posts:
   - "closing-the-visual-gap-between-the-official-lottie-webplayer-and-lottie4j"
   - "lottie4j-meets-lottiefiles"
   - "lottie4j-1-2-0-dotlottie-support-marker-playback-cropping-and-a-big-speed-boost"
-frozen: false
 ---
 
 When I released [Lottie4J 1.1.0](https://lottie4j.com/releases/#2026-03-10-110), I mentioned something a bit embarrassing in the release notes and [this blog post](https://webtechie.be/post/2026-03-10-new-release-of-lottie4j/): there was a new unit test to compare the JavaFX player output against a JavaScript reference player, but it "*can not run on CI, because it requires a display output*." A TODO. A known limitation. One of those notes you write hoping future-you will figure it out.

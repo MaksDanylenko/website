@@ -10,7 +10,6 @@ categories:
   - "Embedded"
   - "Quarkus"
 related_posts:
-frozen: false
 ---
 
 ![](pico_top-1024x267.jpg)

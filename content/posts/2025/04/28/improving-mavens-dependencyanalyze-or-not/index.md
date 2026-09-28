@@ -15,7 +15,6 @@ related_posts:
   - "a-short-history-of-ajax-and-ssr"
   - "real-world-stream-collector"
   - "a-simple-service-with-spring-boot"
-frozen: false
 ---
 
 Recently, my good friend Richard Fichtner advised using the `mvn dependency:analyze` command to get rid of declared but unused dependencies:

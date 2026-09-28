@@ -14,7 +14,6 @@ related_posts:
   - "openrewrite-automatic-code-refactoring-and-maintenance"
   - "foojay-developer-certification-measure-skills"
   - "foojay-podcast-19"
-frozen: false
 ---
 
 On November 9th, we had several interviews with the speakers and guests at the J-Fall conference in the Netherlands.

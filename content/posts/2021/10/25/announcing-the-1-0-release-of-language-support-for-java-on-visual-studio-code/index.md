@@ -13,7 +13,6 @@ related_posts:
   - "java-testing-with-vs-code"
   - "vs-code-getting-better-and-better-for-java"
   - "vs-code-java-august-updates-springone-updates-ux-improvements-community-feedback"
-frozen: false
 ---
 
 We are excited to announce the 1.0 release of [Language Support for Java™ by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.java "Language Support for Java™ by Red Hat") on Visual Studio Code.

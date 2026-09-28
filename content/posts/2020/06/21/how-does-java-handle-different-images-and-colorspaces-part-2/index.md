@@ -12,7 +12,6 @@ related_posts:
   - "running-single-file-java-source-code-without-compiling-part-1"
   - "fantastic-jvms-and-where-to-find-them"
   - "highlights-of-changes-to-the-core-java-platform"
-frozen: false
 ---
 
 There are lots of different ways of describing Color. As developers, we are most familiar with the RGB model, where every color is defined by mixing Red, Green and Blue together. In the print world, CMYK is very common, where colors or printed by literally mixing different amounts of Cyan, Magenta, Yellow and Key (black). You may also come across other ways of describing color such as DeviceN. There are also lots of different versions of RGB.

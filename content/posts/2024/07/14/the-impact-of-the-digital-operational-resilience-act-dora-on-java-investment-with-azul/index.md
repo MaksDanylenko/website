@@ -16,7 +16,6 @@ related_posts:
   - "consequences-of-dora-on-java-and-openjdk-with-azul"
   - "java-where-the-wild-code-isnt"
   - "the-impact-of-the-eu-dora-act-on-non-eu-financial-organizations"
-frozen: false
 ---
 
 **The [Digital Operational Resilience Act (DORA)](https://eur-lex.europa.eu/eli/reg/2022/2554/oj), Regulation (EU) 2022/2554** ,**is a key piece of European Union legislation focused on strengthening the resilience of the financial sector against digital operational risks, such as cyber attacks and other ICT-related disruptions.**

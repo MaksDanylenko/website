@@ -14,7 +14,6 @@ related_posts:
   - "java-on-azure-tooling-update-september-2022"
   - "java-virtual-threads-in-action-optimizing-mongodb-operation"
   - "understanding-bson-a-beginners-guide-to-mongodbs-data-format"
-frozen: false
 ---
 
 ## **Run an Atlas cluster locally in minutes**

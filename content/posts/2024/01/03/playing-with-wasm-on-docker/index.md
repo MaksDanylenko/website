@@ -14,7 +14,6 @@ related_posts:
   - "eight-debugging-tips-for-intellijidea-users-you-never-knew-existed"
   - "transitioning-to-java-my-first-book"
   - "apache-apisix-loves-rust"
-frozen: false
 ---
 
 The idea of bytecode that can run anywhere dates back to the JVM inception (as far as I know).

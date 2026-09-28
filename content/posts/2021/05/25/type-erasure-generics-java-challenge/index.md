@@ -13,7 +13,6 @@ related_posts:
   - "function-calculation-java-challenge"
   - "stream-limit-filter-java-challenge"
   - "neo-stream-search-java-challenge"
-frozen: false
 ---
 
 It's possible to use type erasure generics in a method with Java. To know how to use generics is important because then you are able to create highly reusable code.

@@ -13,7 +13,6 @@ related_posts:
   - "java-thread-programming-part-6"
   - "java-thread-programming-part-5"
   - "java-thread-programming-part-9"
-frozen: false
 ---
 
 The term thread safety is a frequently and commonly pronounced word among Java developers. However, it is still one of the misunderstood terms as well. In this article, I will try to explain in a very simplified way what it is and how we can achieve it while we write our day-to-day code.

@@ -15,7 +15,6 @@ related_posts:
   - "foojay-a-place-for-friends-of-openjdk-adt-magazine"
   - "transitioning-to-java-my-first-book"
   - "the-curious-case-of-different-runtimes-with-different-training-data-jit"
-frozen: false
 ---
 
 {{< img src="chris.jpg" class="alignright size-full is-resized" width="384" height="384" >}}

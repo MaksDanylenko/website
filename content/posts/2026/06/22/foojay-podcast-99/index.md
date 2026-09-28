@@ -18,7 +18,6 @@ related_posts:
   - "foojay-podcast-94"
   - "foojay-podcast-98"
   - "foojay-podcast-97"
-frozen: false
 ---
 
 Your AI-powered Java application is live in production. But have you actually tested whether it can be jailbroken or manipulated into leaking data it should never reveal? In this episode, Iryna Dohndorf walks us through Tiberius, an open-source security testing library for LLM applications in Java, and explains why everything you know about unit testing needs a rethink when non-determinism is part of the design.

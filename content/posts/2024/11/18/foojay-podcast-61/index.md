@@ -15,7 +15,6 @@ related_posts:
   - "foojay-podcast-59"
   - "foojay-podcast-58"
   - "foojay-podcast-84"
-frozen: false
 ---
 
 At Devoxx and JFall, we talked with Georgios Diamantopoulos, Lutske de Leeuw, Tom Cools, Jessica Siewert, and Rijo Sam about staying physically and mentally healthy as software developers.

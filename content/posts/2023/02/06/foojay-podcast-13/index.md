@@ -13,7 +13,6 @@ related_posts:
   - "foojay-podcast-12"
   - "foojay-podcast-11"
   - "foojay-podcast-10"
-frozen: false
 ---
 
 We started the Foojay Podcast JUG World Tour [in Manchester](https://foojay.io/today/foojay-podcast-8/) last December.

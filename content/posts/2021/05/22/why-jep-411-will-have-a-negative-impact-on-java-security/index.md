@@ -10,7 +10,6 @@ categories:
   - "JEPs"
   - "Security"
 related_posts:
-frozen: false
 ---
 
 *[JEP 411](https://openjdk.java.net/jeps/411) specifies the "deprecation of the Security Manager for removal in a future release. The Security Manager dates from Java 1.0. It has not been the primary means of securing client-side Java code for many years, and it has rarely been used to secure server-side code. To move Java forward, we intend to deprecate the Security Manager for removal in concert with the legacy Applet API (JEP 398)." Below, Peter Firmstone describes how this relates to the principle of least privilege and what the impact of this JEP will be. Agree or disagree, add your comments, or your full articles on this topic are also welcome here on Foojay.*

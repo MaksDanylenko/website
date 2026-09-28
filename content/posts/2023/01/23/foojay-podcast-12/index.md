@@ -23,7 +23,6 @@ related_posts:
   - "eight-debugging-tips-for-intellijidea-users-you-never-knew-existed"
   - "deep-learning-in-java-for-nuclear-physics-using-deep-netts"
   - "ask-a-lille-dev-what-java-developers-really-think-about-quality-frameworks-communities-and-careers"
-frozen: false
 ---
 
 In this podcast, we are talking to some of the key people working on different IDEs, Integrated Development Environments.

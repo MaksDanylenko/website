@@ -9,7 +9,6 @@ image: "Favicon-3-2.png"
 categories:
   - "JEPs"
 related_posts:
-frozen: false
 ---
 
 Unlike [sealed classes](https://foojay.io/today/jdk-15-sealed-classes/), *hidden classes* ([JEP 371](https://openjdk.java.net/jeps/371)) are a JVM rather than a language-level feature. One of the specific goals of this feature is not to make any changes to the Java language.

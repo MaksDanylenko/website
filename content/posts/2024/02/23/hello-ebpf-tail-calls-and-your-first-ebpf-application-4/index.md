@@ -13,7 +13,6 @@ related_posts:
   - "hello-ebpf-recording-data-in-basic-ebpf-maps-2"
   - "hello-ebpf-recording-data-in-event-buffers-3"
   - "hello-ebpf-xdp-based-packet-filter-9"
-frozen: false
 ---
 
 Welcome back to my series on eBPF. Two weeks ago, I showed you [how to use perf event buffers to stream data from the eBPF program to the Java application](https://foojay.io/today/hello-ebpf-recording-data-in-event-buffers-3/).

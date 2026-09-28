@@ -18,7 +18,6 @@ github: "https://github.com/google"
 # wrote here for part of their time. See partials/sponsor-authors.html.
 authors:
 topics:
-frozen: false
 ---
 
 Google maintains a number of open-source projects that Java developers use every

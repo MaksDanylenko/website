@@ -15,7 +15,6 @@ related_posts:
   - "how-to-run-a-java-application-with-crac-in-a-docker-container"
   - "introducing-the-openjdk-coordinated-restore-at-checkpoint-project"
   - "demo-application-with-crac-and-loading-data-in-memory"
-frozen: false
 ---
 
 With the April release of the Zulu Build of OpenJDK, Azul announced [the integration of CRaC in its version 17 of Java for Linux](https://www.azul.com/blog/reduce-java-application-startup-and-warmup-times-with-crac/). [Coordinated Restore at Checkpoint (CRaC)](https://www.azul.com/products/components/crac/) is a feature introduced in OpenJDK to improve Java's application startup and warmup times to milliseconds from seconds or even minutes, by allowing a running application to pause, snapshot its state, and restart later, even on a different machine.

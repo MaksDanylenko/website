@@ -9,7 +9,6 @@ image: "Favicon-3-2.png"
 categories:
   - "Java"
 related_posts:
-frozen: false
 ---
 
 You learn by comparing to what you already know. I was recently bitten by assuming Rust worked as Java regarding transitive dependency version resolution. In this post, I want to compare the two.

@@ -35,7 +35,6 @@ quote: |
 
   Second paragraph, if there is one.
 quoteAuthor: "Name, Job Title at Organization"
-frozen: false
 ---
 
 The About text: a paragraph or two describing the organization, in their own

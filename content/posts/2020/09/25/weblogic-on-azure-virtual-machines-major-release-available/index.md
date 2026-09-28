@@ -9,7 +9,6 @@ authors:
 categories:
   - "Release Notes"
 related_posts:
-frozen: false
 ---
 
 We are delighted to announce the availability of a major release for solutions to run Oracle WebLogic Server (WLS) on Azure Linux Virtual Machines.

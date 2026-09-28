@@ -15,7 +15,6 @@ related_posts:
   - "analyzing-and-tuning-warm-up-of-the-jvm-with-azul-zulu-prime-builds-of-openjdk"
   - "are-java-security-updates-important"
   - "azul-and-jetbrains-collaborate-to-enhance-runtime-performance-for-kotlin-workloads"
-frozen: false
 ---
 
 **The [inaugural AI4Devs conference in Amsterdam](https://amsterdam.ai4devs.io/), held recently Friday 19 September, a collaboration between Java Champion Jonathan Vila, [local developer agency IO Digital](https://www.iodigital.com/en) (in particular Joost Kaan, Arno Koehler, and Michel Blankenstein), and the Friends Of OpenJDK (Foojay.io), proved to be a resounding success, bringing together approximately 200 developers at Amsterdam's iO Digital Campus.**

@@ -15,7 +15,6 @@ related_posts:
   - "spring-ai-agents-no-second-runtime"
   - "tiberius-a-security-testing-framework-for-llm-applications-in-java"
   - "boxlang-ai-3-2-0-image-generation-web-search-fluent-audio-agent-registry-mcp-observability"
-frozen: false
 ---
 
 Hola! 👋 As a Java developer, you probably spend a good chunk of your day making sure your code doesn't just "work," but is also maintainable, secure, and reliable. I've been using a tool that is changing how I handle large projects: **Windsurf**.

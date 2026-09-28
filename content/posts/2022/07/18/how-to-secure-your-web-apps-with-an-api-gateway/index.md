@@ -15,7 +15,6 @@ related_posts:
   - "kotlin-delegation"
   - "a-list-of-cache-providers"
   - "system-architecture-move-authentication-to-the-api-gateway"
-frozen: false
 ---
 
 API management solutions, also known as API gateways, are a must in this day and age of APIs.

@@ -14,7 +14,6 @@ related_posts:
   - "book-review-practical-design-patterns-for-java-developers"
   - "foojay-podcast-14"
   - "build-secure-ai-chat-applications-with-boxlang-rag-ollama-and-amazon-bedrock-with-dan-card"
-frozen: false
 ---
 
 JFR (JDK Flight Recorder) is the default profiler for OpenJDK (see [my other blog posts](https://mostlynerdless.de/blog/category/java-servicability/profiling/) for more information).

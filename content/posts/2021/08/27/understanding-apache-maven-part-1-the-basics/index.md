@@ -13,7 +13,6 @@ related_posts:
   - "understanding-apache-maven-part-2-pom-hierarchy"
   - "a-simple-service-with-spring-boot"
   - "getting-started-with-jakarta-ee-9-hello-world"
-frozen: false
 ---
 
 Apache Maven (commonly referred to as "Maven") is a **Build Management** tool. Maven is primarily used to build Java projects. Other language projects can also be built using Maven. Apache Maven is written in Java, for the most part. It is [an open source project](https://maven.apache.org/).

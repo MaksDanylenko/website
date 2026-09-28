@@ -12,7 +12,6 @@ categories:
   - "Performance"
   - "Temporal"
 related_posts:
-frozen: false
 ---
 
 **When developers first hear about [Temporal](https://temporal.io/), they tend to move through a predictable sequence of emotions. First comes disbelief — the claim that your application can crash mid-execution and simply pick up where it left off, variables intact, sounds like nonsense. Then comes irritation that anyone would even say such a thing is possible. Then they try it, discover it actually works, and get very excited. And finally they ask the only question that matters: *how?***

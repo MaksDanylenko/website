@@ -13,7 +13,6 @@ related_posts:
   - "understanding-apache-maven-part-8-maven-plugins"
   - "understanding-apache-maven-part-7-configuring-apache-maven"
   - "understanding-apache-maven-part-6-pom-reference"
-frozen: false
 ---
 
 In the final part, Part 9 of the series, versions in Maven are covered!

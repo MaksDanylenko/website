@@ -15,7 +15,6 @@ related_posts:
   - "inside-the-engine-the-sub-millisecond-performance-relay-of-mongodb-8-0"
   - "introduction-to-behavior-driving-development-with-java-and-mongodb"
   - "introduction-to-data-driven-testing-with-java-and-mongodb"
-frozen: false
 ---
 
 Reactive Java is well suited to modern streaming, event driven applications. In this article, we'll walk through an example of such an application using Reactive Java with MongoDB. Specifically, we're going to cover:

@@ -17,7 +17,6 @@ related_posts:
   - "java-17-on-the-raspberry-pi"
   - "pi4j-v-2-released"
   - "pi4j-welcomes-java-21-on-the-raspberry-pi"
-frozen: false
 ---
 
 In an earlier post here on Foojay.io, [JBang and Pi4J were used to control a LED and button connected to a Raspberry Pi](https://foojay.io/today/controlling-electronics-with-jbang-on-the-raspberry-pi/).

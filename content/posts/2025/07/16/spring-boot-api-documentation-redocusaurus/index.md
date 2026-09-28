@@ -14,7 +14,6 @@ related_posts:
   - "containerizing-spring-boot-applications-with-jib"
   - "crafting-your-own-railway-display-with-java"
   - "creating-a-simple-spring-boot-application-in-intellij-idea"
-frozen: false
 ---
 
 #### *Create clear and interactive API documentation quickly.*

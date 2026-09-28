@@ -3,7 +3,6 @@ title: "Using the Arguments"
 linkTitle: "Using Arguments and String Arrays"
 description: "Java Quick Start Tutorial: Use the start-up arguments of the main method to learn Java arrays: their length, and how to loop through them."
 url: "/java-quick-start/quick-start-tutorial/using-the-arguments/"
-frozen: false
 duration: "2:10"
 weight: 3
 ---

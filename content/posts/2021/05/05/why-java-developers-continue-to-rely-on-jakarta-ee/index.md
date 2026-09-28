@@ -15,7 +15,6 @@ related_posts:
   - "whats-new-in-the-august-2026-azul-payara-release"
   - "whats-new-in-the-july-2026-azul-payara-release"
   - "jurassic-jdk-migrate-or-extinct"
-frozen: false
 ---
 
 Over the past year, the Eclipse Foundation spoke to leading Java developers around the world to discuss why they rely on[Jakarta EE](https://jakarta.ee/) and the unique benefits of using Jakarta EE technologies. Their input is captured in our white paper, which describes the important advantages Jakarta EE offers today and for the future.  

@@ -13,7 +13,6 @@ related_posts:
   - "java-where-the-wild-code-isnt"
   - "are-java-security-updates-important"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
-frozen: true
 ---
 
 **Java has regular patch and security updates that are co-ordinated across the community, they happen once per quarter. When these updates happen, there are fixes that include security issues, all of which are displayed on Foojay.io.**
