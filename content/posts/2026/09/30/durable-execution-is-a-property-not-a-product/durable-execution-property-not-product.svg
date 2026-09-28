@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img"
+     aria-label="A database row listing the completed steps of a job on the left, and the Job Progress Chart View JobRunr 9 renders from it on the right: two steps skipped, the failed step retried.">
+  <title>Durable Execution Is a Property, Not a Product</title>
+  <!-- Hero for the durable execution opinion piece. Hand-authored SVG in the
+       site's own brand values (surface navy #0d1d2f ground, accent #50c2f7,
+       amber #f2951b), deliberately the same construction and palette as
+       asciidoc-support-on-foojay.svg and mermaid-support-on-foojay.svg so it
+       reads as part of the same family in the article grid. Left card is the
+       property (a checkpoint in a database row), right card is what JobRunr 9
+       shows you: the retry skipping the steps that are already written down. -->
+  <defs>
+    <style>
+      .code { fill: #7fd3fb; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 23px; }
+      .dim  { fill: #5c87a6; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 23px; }
+      .amber{ fill: #f2951b; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 23px; font-weight: 700; }
+      .name { fill: #e9f6fe; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 21px; }
+      .tag  { fill: #5c87a6; font-family: system-ui, -apple-system, "Segoe UI", sans-serif; font-size: 18px; }
+      .ok   { fill: #4fd08a; font-family: system-ui, -apple-system, "Segoe UI", sans-serif; font-size: 18px; font-weight: 600; }
+      .lbl  { fill: #f2951b; font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+              font-size: 19px; font-weight: 700; letter-spacing: .1em; }
+      .kicker { fill: #50c2f7; font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+                font-size: 24px; font-weight: 700; letter-spacing: .14em; }
+      .head { fill: #ffffff; font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+              font-size: 62px; font-weight: 800; }
+    </style>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#5c87a6"/>
+    </marker>
+  </defs>
+
+  <rect width="1200" height="630" fill="#0d1d2f"/>
+
+  <text class="kicker" x="100" y="152">DURABLE EXECUTION</text>
+  <text class="head" x="96" y="242">A Property, Not a Product</text>
+
+  <!-- Left card: the property, a checkpoint in a database row -->
+  <rect x="100" y="320" width="470" height="250" rx="14" fill="#0a1725" stroke="#2b4a63" stroke-width="2.5"/>
+  <text class="dim"   x="136" y="376">jobs.completed_steps</text>
+  <text class="code"  x="136" y="422">['calculate-usage',</text>
+  <text class="code"  x="136" y="460"> 'generate-pdf']</text>
+  <text class="amber" x="136" y="522">charge-card</text>
+  <text class="dim"   x="308" y="522">= not written down</text>
+
+  <!-- Arrow -->
+  <line x1="586" y1="445" x2="634" y2="445" stroke="#5c87a6" stroke-width="2.5" marker-end="url(#a)"/>
+
+  <!-- Right card: what JobRunr 9 renders from that row on the retry -->
+  <rect x="650" y="320" width="450" height="250" rx="14" fill="#10233a" stroke="#2b4a63" stroke-width="2.5"/>
+  <text class="lbl" x="686" y="368">RETRY 1</text>
+
+  <!-- calculate-usage: skipped -->
+  <text class="name" x="686" y="416">calculate-usage</text>
+  <path d="M 926 409 l 9 -9 l 9 9 l -9 9 z" fill="none" stroke="#5c87a6" stroke-width="2.5"/>
+  <text class="tag" x="960" y="416">skipped</text>
+
+  <!-- generate-pdf: skipped -->
+  <text class="name" x="686" y="462">generate-pdf</text>
+  <path d="M 926 455 l 9 -9 l 9 9 l -9 9 z" fill="none" stroke="#5c87a6" stroke-width="2.5"/>
+  <text class="tag" x="960" y="462">skipped</text>
+
+  <!-- charge-card: failed then succeeded -->
+  <text class="name" x="686" y="508">charge-card</text>
+  <rect x="912" y="497" width="34" height="12" rx="6" fill="#e35d6a"/>
+  <rect x="952" y="497" width="52" height="12" rx="6" fill="#4fd08a"/>
+  <text class="ok" x="1016" y="509">done</text>
+
+  <text class="tag" x="686" y="548">Nothing re-runs that is already written down.</text>
+</svg>
