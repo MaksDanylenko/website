@@ -4,317 +4,148 @@ description: "What personal data foojay.io collects, why we collect it, how long
 url: "/privacy-policy/"
 ---
 
-Please read the following to learn more about our Privacy Policy. The foojay.io website and domain name and all other websites and domain names affiliated with Azul Systems, Inc. ("Company"), and any other linked pages, features, content, or application services offered from time to time by Company in connection therewith (collectively, the "Website" or "Websites") are owned and operated by Company. By visiting the foojay.io website at <https://foojay.io/> or any of Company's other websites, applications, domain names or other linked pages, or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. By using the Website, you are consenting to have your personal data transferred to and processed in the United States.
+Azul Systems, Inc. (the "Company") knows that you care about how your personal information is used and shared, and takes your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting the Company's website at www.azul.com or any of Company's other websites, applications, domain names or other linked pages, including, without limitation https://www.azul.com/support or https://www.zulu.org, https://foojay.io (collectively the "Website"), or using any of our Services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. Personal data you provide may be transferred to and processed in the United States under the safeguards described in the "Transfers of Personal Data" section below; using the Website does not by itself constitute your consent to that processing.
 
 You post any Content (as that term is defined in the Company's Terms of Use located at https://foojay.io/terms-of-use/) on the Website at your own risk. Although we may allow you to set privacy options that limit access to your pages, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other users with whom you may choose to share your pages and information. Therefore, we cannot and do not guarantee that Content you post on the Website will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Website. You understand and acknowledge that, even after removal, copies of Content may remain viewable in cached and archived pages or if other users have copied or stored your Content.
 
 Any improper collection or misuse of Content or other information accessible on the Website is a violation of the Company's Terms of Use and should be reported to [privacy_consumers@azul.com](mailto:privacy_consumers@azul.com).
 
-**What personal data we collect and why we collect it**
+**What does this Privacy Policy cover?**
 
-**Comments**
+This Privacy Policy covers Company's treatment of personally identifiable information ("Personal Information") that Company gathers when you are accessing the Website and when you use our Services. Also, this Privacy Policy covers Company's treatment of any Personal Information that Company's business partners share with Company, or that you provide to the Company through a third-party website using a Company application. This policy does not apply to the practices of companies that Company does not own or control, or to individuals that Company does not employ or manage.
 
-When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor's IP address and browser user agent string to help spam detection.
+Company does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. For individuals in the EEA and United Kingdom, the applicable minimum age is 16 (or the lower age set by the applicable Member State, but in no event below the age of 13), as described in more detail herein. If you are under 16 or in a Member State with another minimum age less then 16, please do not attempt to register for the Website or send any information about yourself to us, including your name, address, telephone number, or email address. In any circumstances, no one under age 13 may provide any personal information to Company or on the Website. In the event we learn that we have collected personal information from a child under age 16 in the EEA and the United Kingdom, or in any event under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under these ages in your jurisdiction, please contact us at [privacy_consumers@azul.com](mailto:privacy_consumers@azul.com).
 
-An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
+**What personal information does Company display or collect?**
 
-**Media**
-
-If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
-
-**Contact Forms**
-
-If you provide your contact information in any on-line of physical content form, you are consenting to the Company's use of such contact information.
+When you use the Website, you may set up your personal profile, form relationships, send messages, perform searches and queries, register for events, subscribe to newsletters or mailing lists, request to be contacted through the completion of a website form, download a whitepaper, correspond with us, or otherwise transmit information through various channels. The information we gather from users enables us to personalize and improve our Services, and to allow our users to set up a user account and profile that can be used to interact with Company through the Website. In most cases, we retain such information so that, for instance, you can return to view prior messages you have sent. When you update information, we usually keep a backup copy of the prior version for a reasonable period of time to enable reversion to the prior version of that information. In addition to the foregoing, we collect the following types of information from our users.
 
 **Personal Information You Provide to Us**
 
-We receive and store any information you enter on the Website, whether via computer, mobile phone, other wireless device, or that you provide to us in any other way. The types of Personal Information collected may include, without limitation, your name, email address, company, IP address, browser information, and password. You may choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. The Personal Information you provide is used for such purposes as responding to your requests for certain information, products and services, customizing the content you see, and communicating with you about new features. You may modify or remove your Personal Information identified below at any time by logging into your account and accessing features to edit your profile and account information.
+We receive and store any information you enter on the Website, whether via computer, mobile phone, other wireless device, or that you provide to us in any other way. The types of Personal Information collected may include, without limitation, your name, email address, company, IP address, browser information, and password. You may choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. The Personal Information you provide is used for such purposes as responding to your requests for certain information, products and Services, customizing the content you see, and communicating with you about new features. You may modify or remove your Personal Information identified below at any time by logging into your account and accessing features to edit your profile and account information.
 
 **Personal Information Collected Automatically**
 
-We receive and store certain types of information whenever you interact with the Website or our services. Company automatically receives and records information on our server logs from your browser including your IP address, cookie information, device information, location data, browser data, pages you requested or browsed, the account you are signed into while visiting the Website and data about the online ads served (or attempts thereof) to you. We also record the details of your activity on the Website. We may share this type of data with our partners, which they may use to provide you with offers for products or services that may be of interest to you.
+We receive and store certain types of information whenever you interact with the Website or our Services. Company automatically receives and records information on our server logs from your browser including your IP address, cookie information, device information, location data, browser data, pages you requested or browsed, the account you are signed into while visiting the Website and data about the online ads served (or attempts thereof) to you. We also record the details of your activity on the Website. We may share this type of data with our partners, which they may use to provide you with offers for products or Services that may be of interest to you.
 
-Generally, our service automatically collects usage information, such as the numbers and frequency of visitors to our site and its components, similar to TV ratings that indicate how many people watched a particular show. This type of aggregate data enables us to figure out how often users use parts of the Website or services so that we can make the Website appealing to as many users as possible, and improve those services. As part of this use of information, we may provide aggregate information to our partners about how our users, collectively, use our site. We share this type of statistical data so that our partners also understand how often people use their services and the Website, so that they, too, may provide you with an optimal online experience.
+Generally, our service automatically collects usage information, such as the numbers and frequency of visitors to our site and its components. This type of aggregate data enables us to figure out how often users use parts of the Website or Services so that we can make the Website appealing to as many users as possible, and improve those Services. As part of this use of information, we may provide aggregate information to our partners about how our users, collectively, use our site.
 
 **Email Communications**
 
 We often receive a confirmation when you open an email from Company if your computer supports this type of program. Company uses this confirmation to help us make emails more interesting and helpful. We also compare our user list to lists received from other companies, in an effort to avoid sending unnecessary messages to our users.
 
-If you provide your email address(es) to us, your email address data may be communicated, hashed, stored and/or combined with other identifiers, for cross-device recognition purposes, targeted advertising purposes, and analytics purposes by our advertising partners. If you would like to opt-out, please send an email to [privacy_consumers@azul.com](mailto:privacy_consumers@azul.com).
-
-**Cookies**
-
-If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
-
-If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
-
-When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select "Remember Me", your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
-
-If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
-
-**Embedded content from other websites**
-
-Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
-
-These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
+If you provide your email address(es) to us, your email address data may be communicated, hashed, stored and/or combined with other identifiers, for cross-device recognition purposes, targeted advertising purposes, and analytics purposes by our advertising partners. We do not share, hash or combine your email address for cross-device recognition or targeted advertising unless you have first given your consent. You may withdraw your consent at any time by emailing [privacy_consumers@azul.com](mailto:privacy_consumers@azul.com).
 
 **What About Cookies?**
 
-Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people.
+Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people. Most browsers have an option for turning off the cookie feature. You can also manage non-essential cookies through our preference center. If you disable cookies you may not be able to log in or use some features of the Website.
 
-Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because you will not be able to log in or use many of the Website's most attractive features without cookies enabled.
-
-Ads appearing on the Website, if any, may be delivered to users by our advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Company and does not cover the use of cookies by any advertisers.
+Ads appearing on the Website, if any, may be delivered to users by our advertising partners, who may set cookies. This Privacy Policy covers the use of cookies by Company and does not cover the use of cookies by any advertisers. If you'd like to adjust your tracking preferences, visit our preference center.
 
 **What Cookies Are Used?**
 
-**Strictly Necessary Cookies**
+**Strictly Necessary Cookies** — These cookies are necessary for the website to function and cannot be switched off in our systems. They do not store any personally identifiable information.
 
-These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms.
+**Analytics Cookies** — These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. These cookies rely on identifiers that are unique to your browser. We use the information they collect in aggregate form to understand how our site performs.
 
-You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+**Functional Cookies** — These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages.
 
-**Performance Cookies**
-
-These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site.
-
-All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
-
-**Functional Cookies**
-
-These cookies enable the website to provide enhanced functionality and personalization. They may be set by us or by third party providers whose services we have added to our pages.
-
-If you do not allow these cookies then some or all of these services may not function properly.
+**Behavioral Advertising Cookies** — These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. These cookies are set only after you have given prior opt-in consent through our preference center. They do not store personal information directly but are based on uniquely identifying your browser and internet device.
 
 **WILL COMPANY SHARE ANY OF THE PERSONAL INFORMATION IT RECEIVES?**
 
-Personal Information about our users is an integral part of our business. We neither rent nor sell your Personal Information to anyone. However, we share your Personal Information as described below.
+Personal Information about our users is an integral part of our business. We neither rent nor sell your Personal Information to anyone. We share your Personal Information as described below.
 
-**Agents:** We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Examples include sending email, analyzing data, and providing user services. Unless we tell you differently, Company's agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes.
+**Affiliated Businesses We Do Not Control:** We anticipate that we may become affiliated with a variety of businesses and work closely with them. You can easily recognize when an affiliated business is associated with your transaction, and we will share user information that is related to such transactions and/or to offering you services with that affiliated business.
 
-**User Profiles:** User profile information including, without limitation, users' name, email address, company name, may be displayed to other users to facilitate user interaction within the website or provide your request for Company's services. Any Personal Information or content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within a public profile page, etc.) becomes publicly available and can be collected and used by others. Your display name may be displayed to other users when you send messages or other content through the Website and other users can contact you through messages and comments. Any images, captions, physical descriptions, personal interests or other content that you submit to the Websites may be redistributed through the Internet and other media channels, and may be viewed by the general public.
+**Agents:** We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Examples include sending email, analyzing data, and providing user services. Unless we tell you differently, Company's agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. We share Personal Information with our agents on the basis of our legitimate interest in operating the Website and, where required, your consent.
 
-**Business Transfers:** In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that are transferred. Moreover, if Company, or substantially all of its assets were acquired, or in the unlikely event that Company goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquiror of Company may continue to use your Personal Information as set forth in this Agreement.
+**User Profiles:** User profile information including, without limitation, users' name, email address, company name, may be displayed to other users to facilitate user interaction within the website or provide your request for Company's Services. Any Personal Information or content that you voluntarily disclose online becomes publicly available and can be collected and used by others.
 
-**Protection of Company and Others**: We may release Personal Information when we believe in good faith that release is necessary to comply with that law; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of Company, our employees, our users, or others. This includes, without limitation, exchanging information with other companies and organizations for fraud protection.
+**Communication About the Website or in Response to User Requests:** As part of the Website and our Services, you may receive from Company email and other communications relating to your use of the Website or your profile. Company may use a user's email address to send updates, a newsletter or other news regarding the Website or Company Services.
 
-**With Your Consent**: Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be given the option to prevent the sharing of this information.
+**Promotional Offers:** We may use your Personal Information in order to provide you with greater customer service and to send you the latest information on products, solutions and services, either from us, or from our business affiliates, and we may share your personal information with our business affiliates in connection therewith. We share Personal Information with our community sponsors, affiliates and partners for their own marketing only where you have given prior consent, and we will identify the recipient at the point we ask for it. You may withdraw your consent at any time by emailing [privacy_consumers@azul.com](mailto:privacy_consumers@azul.com).
+
+**Business Transfers:** In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that are transferred. You acknowledge that such transfers may occur, and that any acquiror of Company may continue to use your Personal Information as set forth in this policy.
+
+**Protection of Company and Others:** We may release Personal Information when we believe in good faith that release is necessary to comply with law; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of Company, our employees, our users, or others.
+
+**With Your Consent:** Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be given the option to prevent the sharing of this information.
 
 **IS PERSONAL INFORMATION ABOUT ME SECURE?**
 
-Your Company account Personal Information is protected by a password for your privacy and security. You need to assist in preventing unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account.
+Your Company account Personal Information is protected by a password for your privacy and security. Company endeavors to protect user information; however, Company cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of user information at any time.
 
-Company endeavors to protect user information to ensure that user account information is kept private; however, Company cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of user information at any time. For additional information about the security measures Company uses in connection with the Website, please contact us at [info@azul.com](mailto:info@azul.com).
+**CHANGES TO THIS PRIVACY POLICY**
 
-**++Extensions Pertaining to EU Residents++**
+Company may make changes to this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you via email or by posting an announcement on the Website. Users are bound by any changes to the Privacy Policy when he or she uses the Website after such changes have been first posted.
 
-If you are a resident of the European Union ("EU"), United Kingdom, Lichtenstein, Norway, or Iceland, you may have additional rights under the EU General Data Protection Regulation (the "GDPR") with respect to your Personal Data, as outlined below.
+**EXTENSIONS TO AZUL PRIVACY POLICY PERTAINING TO EU RESIDENTS**
 
-For this section, we use the terms "Personal Data" and "processing" as they are defined in the GDPR, but "Personal Data" generally means information that can be used to individually identify a person, and "processing" generally covers actions that can be performed in connection with data such as collection, use, storage and disclosure. We further use the term "Services" in this section to denote visiting our using the Company's websites, applications, domain names or other linked pages or our products and services that you purchase from us or otherwise download install or use (which may also be subject to additional terms and conditions). Company will be the controller of your Personal Data processed in connection with the Services.
+If you are a resident of the European Union ("EU"), United Kingdom, Liechtenstein, Norway, or Iceland, you may have additional rights under the EU General Data Protection Regulation (the "GDPR") with respect to your Personal Data, as outlined below. For this section, we use the terms "Personal Data" and "processing" as they are defined in the GDPR, but "Personal Data" generally means information that can be used to individually identify a person, and "processing" generally covers actions performed in connection with data such as collection, use, storage and disclosure. Company will be the controller of your Personal Data processed in connection with the Services.
 
-If there are any conflicts between this section and any other provision of this Agreement or portion that is more protective of Personal Data shall control to the extent of such conflict. If you have any questions about this section or whether any of the following applies to you, please contact us at [info@azul.com](mailto:info@azul.com), with "GDPR Request" included in the Subject line. Please note that we may also process Personal Data of our customers' end users or employees in connection with our provision of services to customers, in which case we are the processor of Personal Data. If we are the processor of your Personal Data (i.e., not the controller), please contact the controller party in the first instance to address your rights with respect to such data.
+Azul has appointed Susana Assunção Freitas Rodrigues, registered address at Rua Nova de São Pedro no. 54, 2nd floor, room "D", 9000 048 Funchal, Ilha da Madeira, Portugal as its representative in the European Union under Article 27 GDPR; and Mark Boote as its representative in the United Kingdom under the UK GDPR. You may contact our data protection representative at Malvern Hills Science Park, Geraldine Road, Malvern, Worcestershire, England, WR14 3SZ. You may also contact us directly at [privacy_consumers@azul.com](mailto:privacy_consumers@azul.com).
 
-**++Extensions to Azul Privacy Policy for California Residents++**.
+If there are any conflicts between this section and any other provision of this Privacy Policy, the policy or portion that is more protective of Personal Data shall control to the extent of such conflict. If we are the processor of your Personal Data (i.e., not the controller), please contact the controller party in the first instance to address your rights with respect to such data.
 
-This Privacy Notice for California Residents supplements the information contained in the Privacy Statement of Azul Systems, Inc. and its subsidiaries and applies solely to visitors, users, and others who reside in the State of California ("consumers" or "you"). We adopt this notice to comply with the California Consumer Privacy Act of 2018 ("CCPA") and other California privacy laws. Any terms defined in the CCPA have the same meaning when used in this notice.
-
-We obtain the categories of personal information about California residents noted elsewhere in this Privacy Policy. In California, Personal information does not include:
-
-* Publicly available information from government records.
-* De-identified or aggregated consumer information.
-* Information excluded from the CCPA's scope, like:
-  * health or medical information covered by the Health Insurance Portability and Accountability Act of 1996 (HIPAA) and the California Confidentiality of Medical Information Act (CMIA) or clinical trial data;,
-
-  <!-- -->
-
-  * personal information covered by certain sector-specific privacy laws, including the Fair Credit Reporting Act (FRCA), the Gramm-Leach-Bliley Act (GLBA) or California Financial Information Privacy Act (FIPA), and the Driver's Privacy Protection Act of 1994.
-
-**++Sharing Personal Information++**
-
-We may disclose your personal information to a third party for a business purpose. When we disclose personal information for a business purpose, we enter a contract that describes the purpose and requires the recipient to both keep that personal information confidential and not use it for any purpose except performing the contract.
-
-We disclose your personal information for a business purpose to the following categories of third parties:
-
-Our affiliates.
-
-Service providers.
-
-Third parties to whom you or your agents authorize us to disclose your personal information in connection with products or services we provide to you.
-
-In the preceding twelve (12) months, we have not sold any personal information.
-
-**++Your Rights and Choices++**
-
-The CCPA provides consumers (California residents) with specific rights regarding their personal information. This section describes your CCPA rights and explains how to exercise those rights.
-
-Access to Specific Information and Data Portability Rights
-
-You have the right to request that we disclose certain information to you about our collection and use of your personal information over the past 12 months. Once we receive and confirm your verifiable consumer request, we will disclose to you:
-
-The categories of personal information we collected about you.
-
-The categories of sources for the personal information we collected about you.
-
-Our business or commercial purpose for collecting or selling that personal information.
-
-The categories of third parties with whom we share that personal information.
-
-The specific pieces of personal information we collected about you (also called a data portability request).
-
-If we sold or disclosed your personal information for a business purpose, two
-
-separate lists disclosing:
-
-sales, identifying the personal information categories that each category of recipient purchased; and
-
-disclosures for a business purpose, identifying the personal information categories that each category of recipient obtained.
-
-Deletion Request Rights
-
-You have the right to request that we delete any of your personal information that we collected from you and retained, subject to certain exceptions. Once we receive and confirm your verifiable consumer request, we will delete (and direct our service providers to delete) your personal information from our records, unless an exception applies.
-
-We may deny your deletion request if retaining the information is necessary for us or our service providers to:
-
-Complete the transaction for which we collected the personal information, provide a good or service that you requested, take actions reasonably anticipated within the context of our ongoing business relationship with you, or otherwise perform our contract with you.
-
-Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for such activities.
-
-Debug products to identify and repair errors that impair existing intended functionality.
-
-Exercise free speech, ensure the right of another consumer to exercise their free speech rights, or exercise another right provided for by law.
-
-Comply with the California Electronic Communications Privacy Act (Cal. Penal Code § 1546 seq.).
-
-Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when the information's deletion may likely render impossible or seriously impair the research's achievement, if you previously provided informed consent.
-
-Enable solely internal uses that are reasonably aligned with consumer expectations based on your relationship with us.
-
-Comply with a legal obligation.
-
-Make other internal and lawful uses of that information that are compatible with the context in which you provided it.
-
-Exercising Access, Data Portability, and Deletion Rights
-
-To exercise the access, data portability, and deletion rights described above, please submit a verifiable consumer request to us at:
-
-Email: [privacy_consumer@azul.com](mailto:privacy_consumer@azul.com) with "Privacy Data CCPA Request" included in the Subject line, or
-
-Postal Address: Azul Systems, Inc.
-
-Attn: Privacy Data CCPA Requests
-
-385 Moffett Park Drive, Suite 115
-
-Sunnyvale, CA 94089
-
-Only you or a person registered with the California Secretary of State that you authorize to act on your behalf, may make a verifiable consumer request related to your personal information. You may also make a verifiable consumer request on behalf of your minor child.
-
-You may only make a verifiable consumer request for access or data portability twice within a 12-month period. The verifiable consumer request must:
-
-Provide sufficient information that allows us to reasonably verify you are the person about whom we collected personal information or an authorized representative.
-
-Describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it.
-
-We cannot respond to your request or provide you with personal information if we cannot verify your identity or authority to make the request and confirm the personal information relates to you. Making a verifiable consumer request does not require you to create an account with us. We will only use personal information provided in a verifiable consumer request to verify the requestor's identity or authority to make the request.
-
-**Response Timing and Format**
-
-We endeavor to respond to a verifiable consumer request within 45 days of its receipt. If we require more time (up to 90 days), we will inform you of the reason and extension period in writing. If you have an account with us, we will deliver our written response to that account. If you do not have an account with us, we will deliver our written response by mail or electronically, at your option. Any disclosures we provide will only cover the 12-month period preceding the verifiable consumer request's receipt. The response we provide will also explain the reasons we cannot comply with a request, if applicable. For data portability requests, we will select a format to provide your personal information that is readily useable and should allow you to transmit the information from one entity to another entity without hindrance.
-
-We do not charge a fee to process or respond to your verifiable consumer request unless it is excessive, repetitive, or manifestly unfounded. If we determine that the request warrants a fee, we will tell you why we made that decision and provide you with a cost estimate before completing your request.
-
-**Non-Discrimination**
-
-* We will not discriminate against you for exercising any of your CCPA rights. Unless permitted by the CCPA, we will not:
-* Deny you goods or services.
-* Charge you different prices or rates for goods or services, including through granting discounts or other benefits, or imposing penalties.
-* Provide you a different level or quality of goods or services.
-* Suggest that you may receive a different price or rate for goods or services or a different level or quality of goods or services.
-
-**++What Personal Data Do We Collect From You?++** We collect Personal Data about you when you provide such information directly to us, when third parties such as our business partners or service providers provide us with Personal Data about you, or when Personal Data about you is automatically collected in connection with your use of our Services.
-
-**Information we collect directly from you:** We receive Personal Data directly from you when you provide us with such Personal Data, including without limitation the following:
-
-User data, for example, an IP address you provide to us (which can include Personal Data if you include Personal Data in such content)
-
-**Information we receive from third-party sources**: Some third parties such as our business partners (such as existing customers) and service providers provide us with Personal Data about you, such as the following:
-
-**Information from our advertising partners:** We receive information about you from some of our service providers who assist us with marketing or promotional services related to how you interact with our websites, applications, products, services, advertisements or communications.
-
-We may also receive Personal Data from our business partners (e.g., resellers, our strategic or technology partners).
-
-Information we automatically collect when you use our Services: Some Personal Data is automatically collected when you use our Services, such as the following:
-
-* IP address
-* Device identifiers
-* Web browser information
-* Page view statistics
-* Company's web pages visited and assets you have accessed or downloaded
-* Usage information
-* Cookies and other tracking technologies (e.g. web beacons, pixel tags, SDKs, etc.) — For more information, please review our Cookie Policy which is a located above in the section "What About Cookies?".
-* Location information (e.g. IP address, postal code, city, state or province, country)
-* Log data (e.g. access times, hardware and software information)
-* The language used by your browser
-* Information based on your IP address, such as the internet service provider (ISP) or the entity using such IP address (e.g., company, organization or employer)
-
-**++How Do We Use Your Personal Data?++** We process Personal Data to operate, improve, understand and personalize our Services. For example, we use Personal Data to:
-
-* Create and manage user account profiles
-* Enable our Services for your use
-* Communicate with you about the Services
-* Process orders
-* Contact you about Service announcements, updates or offers
-* Provide support and assistance for the Services
-* Personalize website content and communications based on your preferences
-* Meet contract or legal obligations
-* Respond to user inquiries
-* Fulfill user requests
-* Resolve disputes
-* Protect against or deter fraudulent, illegal or harmful actions
-* Enforce our Terms of Service
+**How Do We Use Your Personal Data?**
 
 We will only process your Personal Data if we have a lawful basis for doing so. Lawful bases for processing include consent, contractual necessity and our "legitimate interests" or the legitimate interest of others, as further described below.
 
-**Contractual Necessity**: We process the following categories of Personal Data as a matter of "contractual necessity", meaning that we need to process the data to perform under our Terms of Service with you, which enables us to provide you with the Services. When we process data due to contractual necessity, failure to provide such Personal Data will result in your inability to use some or all portions of the Services that require such data.
+Contractual Necessity: We process the following categories of Personal Data as a matter of "contractual necessity": first and last name; email address; mailing address; telephone number; and user content.
 
-**Legitimate Interest**: We process the following categories of Personal Data when we believe it furthers the legitimate interest of us or third parties.
+Legitimate Interest: We process the following categories of Personal Data when we believe it furthers the legitimate interest of us or third parties:
 
-* IP address
-* Device identifiers
-* Web browser information
-* Page view statistics
-* Browsing history
-* Usage information
-* Cookies and other tracking technologies (e.g. web beacons, pixel tags, SDKs, etc.)
-* Location information (e.g. IP address, zip code)
-* Log data (e.g. access times, hardware and software information)
+- IP address
+- Device identifiers
+- Web browser information
+- Page view statistics
+- Browsing history
+- Usage information
+- Transaction information (e.g. transaction amount, date and time such transaction occurred)
+- Location information (e.g. IP address, zip code)
+- Log data (e.g. access times, hardware and software information)
 
-Examples of these legitimate interests include:
+We rely on your consent, and not on legitimate interest, for non-essential cookies and similar tracking technologies and for behavioral or cross-device advertising. Each legitimate interest use, above, is supported by a documented Legitimate Interests Assessment and is subject to your right to object under Article 21 GDPR.
 
-* Operation and improvement of our business, products and services
-* Provision of customer support
-* Protection from fraud or security threats
-* Compliance with legal obligations
-* Completion of corporate transactions
+**How and With Whom Do We Share Your Data?**
 
-**Other Processing Grounds**: From time to time we may also need to process Personal Data to comply with a legal obligation, if it is necessary to protect the vital interests of you or other data subjects, or if it is necessary for a task carried out in the public interest.
+We share Personal Data with vendors, third party service providers and agents who work on our behalf, including payment processors, fraud prevention service providers, advertising networks, analytics service providers, staff augmentation and contract personnel, hosting service providers, and telecommunications service providers. We also share Personal Data when we believe it is necessary to comply with applicable law or valid legal process, to protect us, our business or our users, and to maintain the security of our products and Services. We also share information with third parties when you give us consent to do so.
 
-**++How and With Whom Do We Share Your Data?++** We share Personal Data with vendors, third party service providers and agents who work on our behalf and provide us with services related to the purposes described in this Agreement.
+**How Long Do We Retain Your Personal Data?**
 
-These parties may include:
+We retain Personal Data only for as long as necessary for the purposes for which it was collected, after which it is deleted or anonymized. In determining retention periods we take into account the duration of our relationship with you, the nature of the Personal Data, applicable statutory limitation periods, and our legal, tax and accounting obligations. We may retain Personal Data for longer where necessary to comply with a legal obligation, to establish, exercise or defend legal claims, or to collect amounts owed to us. Where we no longer need to identify you, we may retain information in a depersonalized or aggregated form that cannot identify you personally. Articles, comments and other content you contribute are intended to remain publicly available as part of the community archive; if you ask us to remove them we will do so, subject to any legal obligation to retain them.
 
-* Fraud prevention service providers
-* Analytics service providers
-* Staff augmentation and contract personnel
-* Hosting service providers
-* Telecommunications service providers
+**What Security Measures Do We Use?**
 
-We also share Personal Data when necessary to provide you with a product or service you have requested. In addition to those set forth above, these parties also Other parties authorized by you.
+We seek to protect Personal Data using appropriate technical and organizational measures based on the type of Personal Data and applicable processing activity. Access to Personal Data is limited to individuals and our service providers with a business requirement to access or use such data. Personal Data is encrypted at rest and in transit.
 
-We also share Personal Data when we believe it is necessary to:
+**Personal Data of Children**
 
-* Comply with applicable law or respond to valid legal process, including from law enforcement or other government agencies
-* Protect us, our business or our users, for example, to enforce our terms of service, prevent spam or other unwanted communications and investigate or protect against fraud
-* Maintain the security of our products and services
+We do not knowingly collect or solicit Personal Data from anyone under the age of 16. If you are under 16, please do not attempt to register for the Services or send any Personal Data about yourself to us. If we learn that we have collected Personal Data from a child under age 16, we will delete that information as quickly as reasonably possible.
 
-*Effective date: October 17, 2024*
+**What Rights Do You Have Regarding Your Personal Data?**
+
+You have certain rights with respect to your Personal Data, including the rights of access, rectification, erasure, withdrawal of consent, portability, objection, and restriction of processing, and the right to lodge a complaint with the supervisory authority of your country or EU Member State. To submit a request, please email [privacy_consumers@azul.com](mailto:privacy_consumers@azul.com) with the subject heading "Privacy Data Request". We will respond to your request within one month. Where a request is complex, or where we have received a number of requests from you, we may extend that period by up to two further months and will tell you why. Where we need further information to identify you or to clarify your request, we may pause that period until you provide it. We do not charge a fee for handling your request unless it is manifestly unfounded or excessive. If we decline your request we will explain why and tell you how to complain. If you are unhappy with how we have handled your Personal Data or a request you have made, you may complain to us at [privacy_consumers@azul.com](mailto:privacy_consumers@azul.com); we will acknowledge your complaint without undue delay and respond within 30 days. You may also complain at any time to the supervisory authority in the country of your residence or place of work, or the place of the alleged infringement, and, if you are in the United Kingdom, to the Information Commissioner's Office.
+
+**Transfers of Personal Data**
+
+The Services are hosted and operated in the United States ("U.S.") through Company and its service providers, and if you do not reside in the U.S., laws in the U.S. may differ from the laws where you reside. Where we transfer Personal Data out of the EEA, United Kingdom or Switzerland, we do so under the European Commission's Standard Contractual Clauses (and, for UK data, the UK International Data Transfer Addendum), and for Swiss data under the Swiss addendum to those clauses. You may request a copy of the relevant safeguards from [privacy_consumers@azul.com](mailto:privacy_consumers@azul.com). By using the Services, you acknowledge that any Personal Data about you is being provided to Company in the U.S. and will be hosted on U.S. servers, and you authorize Company to transfer, store and process your information to and in the U.S., and possibly other countries where Personal Data you provide is transferred to and processed in the United States, and may be processed in other countries where we or our service providers operate. Those transfers are made under the safeguards described in this Section. We do not rely on your consent as the basis for these transfers.
+
+**EXTENSIONS TO AZUL PRIVACY POLICY FOR CALIFORNIA RESIDENTS**
+
+This Privacy Notice for California Residents supplements the information contained in the Privacy Statement of Azul Systems, Inc. and applies solely to visitors, users, and others who reside in the State of California. We adopt this notice to comply with the California Consumer Privacy Act of 2018 ("CCPA") and other California privacy laws.
+
+In the preceding twelve (12) months, we have not sold any personal information. The CCPA provides consumers with rights of access, data portability, and deletion, subject to certain exceptions, and a right to non-discrimination for exercising those rights.
+
+**Exercising Access, Data Portability, and Deletion Rights**
+
+To exercise the access, data portability, and deletion rights described above, please submit a verifiable consumer request to us at: Email: [privacy_consumers@azul.com](mailto:privacy_consumers@azul.com), with "Privacy Data CCPA Request" included in the Subject line, or by mail to Azul Systems, Inc., Attn: Privacy Data CCPA Requests, 385 Moffett Park Drive, Suite 115, Sunnyvale, CA 94089.
+
+We endeavor to respond to a verifiable consumer request within 45 days of its receipt. If we require more time (up to 90 days), we will inform you of the reason for the delay and provide the extension period we need to fulfil the request, in writing.
+
+**QUESTIONS OR CONCERNS**
+
+If you have any questions or concerns regarding privacy at Azul Systems, please send us a detailed message to [privacy_consumers@azul.com](mailto:privacy_consumers@azul.com). We will make every effort to resolve your concerns.
+
+*Effective date: September 28, 2026*
