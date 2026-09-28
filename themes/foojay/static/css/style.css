@@ -2309,6 +2309,10 @@ a.pagination__btn:hover { border-color: var(--ink); text-decoration: none; }
   color: var(--ink); border-color: var(--feed);
   background: var(--surface); text-decoration: none;
 }
+/* Beside the round 44px icon-buttons (author-social.html), the feed pill
+   matches their height rather than sitting shorter with its own text-driven
+   geometry -- box-sizing so the border stays inside the 44px, not added to it. */
+.author-social .feed-link { height: 44px; box-sizing: border-box; padding: 0 .9rem 0 .7rem; }
 /* The mark keeps its own colour on hover: it is the thing a reader recognises
    from every other site, and --feed is the one token here that is not part of
    the brand palette for exactly that reason. */
