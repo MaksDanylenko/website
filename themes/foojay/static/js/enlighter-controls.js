@@ -1,10 +1,16 @@
 /* Native controls around Enlighter's rendered code; the vendored bundle stays unchanged. */
 (function () {
+  var narrowScreen = window.matchMedia('(max-width: 40rem)');
   document.querySelectorAll('.enlighter-default').forEach(function (block, index) {
     var raw = block.querySelector('.enlighter-raw');
     var code = block.querySelector('.enlighter-code');
     if (!raw || !code) return;
 
+    var options = document.createElement('details');
+    options.className = 'code-options';
+    var summary = document.createElement('summary');
+    summary.textContent = 'Code options';
+    options.appendChild(summary);
     var controls = document.createElement('div');
     controls.className = 'code-actions';
     var status = document.createElement('span');
@@ -53,6 +59,22 @@
     link('Open code', URL.createObjectURL(new Blob([raw.textContent], { type: 'text/plain;charset=utf-8' })));
     link('EnlighterJS', 'https://enlighterjs.org');
     controls.appendChild(status);
-    block.prepend(controls);
+    options.appendChild(controls);
+    block.prepend(options);
+
+    function adaptControls() {
+      // Resizing must not hide a focused action or strand focus on the summary.
+      options.open = !narrowScreen.matches || controls.contains(document.activeElement);
+      if (!narrowScreen.matches && document.activeElement === summary) plain.focus();
+      summary.hidden = !narrowScreen.matches;
+    }
+    adaptControls();
+    narrowScreen.addEventListener('change', adaptControls);
+    options.addEventListener('keydown', function (event) {
+      if (event.key !== 'Escape' || !narrowScreen.matches || !options.open) return;
+      event.preventDefault();
+      summary.focus();
+      options.open = false;
+    });
   });
 })();
