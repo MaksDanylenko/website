@@ -16,7 +16,6 @@ related_posts:
   - "building-a-fullstack-imdb-clone-with-a-java-backend-using-sparkjava-and-neo4j"
   - "how-to-create-a-spring-boot-application-to-retrieve-data-from-evernote"
   - "why-is-my-talk-selected-reflections-from-a-program-committee-reviewer"
-frozen: false
 ---
 
 **There is no shortage of technical events such as conferences, meetups, trainings, hackathons, and so on. These events are a great way to learn new things, connect with people, and share knowledge with others. One of the most valuable and exciting ways to share knowledge is by giving a technical presentation.**

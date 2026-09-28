@@ -14,7 +14,6 @@ related_posts:
   - "boxlang-rss-full-featured-rss-atom-feed-module-for-boxlang"
   - "get-started-with-allocation-profiling"
   - "beginners-guide-to-java-profiler"
-frozen: false
 ---
 
 Java Stream's `Collectors` methods fit most use-cases. They allow returning either a `Collection` or a scalar. For the former, you use one of the `toXXX()` method, for the latter, one of the `reducing()` one.

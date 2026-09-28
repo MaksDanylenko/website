@@ -14,7 +14,6 @@ related_posts:
   - "writing-a-profiler-from-scratch-introduction"
   - "writing-a-profiler-from-scratch-the-profiling-loop"
   - "couldnt-we-just-use-asyncgetcalltrace-in-a-separate-thread"
-frozen: false
 ---
 
 Profilers are great tools in your toolbox, like debuggers, when solving problems with your Java application (I've been [on a podcast on this topic](https://foojay.io/today/foojay-podcast-14/) recently).

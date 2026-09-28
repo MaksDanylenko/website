@@ -17,7 +17,6 @@ related_posts:
   - "3-ways-to-refactor-your-code-in-intellij-idea"
   - "5-things-you-probably-didnt-know-about-java-concurrency"
   - "issues-with-old-glassfish-server-upgrade-to-eclipse-glassfish"
-frozen: false
 ---
 
 **Apache Camel is an open source enterprise integration framework that helps you connect different systems and applications together with as little effort as possible. It provides a simple and powerful way to define and implement message-based routing and mediation rules. It is an implementation of the patterns described in the book Enterprise Integration Patterns by Gregor Hohpe and Bobby Woolf.**

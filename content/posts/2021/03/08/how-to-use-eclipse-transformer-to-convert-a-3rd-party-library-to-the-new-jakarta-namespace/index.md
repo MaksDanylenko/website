@@ -11,7 +11,6 @@ image: "Favicon-3-2.png"
 categories:
   - "Jakarta EE"
 related_posts:
-frozen: false
 ---
 
 The release of Jakarta EE 9 breaks a tradition of Java Enterprise. A legal requirement of the Java EE code donation from Oracle to the Eclipse Foundation is the change of the namespace of *javax* to*jakarta.*

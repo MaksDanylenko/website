@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/benjaminmuskalla/"
 github: ""
 youtube: ""
 website: "https://x.com/bmuskalla"
-frozen: false
 ---

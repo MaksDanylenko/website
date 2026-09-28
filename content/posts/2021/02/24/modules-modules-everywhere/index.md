@@ -13,7 +13,6 @@ related_posts:
   - "building-ai-systems-with-mongodb-implementing-the-planning-pattern"
   - "whats-new-in-the-june-2026-azul-payara-release"
   - "introduction-to-cqrs-using-mongodb"
-frozen: false
 ---
 
 ### Project 🧩 sormuras/modules

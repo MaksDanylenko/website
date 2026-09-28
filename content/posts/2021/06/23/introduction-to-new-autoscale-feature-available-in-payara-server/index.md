@@ -16,7 +16,6 @@ related_posts:
   - "whats-new-in-the-august-2026-azul-payara-release"
   - "whats-new-in-the-july-2026-azul-payara-release"
   - "enterprise-java-in-practice-fragmentation-platforms-and-real-world-trade-offs"
-frozen: false
 ---
 
 Running your application sometimes requires multiple instances to handle the requests of the users. Within the Payara Platform, the Domain Data Grid helps you configure your environment to run your application in a cluster. Besides the setup of a cluster itself, many applications can benefit from an environment that scales dynamically.

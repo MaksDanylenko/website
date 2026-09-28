@@ -19,7 +19,6 @@ related_posts:
   - "debug-unresponsive-apps"
   - "debug-without-breakpoints"
   - "ask-a-lille-dev-what-java-developers-really-think-about-quality-frameworks-communities-and-careers"
-frozen: false
 ---
 
 Read in other languages: [中文](https://flounder.dev/zh/posts/get-started-with-profiling/) [Español](https://flounder.dev/es/posts/get-started-with-profiling/) [Português](https://flounder.dev/pt/posts/get-started-with-profiling/)

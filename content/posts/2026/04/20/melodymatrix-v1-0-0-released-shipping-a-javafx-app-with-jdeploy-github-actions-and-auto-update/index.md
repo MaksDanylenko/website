@@ -13,7 +13,6 @@ related_posts:
   - "video-series-javafx-in-action-part-3"
   - "javafx-links-of-december-2024"
   - "javafx-links-of-october-2024"
-frozen: false
 ---
 
 Some side projects take a while to get to a proper release. [MelodyMatrix](https://melodymatrix.rocks/) is one of those. The app has been downloadable for quite some time thanks to [jDeploy](https://www.jdeploy.com/), but there was no official V1.0.0 yet. No tagged release. No moment of "okay, this is it." Just a rolling build on every commit to the `main` branch.

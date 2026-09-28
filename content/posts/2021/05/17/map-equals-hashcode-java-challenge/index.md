@@ -13,7 +13,6 @@ related_posts:
   - "function-calculation-java-challenge"
   - "stream-limit-filter-java-challenge"
   - "neo-stream-search-java-challenge"
-frozen: false
 ---
 
 Understanding deeply how to use a Map, equals, and hashcode in Java will be a massive help for you to create high-quality code. The Map and object reference concepts are not only present in the Java language but in almost all programming languages. Therefore, if you master the concept of object references, equals and hashcode, and Maps, you can apply this in other programming languages and master them far more easily.

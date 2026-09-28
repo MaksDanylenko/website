@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/delawen/"
 github: ""
 youtube: ""
 website: "https://delawen.com/"
-frozen: false
 ---

@@ -14,7 +14,6 @@ related_posts:
   - "blockhound-how-it-works"
   - "chopping-monolith"
   - "a-simple-service-with-spring-boot"
-frozen: false
 ---
 
 One of the main reasons to design microservices is that they enforce [strong module boundaries](https://martinfowler.com/articles/microservice-trade-offs.html#boundaries).

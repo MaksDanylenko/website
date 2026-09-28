@@ -9,7 +9,6 @@ image: "muskallatweet-700x129.png"
 categories:
   - "Security"
 related_posts:
-frozen: false
 ---
 
 Roughly 12 years ago, I started to contribute to the Eclipse ecosystem in various functions. One of the most interesting experiences to this date was to work on developer tooling and handling the edge cases so others don't have to struggle. Though I stepped down as an Eclipse committer in the meantime, I'm still attached to working on productivity tooling nowadays as a member of the [Gradle Build Tool](https://github.com/gradle/gradle).

@@ -14,7 +14,6 @@ related_posts:
   - "announcing-sustainability-for-java-developers-a-new-collaborative-guide-from-the-foojay-io-community"
   - "foojay-podcast-70"
   - "foojay-podcast-71"
-frozen: false
 ---
 
 Running a community website is a bit like maintaining a codebase: the content that matters most is never completely done. And if you don't schedule regular housekeeping, things can get outdated... Last week, we did some cleanup, restructuring, and updating. Here's an overview of what changed.

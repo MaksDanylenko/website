@@ -15,7 +15,6 @@ related_posts:
   - "get-recognized-for-your-cloud-native-java-development-skills-with-this-new-badge"
   - "creating-cloud-native-java-applications-with-the-12-factor-app-methodology"
   - "payara-cloud-hackathon-is-open-for-sign-ups"
-frozen: false
 ---
 
 The July 2026 release brings Azul Payara 7.2.0, Azul Payara Community 7.2026.7, Azul Payara 6.40.0, Azul Payara 5.89.0, and Azul Payara 4.1.2.191.57. A single security fix runs through every release, backported from the 7 line down to Payara 4: brute force attack prevention for authentication. Enterprise 6.40.0 additionally closes two Jackson CVEs that apply to the 6 line.
@@ -96,7 +95,7 @@ Azul Payara Server and Micro 4.1.2.191.57 receive the cross-cycle brute force se
 
 ## Looking Ahead
 
-The Azul Payara product line now spans the JDK (Azul Zulu and Azul Platform Prime), the full application server (Azul Payara Server), and the cloud-native runtime (Azul Payara Micro), all from one vendor. The 7, 6, 5, and 4 lines continue to receive monthly security and bug-fix releases on the published schedule, with patches backported across every supported version. For teams on the 5 or 6 line evaluating the move to Payara 7, the `jakarta.*` namespace is stable between EE 10 and EE 11, so existing Jakarta EE 10 applications deploy on Payara 7 by upgrading the runtime, not rewriting the codebase. Migration assessments are available through your Azul account team.
+The Azul Payara product line now spans the JDK (Azul Zulu and Azul Zing), the full application server (Azul Payara Server), and the cloud-native runtime (Azul Payara Micro), all from one vendor. The 7, 6, 5, and 4 lines continue to receive monthly security and bug-fix releases on the published schedule, with patches backported across every supported version. For teams on the 5 or 6 line evaluating the move to Payara 7, the `jakarta.*` namespace is stable between EE 10 and EE 11, so existing Jakarta EE 10 applications deploy on Payara 7 by upgrading the runtime, not rewriting the codebase. Migration assessments are available through your Azul account team.
 
 ## Upgrading and Feedback
 

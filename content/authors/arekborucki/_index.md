@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/arekborucki/"
 github: ""
 youtube: ""
 website: ""
-frozen: false
 ---

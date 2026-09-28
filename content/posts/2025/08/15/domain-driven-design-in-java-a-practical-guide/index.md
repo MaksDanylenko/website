@@ -15,7 +15,6 @@ related_posts:
   - "java-on-azure-tooling-update-september-2022"
   - "java-virtual-threads-in-action-optimizing-mongodb-operation"
   - "run-an-atlas-cluster-locally-in-minutes"
-frozen: false
 ---
 
 While waiting for your flight in an airport, have you ever wondered how much behind-the-scenes planning it takes to keep an airport running smoothly? Every day, thousands of flights take off and land, passengers rush through terminals, and staff work tirelessly to make sure everything unfolds without a hitch. What looks like chaos on the surface is actually the result of a highly coordinated system—a kind of "brain" that's always working in the background to manage logistics, adapt to surprises, and keep the airport humming along.  

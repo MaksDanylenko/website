@@ -14,7 +14,6 @@ related_posts:
   - "fantastic-jvms-and-where-to-find-them"
   - "highlights-of-changes-to-the-core-java-platform"
   - "how-does-java-handle-different-images-and-colorspaces-part-3-introducing-the-bufferedimage"
-frozen: false
 ---
 
 If you recall the old days, before OpenJDK 11, say you have a `HelloUniverse.java` source file that contains a class definition and a static main method, which prints out as a single line of text to the terminal, like the following:

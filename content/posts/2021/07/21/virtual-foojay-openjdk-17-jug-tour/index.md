@@ -13,7 +13,6 @@ categories:
   - "Pi4J"
   - "Release Notes"
 related_posts:
-frozen: false
 ---
 
 To celebrate OpenJDK 17 and Foojay as a community platform for its users, we're kicking off the Virtual Foojay OpenJDK 17+ JUG Tour, focused on OpenJDK 17, plus more!

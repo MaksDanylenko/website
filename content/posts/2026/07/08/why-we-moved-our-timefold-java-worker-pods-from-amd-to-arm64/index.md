@@ -5,7 +5,7 @@ lastmod: "2026-07-08T17:10:44+00:00"
 description: "AMD hyperthreading caused solver performance variance in our Java based cloud pods. Switching to ARM instances doubled throughput per dollar."
 authors:
   - "tom-cools"
-image: "ARM-bar.svg"
+image: "ARM-bar.jpg"
 categories:
   - "Arm"
   - "Cloud"
@@ -15,7 +15,6 @@ related_posts:
   - "quarkus-unpacked-insights-from-the-foojay-podcast"
   - "ask-a-lille-dev-what-java-developers-really-think-about-quality-frameworks-communities-and-careers"
   - "optimizing-java-for-the-cloud-native-era-with-quarkus"
-frozen: false
 ---
 
 When we investigated unexpected performance variance in our Timefold Solver worker pods on our platform, we traced it to hyperthreading on AMD (x86-64) cloud instances. Switching to ARM (ARM64), where each vCPU maps to a physical core, eliminated the problem and roughly doubled effective throughput per dollar for concurrent solver workloads.

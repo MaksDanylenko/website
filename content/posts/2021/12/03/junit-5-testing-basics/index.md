@@ -13,7 +13,6 @@ related_posts:
   - "junit-5-introduction"
   - "equals-and-hashcode-implementation-considerations"
   - "choosing-a-cache-1"
-frozen: false
 ---
 
 In [Part 1](https://foojay.io/today/junit-5-introduction/) of this series of articles, we looked at several annotations used in JUnit5. We covered test methods as well as lifecycle methods.

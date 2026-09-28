@@ -16,7 +16,6 @@ related_posts:
   - "debugging-streams-and-collections"
   - "the-massive-hidden-power-of-breakpoints"
   - "effective-cloud-native-development-open-liberty-vs-code"
-frozen: false
 ---
 
 In the first chapter of my debugging book, I discuss IDE debugging.

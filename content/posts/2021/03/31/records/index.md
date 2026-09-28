@@ -10,7 +10,6 @@ image: "Favicon-3-2.png"
 categories:
   - "Records"
 related_posts:
-frozen: false
 ---
 
 Professional Java developers need immutable data carrier-classes for communication with databases and web Services. We need to write a lot of boilerplate code to create a simple data carrier-class, we typically implement constructor, accessors, equals(), hashCode(), and toString(). ***This process is repetitive and error-prone. Developers also complain "Java is too verbose".***

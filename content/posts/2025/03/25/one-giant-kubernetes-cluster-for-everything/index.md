@@ -15,7 +15,6 @@ related_posts:
   - "kubernetes-gateway-api"
   - "back-to-basics-accessing-kubernetes-pods"
   - "creating-a-kubernetes-operator-in-java"
-frozen: false
 ---
 
 The ideal size of your Kubernetes clusters is a day 0 question and demands a definite answer.

@@ -16,7 +16,6 @@ related_posts:
   - "monkey-patching-in-java"
   - "who-instruments-the-instrumenters"
   - "idempotent-spring-boot-starter"
-frozen: false
 ---
 
 **In this article, we'll implement a declarative API to perform tasks belonging to cross-cutting concerns, using auditing as an example. We'll see how SpEL and Spring AOP allow us to easily intercept invocations throughout a code base and perform arbitrary logic in an expressive and non-invasive manner.**

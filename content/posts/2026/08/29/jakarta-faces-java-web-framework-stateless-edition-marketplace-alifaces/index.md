@@ -21,7 +21,6 @@ related_posts:
   - "the-12-labours-of-primefaces-15-0-15-release"
   - "boxlang-ai-deep-dive-part-3-of-7-multi-agent-orchestration-building-ai-teams-that-work"
   - "bring-ai-into-your-jakarta-ee-apps-with-langchain4j-cdi"
-frozen: false
 ---
 
 ### A Fully Stateless Jakarta Faces Marketplace with Server-Side Rendering — No HttpSession, No Saved ViewState, No Sticky Sessions

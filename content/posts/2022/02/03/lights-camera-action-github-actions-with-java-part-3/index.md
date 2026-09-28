@@ -15,7 +15,6 @@ related_posts:
   - "jenkins-cluster-continuous-integration-delivery-in-jelastic-paas"
   - "what-is-gitops-what-are-its-benefits"
   - "whats-new-in-actions-setup-java-5-4-and-5-5-signature-verification-kona-jdk-and-a-better-maven-experience"
-frozen: false
 ---
 
 ![Spiderman chooses GitHub Action's Disco API](Spidey_GitHub_Action_disco_latest.jpg)

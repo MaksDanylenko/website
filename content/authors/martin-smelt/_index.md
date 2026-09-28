@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/martin-paul-smelt-8b699a8/"
 github: ""
 youtube: ""
 website: ""
-frozen: false
 ---

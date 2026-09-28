@@ -19,7 +19,6 @@ related_posts:
   - "shaping-jakarta-agentic-ai-together-watch-the-open-conversation"
   - "bring-ai-into-your-jakarta-ee-apps-with-langchain4j-cdi"
   - "how-to-kickstart-your-jakarta-ee-11-projects-with-payara-starter"
-frozen: false
 ---
 
 ## Managing Payara Server Just Got Smarter

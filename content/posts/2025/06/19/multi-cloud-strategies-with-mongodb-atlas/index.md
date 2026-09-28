@@ -15,7 +15,6 @@ related_posts:
   - "understanding-bson-a-beginners-guide-to-mongodbs-data-format"
   - "java-concurrency-best-practices-for-mongodb"
   - "building-a-real-time-ai-fraud-detection-system-with-spring-kafka-and-mongodb"
-frozen: false
 ---
 
 **In the technological world, the cloud has become more prevalent. It brings many benefits, including flexibility, scalability, faster innovation, and collaboration. Plus, when it comes to data storage and access with databases, it allows data to be located closer to the user for lower latency and thus, faster performance.**

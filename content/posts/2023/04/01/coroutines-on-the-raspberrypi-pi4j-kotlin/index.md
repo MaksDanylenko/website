@@ -17,7 +17,6 @@ related_posts:
   - "metaphorical-programming-gossips-event-bus"
   - "blink-a-led-on-raspberry-pi-with-vaadin"
   - "using-the-raspberry-pi-sense-hat-with-pi4j-drivers"
-frozen: false
 ---
 
 If you didn't know already, [Pi4J](https://pi4j.com/) has had a [Kotlin DSL](https://pi4j.com/kotlin/) for quite some time now.

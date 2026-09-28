@@ -16,7 +16,6 @@ related_posts:
   - "hazelcast-from-embedded-to-client-server"
   - "hazelcast-kibana-best-buddies-for-exploring-visualizing-data"
   - "building-real-time-applications-to-process-wikimedia-streams-using-kafka-and-hazelcast"
-frozen: false
 ---
 
 In this tutorial, we explore the powerful combination of Hazelcast and Redpanda to build high-performance, scalable, and fault-tolerant applications that react to real-time data.

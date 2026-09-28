@@ -14,7 +14,6 @@ related_posts:
   - "foojay-podcast-7"
   - "the-lifecycle-of-a-security-vulnerability"
   - "vibe-coding-maven-and-the-dependencies-you-didnt-choose"
-frozen: false
 ---
 
 ### TL;DR: Yet Another Case for Using Exclude Patterns in Remote Repositories

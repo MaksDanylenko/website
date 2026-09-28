@@ -11,7 +11,6 @@ categories:
   - "Cloud"
   - "DevOps"
 related_posts:
-frozen: false
 ---
 
 I have spent some time last year implementing [Cloudflare Tunnels](https://developers.cloudflare.com/cloudflare-one/networks/connectors/cloudflare-tunnel/) on my [Home Assistant](https://blog.frankel.ch/home-assistant/6/) and my [Synology NAS](https://blog.frankel.ch/second-cloudflare-tunnel/). On Mastodon, I had not one but two commenters advertising for Tailscale:

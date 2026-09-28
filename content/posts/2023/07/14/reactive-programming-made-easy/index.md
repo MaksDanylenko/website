@@ -16,7 +16,6 @@ related_posts:
   - "foojay-podcast-91"
   - "tornadoinsight-compatibility-with-tornadovm-sdk-2-0-configuration-guide"
   - "checking-out-junie-a-coding-agent-by-jetbrains"
-frozen: false
 ---
 
 This article discusses essential features and tools in IntelliJ IDEA for Reactor developers. These include live templates, a dedicated debug mode, and a couple of inspections.

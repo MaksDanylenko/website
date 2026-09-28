@@ -14,7 +14,6 @@ related_posts:
   - "fantastic-jvms-and-where-to-find-them"
   - "highlights-of-changes-to-the-core-java-platform"
   - "how-does-java-handle-different-images-and-colorspaces-part-3-introducing-the-bufferedimage"
-frozen: false
 ---
 
 I started programming in Java way back in 1999. I had just started a job as the director of web development at a small startup called eDeploy.com. I wrote a lot of HTML, CSS, and JavaScript for a SaaS product that helped companies install network equipment. The backend for our app was written in Java and we deployed to iPlanet Application Server. At our height, we trusted Loudcloud to run our software.

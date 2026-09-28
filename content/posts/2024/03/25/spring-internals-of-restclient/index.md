@@ -15,7 +15,6 @@ related_posts:
   - "spring-6-1-restclient"
   - "how-to-improve-your-spring-boot-skills"
   - "creating-a-simple-spring-boot-application-in-intellij-idea"
-frozen: false
 ---
 
 **As a developer and architect, my constant pursuit is to achieve simplicity and elegance when constructing resilient and intricate enterprise applications. With my affinity for the Spring Framework, I have witnessed firsthand the simplicity and modernization it brings to the Spring Ecosystem.**

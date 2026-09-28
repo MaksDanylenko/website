@@ -15,7 +15,6 @@ related_posts:
   - "a-faster-way-to-build-react-spring-boot-apps-using-hilla-1-3"
   - "startup-spring-quarkus-raspberry-pi"
   - "introducing-bx-jwt-enterprise-grade-json-web-tokens-for-boxlang"
-frozen: false
 ---
 
 ***TL;DR: In this article, I'm sharing some tips and tricks on how to get productive creating OpenAPI generators.***

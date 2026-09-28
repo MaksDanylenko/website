@@ -15,7 +15,6 @@ related_posts:
   - "are-java-jakarta-ee-application-servers-heavy"
   - "can-java-jakarta-ee-do-microservices"
   - "getting-started-with-jakarta-ee-9-context-and-dependency-injection-cdi"
-frozen: false
 ---
 
 The [release of Jakarta EE 9](https://jakarta.ee/release/9/), at the end of 2020, was in many ways a historic event. The Java Enterprise framework is already 20 years old, having its first release in 1999. It has changed names a few times but the main concepts of the first release can still be found in this new release. During all those years, it has adapted itself to keep it up to date but has always adhered to its main principle of stability and backward compatibility.

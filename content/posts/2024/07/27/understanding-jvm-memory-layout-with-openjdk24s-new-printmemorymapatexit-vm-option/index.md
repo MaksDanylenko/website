@@ -12,7 +12,6 @@ related_posts:
   - "foojay-podcast-23"
   - "breaking-the-code-how-chris-newland-is-changing-the-game-in-jvm-performance"
   - "java-profiling-overview"
-frozen: true
 ---
 
 **OpenJDK24 recently added a new HotSpot JVM option called `PrintMemoryMapAtExit`.**

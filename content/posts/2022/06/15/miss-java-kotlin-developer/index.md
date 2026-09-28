@@ -14,7 +14,6 @@ related_posts:
   - "chopping-monolith"
   - "blockhound-how-it-works"
   - "how-to-beautify-your-github-repo"
-frozen: false
 ---
 
 Java has been my bread and butter for almost two decades.

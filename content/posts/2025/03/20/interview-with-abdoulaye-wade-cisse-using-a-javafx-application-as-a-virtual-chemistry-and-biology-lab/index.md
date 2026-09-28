@@ -15,7 +15,6 @@ related_posts:
   - "creating-a-javafx-world-clock-from-scratch-part-1"
   - "creating-cad-applications-with-java-and-javafx"
   - "sheetmusic4j-0-0-3-abc-notation-guitar-pro-engraving-improvements"
-frozen: false
 ---
 
 I continuously collect JavaFX-related content for the [JFX Central Links Of The Week](https://www.jfx-central.com/links). Recently, I saw a [video on LinkedIn, shared by Abdoulaye Wade Cissé, of a JavaFX "virtual lab"](https://www.linkedin.com/posts/abdoulaye-wade-ciss%C3%A9-7892a621b_javafx-aezducation-laboratoirevirtuel-activity-7293250354949869568-yMOF) and wanted to learn more about this project... Turns out he is a 22-year-old student in Senegal, creating a fantastic project to provide a virtual laboratory as software where the resources are not available for a physical lab. With his project, he proved that Java and JavaFX are the ideal way to generate entirely free software with a lot of functionality.  

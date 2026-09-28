@@ -15,7 +15,6 @@ categories:
   - "DevOps"
   - "Kubernetes"
 related_posts:
-frozen: false
 ---
 
 ![](hero-techcrunch.png)

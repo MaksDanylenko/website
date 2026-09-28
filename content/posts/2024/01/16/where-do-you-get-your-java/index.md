@@ -15,7 +15,6 @@ related_posts:
   - "book-review-openjdk-migration-for-dummies-3"
   - "analyzing-and-tuning-warm-up-of-the-jvm-with-azul-zulu-prime-builds-of-openjdk"
   - "jurassic-jdk-migrate-or-extinct"
-frozen: false
 ---
 
 Today's Java is vastly different, although it is still true to its root principles of robustness, portability, and ease of programming. Your options for where to get your Java have similarly evolved.

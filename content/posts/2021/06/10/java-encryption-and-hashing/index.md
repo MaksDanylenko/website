@@ -14,7 +14,6 @@ related_posts:
   - "vaadin-oauth2-and-keycloak"
   - "how-to-do-password-hashing-in-java-applications-the-right-way"
   - "quick-fire-java-java-after-log4j"
-frozen: false
 ---
 
 If you need to store sensitive data in your system, you have to be sure that you have proper encryption in place. First of all, you need to decide what kind of encryption you need —for instance, symmetric or asymmetric. Also, you need to choose how secure it needs to be. Stronger encryption takes more time and consumes more CPU. The most important part is that you don't need to implement the encryption algorithms yourself. Encryption is hard and a trusted library solves encryption for you.

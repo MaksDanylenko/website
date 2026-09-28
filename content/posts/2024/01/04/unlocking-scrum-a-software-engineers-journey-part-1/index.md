@@ -14,7 +14,6 @@ related_posts:
   - "devops-for-developers-introduction-version-control"
   - "discuss-problem-not-solution"
   - "stochastic-ai-agility-breaking-cycles-of-debt"
-frozen: false
 ---
 
 ![https://medium.com/@johnwilliams1756/embracing-scrum-while-ensuring-timely-delivery-of-software-features-20b82ee1abcd](scrum-700x376.webp)

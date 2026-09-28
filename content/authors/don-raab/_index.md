@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/donald-raab-56016a121/"
 github: ""
 youtube: ""
 website: "https://x.com/TheDonRaab"
-frozen: false
 ---

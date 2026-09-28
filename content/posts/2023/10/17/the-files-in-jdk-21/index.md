@@ -14,7 +14,6 @@ related_posts:
   - "java-21-is-available-today-and-its-quite-the-update"
   - "preparing-for-jdk-21-a-comprehensive-overview-of-key-features-and-enhancements"
   - "jurassic-jdk-migrate-or-extinct"
-frozen: false
 ---
 
 As Java developers, we all have it installed on our computer: the Java Development Kit, also known as the JDK. I remember putting the first version on a few floppy disks back in 1995. Since then it has grown multiple times. In this article, we'll explore the files of the JDK.

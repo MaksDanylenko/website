@@ -16,7 +16,6 @@ related_posts:
   - "native-graphql-api-with-neo4j-auradb-on-heroku"
   - "native-image-quarkus"
   - "http-query-method-explained-rfc-10008-ecosystem-adoption-and-a-quarkus-implementation"
-frozen: false
 ---
 
 **In this article, we explore how to integrate OpenAI API with Quarkus. We will create a Quarkus application using the new REST Client Reactive to invoke the OpenAI DALL.E API for images generation.**

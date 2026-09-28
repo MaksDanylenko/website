@@ -15,7 +15,6 @@ related_posts:
   - "my-first-steps-with-playwright"
   - "pull-request-testing-on-kubernetes-working-with-github-actions-and-gke"
   - "rust-jvm"
-frozen: false
 ---
 
 Imagine an organization with the following practices:

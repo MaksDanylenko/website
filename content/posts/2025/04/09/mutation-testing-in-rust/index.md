@@ -14,7 +14,6 @@ related_posts:
   - "azul-enhances-readynow-to-solve-javas-warmup-problem-simplify-operations-and-optimize-cloud-costs"
   - "become-a-better-java-developer-19-tips-for-staying-ahead-in-2024"
   - "beginning-javafx-with-intellij"
-frozen: false
 ---
 
 I've been a big fan of [Mutation Testing](https://en.wikipedia.org/wiki/Mutation_testing) since I discovered [PIT](https://pitest.org/). As I dive deeper into Rust, I wanted to check the state of mutation testing in Rust.

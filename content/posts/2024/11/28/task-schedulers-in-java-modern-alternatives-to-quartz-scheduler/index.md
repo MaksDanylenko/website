@@ -17,7 +17,6 @@ related_posts:
   - "foojay-podcast-60"
   - "explained-memory-allocation-pacing-in-azul-zulu-prime-builds-of-openjdk"
   - "idempotent-spring-boot-starter"
-frozen: false
 ---
 
 ### Quartz is often considered the standard job scheduling library in Java, which can lead developers to overlook more modern alternatives.

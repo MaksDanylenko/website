@@ -12,7 +12,6 @@ related_posts:
   - "5-tips-to-create-secure-docker-images-for-java-applications"
   - "eight-debugging-tips-for-intellijidea-users-you-never-knew-existed"
   - "a-case-for-databases-on-kubernetes-from-a-former-skeptic"
-frozen: true
 ---
 
 ## An easy non-obtrusive way to collect data about your dockerized app without changing your existing docker-compose.yml or docker files!

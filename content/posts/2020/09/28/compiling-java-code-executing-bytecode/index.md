@@ -9,7 +9,6 @@ image: "SumNumbers.class.png"
 categories:
   - "Performance"
 related_posts:
-frozen: false
 ---
 
 Java developers are familiar with the notion that the foundation of Java is "write once, run anywhere." That is, the same Java code will run on all the primary operating systems and hardware platforms. As I noted in my earlier post [Why Java, C, and Python Are Today's Most Utilized Programming Languages](https://foojay.io/today/why-java-c-and-python-are-todays-most-utilized-programming-languages/), Python comes somewhat close to this (though in my experience what works on Linux may not work out-of-the-box on Windows or Mac), and of course C/C++ require immense adaptation of the software in order for it to work on different operating systems and hardware platforms.

@@ -16,7 +16,6 @@ related_posts:
   - "introducing-bx-jwt-enterprise-grade-json-web-tokens-for-boxlang"
   - "introducing-boxlang-ai-explorer-a-local-catalog-for-every-ai-pattern"
   - "boxlang-aws-azure-and-google-secrets-manager-module-released"
-frozen: false
 ---
 
 ![](boxlang-formatter-700x394.jpg)

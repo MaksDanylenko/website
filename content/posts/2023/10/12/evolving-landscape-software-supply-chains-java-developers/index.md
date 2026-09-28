@@ -15,7 +15,6 @@ related_posts:
   - "foojay-podcast-7"
   - "how-to-create-sboms-in-java-with-maven-and-gradle"
   - "how-to-publish-a-java-maven-project-to-the-maven-central-repository"
-frozen: false
 ---
 
 **Sonatype have just released the 9th edition of their [State of the Software Supply Chain Report](https://www.sonatype.com/state-of-the-software-supply-chain/introduction). It delves into the landscape of open source, software development, and software supply chain security. I thought I'd pull out some highlights for Java Developers!**

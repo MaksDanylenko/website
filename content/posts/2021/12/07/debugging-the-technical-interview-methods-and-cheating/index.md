@@ -13,7 +13,6 @@ related_posts:
   - "the-debugger-checklist-part-ii"
   - "eight-debugging-tips-for-intellijidea-users-you-never-knew-existed"
   - "video-series-javafx-in-action-part-4"
-frozen: true
 ---
 
 The headline caught my attention right away "[I was shocked to catch a candidate cheating in an online interview](https://levelup.gitconnected.com/i-was-shocked-to-catch-a-candidate-cheating-in-an-online-interview-2441fef0ab4)". How do you cheat in an interview? Does [Cyrano de Bergerac](https://en.wikipedia.org/wiki/Cyrano_de_Bergerac_(play)) whisper the answer from outside the camera?

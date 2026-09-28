@@ -12,7 +12,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "5-things-you-probably-didnt-know-about-java-concurrency"
   - "foojay-podcast-6"
-frozen: false
 ---
 
 **Java and Kotlin are two of the most popular programming languages on the Java Virtual Machine. But both languages have pros and cons, and developers often have to choose between them based on the needs of their project, the people on their team, and their own preferences.**

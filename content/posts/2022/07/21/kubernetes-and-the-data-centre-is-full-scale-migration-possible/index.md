@@ -17,7 +17,6 @@ related_posts:
   - "a-case-for-databases-on-kubernetes-from-a-former-skeptic"
   - "book-review-effortless-cloud-native-app-development-using-skaffold"
   - "building-reactive-java-applications-with-spring-framework"
-frozen: true
 ---
 
 ![](kubernetes-genric-169jpeg_51633.jpg)

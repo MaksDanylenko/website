@@ -19,7 +19,6 @@ related_posts:
   - "boxlang-1-15-0-released-blazing-fast-strings-runtime-portability-and-much-more"
   - "introducing-skills-boxlang-io-the-open-agent-skills-ecosystem-for-boxlang-the-ortus-world"
   - "boxlang-v1-13-0-compatibility-concurrency-and-formatter-maturity"
-frozen: false
 ---
 
 **BoxLang has always been an extensible language. As of 1.17.0, it is a hierarchically extensible one.**

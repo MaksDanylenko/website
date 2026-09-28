@@ -17,7 +17,6 @@ related_posts:
   - "blink-a-led-on-raspberry-pi-with-vaadin"
   - "controlling-a-led-strip-with-pi4j-and-jbang"
   - "foojay-podcast-55"
-frozen: false
 ---
 
 As described before on [Java 21+ Not Working on Raspberry Pi Zero 2](https://webtechie.be/post/2025-06-25-java-21-not-working-on-zero-2/), a problem appeared to execute Java code on the Raspberry Pi Zero 2 with OpenJDK 21 or higher. Reason: in OpenJDK 21 the Just-In-Time (JIT) compiler has been improved, but this change doesn't work correctly on the ARM Cortex-A53 processor as used in the Zero 2. It's another type of processor compared to, for instance, the Raspberry Pi 4 (Cortex-A72) and 5 (Cortex-A76).

@@ -17,7 +17,6 @@ related_posts:
   - "bring-streaming-to-apache-cassandra-with-apache-pulsar"
   - "a-case-for-databases-on-kubernetes-from-a-former-skeptic"
   - "reclaiming-persistent-volumes-in-kubernetes"
-frozen: false
 ---
 
 ***In this post, we'll show you how to develop a CI/CD workflow using Apache Cassandra* ™*with a GitHub Actions runner. See for yourself how much time and effort you can save by deploying Cassandra cloud-natively while you test and deploy your cloud-native applications!***

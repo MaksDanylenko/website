@@ -11,7 +11,6 @@ categories:
   - "Tools"
 related_posts:
   - "introducing-skills-boxlang-io-the-open-agent-skills-ecosystem-for-boxlang-the-ortus-world"
-frozen: false
 ---
 
 I taught myself HTML a long time ago, on a software called HotDog (Pro?). There wasn't such a thing as capabilities at the time. However, HotDog had an amazing feature: the toolbar had all HTML tags (there weren't that many at the time) as buttons, and you could learn them by clicking on them and watching the results. The only downside was that you had to click on another button to close the tag.

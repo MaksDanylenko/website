@@ -14,7 +14,6 @@ related_posts:
   - "front-end-debugging-part-2-console-log-to-the-max"
   - "debugging-kubernetes-part-1-an-introduction"
   - "debugging-tips-and-tricks-a-comprehensive-guide"
-frozen: false
 ---
 
 * [**Instant Debugging with the** `debugger` Keyword](#instant-debugging-with-the-raw-debugger-endraw-keyword)

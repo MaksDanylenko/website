@@ -13,7 +13,6 @@ related_posts:
   - "getting-more-mileage-out-of-kafka-openjdk-vs-azul-prime"
   - "introducing-the-openjdk-coordinated-restore-at-checkpoint-project"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
-frozen: false
 ---
 
 **For scalable data workloads like Apache Cassandra, performance and capacity are simply a matter of cost. JVM choice and configuration can dramatically impact that cost. The Azul Platform Prime JVM significantly improves Cassandra performance and reduces the cost of Cassandra clusters.**

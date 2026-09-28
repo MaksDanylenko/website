@@ -14,7 +14,6 @@ categories:
   - "Tutorials"
   - "Videos"
 related_posts:
-frozen: false
 ---
 
 The software development industry is more competitive than ever. Being a strong technical expert is essential, but on its own it is often not enough to grow your career or open new opportunities.

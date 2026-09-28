@@ -14,7 +14,6 @@ related_posts:
   - "javafx-links-of-september-2023"
   - "javafx-links-of-august-2023"
   - "javafx-links-of-june-2026"
-frozen: false
 ---
 
 Have fun with this overview of the "JavaFX LinksOfTheWeek" that got published on [jfx-central.com](https://www.jfx-central.com/) during November!

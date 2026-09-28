@@ -9,7 +9,6 @@ image: "image-11-1024x825.jpg"
 categories:
   - "Java Core"
 related_posts:
-frozen: false
 ---
 
 "Does it run on JDK 11?" -- That's an always interesting question!

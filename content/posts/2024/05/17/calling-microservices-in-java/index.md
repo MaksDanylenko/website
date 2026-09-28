@@ -21,7 +21,6 @@ related_posts:
 # and none here. The file was pulled by hand with the space percent-encoded
 # and renamed with a hyphen (no other file under content/ has a space in its
 # name). Without the freeze the next re-scrape drops the image again.
-frozen: true
 ---
 
 **When building applications that need to call other parts of the system ([microservices](https://mezocode.com/microservices-soa-introduction-part1/ "microservices")), Java programmers have access to a variety of tools and techniques that they can use for their development tasks.**

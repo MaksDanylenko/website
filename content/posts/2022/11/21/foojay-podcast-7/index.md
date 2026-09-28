@@ -20,7 +20,6 @@ related_posts:
   - "best-practices-for-managing-java-dependencies"
   - "java-security-log4j-the-securitymanager-and-funding"
   - "introducing-skills-boxlang-io-the-open-agent-skills-ecosystem-for-boxlang-the-ortus-world"
-frozen: false
 ---
 
 For this Foojay Podcast**,** we invited security experts to dive into the fascinating world of secure coding and detecting vulnerabilities in your Java applications.

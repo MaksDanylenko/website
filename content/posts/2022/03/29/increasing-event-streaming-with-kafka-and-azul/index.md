@@ -16,7 +16,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "java-where-the-wild-code-isnt"
   - "demystifying-jvm-memory-management"
-frozen: false
 ---
 
 Welcome to getting started with [Azul Platform Prime](https://www.azul.com/products/prime/) and [Apache Kafka](https://www.azul.com/technologies/kafka/)!

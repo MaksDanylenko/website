@@ -13,7 +13,6 @@ related_posts:
   - "book-review-api-design-patterns"
   - "book-review-designing-apis-with-swagger-and-openapi"
   - "book-review-help-your-boss-help-you"
-frozen: false
 ---
 
 **Gergely Orosz's book, "The Software Engineer's Guidebook," takes readers on an enthralling exploration of the realm of software development, working in various companies, and startups.**

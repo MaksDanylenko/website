@@ -18,7 +18,6 @@ related_posts:
   - "how-coderabbits-agentic-code-validation-helps-with-code-reviews"
   - "5-tips-to-create-secure-docker-images-for-java-applications"
   - "5-things-you-probably-didnt-know-about-java-concurrency"
-frozen: false
 ---
 
 For developers and product builders, one assumption has guided the last few years of LLM application development. To improve your product, just swap in the latest frontier large language model. Flip a single switch and your tool's capabilities level up.

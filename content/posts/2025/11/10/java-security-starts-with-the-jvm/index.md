@@ -16,7 +16,6 @@ related_posts:
   - "analyzing-and-tuning-warm-up-of-the-jvm-with-azul-zulu-prime-builds-of-openjdk"
   - "azul-and-jetbrains-collaborate-to-enhance-runtime-performance-for-kotlin-workloads"
   - "azul-brings-java-from-edge-to-cloud"
-frozen: false
 ---
 
 ***When it comes to Java security, the first thing that comes to mind should be the JVM. If you're relying on outdated, unpatched, or unsupported Java runtimes, you're taking unnecessary risks.***

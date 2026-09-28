@@ -15,7 +15,6 @@ related_posts:
   - "a-flavour-of-tornadovm-on-apple-m1-pro"
   - "foojay-io-at-fosdem-2023-trip-report"
   - "tornadoinsight-compatibility-with-tornadovm-sdk-2-0-configuration-guide"
-frozen: false
 ---
 
 TornadoVM 0.15 introduced changes at the API level with the aim of making the exposed operations more comprehensive to the programmers.

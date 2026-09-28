@@ -12,7 +12,6 @@ categories:
 related_posts:
   - "managing-data-residency-the-demo"
   - "poor-mans-api"
-frozen: false
 ---
 
 [etcd](https://etcd.io/) is an excellent key-value distributed database used internally by Kubernetes and managed by the CNCF. It's a great option, and that's the reason why Apache APISIX uses it too. Yet, it's not devoid of issues.

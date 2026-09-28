@@ -29,7 +29,6 @@ related_posts:
   - "foojay-podcast-92"
   - "foojay-podcast-91"
   - "foojay-podcast-90"
-frozen: false
 aliases:
   - "/today/foojay-podcast-94-more-than-a-blog-how-foojay-connects-sustains-and-evolves-the-java-community/"
 ---

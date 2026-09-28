@@ -13,7 +13,6 @@ related_posts:
   - "new-book-practical-vaadin"
   - "vaadin-22-released-with-quarkus-support-and-stateless-fusion"
   - "delegation-vs-inheritance-in-graphical-user-interfaces"
-frozen: false
 ---
 
 Vaadin Flow enables you to quickly build web apps in *pure Java*, without writing any HTML or JavaScript.

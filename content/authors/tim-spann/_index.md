@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/timothyspann/"
 github: ""
 youtube: ""
 website: "https://x.com/FutureOfDataPrx"
-frozen: false
 ---

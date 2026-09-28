@@ -14,7 +14,6 @@ related_posts:
   - "asyncgetcalltrace-reworked-frame-by-frame-with-an-iterative-touch"
   - "asyncgetstacktrace-a-better-stack-trace-api-for-the-jvm"
   - "virtual-thread-pinning-field-guide"
-frozen: false
 ---
 
 **Have you ever wanted to bring your JFR events into context? Adding information on sessions, user IDs, and more can improve your ability to make sense of all the events in your profile.**

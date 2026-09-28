@@ -16,7 +16,6 @@ related_posts:
   - "foojay-podcast-2"
   - "foojay-podcast-3"
   - "blockhound-how-it-works"
-frozen: false
 ---
 
 Foojay community members discuss recent news:

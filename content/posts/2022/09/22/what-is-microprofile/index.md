@@ -15,7 +15,6 @@ related_posts:
   - "can-java-jakarta-ee-do-microservices"
   - "evolution-of-microservices"
   - "microprofile-metrics-with-prometheus-and-grafana"
-frozen: false
 ---
 
 The Java programming language can be enhanced with specifications. An specification is a baseline platform definition - a framework - to guide concrete implementations.

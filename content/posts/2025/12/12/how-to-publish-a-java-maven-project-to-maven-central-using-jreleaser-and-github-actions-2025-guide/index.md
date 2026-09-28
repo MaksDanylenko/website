@@ -16,7 +16,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "9-outdated-ideas-about-java"
   - "a-faster-way-to-build-react-spring-boot-apps-using-hilla-1-3"
-frozen: false
 ---
 
 This article is a tutorial that guides you through the process of releasing a Java module with [JReleaser](https://jreleaser.org/) to Maven Central with Github Actions. It is a 2025 update of the [foojay.io/today/how-to-release-a-java-module-with-jreleaser-to-maven-central-with-github-actions](https://foojay.io/today/how-to-release-a-java-module-with-jreleaser-to-maven-central-with-github-actions/) article.

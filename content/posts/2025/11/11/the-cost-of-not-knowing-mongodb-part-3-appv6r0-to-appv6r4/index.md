@@ -14,7 +14,6 @@ related_posts:
   - "multi-cloud-strategies-with-mongodb-atlas"
   - "mongodb-schemas-in-java"
   - "mongodb-aggregations-organizing-recipes-by-meal-type-with-group"
-frozen: false
 ---
 
 Welcome to the third and final part of the series "The Cost of Not Knowing MongoDB." Building upon the foundational optimizations explored in [Part 1](https://foojay.io/today/the-cost-of-not-knowing-mongodb-part-1-appv0-to-appv4/) and [Part 2](https://foojay.io/today/the-cost-of-not-knowing-mongodb-part-2-appv5r0-to-appv5r4/), this article delves into advanced MongoDB design patterns that can dramatically transform application performance.

@@ -14,7 +14,6 @@ related_posts:
   - "foojay-podcast-34"
   - "foojay-podcast-33"
   - "foojay-podcast-88"
-frozen: false
 aliases:
   - "/today/foojay-podcast-37-j-fall-report-part-4-final/"
 ---

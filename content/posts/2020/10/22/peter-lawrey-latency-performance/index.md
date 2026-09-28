@@ -10,7 +10,6 @@ categories:
   - "Interviews"
   - "Performance"
 related_posts:
-frozen: false
 aliases:
   - "/today/peter-lawrey-talks-about-low-latency-high-performance-java/"
 ---

@@ -15,7 +15,6 @@ related_posts:
   - "boxlang-ai-3-2-0-image-generation-web-search-fluent-audio-agent-registry-mcp-observability"
   - "the-5-knights-of-the-mcp-apocalypse"
   - "jc-ai-newsletter-9"
-frozen: false
 ---
 
 Hola Java developers! 👋

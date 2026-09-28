@@ -15,7 +15,6 @@ related_posts:
   - "building-rest-apis-in-java-with-spring-boot"
   - "clean-and-modular-java-a-hexagonal-architecture-approach"
   - "data-modeling-for-java-developers-structuring-with-postgresql-and-mongodb"
-frozen: false
 ---
 
 If (like me!) you prefer to read code rather than a long and boring article, jump straight to the example! TLDR; here's the [code](https://github.com/luketn/mongodb-schemas-in-java).

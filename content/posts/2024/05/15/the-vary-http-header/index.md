@@ -14,7 +14,6 @@ related_posts:
   - "kubernetes-gateway-api"
   - "a-list-of-cache-providers"
   - "comparison-fault-tolerance-libraries"
-frozen: false
 ---
 
 **I try to constantly to deepen my knowledge of HTTP and REST. Recently, I stumbled upon the list of all [registered HTTP Headers](https://www.iana.org/assignments/http-fields/http-fields.xhtml). This post is dedicated to the `Vary` HTTP Header.**

@@ -15,7 +15,6 @@ related_posts:
   - "why-i-dont-do-tdd"
   - "internal-security-hardening-internal-systems"
   - "get-started-with-allocation-profiling"
-frozen: false
 ---
 
 As of now I published the first three videos of [the course](https://course.debugagent.com) and will publish the fourth tomorrow. I plan to publish two videos per week on YouTube to maximize the impact but here I'll only blog one lesson per week to avoid oversaturation. I shot about four hours of video content and still haven't finished the 2nd module out of eight. This course will be very detailed and intensive.

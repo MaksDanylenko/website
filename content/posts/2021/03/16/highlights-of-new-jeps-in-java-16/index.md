@@ -10,7 +10,6 @@ categories:
   - "Records"
   - "Sealed Classes"
 related_posts:
-frozen: false
 ---
 
 The JDK Enhancement Proposal (or JEP) is a community process for collecting proposals for enhancements to the OpenJDK.

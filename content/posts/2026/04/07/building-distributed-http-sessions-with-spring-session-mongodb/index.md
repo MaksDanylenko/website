@@ -16,7 +16,6 @@ related_posts:
   - "agents-meet-databases-the-future-of-agentic-architectures"
   - "atlas-searching-with-the-java-driver"
   - "beyond-keywords-optimizing-vector-search-with-filters-and-caching-part-2"
-frozen: false
 ---
 
 [Spring Session MongoDB](https://www.mongodb.com/docs/drivers/java/sync/current/integrations/spring-session/?utm_campaign=devrel&utm_source=third-part-content&utm_medium=cta&utm_content=spring+sessions+mongodb&utm_term=tim.kelly) is a library that enables Spring applications to store and manage HTTP session data in MongoDB rather than relying on container-specific session storage. In traditional deployments, session state is often tied to a single application instance, which makes scaling across multiple servers difficult. By integrating [Spring Session](https://spring.io/projects/spring-session) with MongoDB, session data can be persisted beyond application restarts and shared across instances in a cluster, enabling scalable distributed applications with minimal configuration.

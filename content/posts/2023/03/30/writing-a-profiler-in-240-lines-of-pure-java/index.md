@@ -15,7 +15,6 @@ related_posts:
   - "do-you-trust-profilers-i-once-did-too"
   - "validating-java-profiling-apis"
   - "using-async-profiler-and-jattach-programmatically-with-ap-loader"
-frozen: false
 ---
 
 A few months back, I started writing a profiler from scratch, and the code since became the base of my profiler validation tools.

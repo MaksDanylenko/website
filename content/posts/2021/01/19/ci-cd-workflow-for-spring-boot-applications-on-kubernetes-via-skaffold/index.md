@@ -11,7 +11,6 @@ categories:
   - "Kubernetes"
   - "Maven"
 related_posts:
-frozen: false
 ---
 
 In this post, we will create a Local CI/CD workflow for a Spring Boot Application and deploy it to Kubernetes using Skaffold.  

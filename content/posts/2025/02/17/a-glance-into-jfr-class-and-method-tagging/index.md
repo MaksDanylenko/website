@@ -14,7 +14,6 @@ related_posts:
   - "using-java-flight-recorder-and-mission-control-part-2"
   - "using-java-flight-recorder-and-mission-control-part-3"
   - "where-production-policy-belongs-building-eliya-in-public"
-frozen: false
 ---
 
 Ever wonder how the JDK Flight Recorder (JFR) keeps track of the classes and methods it has collected for stack traces and more?

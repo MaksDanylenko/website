@@ -15,7 +15,6 @@ related_posts:
   - "azul-and-jetbrains-collaborate-to-enhance-runtime-performance-for-kotlin-workloads"
   - "azul-provides-the-crac-in-aws-snapstart-builds"
   - "azul-enhances-readynow-to-solve-javas-warmup-problem-simplify-operations-and-optimize-cloud-costs"
-frozen: false
 ---
 
 **Azul is a company focused purely on Java through builds of OpenJDK, in the form of Platform Core, and our high-performance Java platform (including JVM), Platform Prime. We build on these with Intelligence Cloud to deliver precise information about security vulnerabilities in running code, unused code and an inventory of all JVMs in use.**

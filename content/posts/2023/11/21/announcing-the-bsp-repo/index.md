@@ -15,7 +15,6 @@ related_posts:
   - "elevating-java-development-in-visual-studio-code-experience-the-new-build-server-for-gradle"
   - "java-on-visual-studio-code-july-2023"
   - "java-on-visual-studio-code-june-2023"
-frozen: false
 ---
 
 ### Build Server for Gradle

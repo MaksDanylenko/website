@@ -14,7 +14,6 @@ related_posts:
   - "spring-boot-debugging-with-aspect-oriented-programming-aop"
   - "relearning-java-thread-primitives"
   - "boldness-in-refactoring"
-frozen: false
 ---
 
 In [our last article](https://foojay.io/today/revolutionize-json-parsing-in-java-with-manifold/), we introduced you to the [Manifold](http://manifold.systems/) project and how it offers a revolutionary set of language extensions for Java, including the ability to parse and process JSON files seamlessly in Java.

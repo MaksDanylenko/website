@@ -2,7 +2,6 @@
 title: "Privacy Policy"
 description: "What personal data foojay.io collects, why we collect it, how long we keep it and who we share it with."
 url: "/privacy-policy/"
-frozen: false
 ---
 
 Azul Systems, Inc. (the "Company") knows that you care about how your personal information is used and shared, and takes your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting the Company's website at www.azul.com or any of Company's other websites, applications, domain names or other linked pages, including, without limitation https://www.azul.com/support or https://www.zulu.org, https://foojay.io (collectively the "Website"), or using any of our Services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. Personal data you provide may be transferred to and processed in the United States under the safeguards described in the "Transfers of Personal Data" section below; using the Website does not by itself constitute your consent to that processing.

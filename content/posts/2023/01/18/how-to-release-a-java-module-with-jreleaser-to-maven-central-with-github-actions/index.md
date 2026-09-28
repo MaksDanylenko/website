@@ -14,7 +14,6 @@ related_posts:
   - "how-to-publish-a-java-maven-project-to-the-maven-central-repository"
   - "jreleaser-looking-for-translation-contributions"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
-frozen: true
 ---
 
 > **This guide is outdated since 2024. There is a new version here: [https://foojay.io/today/how-to-publish-a-java-maven-project-to-maven-central-using-jreleaser-and-github-actions-2025-guide/](https://foojay.io/today/how-to-publish-a-java-maven-project-to-maven-central-using-jreleaser-and-github-actions-2025-guide/)**

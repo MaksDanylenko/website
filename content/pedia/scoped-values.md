@@ -2,7 +2,6 @@
 title: "Scoped Values"
 description: "Scoped Values, finalised in Java 24 (JEP 487), provide a mechanism to share immutable data within and across threads in a structured, predictable way — designed as a safer and more scalable alternative to ThreadLocal in the era of virtual ..."
 url: "/pedia/scoped-values/"
-frozen: false
 ---
 
 Scoped Values, finalised in Java 24 (JEP 487), provide a mechanism to share immutable data within and across threads in a structured, predictable way — designed as a safer and more scalable alternative to `ThreadLocal` in the era of virtual threads.

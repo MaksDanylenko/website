@@ -10,7 +10,6 @@ categories:
   - "JavaFX"
   - "Release Notes"
 related_posts:
-frozen: false
 ---
 
 Software-EKG is a powerful tool for time series analysis developed by [QAware Software Engineering](http://www.qaware.de/)*.* Using a highly efficient search index and optimized algorithms, the tool enables you to both visualize and analyze time series containing billions of values.

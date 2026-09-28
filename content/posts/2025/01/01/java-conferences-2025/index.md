@@ -9,7 +9,6 @@ image: "Favicon-3-2.png"
 categories:
   - "Events"
 related_posts:
-frozen: false
 aliases:
   - "/today/java-conferences-in-2025/"
 ---

@@ -11,7 +11,6 @@ categories:
   - "Java Core"
   - "JEPs"
 related_posts:
-frozen: false
 ---
 
 ![](pokemon01-1024x640.jpg)

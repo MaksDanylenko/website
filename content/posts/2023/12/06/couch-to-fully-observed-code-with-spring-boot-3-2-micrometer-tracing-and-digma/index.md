@@ -17,7 +17,6 @@ related_posts:
   - "digma-apache-apisix-and-openvalue-sponsor-foojay-io-at-jfall-2023"
   - "effective-coding-with-java-observability"
   - "idempotent-spring-boot-starter"
-frozen: false
 ---
 
 **Collecting important data about your code in dev and test has become trivial, it's now also getting easier to put that data to use.**

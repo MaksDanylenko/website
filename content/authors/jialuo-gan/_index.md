@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/imisilence/"
 github: ""
 youtube: ""
 website: "https://x.com/jialuogan"
-frozen: false
 ---

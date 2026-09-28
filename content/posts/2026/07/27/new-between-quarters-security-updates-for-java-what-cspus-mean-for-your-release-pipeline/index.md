@@ -14,7 +14,6 @@ related_posts:
   - "azul-zulu-april-2026-quarterly-update-released"
   - "should-you-update-java-or-upgrade-and-which-version-should-you-use"
   - "foojay-podcast-78"
-frozen: false
 ---
 
 In an announcement on the [OpenJDK Updates Mailinglist](https://mail.openjdk.org/archives/list/jdk-updates-dev@openjdk.org/thread/SVHDNJDY62MX6YBEA4FSMW4U72H77F6S/) on July 20, 2026, Rob McKenna explained a change in the Oracle security release cycle for JDK builds. They plan to deliver security updates for the Oracle JDK as part of **(some) monthly Critical Security Patch Updates (CSPUs)** .

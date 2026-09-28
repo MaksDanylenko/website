@@ -9,5 +9,4 @@ linkedin: ""
 github: "https://github.com/AntonLem"
 youtube: ""
 website: ""
-frozen: false
 ---

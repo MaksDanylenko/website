@@ -13,7 +13,6 @@ related_posts:
   - "foojay-podcast-85"
   - "foojay-podcast-84"
   - "foojay-podcast-83"
-frozen: false
 ---
 
 ***What if work-life balance is a myth, and the real secret is just... life?***

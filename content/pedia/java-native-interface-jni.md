@@ -2,7 +2,6 @@
 title: "Java Native Interface (JNI)"
 description: "The Java Native Interface (JNI) is the standard mechanism that allows Java code running in the JVM to call, and be called by, native code written in C, C++, or other languages that can produce a shared library. It has ..."
 url: "/pedia/java-native-interface-jni/"
-frozen: false
 ---
 
 The Java Native Interface (JNI) is the standard mechanism that allows Java code running in the JVM to call, and be called by, native code written in C, C++, or other languages that can produce a shared library. It has been part of Java since version 1.1.

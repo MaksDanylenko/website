@@ -13,7 +13,6 @@ related_posts:
   - "book-review-why-programs-fail"
   - "debugging-tutorial-1-introduction-conditional-breakpoints-set-value"
   - "boxlang-1-15-0-released-blazing-fast-strings-runtime-portability-and-much-more"
-frozen: true
 ---
 
 A few weeks ago I ran into [this story on reddit](https://www.reddit.com/r/java/comments/qi8yu8/hint_to_myself_and_other_poor_souls_dont_use/) that discusses the problem with using the URL class as a key in a Map. This boils down to a remarkably slow implementation of the hashcode() method in java.net.URL which makes this class unusable in such situations.

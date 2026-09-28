@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/jakob-jenkov-4a3a8/"
 github: ""
 youtube: ""
 website: ""
-frozen: false
 ---

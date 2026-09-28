@@ -16,7 +16,6 @@ related_posts:
   - "class-loader-hierarchies"
   - "foojay-podcast-14"
   - "validating-java-profiling-apis"
-frozen: false
 ---
 
 **AsyncGetCallTrace is an API to obtain the top `n` Java frames of a thread asynchronously in a signal handler.**

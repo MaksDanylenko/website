@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/luis-neto-16786b227/"
 github: ""
 youtube: ""
 website: ""
-frozen: false
 ---

@@ -14,7 +14,6 @@ related_posts:
   - "agents-meet-databases-the-future-of-agentic-architectures"
   - "atlas-online-archive-efficiently-manage-the-data-lifecycle"
   - "atlas-searching-with-the-java-driver"
-frozen: false
 ---
 
 From time to time, I'll run a [design review](https://www.mongodb.com/events/mongodb-schema-design-reviews/?utm_campaign=devrel&utm_source=third-party-content&utm_medium=cta&utm_content=cache-foojay&utm_term=tony.kim) for an application being migrated from a relational database onto MongoDB, where the customer shares an architectural diagram showing a caching layer (typically Redis) sitting between the app server and MongoDB.

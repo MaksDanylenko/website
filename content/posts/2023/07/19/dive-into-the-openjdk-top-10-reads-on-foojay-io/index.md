@@ -14,7 +14,6 @@ related_posts:
   - "5-tips-to-create-secure-docker-images-for-java-applications"
   - "5-things-you-probably-didnt-know-about-java-concurrency"
   - "a-fresh-look-at-embedded-java"
-frozen: false
 ---
 
 Foojay.io is a community platform dedicated to the needs of Java developers (and beyond, e.g., Kotlin) who use OpenJDK and related technologies.

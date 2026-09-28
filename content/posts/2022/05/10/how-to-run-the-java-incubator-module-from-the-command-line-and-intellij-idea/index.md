@@ -14,7 +14,6 @@ related_posts:
   - "how-to-run-project-loom-from-intellij-idea"
   - "setting-up-and-working-with-apache-tomcat-in-intellij-idea-ultimate"
   - "ask-a-lille-dev-what-java-developers-really-think-about-quality-frameworks-communities-and-careers"
-frozen: false
 ---
 
 [JEP 425: Virtual Threads (Preview)](https://openjdk.java.net/jeps/425) has been proposed recently. It has been a long-awaited feature in Java. It opens the door to Structured Concurrency. This article isn't about it, in case you are interested, you can read, the [JEP draft: Structured Concurrency (Incubator)](https://openjdk.java.net/jeps/8277129)

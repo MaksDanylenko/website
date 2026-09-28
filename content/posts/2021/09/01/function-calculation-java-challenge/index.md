@@ -13,7 +13,6 @@ related_posts:
   - "daemon-thread-java-code-quiz"
   - "stream-limit-filter-java-challenge"
   - "neo-stream-search-java-challenge"
-frozen: false
 ---
 
 Functional programming is a very powerful paradigm that makes code more concise and easier to understand.

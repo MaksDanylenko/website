@@ -10,7 +10,6 @@ categories:
   - "IntelliJ IDEA"
   - "Release Notes"
 related_posts:
-frozen: false
 ---
 
 Azul has been leading the OpenJDK community effort ([JEP 391](http://openjdk.java.net/jeps/391)) initiated in August 2020 to add support for Apple Silicon, Arm-based Macs, in future versions of OpenJDK.

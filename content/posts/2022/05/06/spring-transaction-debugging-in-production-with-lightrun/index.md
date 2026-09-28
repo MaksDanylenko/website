@@ -16,7 +16,6 @@ related_posts:
   - "debugging-tutorial-java-return-value-intellij-jump-to-line-and-more"
   - "debugging-ram-java-garbage-collection-java-heap-deep-dive-part-1"
   - "spring-boot-debugging-with-aspect-oriented-programming-aop"
-frozen: false
 ---
 
 Spring makes building a reliable application much easier thanks to its declarative transaction management.

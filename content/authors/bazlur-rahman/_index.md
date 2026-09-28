@@ -6,8 +6,7 @@ bio: "A N M Bazlur Rahman is a Software Engineer with over a decade of specializ
 bluesky: "https://bsky.app/profile/bazlur.ca"
 mastodon: "https://mastodon.online/@bazlur_rahman"
 linkedin: "https://www.linkedin.com/in/bazlur/"
-github: ""
+github: "https://github.com/rokon12"
 youtube: ""
-website: "https://x.com/bazlur_rahman"
-frozen: false
+twitter: "https://x.com/bazlur_rahman"
 ---

@@ -10,7 +10,6 @@ image: "microservices.jpg"
 categories:
   - "Microservices"
 related_posts:
-frozen: false
 ---
 
 For some time now, there has been an undeniable growth in interest for Microservices. The core concept itself, however, is not that new.

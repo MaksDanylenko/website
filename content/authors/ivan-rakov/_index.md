@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/irakov/"
 github: ""
 youtube: ""
 website: "https://x.com/ivanglukos"
-frozen: false
 ---

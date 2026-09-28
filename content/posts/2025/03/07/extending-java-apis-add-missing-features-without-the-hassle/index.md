@@ -13,7 +13,6 @@ related_posts:
   - "logging-best-practices-revisited"
   - "spring-boot-debugging-with-aspect-oriented-programming-aop"
   - "relearning-java-thread-primitives"
-frozen: false
 ---
 
 The Java API is vast. That's great, but sometimes a missing method or capability can be frustrating. With Manifold, developers can solve this problem without having to wait for Java to add a feature in a later version. Even more importantly, Manifold provides many such extensions out of the box, making Java better for developers. In this post, we will discuss the extension capability. It lets us change classes in the Java API in a compatible way without risk. If Java adds these APIs later then we can seamlessly switch to them.

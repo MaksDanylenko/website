@@ -16,7 +16,6 @@ related_posts:
   - "book-review-seriously-good-software"
   - "book-review-help-your-boss-help-you"
   - "boxlang-1-14-0-boxset-is-here-boxlangs-new-first-class-set-type"
-frozen: false
 ---
 
 *Disclaimer: this post includes affiliate links; I may receive compensation if you purchase the book from the different links provided in this post.*

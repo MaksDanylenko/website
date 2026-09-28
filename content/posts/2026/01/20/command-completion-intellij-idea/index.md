@@ -16,7 +16,6 @@ related_posts:
   - "7-habits-of-highly-effective-java-coding"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "eight-debugging-tips-for-intellijidea-users-you-never-knew-existed"
-frozen: false
 ---
 
 How many shortcuts can you remember? Three? Five? More? I try to learn as many as I can and still forget some of them…

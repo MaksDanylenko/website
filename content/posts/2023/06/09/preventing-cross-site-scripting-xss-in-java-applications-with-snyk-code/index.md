@@ -15,7 +15,6 @@ related_posts:
   - "exploring-cve-2022-33980-the-apache-commons-configuration-rce-vulnerability"
   - "foojay-podcast-7"
   - "tiberius-a-security-testing-framework-for-llm-applications-in-java"
-frozen: false
 ---
 
 Java is a powerful backend programming language that can also be used to write HTML pages for web applications. However, developers must know the potential security risks associated with Cross-Site Scripting (XSS) attacks when creating these pages.

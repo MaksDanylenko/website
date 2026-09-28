@@ -13,7 +13,6 @@ related_posts:
   - "idempotent-spring-boot-starter"
   - "ai-found-the-bugs-whos-patching-your-eol-java-code"
   - "building-java-containers-without-a-dockerfile-azul-zulu-and-paketo-buildpacks"
-frozen: false
 ---
 
 Spring I/O 2026 wrapped in Barcelona on Wednesday. Three days at the Palau de Congressos. A thousand-plus developers, five tracks, sixty sessions (or there abouts) Here are the things I'm still thinking about..

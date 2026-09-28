@@ -14,7 +14,6 @@ related_posts:
   - "guide-lazyinitializationexception"
   - "a-list-of-cache-providers"
   - "foojay-podcast-41"
-frozen: false
 ---
 
 In previous weeks, I've analyzed several libraries and frameworks that augment the client with AJAX capabilities.

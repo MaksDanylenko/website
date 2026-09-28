@@ -14,7 +14,6 @@ related_posts:
   - "beyond-pass-fail-a-modern-approach-to-java-integration-testing"
   - "end-to-end-tracing-opentelemetry"
   - "exploring-the-opentelemetry-collector"
-frozen: false
 ---
 
 Last year, I wrote a [post](https://blog.frankel.ch/end-to-end-tracing-opentelemetry/) on Open Telemetry Tracing to understand more about the subject. I also created a demo around it, which featured the following components:

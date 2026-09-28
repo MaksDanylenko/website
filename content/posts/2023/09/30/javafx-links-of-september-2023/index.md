@@ -14,7 +14,6 @@ related_posts:
   - "javafx-links-of-july-2023"
   - "javafx-links-of-june-2023"
   - "javafx-links-of-june-2026"
-frozen: false
 ---
 
 This month OpenJDK and OpenJDK 21 got officially released, so links to the new downloads but also to the early access builds of the next one!

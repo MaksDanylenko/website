@@ -9,5 +9,4 @@ linkedin: "http://linkedin.com/in/maqsud-mohammad-mba"
 github: ""
 youtube: ""
 website: "https://x.com/mmohammadmba"
-frozen: false
 ---

@@ -15,7 +15,6 @@ related_posts:
   - "run-a-java-lambda-function-from-a-docker-image"
   - "unusual-java-stacktrace-extends-throwable"
   - "top-10-java-language-features"
-frozen: false
 ---
 
 Java's checked exceptions were a massive improvement over C's error-handling mechanism. As time passed and experience accumulated, we collectively concluded that we weren't there yet. However, Java's focus on stability has kept checked exceptions in its existing API.

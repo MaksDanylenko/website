@@ -16,7 +16,6 @@ related_posts:
   - "foojay-podcast-68"
   - "9-outdated-ideas-about-java"
   - "java-23-whats-new"
-frozen: false
 ---
 
 **Java 24 will be available soon, on March 18th. What are all the functionalities that this version brings to us as developers?**

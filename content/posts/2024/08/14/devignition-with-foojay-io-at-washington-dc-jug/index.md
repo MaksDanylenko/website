@@ -14,7 +14,6 @@ related_posts:
   - "foojay-podcast-49"
   - "foojay-podcast-50"
   - "foojay-podcast-51"
-frozen: false
 ---
 
 **[DevIgnition](https://devignition.com/) is a fun and informal community event run for and by the Washington DC software development community. One [November 7, a full day of interesting presentations](https://devignition.com/) will be featured from excellent speakers from around the world on a wide variety of technical topics.**

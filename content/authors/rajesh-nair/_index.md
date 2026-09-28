@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/rajesh-nair-4773ba41/"
 github: ""
 youtube: ""
 website: ""
-frozen: false
 ---

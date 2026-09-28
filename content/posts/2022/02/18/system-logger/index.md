@@ -14,7 +14,6 @@ related_posts:
   - "7-functional-programming-techniques-in-java-a-primer"
   - "7-ways-to-contribute-to-openjdk"
   - "effective-java-logging"
-frozen: false
 ---
 
 December was not a good time for Java developers and even less for Ops. The former had to repackage their apps with a fixed Log4J's version, and the latter had to redeploy them - several times. Yet, every cloud has a silver lining. In my case, I learned about `System.Logger`.

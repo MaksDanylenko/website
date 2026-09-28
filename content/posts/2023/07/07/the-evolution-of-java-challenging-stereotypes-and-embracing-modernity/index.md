@@ -12,7 +12,6 @@ related_posts:
   - "foojay-all-about-java-and-the-openjdk-i-programmer"
   - "5-things-you-probably-didnt-know-about-java-concurrency"
   - "7-ways-to-contribute-to-openjdk"
-frozen: false
 ---
 
 On a flight from Zurich to Toronto, I found myself in an engaging conversation with a fellow passenger. Among various topics, our conversation navigated toward our careers and, inevitably, as I am a Java developer, towards the world of Java.

@@ -12,7 +12,6 @@ related_posts:
   - "cant-reproduce-a-bug"
   - "building-for-failure-best-practices-for-easy-production-debugging"
   - "understanding-security-vulnerabilities-a-first-step-in-preventing-attacks"
-frozen: false
 ---
 
 **Debugging is an integral part of any software development process.**

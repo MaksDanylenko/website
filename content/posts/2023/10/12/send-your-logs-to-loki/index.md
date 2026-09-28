@@ -13,7 +13,6 @@ related_posts:
   - "chopping-monolith"
   - "blockhound-how-it-works"
   - "how-to-beautify-your-github-repo"
-frozen: false
 ---
 
 **One of my current talks focuses on Observability in general and Distributed Tracing in particular, with an [OpenTelemetry](https://opentelemetry.io/) implementation. In the demo, I show how you can see the traces of a simple distributed system consisting of: the Apache APISIX API Gateway, a Kotlin app with Spring Boot, a Python app with Flask, and a Rust app with Axum.**

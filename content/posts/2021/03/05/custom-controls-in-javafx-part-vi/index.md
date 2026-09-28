@@ -13,7 +13,6 @@ related_posts:
   - "custom-controls-in-javafx-part-v"
   - "azul-brings-java-from-edge-to-cloud"
   - "java-for-desktop-applications-part-1"
-frozen: false
 ---
 
 We are slowly coming to the end of [all the different ways](https://foojay.io/today/custom-controls-in-javafx-part-i/) in which one can create a custom control in JavaFX. Today I will show you how to create a custom control that is based on the JavaFX Canvas node.

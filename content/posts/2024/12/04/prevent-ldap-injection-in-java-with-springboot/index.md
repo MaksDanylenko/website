@@ -17,7 +17,6 @@ related_posts:
   - "a-simple-service-with-spring-boot"
   - "springboot-3-2-crac"
   - "tiberius-a-security-testing-framework-for-llm-applications-in-java"
-frozen: false
 ---
 
 **LDAP (Lightweight Directory Access Protocol)** is essential for managing and accessing directory information in Java web applications. However, it's crucial to understand and prevent **LDAP Injection**, a serious security vulnerability that can lead to unauthorized access and data breaches.

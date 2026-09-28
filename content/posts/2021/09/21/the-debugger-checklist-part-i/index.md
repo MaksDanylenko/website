@@ -13,7 +13,6 @@ related_posts:
   - "eight-debugging-tips-for-intellijidea-users-you-never-knew-existed"
   - "jdb"
   - "debugging-collections-streams-and-watch-renderers"
-frozen: true
 ---
 
 ![](Blog-Header-1200x600-px1-700x350.jpeg)

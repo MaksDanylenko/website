@@ -15,7 +15,6 @@ related_posts:
   - "whats-new-in-the-august-2026-azul-payara-release"
   - "whats-new-in-the-july-2026-azul-payara-release"
   - "jurassic-jdk-migrate-or-extinct"
-frozen: false
 ---
 
 The annual [2021Jakarta EE Developer Survey](https://www.surveymonkey.com/r/F9SWSDF) is out. Make sure to use this opportunity to make your voice heard!

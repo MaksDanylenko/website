@@ -16,7 +16,6 @@ related_posts:
   - "report-of-my-small-tour-deurope"
   - "springone-tlv-world-tour-trip-report"
   - "gear-up-for-nodes-2024-what-to-know"
-frozen: true
 ---
 
 **Once in a while, I write non-technical blog posts when I've something worth sharing. Today, I'd like to write about my North America "Tour" across several conferences and user groups.**

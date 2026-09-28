@@ -13,7 +13,6 @@ categories:
   - "GenAI"
   - "Webinar"
 related_posts:
-frozen: false
 ---
 
 ## Join Our Webinar: Build Agents, RAG Pipelines \& Multi-Model Workflows with BoxLang AI

@@ -14,7 +14,6 @@ related_posts:
   - "what-is-debugging-in-140-seconds"
   - "the-debugger-checklist-part-ii"
   - "debugging-race-conditions-in-production"
-frozen: true
 ---
 
 In episodes 4 and 5 of "140 Second Ducklings", I got deeper into the more advanced underpinnings of breakpoints. There's still a lot more to learn to move forward, but even at this stage it's surprising how many things are relatively unknown in the developer community. And I'm just getting started…

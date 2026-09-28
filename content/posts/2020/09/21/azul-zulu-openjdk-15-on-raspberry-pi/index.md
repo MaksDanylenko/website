@@ -13,7 +13,6 @@ related_posts:
   - "blink-a-led-on-raspberry-pi-with-vaadin"
   - "electronics-quarkus-qute-on-raspberry-pi"
   - "bringing-raspberry-pi-development-to-quarkus-with-the-quarkus-pi4j-extension"
-frozen: true
 ---
 
 For this post I did some experiments with Java 15, reusing the Ubuntu 64bit SD card which was also used for my earlier post ["](http://localhost:1313/post/2020-07-28-spring-versus-quarkus-rest-h2-db-on-raspberry-pi/)[Startup Speed of Spring and Quarkus JARs on the Raspberry Pi](https://foojay.io/?p=35345)".

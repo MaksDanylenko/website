@@ -9,5 +9,4 @@ linkedin: "https://linkedin.com/in/holgerisenberg"
 github: ""
 youtube: ""
 website: "https://x.com/areoinfo"
-frozen: false
 ---

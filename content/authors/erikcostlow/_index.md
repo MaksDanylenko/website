@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/costlow/"
 github: ""
 youtube: ""
 website: "https://x.com/costlow"
-frozen: false
 ---

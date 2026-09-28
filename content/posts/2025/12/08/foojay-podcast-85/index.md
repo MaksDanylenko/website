@@ -16,7 +16,6 @@ related_posts:
   - "foojay-podcast-83"
   - "foojay-podcast-82"
   - "foojay-podcast-81"
-frozen: false
 ---
 
 ***What if the future of Java depends on who we invite to learn it today?***

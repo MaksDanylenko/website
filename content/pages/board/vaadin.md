@@ -18,7 +18,6 @@ quote: |
 
   We hope to contribute insights on web UIs and UX to the discussion.
 quoteAuthor: "Marcus Hellberg, VP of Marketing and Developer Relations"
-frozen: false
 ---
 
 Vaadin is a web app development platform for Java. It helps you build reliable web apps with great UX faster than before.

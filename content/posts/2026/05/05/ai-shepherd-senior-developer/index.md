@@ -8,7 +8,6 @@ image: "image.jpg"
 categories:
   - "Java"
 related_posts:
-frozen: false
 ---
 
 ## The doorman in a hoodie

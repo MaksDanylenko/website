@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/kadi-grigg/"
 github: ""
 youtube: ""
 website: "https://x.com/KadiGrigg"
-frozen: false
 ---

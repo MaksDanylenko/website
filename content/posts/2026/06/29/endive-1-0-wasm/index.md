@@ -14,7 +14,6 @@ related_posts:
   - "foojay-podcast-98"
   - "playing-with-wasm-on-docker"
   - "rust-jvm"
-frozen: false
 ---
 
 A few weeks ago, we wrote about [a new generation of Java libraries](https://foojay.io/today/a-new-generation-of-java-libraries-is-born-wasm-becomes-the-implementation-detail/) powered by WebAssembly. SQLite, QuickJS, Protocol Buffers, the Ruby Prism parser, all compiled to Wasm and shipped as regular JARs. No JNI, no platform-specific binaries. Wasm as an implementation detail.

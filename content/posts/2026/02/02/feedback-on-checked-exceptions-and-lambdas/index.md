@@ -11,7 +11,6 @@ categories:
   - "Java"
 related_posts:
   - "checked-exceptions-and-lambdas"
-frozen: false
 ---
 
 I got a lot of interesting feedback on [Checked exceptions and lambdas](https://blog.frankel.ch/checked-exceptions-lambdas/). Let's start with my own: after writing the post, I realized I had written a [similar post](https://blog.frankel.ch/exceptions-lambdas/) some time ago.

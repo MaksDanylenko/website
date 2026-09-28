@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/jmhreif/"
 github: ""
 youtube: ""
 website: "https://x.com/JMHReif"
-frozen: false
 ---

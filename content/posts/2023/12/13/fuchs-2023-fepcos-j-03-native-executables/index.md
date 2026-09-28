@@ -15,7 +15,6 @@ related_posts:
   - "native-spring-boot"
   - "fuchs-2023-fepcos-j-02"
   - "fuchs-2024-fepcos-j-multithreaded-server"
-frozen: true
 ---
 
 **FEPCOS-J prototypically enables Java developers to realize networked systems without low-level network programming and to automatically build native executables by means of GraalVM. **This post introduces the concept and gives you an example by rebuilding the source code explained in my previous posts.****

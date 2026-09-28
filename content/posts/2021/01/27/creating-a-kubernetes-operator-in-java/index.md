@@ -15,7 +15,6 @@ related_posts:
   - "do-you-really-need-kubernetes"
   - "warm-up-fast-run-lean-vertical-scaling-for-java-on-kubernetes-with-azul-prime-and-kedify"
   - "jc-ai-newsletter-16"
-frozen: false
 ---
 
 Kubernetes is much more than a runtime platform for Docker containers.

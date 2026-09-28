@@ -14,7 +14,6 @@ related_posts:
   - "book-review-quarkus-for-spring-developers"
   - "jdb"
   - "introducing-the-boxlang-ide-plugin-for-intellij"
-frozen: true
 ---
 
 **I'm launching a new twitter video series that will focus on teaching the concepts of debugging (and other concepts) in small video bites.**

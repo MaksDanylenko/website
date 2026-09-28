@@ -20,7 +20,6 @@ related_posts:
   - "jc-ai-newsletter-8"
   - "jc-ai-newsletter-2"
   - "build-secure-ai-chat-applications-with-boxlang-rag-ollama-and-amazon-bedrock-with-dan-card"
-frozen: false
 ---
 
 **F**ourteen days have passed, and it is time to present a fresh collection of readings that could influence developments in the field of artificial intelligence.

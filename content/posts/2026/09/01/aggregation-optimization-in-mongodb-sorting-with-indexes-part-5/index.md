@@ -14,7 +14,6 @@ related_posts:
   - "aggregation-optimization-in-mongodb-data-duplication-to-improve-read-performance-part-4"
   - "mongodb-as-a-vector-database-for-ai-agents-mongodb"
   - "what-is-sharding-in-mongodb-and-when-should-you-use-it"
-frozen: false
 ---
 
 *And why MongoDB might be a better relational database than you ever realized.*

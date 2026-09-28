@@ -14,7 +14,6 @@ related_posts:
   - "blockhound-how-it-works"
   - "chopping-monolith"
   - "10-best-practises-for-jakarta-ee-performance-optimization"
-frozen: false
 ---
 
 The subject of Web resource caching is as old as the World Wide Web itself.

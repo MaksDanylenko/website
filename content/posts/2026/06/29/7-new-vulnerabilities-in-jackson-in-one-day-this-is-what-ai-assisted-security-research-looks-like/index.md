@@ -13,7 +13,6 @@ related_posts:
   - "did-ai-just-break-software-security-for-ever"
   - "grails-isnt-done-yet-part-1-inside-the-asf-reboot"
   - "vibe-coding-maven-and-the-dependencies-you-didnt-choose"
-frozen: false
 ---
 
 **Quick version check:** the affected range for all seven is broadly `>=2.10.0 =2.19.0 =3.0.0 <3.1.4` — with some CVEs affecting narrower ranges. If you're on a supported release, upgrade to 2.18.8, 2.21.4, or 3.1.4. If you're on an EOL line — 2.13.x, 2.14.x, 2.15.x — jump to the bottom of the page for more specifics or visit [HeroDevs Jackson Support](https://docs.herodevs.com/jackson?utm_source=devrel&utm_medium=referral&utm_campaign=2026q2_spring-boot-3-5-eol_global)

@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/jonathanvila/"
 github: ""
 youtube: ""
 website: "https://x.com/vilojona"
-frozen: false
 ---

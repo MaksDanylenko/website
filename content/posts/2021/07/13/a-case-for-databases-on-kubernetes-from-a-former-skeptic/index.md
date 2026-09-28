@@ -14,7 +14,6 @@ categories:
   - "DevOps"
   - "Kubernetes"
 related_posts:
-frozen: false
 ---
 
 Kubernetes is everywhere. Transactional apps, video streaming services and machine learning workloads are finding a home on this ever-growing platform. But what about databases?

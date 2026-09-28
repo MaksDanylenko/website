@@ -9,7 +9,6 @@ image: "gluon-bruno-figure01.png"
 categories:
   - "Gluon"
 related_posts:
-frozen: false
 ---
 
 *"What do you do for a living?"*   

@@ -14,7 +14,6 @@ related_posts:
   - "blockhound-how-it-works"
   - "chopping-monolith"
   - "localize-apps-with-ai"
-frozen: false
 ---
 
 **In my previous company, I developed a batch job that tracked metrics across social media, such as Twitter, LinkedIn, Mastodon, Bluesky, Reddit, etc. Then I realized I could duplicate it for my own "persona". The problem is that some media don't provide an HTTP API for the metrics I want.**

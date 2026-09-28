@@ -14,7 +14,6 @@ related_posts:
   - "creating-scalable-openai-gpt-applications-in-java"
   - "getting-started-with-deep-learning-in-java-using-deep-netts"
   - "deep-learning-in-java-for-nuclear-physics-using-deep-netts"
-frozen: true
 ---
 
 ### We pit a seasoned Java developer against the all-knowing generative AI to find out once and for all: Can an AI generate a Java microservice end-to-end?

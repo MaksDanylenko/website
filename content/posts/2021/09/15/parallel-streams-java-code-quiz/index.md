@@ -11,7 +11,6 @@ categories:
 related_posts:
   - "transitioning-to-java-my-first-book"
   - "arrays-and-object-reference-java-challenge-code-quiz"
-frozen: false
 ---
 
 Using streams concurrently with the parallel method is a good idea to optimize performance.

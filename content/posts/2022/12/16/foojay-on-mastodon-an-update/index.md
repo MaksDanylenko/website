@@ -15,7 +15,6 @@ related_posts:
   - "lets-start-a-java-mastodon-community-for-friends-of-openjdk"
   - "java-mastodon-service-the-feedback"
   - "foojay-mastodon-service-here-it-is"
-frozen: false
 ---
 
 Some weeks ago we checked here with the Java community if there was an interest to have a Java-oriented Mastodon service.

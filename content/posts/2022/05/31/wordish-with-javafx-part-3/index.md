@@ -18,7 +18,6 @@ related_posts:
   - "wordish-with-javafx-part-2"
   - "creating-a-javafx-world-clock-from-scratch-part-1"
   - "sheetmusic4j-0-0-3-abc-notation-guitar-pro-engraving-improvements"
-frozen: false
 ---
 
 Welcome to Part 3 of this five part series.

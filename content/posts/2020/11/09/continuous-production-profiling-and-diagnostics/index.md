@@ -12,7 +12,6 @@ categories:
   - "Observability"
   - "Performance"
 related_posts:
-frozen: false
 ---
 
 I've gotten a lot of questions about continuous production profiling lately. Why would anyone want to profile in production, or, if production profiling seems reasonable, why the heck leave it on continuously? I thought I'd take a few moments and share my take on the problem and the success I've seen the past years applying continuous production profiling in systems in the real world.

@@ -14,7 +14,6 @@ related_posts:
   - "azul-brings-java-from-edge-to-cloud"
   - "azuls-high-performance-java-platform-achieves-historic-first-with-10000-customer-jvms-collaborating-and-sharing-performance-optimizations-cutting-cloud-costs-by-20"
   - "how-to-train-readynow-to-achieve-optimal-java-performance"
-frozen: false
 ---
 
 In cloud environments with auto-scaling, a "scaling loop" can make Java application warmup even worse. It can cause you to run unnecessary instances. Even worse, Java warmup might never end. Fortunately, there are four reliable fixes for this issue.

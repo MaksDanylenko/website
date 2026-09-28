@@ -14,7 +14,6 @@ related_posts:
   - "devops-for-developers-continuous-integration-github-actions-and-sonar-cloud"
   - "foojay-podcast-49"
   - "foojay-podcast-58"
-frozen: false
 ---
 
 ## **So, AI Can Write Tests Now? Cool, But...**

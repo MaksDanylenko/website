@@ -16,7 +16,6 @@ related_posts:
   - "consequences-of-dora-on-java-and-openjdk-with-azul"
   - "improve-devops-productivity-with-azul-intelligence-cloud-for-any-jvm"
   - "java-flight-recording-and-analysis-with-azul-mission-control"
-frozen: false
 ---
 
 **Since the April release of Azul Zulu Builds of OpenJDK, packages with JavaFX support for ARM 64-bit systems have been available.**

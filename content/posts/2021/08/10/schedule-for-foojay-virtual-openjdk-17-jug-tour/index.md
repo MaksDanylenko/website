@@ -17,7 +17,6 @@ related_posts:
   - "project-panama-for-newbies-part-1"
   - "project-panama-for-newbies-part-2"
   - "virtual-foojay-openjdk-17-jug-tour"
-frozen: false
 ---
 
 As announced [last month](https://foojay.io/today/virtual-foojay-openjdk-17-jug-tour/), to celebrate the OpenJDK 17 and Foojay.io as [a vendor-neutral community platform for its users](https://adtmag.com/blogs/watersworks/2021/02/foojay-for-openjdk.aspx), we're kicking off the Virtual Foojay JUG Tour to be held during and around its release month of September.

@@ -15,7 +15,6 @@ related_posts:
   - "goodbye-payara-community-6-on-to-the-next-chapter-with-payara-community-7"
   - "jakarta-data-makes-persistence-a-breeze"
   - "from-spring-boot-to-jakarta-ee-11-how-payara-starter-eases-the-transition"
-frozen: false
 ---
 
 The May 2026 release is the largest Payara milestone since the project's inception. Azul Payara Server 7 and Azul Payara Micro 7 ship as generally available, both certified against Jakarta EE 11. This is the first major Payara product release under the Azul brand, arriving six months after Azul completed its acquisition of Payara in December 2025.

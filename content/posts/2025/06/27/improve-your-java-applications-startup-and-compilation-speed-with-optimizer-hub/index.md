@@ -15,7 +15,6 @@ related_posts:
   - "how-readynow-improves-java-warmup-time"
   - "how-to-train-readynow-to-achieve-optimal-java-performance"
   - "superfast-application-startup-java-on-crac"
-frozen: false
 ---
 
 *This is the fourth blog post in a series on faster Java application warmup with ReadyNow. If you haven't been following the series, go back to the first blog post, [Faster Java Warmup: CRaC versus ReadyNow](https://foojay.io/today/faster-java-warmup-crac-versus-readynow/), and catch up. This post examines Optimizer Hub, a set of services external to the JVM within Azul Platform Prime that you can run in your cloud or on-premises environment* to improve your applications' startup and compilation speed*.*

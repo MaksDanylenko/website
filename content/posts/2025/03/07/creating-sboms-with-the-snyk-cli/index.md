@@ -16,7 +16,6 @@ related_posts:
   - "how-to-create-sboms-in-java-with-maven-and-gradle"
   - "making-sboms-threats-and-modelling-them-a-piece-of-cake"
   - "sboms-and-software-composition-analysis"
-frozen: false
 ---
 
 The software bill of materials (SBOM) is quickly becoming an essential aspect of open source security and compliance. In this post, we'll delve into what SBOMs are, why they're necessary, and their role in open source security.

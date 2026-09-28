@@ -12,7 +12,6 @@ categories:
 related_posts:
   - "an-example-of-hacs-adaptive-lighting"
   - "loosely-coupled-configuration-for-home-assistant"
-frozen: false
 ---
 
 Besides a regular webapp and a Mac app, which uses the same endpoints as the webapp, Home Assistant also provides mobile apps. In this post, I want to describe its advantages over the former. I'll use iOS to do this: Samsung's French partner to recycle used mobiles tricked me once, and I moved away from Samsung. I decided to buy Apple for better integration since I've had Mac computers for the last few years.

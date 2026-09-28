@@ -14,7 +14,6 @@ related_posts:
   - "a-simple-service-with-spring-boot"
   - "annotation-free-spring"
   - "service-discovery-client-apache-apisix"
-frozen: false
 ---
 
 In [one of my earlier posts](https://foojay.io/today/backend-for-front-end/), I described the Backend-for-Frontend pattern.

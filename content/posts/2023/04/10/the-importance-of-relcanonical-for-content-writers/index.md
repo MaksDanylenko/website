@@ -10,7 +10,6 @@ image: "poppy-capsules-g8d0f5a9fa.jpg"
 categories:
   - "Java"
 related_posts:
-frozen: false
 ---
 
 The subject of canonical reference has been touched thousand times. But since some content writers are still making the same mistake over and over, I think it's beneficial to add one more. I hope to reach some who aren't aware of it.

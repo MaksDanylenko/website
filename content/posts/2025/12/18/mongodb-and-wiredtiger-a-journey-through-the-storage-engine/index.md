@@ -14,7 +14,6 @@ related_posts:
   - "best-practices-for-deploying-mongodb-in-kubernetes"
   - "beyond-keywords-hybrid-search-with-atlas-and-vector-search-part-3"
   - "building-a-real-time-ai-fraud-detection-system-with-spring-kafka-and-mongodb"
-frozen: false
 ---
 
 Databases are the backbone of modern applications, and [MongoDB](https://www.mongodb.com/?utm_campaign=devrel&utm_source=third-party-content&utm_medium=cta&utm_content=mongodb-wiredtiger-foojay&utm_term=tony.kim) stands out with its flexibility and scalability. Central to its functionality is the WiredTiger storage engine. WiredTiger, as MongoDB's default engine, seamlessly merges document-level concurrency for high throughput, advanced compression techniques for optimized storage, and an in-memory architecture for rapid data access.

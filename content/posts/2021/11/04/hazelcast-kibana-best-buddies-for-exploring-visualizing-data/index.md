@@ -15,7 +15,6 @@ related_posts:
   - "kotlin-delegation"
   - "blockhound-how-it-works"
   - "streaming-real-time-data-on-the-hazelcast-viridian-serverless"
-frozen: false
 ---
 
 A lot, if not all, data science projects require some data visualization front-end to display the results for humans to analyze. Python seems to boast the most potent libraries, but do not lose hope if you're a Java developer (or if you're proficient in another language as well).

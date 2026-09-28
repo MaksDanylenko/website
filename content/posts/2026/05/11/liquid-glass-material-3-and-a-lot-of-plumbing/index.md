@@ -13,7 +13,6 @@ related_posts:
   - "push-v3-one-message-from-your-server-to-every-surface"
   - "the-codename-one-javascript-port-is-now-free-and-open-source"
   - "own-your-pixels-native-fidelity-on-your-schedule"
-frozen: false
 ---
 
 ![Header Image](liquid-glass-material-3-modern-native-th-99b7f8fd.jpg)

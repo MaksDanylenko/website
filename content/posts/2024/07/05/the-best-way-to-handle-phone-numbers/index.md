@@ -13,7 +13,6 @@ related_posts:
   - "foojay-podcast-36"
   - "foojay-podcast-46"
   - "foojay-podcast-53"
-frozen: false
 ---
 
 Processing phone numbers seems complicated at first glance because of the many different formats. In this post, I'll show you that with libphonenumber, it becomes child's play. I'll also recommend how to store the phone number in the database.

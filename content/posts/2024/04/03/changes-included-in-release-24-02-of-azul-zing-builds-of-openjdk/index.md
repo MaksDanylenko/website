@@ -16,7 +16,6 @@ related_posts:
   - "apple-silicon-with-zulu-openjdk-and-intellij-idea"
   - "are-java-security-updates-important"
   - "new-between-quarters-security-updates-for-java-what-cspus-mean-for-your-release-pipeline"
-frozen: false
 ---
 
 [Azul Platform Prime](https://www.azul.com/products/prime) is a Java platform with a modern, TCK-compliant JVM, Azul Zing, based on OpenJDK.

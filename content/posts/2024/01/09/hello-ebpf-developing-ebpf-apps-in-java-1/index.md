@@ -13,7 +13,6 @@ related_posts:
   - "asyncgetcalltrace-reworked-frame-by-frame-with-an-iterative-touch"
   - "class-loader-hierarchies"
   - "hello-ebpf-xdp-based-packet-filter-9"
-frozen: false
 ---
 
 **eBPF allows you to attach programs directly to hooks in the Linux kernel without loading kernel modules, like hooks for networking or executing programs.**

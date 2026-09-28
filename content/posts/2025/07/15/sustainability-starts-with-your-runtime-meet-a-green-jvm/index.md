@@ -17,7 +17,6 @@ related_posts:
   - "getting-more-mileage-out-of-kafka-openjdk-vs-azul-prime"
   - "analyzing-and-tuning-warm-up-of-the-jvm-with-azul-zulu-prime-builds-of-openjdk"
   - "explained-memory-allocation-pacing-in-azul-zulu-prime-builds-of-openjdk"
-frozen: false
 ---
 
 **Reducing spend in the cloud is a top priority for many organizations, and a high-performance Java platform can help cloud cost reduction efforts. These same optimizations can help organizations achieve sustainability goals, including achieving carbon net-zero. And pursuing sustainability goals can also lead to financial advantages.**

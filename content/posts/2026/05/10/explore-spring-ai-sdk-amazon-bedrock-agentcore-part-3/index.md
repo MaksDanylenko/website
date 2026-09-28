@@ -13,7 +13,6 @@ categories:
   - "Spring"
   - "Tutorials"
 related_posts:
-frozen: false
 ---
 
 In [Part 1](https://foojay.io/today/spring-ai-amazon-bedrock-sdk-guide/) and [Part 2](https://foojay.io/today/explore-spring-ai-sdk-amazon-bedrock-agentcore-part-2/), we explored the Spring AI SDK and Amazon Bedrock AgentCore features, including the agentcore runtime starter and integration of agentcore memory. In this article, we will explore the integration of AgentCore built-in tools, including the Browser and Code Interpreter features.

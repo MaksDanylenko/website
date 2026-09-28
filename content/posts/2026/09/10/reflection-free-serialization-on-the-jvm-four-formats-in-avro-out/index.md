@@ -13,7 +13,6 @@ related_posts:
   - "writing-a-data-orchestrator-in-java"
   - "alternatives-to-dto"
   - "avoid-java-serialization"
-frozen: false
 ---
 
 I run a model layer that accepts the same business data in JSON, XML, YAML, and TOML and converts it all to Avro. The project was greenfield, so the question was never what to migrate away from. It was a question of which serialization library the layer would be built with: Jackson or kotlinx.serialization. Jackson was the safe answer, with a module for every format we needed and years of production behind it. What pulled me the other way was the assumption that runtime reflection costs real CPU under load. That turned out to be true of one Jackson path and not the other, which I will get to. The reasons the choice held up were not the reasons I made it.

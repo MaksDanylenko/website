@@ -16,7 +16,6 @@ related_posts:
   - "learning-java-as-a-first-language"
   - "welcome-to-vs-code-for-java"
   - "tornadovm-for-risc-v-accelerators"
-frozen: false
 ---
 
 Let's take a look at the power and beauty of what Java Enums can provide...

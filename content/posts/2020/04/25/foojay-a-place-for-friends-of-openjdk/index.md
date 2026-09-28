@@ -14,7 +14,6 @@ related_posts:
   - "boxlang-aws-azure-and-google-secrets-manager-module-released"
   - "quarkus-unpacked-insights-from-the-foojay-podcast"
   - "tiberius-a-security-testing-framework-for-llm-applications-in-java"
-frozen: true
 ---
 
 Welcome to foojay, a place for **f** riends **o** f **O** pen**J** DK, sponsored by [Azul](http://azul.com). Foojay's user-focused Java and OpenJDK technical dashboards provide free data for everyday Java developers. Right away you have access to updated analysis, selected highlights, and categorized lists arranged for easy consumption.

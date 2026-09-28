@@ -13,7 +13,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "java-development-with-vs-code-on-the-raspberry-pi"
   - "java-testing-with-vs-code"
-frozen: false
 ---
 
 Hi everyone, welcome to our February update!

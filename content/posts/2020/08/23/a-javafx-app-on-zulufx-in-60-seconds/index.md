@@ -13,7 +13,6 @@ related_posts:
   - "custom-controls-in-javafx-part-i"
   - "creating-a-javafx-world-clock-from-scratch-part-1"
   - "will-openjfx-be-merged-into-openjdk-it-would-be-a-perfect-match-with-java-on-mobile"
-frozen: false
 ---
 
 {{< img src="duke_azul_jfx_shirt.png" class="alignleft is-resized" alt="Duke's shirt with Azul and JavaFX." width="174" height="313" >}}

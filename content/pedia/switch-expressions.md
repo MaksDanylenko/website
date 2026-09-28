@@ -2,7 +2,6 @@
 title: "Switch Expressions"
 description: "Switch expressions, finalised in Java 14 (JEP 361), extend the traditional switch statement to work as an expression — producing a value — and introduce a cleaner arrow-case syntax that eliminates fall-through. The new arrow form uses -> instead of ..."
 url: "/pedia/switch-expressions/"
-frozen: false
 ---
 
 Switch expressions, finalised in Java 14 (JEP 361), extend the traditional `switch` statement to work as an expression — producing a value — and introduce a cleaner arrow-case syntax that eliminates fall-through.

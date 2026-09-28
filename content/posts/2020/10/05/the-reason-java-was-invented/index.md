@@ -9,7 +9,6 @@ image: "Favicon-3-2.png"
 categories:
   - "Java"
 related_posts:
-frozen: false
 ---
 
 In my [last post](https://foojay.io/today/compiling-java-code-executing-bytecode/) I described the timing differences between executing `javac` to create Java bytecode and running the actual bytecode. Some readers noticed that, obviously, the `javac` operation will automatically take more time than the execution of the byte code will take, and wondered why I took the time to write the post. Why would we even have `javac` if it didn't improve runtime performance? In fact, why would Java have even been invented if we couldn't use `javac` to create fast-running bytecode?

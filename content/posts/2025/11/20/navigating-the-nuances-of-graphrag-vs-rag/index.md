@@ -15,7 +15,6 @@ related_posts:
   - "best-practices-for-deploying-mongodb-in-kubernetes"
   - "beyond-keywords-hybrid-search-with-atlas-and-vector-search-part-3"
   - "beyond-keywords-implementing-semantic-search-in-java-with-spring-data-part-1"
-frozen: false
 ---
 
 While large language models (LLMs) hold immense promise for building AI applications and agentic systems, ensuring they generate reliable and trustworthy outputs remains a persistent challenge. Effective data management—particularly how data is stored, retrieved, and accessed—is crucial to overcoming this issue. Retrieval-augmented generation (RAG) has emerged as a widely adopted strategy, grounding LLMs in external knowledge beyond their original training data.

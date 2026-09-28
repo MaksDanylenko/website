@@ -2,7 +2,6 @@
 title: "Class Loading"
 description: "Before the JVM can execute any code it must load the corresponding .class file into memory. This process is handled by class loaders, which locate, read, and define classes at runtime. Class loading is lazy by default: a class is ..."
 url: "/pedia/class-loading/"
-frozen: false
 ---
 
 Before the JVM can execute any code it must load the corresponding `.class` file into memory. This process is handled by **class loaders**, which locate, read, and define classes at runtime. Class loading is lazy by default: a class is not loaded until it is first referenced.

@@ -15,7 +15,6 @@ related_posts:
   - "preventing-cross-site-scripting-xss-in-java-applications-with-snyk-code"
   - "sanitize-all-input"
   - "securing-symmetric-encryption-algorithms-in-java"
-frozen: false
 ---
 
 *Originally published at [Snyk.io](https://snyk.io/blog/analyze-java-kotlin-code/)* .  

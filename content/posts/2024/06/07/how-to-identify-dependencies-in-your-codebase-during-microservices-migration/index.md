@@ -14,7 +14,6 @@ related_posts:
   - "couch-to-fully-observed-code-with-spring-boot-3-2-micrometer-tracing-and-digma"
   - "how-to-detect-cache-misses-using-observability"
   - "microservices-design-principles-for-well-crafted-architecture"
-frozen: false
 ---
 
 > Migration from a monolithic architecture to microservices presents challenges, particularly in identifying and managing dependencies within the codebase. By analyzing the application's training data, we can uncover the seams and threads that bind the application together, discovering a safer, more iterative path to refactor our code.

@@ -19,7 +19,6 @@ related_posts:
   - "calling-gemma-with-ollama-testcontainers-and-langchain4j"
   - "foojay-podcast-47"
   - "spring-ai-agents-no-second-runtime"
-frozen: false
 ---
 
 **Artificial Intelligence (AI) is an exciting and disruptive field that is already transforming businesses, and even entire industries, by enabling automation, improving decision-making and unlocking new insights from data.**

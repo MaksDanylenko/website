@@ -17,7 +17,6 @@ related_posts:
   - "how-to-run-neo4j-on-kubernetes"
   - "journeys-in-java-level-6-build-a-neo4j-microservice"
   - "visualization-of-the-message-flow-between-business-functions-with-vaadin-and-neo4j"
-frozen: false
 ---
 
 **After working on a new [online Spring Data Neo4j course](https://graphacademy.neo4j.com/courses/app-spring-data/), I learned a couple more things about updating an entity.**

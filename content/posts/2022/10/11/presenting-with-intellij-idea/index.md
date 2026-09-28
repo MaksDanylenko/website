@@ -13,7 +13,6 @@ related_posts:
   - "3-ways-to-refactor-your-code-in-intellij-idea"
   - "eight-debugging-tips-for-intellijidea-users-you-never-knew-existed"
   - "beginning-javafx-with-intellij"
-frozen: false
 ---
 
 In this article, we will take a look at ways to level up your presentation skills with IntelliJ IDEA.

@@ -16,7 +16,6 @@ related_posts:
   - "are-java-security-updates-important"
   - "am-i-testing-the-right-way"
   - "openjdk-january-2026-critical-patch-update-and-patch-set-update-released"
-frozen: false
 ---
 
 Consider you want to debug a test case of the JDK like [serviceability/AsyncGetCallTrace](https://github.com/openjdk/jdk/tree/master/test/hotspot/jtreg/serviceability/AsyncGetCallTrace). This test, and many others, are implemented using the *Regression Test Harness for the JDK* (jtreg):

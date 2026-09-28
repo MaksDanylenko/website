@@ -14,7 +14,6 @@ related_posts:
   - "better-error-handling-for-your-spring-boot-rest-apis"
   - "baeldung-series-part-2-build-a-dashboard-with-cassandra-astra-and-cql-mapping-event-data"
   - "building-microservices-spring-boot-fat-uber-jar"
-frozen: false
 ---
 
 In this post, I will demonstrate how to create a simple Web Service using Spring Boot. This framework makes it almost effortless to develop web services, so long as the appropriate dependencies are in place.

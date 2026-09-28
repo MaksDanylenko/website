@@ -18,7 +18,6 @@ related_posts:
   - "a-case-for-databases-on-kubernetes-from-a-former-skeptic"
   - "adelphi-apache-cassandra-testing-goes-cloud-native"
   - "kubernetes-data-simplicity-getting-started-with-k8ssandra"
-frozen: false
 ---
 
 [K8ssandra](https://k8ssandra.io/), an open-source distribution of Apache Cassandra for Kubernetes, aims to provide a "production-ready platform", and this includes automation for operational tasks such as repairs, backups, and monitoring. Cassandra is a distributed NoSQL database designed for global scale and fault tolerance for the most demanding applications on the planet, written in Java.

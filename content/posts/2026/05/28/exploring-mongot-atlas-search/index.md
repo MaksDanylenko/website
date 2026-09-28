@@ -16,7 +16,6 @@ related_posts:
   - "agents-meet-databases-the-future-of-agentic-architectures"
   - "atlas-online-archive-efficiently-manage-the-data-lifecycle"
   - "atlas-searching-with-the-java-driver"
-frozen: false
 ---
 
 Let's explore this fascinating and awesome Java project from MongoDB - MongoT!

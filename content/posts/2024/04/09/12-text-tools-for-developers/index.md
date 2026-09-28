@@ -15,7 +15,6 @@ related_posts:
   - "a-javafx-app-on-zulufx-in-60-seconds"
   - "sorting-text-in-java-how-complicated-can-it-be"
   - "boxlang-1-14-0-navigate-anything-jsonpath-comes-to-boxlangs-datanavigator"
-frozen: false
 ---
 
 **As developer, you would think we would spend all our time in an IDE doing development. The reality is a bit different. We may need to analyze logs, test our web services, generate test data, do security tests, analyze data in the database, and so on. Text processing os also part of a developer job. Let's see a few free text tools to simplify your job.**

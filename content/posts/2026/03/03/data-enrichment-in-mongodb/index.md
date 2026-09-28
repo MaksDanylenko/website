@@ -14,7 +14,6 @@ related_posts:
   - "atlas-searching-with-the-java-driver"
   - "best-practices-for-deploying-mongodb-in-kubernetes"
   - "beyond-keywords-hybrid-search-with-atlas-and-vector-search-part-3"
-frozen: false
 ---
 
 In a recent design review, a customer was enriching new data as it came in. As the enrichment process was fairly complex, they ran into some issues with concurrency. To solve this, they decided that data should go into a staging collection rather than the main collection that held the data. This did nothing to help with concurrency issues and actually created more work on the database side of things when enrichment was complete.

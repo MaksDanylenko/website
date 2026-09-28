@@ -13,7 +13,6 @@ related_posts:
   - "5-things-you-probably-didnt-know-about-java-concurrency"
   - "a-minor-but-useful-refactoring-technique-that-would-reduce-your-code-footprint-part-1"
   - "boxlang-ai-3-2-0-image-generation-web-search-fluent-audio-agent-registry-mcp-observability"
-frozen: false
 ---
 
 **Did you know you can write a CLI script in Java just as easily as you would in a bash script, and run it directly from the shell?**

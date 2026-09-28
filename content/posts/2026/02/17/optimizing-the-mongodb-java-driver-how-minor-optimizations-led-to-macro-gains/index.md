@@ -15,7 +15,6 @@ related_posts:
   - "agents-meet-databases-the-future-of-agentic-architectures"
   - "atlas-searching-with-the-java-driver"
   - "best-practices-for-deploying-mongodb-in-kubernetes"
-frozen: false
 ---
 
 Co-authored by *Slav Babanin*.

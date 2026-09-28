@@ -14,7 +14,6 @@ related_posts:
   - "sorting-text-in-java-how-complicated-can-it-be"
   - "3-ways-to-refactor-your-code-in-intellij-idea"
   - "5-things-you-probably-didnt-know-about-java-concurrency"
-frozen: false
 ---
 
 After [Java, What's Old? Part I - Collections](https://foojay.io/today/java-whats-old-part-i-collections/), let's now have a look at less known old utility classes that can still be useful.

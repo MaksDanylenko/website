@@ -18,7 +18,6 @@ related_posts:
   - "a-case-for-databases-on-kubernetes-from-a-former-skeptic"
   - "kubernetes-gateway-api"
   - "apisix-api-gateway"
-frozen: false
 ---
 
 This is the second in a series of posts examining patterns for using K8ssandra to create Cassandra clusters with different deployment topologies.

@@ -13,7 +13,6 @@ related_posts:
   - "building-for-failure-best-practices-for-easy-production-debugging"
   - "hard-things-computer-science"
   - "production-horrors-handling-disasters-public-debrief"
-frozen: false
 ---
 
 ***It's a Friday, late in the afternoon. To end your work week in a clean way, you decide to get rid of some test data and files from your PC. You hit the enter button to drop a table from your local test database. Within a split second, you realize your error. Your body turns hot and cold at the same time. You double-check, but you already know the truth. You were connected to the production database and just deleted the table with all the customers…***

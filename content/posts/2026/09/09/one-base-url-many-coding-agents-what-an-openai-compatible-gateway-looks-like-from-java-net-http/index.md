@@ -20,7 +20,6 @@ categories:
   - "Machine Learning"
   - "Release Notes"
 related_posts:
-frozen: false
 ---
 
 Somewhere in every coding agent there is an HTTP client. Claude Code, Codex, Cursor, Cline, OpenCode: strip away the terminal UI or the editor pane and each of them serializes a conversation into JSON, POSTs it to a base URL with an API key in a header, and streams the answer back. The client owns the prompt assembly, the tool loop and the rendering; the model sits on the far side of that socket.

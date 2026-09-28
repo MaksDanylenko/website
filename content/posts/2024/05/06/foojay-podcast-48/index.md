@@ -16,7 +16,6 @@ related_posts:
   - "foojay-podcast-47"
   - "why-this-jcon-europe-talk-is-unmissable-part-1"
   - "foojay-podcast-88"
-frozen: false
 ---
 
 Once a month, in the Foojay Podcast, we discuss the history of a Java User Group and the people behind it.

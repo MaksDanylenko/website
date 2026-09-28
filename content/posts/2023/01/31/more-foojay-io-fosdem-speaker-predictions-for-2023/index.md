@@ -12,7 +12,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "managing-dependencies-in-intellij-idea"
   - "are-java-security-updates-important"
-frozen: false
 ---
 
 Following on [from the first part in this series](https://foojay.io/today/foojay-io-fosdem-speaker-predictions-for-2023/), covering Simon Ritter and several more, here is the next set of reflections on 2022 and expectations for this year, from speakers who will be in the Foojay.io developer room at FOSDEM on Sunday, 5 February.

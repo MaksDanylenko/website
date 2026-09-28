@@ -18,7 +18,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "5-great-reasons-to-use-jooq"
   - "boxlang-1-14-0-boxset-is-here-boxlangs-new-first-class-set-type"
-frozen: false
 ---
 
 ## Introduction

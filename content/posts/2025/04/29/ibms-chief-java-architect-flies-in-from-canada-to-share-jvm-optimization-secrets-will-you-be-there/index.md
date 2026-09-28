@@ -9,7 +9,6 @@ image: "jconpic.jpg"
 categories:
   - "Conference"
 related_posts:
-frozen: false
 ---
 
 It's not every day that **Mark Stoodley** , IBM's **Chief Architect for Java** , flies from Canada to Europe to lead a hands-on workshop. At [JCON EUROPE 2025](https://europe.jcon.one/ "JCON EUROPE 2025"), you have a rare opportunity to sit down, code, and ask your questions to one of the most influential technical leaders in the Java world.

@@ -14,7 +14,6 @@ related_posts:
   - "push-v3-one-message-from-your-server-to-every-surface"
   - "the-codename-one-javascript-port-is-now-free-and-open-source"
   - "own-your-pixels-native-fidelity-on-your-schedule"
-frozen: false
 ---
 
 ![Metal Default, A New Build Cloud, And A New Format](metal-default-new-build-cloud-and-a-new-af830751.jpg)

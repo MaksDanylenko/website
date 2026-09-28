@@ -14,7 +14,6 @@ quote: |
 
   We are very happy to support Foojay however we can and are delighted to be part of the Foojay Board.
 quoteAuthor: "Jerry Shea, Chronicle Software MD, APAC"
-frozen: false
 ---
 
 Billions of dollars a day are handled via Chronicle's technology platform. We are trusted to deliver exceptional performance, minimal time to market, and optimal developer efficiency.

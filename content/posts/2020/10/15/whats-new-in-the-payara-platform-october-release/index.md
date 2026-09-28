@@ -11,7 +11,6 @@ categories:
   - "Release Notes"
 related_posts:
   - "whats-new-in-the-july-2026-azul-payara-release"
-frozen: false
 ---
 
 We're happy to announce that Payara Platform Community 5.2020.5 ([direct download here](https://www.payara.fish/downloads/payara-platform-community-edition/)) and Payara Platform Enterprise 5.22.0 ([request here](https://www.payara.fish/page/payara-enterprise-downloads/)) Editions are out!

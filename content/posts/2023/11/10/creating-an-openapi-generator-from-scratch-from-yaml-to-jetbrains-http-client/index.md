@@ -15,7 +15,6 @@ related_posts:
   - "book-review-api-design-patterns"
   - "book-review-designing-apis-with-swagger-and-openapi"
   - "replacing-postman-with-the-jetbrains-http-client"
-frozen: false
 ---
 
 ### **In this article, I'll be implementing an OpenAPI generator from scratch so you can too! We'll be creating a very simple generator for the Jetbrains HTTP Client.**

@@ -16,7 +16,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "5-tips-to-create-secure-docker-images-for-java-applications"
   - "enterprise-java-quality-gates-ai"
-frozen: false
 ---
 
 This article was initially published at [blog.gradle.org](https://blog.gradle.org/introducing-test-suites)

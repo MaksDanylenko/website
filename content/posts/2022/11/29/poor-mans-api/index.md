@@ -17,7 +17,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "kubernetes-gateway-api"
   - "system-architecture-move-authentication-to-the-api-gateway"
-frozen: false
 ---
 
 Creating a full-fledged API requires resources, both time and money.

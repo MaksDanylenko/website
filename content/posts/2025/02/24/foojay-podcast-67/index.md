@@ -16,7 +16,6 @@ related_posts:
   - "foojay-podcast-65"
   - "foojay-podcast-64"
   - "foojay-podcast-60"
-frozen: false
 ---
 
 Let me share a personal story. I started experimenting with Java on a Raspberry Pi about five years ago and blogged a few articles about it. But the more I experimented, the more I wrote down, and eventually, I had written a book… I worked on it for six months in a row, every evening and a lot of weekends. But the moment I received the box with my author copies was an incredible feeling. Holding a paper book with your name is a special moment.

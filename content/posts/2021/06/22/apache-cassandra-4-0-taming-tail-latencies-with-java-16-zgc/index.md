@@ -12,7 +12,6 @@ categories:
   - "Apache Pulsar"
   - "Performance"
 related_posts:
-frozen: false
 ---
 
 With Apache Cassandra 4.0, you not only get the direct improvements to performance added by the Apache Cassandra committers, you also unlock the ability to take advantage of seven years of improvements in the JVM itself. This article focuses on improvements in Java garbage collection that Cassandra 4.0 coupled with Java 16 offers over Cassandra 3.11 on Java 8.

@@ -15,7 +15,6 @@ related_posts:
   - "using-java-flight-recorder-and-mission-control-part-2"
   - "using-java-flight-recorder-and-mission-control-part-3"
   - "a-glance-into-jfr-class-and-method-tagging"
-frozen: false
 ---
 
 Ever wondered what all the JDK Flight Recorder events are, in which JDK versions they are supported, and what examples of an event looks like?

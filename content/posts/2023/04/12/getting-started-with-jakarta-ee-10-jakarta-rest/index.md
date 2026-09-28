@@ -14,7 +14,6 @@ related_posts:
   - "payara-launches-payara-cloud-serverless-approach-for-jakarta-ee"
   - "what-is-an-application-server-in-3-minutes"
   - "what-is-jakarta-rpc"
-frozen: false
 ---
 
 Jakarta EE 10 was released in September of 2022 as the first major release of the venerable Enterprise Java development platform since it was moved to the Eclipse Foundation.

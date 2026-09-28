@@ -14,7 +14,6 @@ categories:
 related_posts:
   - "preparing-to-move-away-from-twitter"
   - "foojay-on-mastodon-an-update"
-frozen: false
 ---
 
 Whether Twitter crumbles remains to be seen, though some signs are telling. Whatever happens, I'm continuing to invest a bit in Mastodon. Last week, I showed [how to sync](https://blog.frankel.ch/move-away-twitter/) one's content between Twitter and Mastodon. This week, I've set up a Mastodon handle on my domain that redirects to my profile page: I want to explain how I achieved it and the problems I'm still having.

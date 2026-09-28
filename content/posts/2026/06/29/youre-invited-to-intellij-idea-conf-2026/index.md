@@ -14,7 +14,6 @@ categories:
   - "Maven"
   - "Spring"
 related_posts:
-frozen: false
 ---
 
 **We are excited to invite you to IntelliJ IDEA Conf 2026, a free virtual event on September 8-9, 2026.**

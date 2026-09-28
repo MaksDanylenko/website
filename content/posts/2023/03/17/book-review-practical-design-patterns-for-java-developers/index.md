@@ -17,7 +17,6 @@ related_posts:
   - "7-ways-to-improve-your-code-reading-skills"
   - "book-review-learn-javafx-game-and-app-development-with-fxgl-17"
   - "boxlang-1-14-0-boxset-is-here-boxlangs-new-first-class-set-type"
-frozen: false
 ---
 
 ## Hone your software design skills by implementing popular design patterns in Java

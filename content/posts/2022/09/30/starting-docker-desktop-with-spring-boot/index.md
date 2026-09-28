@@ -16,7 +16,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "a-simple-service-with-spring-boot"
   - "journeys-in-java-level-9-docker-compose-all-the-things"
-frozen: false
 ---
 
 I came across Docker Desktop for the first time about three years ago, when I was working as a Principal Architect (Strategic R \& D) on the Microservices Reference Architecture for a product development organization.

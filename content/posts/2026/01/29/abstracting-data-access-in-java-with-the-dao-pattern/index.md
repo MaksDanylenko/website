@@ -15,7 +15,6 @@ related_posts:
   - "building-rest-apis-in-java-with-spring-boot"
   - "building-systems-that-know-why-they-exist-when-data-logic-and-intent-finally-align"
   - "clean-and-modular-java-a-hexagonal-architecture-approach"
-frozen: false
 ---
 
 The Data Access Object (DAO) pattern is a structural pattern that isolates your application's business logic from persistence operations. By using an abstract API, the DAO pattern hides all the complexity of performing CRUD operations against your database—whether that's MongoDB, a relational database, or any other storage mechanism.

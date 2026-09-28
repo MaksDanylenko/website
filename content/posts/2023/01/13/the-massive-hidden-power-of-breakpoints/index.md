@@ -14,7 +14,6 @@ related_posts:
   - "debugging-program-control-flow"
   - "springone-tlv-world-tour-trip-report"
   - "what-are-you-missing-by-debugging-in-vs-code"
-frozen: false
 ---
 
 It's been a big week. I'm currently reviewing the final draft of [my upcoming debugging book](https://www.amazon.com/dp/1484290410/). This is always a sobering, and exciting moment. A moment in which all of a sudden all the months of work become "real".

@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/mick-semb-wever-91748720/"
 github: ""
 youtube: ""
 website: ""
-frozen: false
 ---

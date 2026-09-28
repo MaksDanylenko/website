@@ -14,7 +14,6 @@ related_posts:
   - "a-case-for-databases-on-kubernetes-from-a-former-skeptic"
   - "apache-cassandra-4-0-taming-tail-latencies-with-java-16-zgc"
   - "running-your-database-on-openshift-and-codeready-containers"
-frozen: false
 ---
 
 Is there a cost to running Apache Cassandra in containers? How about on Kubernetes? We decided to answer those questions and benchmark K8ssandra on Amazon Web Services (AWS), Google Cloud Platform (GCP) and Azure managed Kubernetes services, comparing it to a Cassandra cluster running on AWS EC2 instances. The latter, being a very common setup for enterprises operating Cassandra clusters, serves as our baseline comparing apples to "apples in containers".

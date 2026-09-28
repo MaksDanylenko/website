@@ -16,7 +16,6 @@ quote: |
 
   The ecosystem truly needs this, and it will undoubtedly reap substantial benefits from it.
 quoteAuthor: "Vincent Mayers, Director of Community Operations"
-frozen: false
 ---
 
 Gradle's (Gradle Enterprise) Performance Acceleration technologies eliminate the pain of idle wait time and avoidable context switching time resulting from long build and test feedback cycle times. Build Cache and Predictive Test Selection allow you to avoid running build actions unnecessarily, Test Distribution runs the remaining build actions in parallel, and Performance Continuity provides the analytic tools to monitor and sustain performance gains over time.

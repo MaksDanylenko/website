@@ -15,7 +15,6 @@ related_posts:
   - "microstream-part-2-configure-the-storage-manager"
   - "microstream-part-3-storing-data"
   - "microstream-part-5-caching-integrations-and-clustering"
-frozen: false
 ---
 
 **In this fourth part we go deeper into the Serialisation engine that is within MicroStream to store the Object graph in a binary format.**

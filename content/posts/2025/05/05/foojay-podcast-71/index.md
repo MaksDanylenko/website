@@ -16,7 +16,6 @@ related_posts:
   - "foojay-podcast-69"
   - "foojay-podcast-68"
   - "foojay-podcast-67"
-frozen: false
 ---
 
 **We are celebrating Java's 30th anniversary this May!**

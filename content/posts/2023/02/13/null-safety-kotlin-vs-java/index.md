@@ -14,7 +14,6 @@ related_posts:
   - "much-ado-about-nothing-in-java"
   - "handling-null-optional-and-nullable-types"
   - "avoiding-nullpointerexception"
-frozen: false
 ---
 
 Last week, I was at the [FOSDEM](https://fosdem.org/) conference. FOSDEM is specific in that it has multiple rooms, each dedicated to a different theme and organized by a team. I had two talks:

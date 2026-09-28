@@ -16,7 +16,6 @@ related_posts:
   - "foojay-podcast-69"
   - "foojay-podcast-68"
   - "foojay-podcast-67"
-frozen: false
 ---
 
 On April 25, 2020, [Geertjan Wielenga published the first Foojay post](https://foojay.io/today/foojay-a-place-for-friends-of-openjdk/). Yes, we are celebrating 5 years since the Friends Of OpenJDK website launch! Today, more than 1,600 posts are on the site, written by over 250 authors. And there is much more to discover within the Foojay world...

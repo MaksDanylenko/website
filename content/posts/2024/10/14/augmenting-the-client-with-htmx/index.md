@@ -13,7 +13,6 @@ related_posts:
   - "a-short-history-of-ajax-and-ssr"
   - "augmenting-the-client-with-vue-js"
   - "augmenting-the-client-with-alpine-js"
-frozen: false
 ---
 
 This article is part of a series comparing different ways to implement asynchronous requests on the client to augment the latter. So far, I described the process with [Vue.js](https://foojay.io/today/augmenting-the-client-with-vue-js/) and [Alpine.js](https://foojay.io/today/augmenting-the-client-with-alpine-js/). Both are similar from the developers' point of view: they involve JavaScript.

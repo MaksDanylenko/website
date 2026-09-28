@@ -15,7 +15,6 @@ related_posts:
   - "tornadovm-for-risc-v-accelerators"
   - "java-on-azure-tooling-update-july-2022"
   - "java-on-azure-tooling-update-june-2022"
-frozen: false
 ---
 
 Some bugs are hard to replicate on your personal computer but easily replicated on production or test machines. It is a common situation that professional Java developers deal with frequently. To debug such problems, OpenJDK provides two tools, `remote debugging` and `jdb`.

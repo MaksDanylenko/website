@@ -16,7 +16,6 @@ related_posts:
   - "announcing-the-astra-service-broker-tradeoff-free-cassandra-in-kubernetes"
   - "7-reasons-to-choose-apache-pulsar-over-apache-kafka"
   - "backing-up-k8ssandra-with-minio"
-frozen: false
 ---
 
 You might have heard about the [K8ssandra](https://github.com/k8ssandra/k8ssandra) project and want to start contributing, or maybe you want to start using all of its features. If you aren't familiar with K8ssandra (pronounced like "Kate Sandra"), you can read this [overview](https://k8ssandra.io/) before digging into the developer activities in this post.

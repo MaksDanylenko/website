@@ -16,7 +16,6 @@ related_posts:
   - "3-ways-to-refactor-your-code-in-intellij-idea"
   - "eight-debugging-tips-for-intellijidea-users-you-never-knew-existed"
   - "ask-a-lille-dev-what-java-developers-really-think-about-quality-frameworks-communities-and-careers"
-frozen: false
 ---
 
 First up, I have[created a tutorial on the IntelliJ IDEA Guide](https://www.jetbrains.com/idea/guide/tutorials/getting-started-intellij-idea/) if you want to view the content with videos. I'll concentrate on text-based for this article.

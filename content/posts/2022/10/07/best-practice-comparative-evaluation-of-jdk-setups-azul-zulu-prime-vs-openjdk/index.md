@@ -16,7 +16,6 @@ related_posts:
   - "getting-more-mileage-out-of-kafka-openjdk-vs-azul-prime"
   - "increasing-event-streaming-with-kafka-and-azul"
   - "new-between-quarters-security-updates-for-java-what-cspus-mean-for-your-release-pipeline"
-frozen: false
 ---
 
 In today's Java ecosystem, you have a wide range of possible runtimes. Choosing between them can have a huge impact on the capabilities or performance of your environments and applications.

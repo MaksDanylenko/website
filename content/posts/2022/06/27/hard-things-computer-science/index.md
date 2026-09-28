@@ -13,7 +13,6 @@ related_posts:
   - "blockhound-how-it-works"
   - "chopping-monolith"
   - "how-to-beautify-your-github-repo"
-frozen: false
 ---
 
 If you've more than a couple of years of experience in IT, you probably have stumbled upon the following quote:

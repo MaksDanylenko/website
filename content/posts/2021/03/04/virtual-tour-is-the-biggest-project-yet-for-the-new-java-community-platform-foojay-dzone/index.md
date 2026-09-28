@@ -9,7 +9,6 @@ image: "image-1-1024x981.jpg"
 categories:
   - "Press"
 related_posts:
-frozen: false
 ---
 
 Today, published [by Steve Millidge on DZone](https://dzone.com/articles/virtual-tour-is-biggest-project-yet-for-new-java-c):

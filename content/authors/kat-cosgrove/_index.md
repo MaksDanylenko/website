@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/katcosgrove/"
 github: ""
 youtube: ""
 website: "https://x.com/Dixie3Flatline"
-frozen: false
 ---

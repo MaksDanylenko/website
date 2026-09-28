@@ -15,7 +15,6 @@ related_posts:
   - "3-ways-to-refactor-your-code-in-intellij-idea"
   - "7-functional-programming-techniques-in-java-a-primer"
   - "boxlang-1-14-0-query-transformers-take-full-control-of-your-query-results"
-frozen: false
 ---
 
 ## MicroStream – Part 1: What is it?

@@ -16,7 +16,6 @@ related_posts:
   - "remote-debugging-dangers-and-pitfalls"
   - "memory-debugging-a-deep-level-of-insight"
   - "idempotent-spring-boot-starter"
-frozen: false
 ---
 
 History repeats itself. Everything old is new again and I've been around long enough to see ideas discarded, rediscovered and return triumphantly to overtake the fad.

@@ -17,7 +17,6 @@ related_posts:
   - "exploring-file-storage-solutions-in-spring-boot-database-local-systems-cloud-services-and-beyond"
   - "microstream-part-3-storing-data"
   - "idempotent-spring-boot-starter"
-frozen: false
 ---
 
 Sooner or later any Spring application needs to store data. And of course, the first and easiest move is to utilize [Spring Data JPA](https://spring.io/projects/spring-data-jpa). You can set up your data storage without knowing which relational database you will use in production and simply start coding without worrying about that.

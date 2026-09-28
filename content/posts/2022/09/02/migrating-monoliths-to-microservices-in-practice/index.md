@@ -13,7 +13,6 @@ related_posts:
   - "debugging-jaxb-production-issues"
   - "debugging-java-collections-framework-issues-in-production"
   - "debugging-gson-moshi-and-jackson-json-frameworks-in-production"
-frozen: false
 ---
 
 There have been amazing articles on the subjects of migrating from a monolith to a microservice architecture, e.g., [this is probably one of the better examples](https://martinfowler.com/articles/break-monolith-into-microservices.html).

@@ -18,7 +18,6 @@ related_posts:
   - "aggregation-optimization-in-mongodb-optimizing-many-to-many-relationships-part-3"
   - "introducing-boxlang-ai-explorer-a-local-catalog-for-every-ai-pattern"
   - "build-secure-ai-chat-applications-with-boxlang-rag-ollama-and-amazon-bedrock-with-dan-card"
-frozen: false
 ---
 
 The June 2026 cycle ships the first regular monthly release of the Payara 7 line, plus a critical security fix that lands across every supported branch. Azul Payara 7.1.0 continues the Jakarta EE 11 line that went generally available in May, and is joined by Azul Payara Community 7.2026.6, Azul Payara 6.39.0, Azul Payara 5.88.0, and Azul Payara 4.1.2.191.56.
@@ -119,7 +118,7 @@ Azul Payara 4.1.2.191.56 receives the cross-cycle CSRF and SSRF security fix and
 
 ## Looking Ahead
 
-The Azul Payara product line now spans the JDK ([Azul Zulu and Azul Platform Prime](https://www.azul.com/products/core/)), the full application server ([Azul Payara Server](https://www.azul.com/products/payara-server/)), and the cloud-native runtime ([Azul Payara Micro](https://www.azul.com/products/payara-micro/)), all from one vendor. Payara 7, 6, 5, and 4 continue to receive monthly security and bug-fix releases on the published schedule, with patches backported across every supported version.
+The Azul Payara product line now spans the JDK ([Azul Zulu and Azul Zing](https://www.azul.com/products/core/)), the full application server ([Azul Payara Server](https://www.azul.com/products/payara-server/)), and the cloud-native runtime ([Azul Payara Micro](https://www.azul.com/products/payara-micro/)), all from one vendor. Payara 7, 6, 5, and 4 continue to receive monthly security and bug-fix releases on the published schedule, with patches backported across every supported version.
 
 For teams on Payara 5 or 6, the ready-after-applications default change is the one item in this cycle worth a quick check against any post-boot scripts or transaction recovery configuration before upgrading.
 

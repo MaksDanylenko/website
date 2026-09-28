@@ -14,7 +14,6 @@ related_posts:
   - "foojay-status-report-january-june-2022"
   - "foojay-status-report-july-december-2021"
   - "foojay-status-report-january-june-2021"
-frozen: true
 ---
 
 Since the start of the Friends Of OpenJDK community in April 2020, we've had half yearly status reports, providing the highlights of the past half year, together with some stats and analysis, ending with roadmaps for the next upcoming periods.

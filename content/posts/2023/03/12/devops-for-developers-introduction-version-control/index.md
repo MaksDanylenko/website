@@ -15,7 +15,6 @@ related_posts:
   - "is-it-time-to-go-back-to-the-monolith"
   - "what-are-you-missing-by-debugging-in-vs-code"
   - "build-secure-ai-chat-applications-with-boxlang-rag-ollama-and-amazon-bedrock-with-dan-card"
-frozen: false
 ---
 
 I start some of my talks with a joke: back in my day we didn't have monitoring or observability. We'd go to the server and give it a kick. Hear the HD spin? It's working!

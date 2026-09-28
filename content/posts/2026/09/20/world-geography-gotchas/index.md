@@ -10,7 +10,6 @@ image: "cover_large-1.jpg"
 categories:
   - "Tutorials"
 related_posts:
-frozen: false
 ---
 
 Years ago, a colleague of mine told me about two pockets of foreign land surrounded by Switzerland: [Campione d'Italia](https://osm.org/go/0Ck2o6xg-) and [Büsingen am Hochrhein](https://osm.org/go/0C1ZlDk), respectively Italy and Germany. Both are *enclaves* of their respective country in Swiss territory:

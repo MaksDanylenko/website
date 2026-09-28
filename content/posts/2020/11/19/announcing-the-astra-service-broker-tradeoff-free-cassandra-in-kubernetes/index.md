@@ -13,7 +13,6 @@ categories:
   - "DevOps"
   - "Kubernetes"
 related_posts:
-frozen: false
 ---
 
 When you are designing and building a cloud-native application, you are probably thinking about deploying it with Kubernetes. What about the database? That can get a bit more complicated as you weigh out the tradeoffs of elasticity, scale, and self-healing requirements versus maintaining servers and the long term operations required. Apache Cassandra™ ticks the first three boxes easily, but what about the operational burden of managing Cassandra? That's where the cloud-native Cassandra service, [DataStax Astra](https://www.datastax.com/products/datastax-astra), helps both operators and developers. But what makes it easy for deployments on Kubernetes to access the Astra managed service?

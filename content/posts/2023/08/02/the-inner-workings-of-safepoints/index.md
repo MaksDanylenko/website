@@ -13,7 +13,6 @@ related_posts:
   - "class-loader-hierarchies"
   - "foojay-podcast-14"
   - "foojay-podcast-92"
-frozen: false
 ---
 
 A Java thread in the JVM regularly checks whether it should do extra work besides the execution of the bytecode.

@@ -15,7 +15,6 @@ related_posts:
   - "even-more-opentelemetry"
   - "improving-upon-my-opentelemetry-tracing-demo"
   - "effective-coding-with-java-observability"
-frozen: false
 ---
 
 **My [demo](https://github.com/nfrankel/opentelemetry-tracing) of OpenTelemetry Tracing features two Spring Boot components. One uses the Java agent, and I noticed a different behavior when I recently upgraded it from v1.x to v2.x. In the other one, I'm using Micrometer Tracing because I compile to GraalVM native, and it can't process Java agents.**

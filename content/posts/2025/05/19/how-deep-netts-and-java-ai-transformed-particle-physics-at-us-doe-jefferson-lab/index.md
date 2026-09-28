@@ -5,7 +5,7 @@ lastmod: "2025-05-19T12:15:16+00:00"
 description: "Jefferson Lab is leveraging Java-based AI to overcome one of the most computationally intense challenges in modern science."
 authors:
   - "zoran-sevarac"
-image: "Deep-Netts-Logo.svg"
+image: "Deep-Netts-Logo.jpg"
 categories:
   - "Deep Netts"
   - "Machine Learning"
@@ -15,7 +15,6 @@ related_posts:
   - "deep-learning-in-java-for-drug-discovery"
   - "deep-learning-in-java-for-nuclear-physics-using-deep-netts"
   - "foojay-podcast-29"
-frozen: false
 ---
 
 **At the intersection of nuclear physics and artificial intelligence, Jefferson Lab is leveraging Java-based AI to overcome one of the most computationally intense challenges in modern science: reconstructing particle trajectories from high-frequency electron scattering experiments.**

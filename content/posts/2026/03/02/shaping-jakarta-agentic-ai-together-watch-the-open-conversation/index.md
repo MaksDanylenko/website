@@ -18,7 +18,6 @@ related_posts:
   - "bring-ai-into-your-jakarta-ee-apps-with-langchain4j-cdi"
   - "boost-developer-productivity-with-payara-server-maven-plugin-ai-agent"
   - "jakarta-agentic-ai-hits-its-first-milestone"
-frozen: false
 ---
 
 Last week, Eclipse Foundation and Payara hosted *Jakarta Agentic AI, An Open Conversation*, an open house Jakarta TechTalk session, exploring a brand new initiative under the Eclipse Foundation. If you could not join us live, the full recording is now available.

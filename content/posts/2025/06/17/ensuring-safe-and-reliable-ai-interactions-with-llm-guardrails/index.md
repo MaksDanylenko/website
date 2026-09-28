@@ -15,7 +15,6 @@ related_posts:
   - "8-best-practices-to-prevent-sql-injection-attacks"
   - "are-critical-vulnerabilities-lurking-in-your-java-ecosystem"
   - "avoid-java-serialization"
-frozen: false
 ---
 
 **Integrating Large Language Models (LLMs) into our applications is becoming increasingly popular. These models are extremely useful for creating content, searching documentation, and solving more complex problems. However, with great power comes great responsibility.**

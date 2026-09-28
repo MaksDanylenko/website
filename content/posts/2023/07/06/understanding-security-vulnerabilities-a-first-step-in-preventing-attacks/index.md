@@ -13,7 +13,6 @@ related_posts:
   - "manifold-vs-lombok-enhancing-java-with-property-support"
   - "operator-overloading-in-java"
   - "the-reason-java-is-still-popular"
-frozen: false
 ---
 
 When I was a teenager, our local telephone company introduced a new service - the premium phone calls (AKA 1-900 numbers).

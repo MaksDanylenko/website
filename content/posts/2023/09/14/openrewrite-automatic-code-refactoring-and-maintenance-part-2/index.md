@@ -14,7 +14,6 @@ related_posts:
   - "we-all-grow-older-but-do-our-projects-really-have-to-openrewrite"
   - "how-to-upgrade-to-jakarta-ee-10-and-glassfish-7-its-much-easier-than-you-think"
   - "idempotent-spring-boot-starter"
-frozen: false
 ---
 
 In the [previous article](https://foojay.io/today/openrewrite-automatic-code-refactoring-and-maintenance/), we outlined the significance of the OpenRewrite Library and its integration at an elevated level.

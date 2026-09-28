@@ -9,7 +9,6 @@ image: "github-copilot-profiling.png"
 categories:
   - "AI"
 related_posts:
-frozen: false
 ---
 
 I built an extension to collapse the entire loop of running and measuring the performance of Java workloads, so it can be used within a place some developers are starting to consider their new "development environment" in the agentic AI era: the [**GitHub Copilot app**](https://github.com/features/ai/github-app).

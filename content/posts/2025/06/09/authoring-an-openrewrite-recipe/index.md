@@ -15,7 +15,6 @@ related_posts:
   - "build-rot-tech-debt"
   - "java-where-the-wild-code-isnt"
   - "making-sboms-threats-and-modelling-them-a-piece-of-cake"
-frozen: false
 ---
 
 I've been eying OpenRewrite for some time, but I haven't had time to play with it yet. In case you never heard about OpenRewrite, OpenRewrite takes care of refactoring your codebase to newer language, framework, and paradigm versions.

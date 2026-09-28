@@ -13,7 +13,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "busting-myths-building-futures-a-conversation-with-cay-horstmann-on-java-and-machine-learning"
   - "virtual-thread-pinning-field-guide"
-frozen: false
 ---
 
 **In [our last article](https://foojay.io/today/web-crawling-in-java-a-tale-of-classical-threads-and-virtual-threads/), we highlighted the impressive performance gains achieved through the use of virtual threads. However, upon diving deeper into the code, we discovered an issue caused by the jsoup library: a phenomenon known as pinning. But before we delve into solutions, let's take a moment to understand what pinning actually is.**

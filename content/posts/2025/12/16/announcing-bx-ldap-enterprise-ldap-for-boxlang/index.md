@@ -15,7 +15,6 @@ categories:
   - "Tutorials"
   - "Use Cases"
 related_posts:
-frozen: false
 ---
 
 ![](bx-ldap-700x467.jpg)

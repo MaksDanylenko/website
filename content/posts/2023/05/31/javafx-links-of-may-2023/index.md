@@ -14,7 +14,6 @@ related_posts:
   - "javafx-links-of-march-2023"
   - "javafx-links-of-february-2023"
   - "javafx-links-of-july-2026"
-frozen: false
 ---
 
 Again a busy month in JavaFX-world! Here is a nice list with links for your reading and clicking pleasure!

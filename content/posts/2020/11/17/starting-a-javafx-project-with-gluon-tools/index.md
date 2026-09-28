@@ -16,7 +16,6 @@ related_posts:
   - "wordish-with-javafx-part-5"
   - "wordish-with-javafx-part-4"
   - "wordish-with-javafx-part-3"
-frozen: false
 ---
 
 Here on foojay.io you can already find two posts by Carl Dea to get you started with JavaFX:

@@ -19,7 +19,6 @@ related_posts:
   - "javafx-links-of-november-2025"
   - "will-openjfx-be-merged-into-openjdk-it-would-be-a-perfect-match-with-java-on-mobile"
   - "foojay-podcast-83"
-frozen: false
 aliases:
   - "/today/first-experiments-with-java-on-the-lattepanda-iota-an-alternative-to-raspberry-pi/"
 ---

@@ -13,7 +13,6 @@ related_posts:
   - "java-where-the-wild-code-isnt"
   - "are-java-security-updates-important"
   - "5-tips-to-create-secure-docker-images-for-java-applications"
-frozen: false
 ---
 
 ## What Just Happened?

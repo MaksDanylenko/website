@@ -14,7 +14,6 @@ related_posts:
   - "chronicle-fix-designed-not-to-skip-a-message-even-if-your-data-centre-fails"
   - "chronicle-queue-storing-1tb-in-virtual-memory-on-a-128gb-machine"
   - "java-whats-old-part-ii-utils"
-frozen: false
 ---
 
 At [Chronicle](https://chronicle.software/?utm_source=foojay&utm_medium=article&utm_campaign=jasmine-article "Chronicle"), we know that efficient code doesn't just run faster; if it's using less compute-resource, it may also be cheaper to run.

@@ -17,7 +17,6 @@ related_posts:
   - "java-in-education-combining-java-with-raspberry-pi-and-the-pi4j-library"
   - "reading-the-temperature-humidity-and-pressure-from-a-bme280-sensor-with-java-pi4j-i2c-spi-and-jbang"
   - "pi4j-welcomes-java-21-on-the-raspberry-pi"
-frozen: false
 ---
 
 In October 2023, [Raspberry Pi announced version 5](https://www.raspberrypi.com/news/introducing-raspberry-pi-5/) of its affordable single-board computer with 4GB (60$) or 8GB (80$) of memory.

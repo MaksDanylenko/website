@@ -18,7 +18,6 @@ related_posts:
   - "sheetmusic4j-0-0-3-abc-notation-guitar-pro-engraving-improvements"
   - "using-the-raspberry-pi-sense-hat-with-pi4j-drivers"
   - "first-experiments-with-java-on-the-lattepanda-iota"
-frozen: false
 ---
 
 > The interviews in this post are [part of an article published (in German) in Java Magazine](https://kiosk.entwickler.de/java-magazin/java-magazin-7-2021/java-pi4j-und-raspberry-pi-in-der-bildung/).

@@ -15,7 +15,6 @@ related_posts:
   - "book-review-openjdk-migration-for-dummies-2"
   - "book-review-persistence-best-practices-for-java-applications"
   - "book-review-practical-design-patterns-for-java-developers"
-frozen: false
 ---
 
 *Disclaimer*: This post includes affiliate links; I may receive compensation if you purchase the book from the different links provided in this post.

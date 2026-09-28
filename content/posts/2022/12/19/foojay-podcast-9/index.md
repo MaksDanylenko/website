@@ -17,7 +17,6 @@ related_posts:
   - "creating-cad-applications-with-java-and-javafx"
   - "visualizing-brain-computer-interface-data-using-javafx"
   - "will-openjfx-be-merged-into-openjdk-it-would-be-a-perfect-match-with-java-on-mobile"
-frozen: false
 ---
 
 JavaFX was introduced by Sun Microsystems in May 2007 and provides a platform for desktop, mobile, and embedded applications built on Java.

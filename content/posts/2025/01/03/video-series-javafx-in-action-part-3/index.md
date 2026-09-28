@@ -15,7 +15,6 @@ related_posts:
   - "video-series-javafx-in-action-part-2"
   - "new-video-series-javafx-in-action-part-1"
   - "new-user-interface-for-jfx-central-the-home-for-all-javafx-information-part-2"
-frozen: false
 ---
 
 This is the next part in the series of "JavaFX in Action" interviews published in the last part of 2024. Are you working on a fantastic JavaFX application? Let me know, and let's discuss it in the new year!

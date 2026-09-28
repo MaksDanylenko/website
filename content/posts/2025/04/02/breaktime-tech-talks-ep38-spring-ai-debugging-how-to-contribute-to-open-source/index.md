@@ -14,7 +14,6 @@ related_posts:
   - "building-a-fullstack-imdb-clone-with-a-java-backend-using-sparkjava-and-neo4j"
   - "native-graphql-api-with-neo4j-auradb-on-heroku"
   - "faster-integration-tests-with-reusable-testcontainers"
-frozen: false
 ---
 
 In this episode, I continue my journey with vector databases, integrating [Pinecone](https://docs.spring.io/spring-ai/reference/api/vectordbs/pinecone.html), [Neo4J](https://docs.spring.io/spring-ai/reference/api/vectordbs/neo4j.html) , and [Spring AI](https://docs.spring.io/spring-ai/reference/index.html). While making some progress, I also encountered hurdles, such as evolving APIs and the unique architecture of vector stores.

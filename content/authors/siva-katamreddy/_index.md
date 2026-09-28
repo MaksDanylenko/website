@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/siva-prasad-reddy-katamreddy/"
 github: ""
 youtube: ""
 website: "https://x.com/sivalabs"
-frozen: false
 ---

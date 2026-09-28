@@ -15,7 +15,6 @@ related_posts:
   - "tornadoinsight-compatibility-with-tornadovm-sdk-2-0-configuration-guide"
   - "how-to-publish-a-java-maven-project-to-maven-central-using-jreleaser-and-github-actions-2025-guide"
   - "foojay-podcast-82"
-frozen: false
 ---
 
 Starting with **TornadoVM 2.0** , installing and using TornadoVM is easier than ever. The project now provides prebuilt SDKs for multiple operating systems, architectures, and accelerator backends, and is also available via **Maven Central** for seamless integration with existing Java codebases.

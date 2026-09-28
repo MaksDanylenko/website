@@ -13,7 +13,6 @@ related_posts:
   - "understanding-apache-maven-part-1-the-basics"
   - "understanding-apache-maven-part-2-pom-hierarchy"
   - "understanding-apache-maven-part-3-maven-coordinates-pom-inheritance"
-frozen: false
 ---
 
 In this, [part 5 of the series](https://foojay.io/today/author/c-guntur/), a walkthrough of the topic of Maven dependencies is covered!

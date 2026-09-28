@@ -11,7 +11,6 @@ categories:
   - "Java"
   - "Mongo"
 related_posts:
-frozen: false
 ---
 
 ## Problem statement

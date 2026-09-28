@@ -18,7 +18,6 @@ related_posts:
   - "a-case-for-databases-on-kubernetes-from-a-former-skeptic"
   - "developing-an-enterprise-level-apache-cassandra-sink-connector-for-apache-pulsar"
   - "why-developers-should-use-apache-pulsar"
-frozen: false
 ---
 
 Large-scale implementations of any system, such as the event-streaming platform Apache Kafka, often involve customizations and tools and plugins developed in-house. When it's time to transition from one system to another, the task can become complicated, drawn-out, and error-prone. Often the benefits of an alternative system (which can include [significant cost savings](https://gigaom.com/report/the-cost-savings-of-replacing-kafka-with-pulsar/) and other efficiencies) are outweighed by the risks and costs of migration. As a result, an organization can end up locked into a suboptimal situation, footing a bigger bill than necessary and missing out on modern features that help move the business forward faster.

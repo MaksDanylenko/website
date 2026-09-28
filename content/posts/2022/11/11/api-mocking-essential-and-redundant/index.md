@@ -13,7 +13,6 @@ related_posts:
   - "the-reason-java-is-still-popular"
   - "great-time-at-javazone-2022"
   - "open-source-bait-and-switch"
-frozen: false
 ---
 
 I love contradictions where both states of truth can work at the same time.

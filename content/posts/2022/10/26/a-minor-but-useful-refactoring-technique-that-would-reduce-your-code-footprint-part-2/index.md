@@ -12,7 +12,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "comparison-fault-tolerance-libraries"
   - "offline-crypto-address-validation-in-java"
-frozen: false
 ---
 
 As I keep refactoring, this article will focus on a few more interesting ways to do it. These are pretty much minor yet effective and useful changes.

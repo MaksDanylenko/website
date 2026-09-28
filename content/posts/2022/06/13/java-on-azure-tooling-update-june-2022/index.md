@@ -19,7 +19,6 @@ related_posts:
   - "java-on-visual-studio-code-update-february-2022"
   - "java-testing-with-vs-code"
   - "introducing-the-boxlang-ide-plugin-for-intellij"
-frozen: false
 ---
 
 Hi everyone, welcome back to June update of Java on Azure Tooling.

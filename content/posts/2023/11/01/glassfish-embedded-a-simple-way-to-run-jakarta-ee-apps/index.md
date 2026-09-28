@@ -14,7 +14,6 @@ related_posts:
   - "how-to-upgrade-to-jakarta-ee-10-and-glassfish-7-its-much-easier-than-you-think"
   - "the-future-of-ejb"
   - "ejb-support-in-piranha-via-cdi"
-frozen: false
 ---
 
 **A long-time GlassFish user and active member of the GlassFish community, Jan Blavins, shares how he uses GlassFish Embedded to take advantage of some of its unique features compared to traditional application servers.**

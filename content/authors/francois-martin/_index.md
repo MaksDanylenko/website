@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/franoismartin/"
 github: ""
 youtube: "https://www.youtube.com/@fmartindev"
 website: "https://x.com/fmartin_"
-frozen: false
 ---

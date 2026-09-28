@@ -13,7 +13,6 @@ related_posts:
   - "book-announcement-openjdk-migration-guide-for-dummies"
   - "book-review-openjdk-migration-for-dummies-2"
   - "book-review-openjdk-migration-for-dummies"
-frozen: false
 ---
 
 **Ah, the halcyon days of Java development, where coding was king and APIs were the castle! From the nitty-gritty of the Java VM and garbage collection to the euphoria of leveraging new APIs, life was straightforward. With each Java update, you could expect nothing but improvements, a far cry from other ecosystems where every new version turned into a mini-project just to keep your codebase relevant. And with DevOps in the picture, version constraints felt like a thing of the past. Come 2017, Oracle promised us an accelerated release cycle, and life was good.**

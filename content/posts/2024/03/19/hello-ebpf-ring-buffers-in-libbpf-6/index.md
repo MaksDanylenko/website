@@ -12,7 +12,6 @@ related_posts:
   - "hello-ebpf-developing-ebpf-apps-in-java-1"
   - "hello-ebpf-recording-data-in-basic-ebpf-maps-2"
   - "hello-ebpf-recording-data-in-event-buffers-3"
-frozen: false
 ---
 
 **Welcome back to my article series on eBPF. Some weeks ago, [I got started in using libbpf instead of libbcc](https://foojay.io/today/hello-ebpf-developing-ebpf-apps-in-java-1/). This week, I show you how to use ring buffers, port the code from Ansil H's blog post eBPF for Linux Admins: Part IX from C to Java, and add tests to the underlying map implementation.**

@@ -17,7 +17,6 @@ related_posts:
   - "foojay-podcast-74"
   - "foojay-podcast-73"
   - "foojay-podcast-72"
-frozen: false
 aliases:
   - "/today/foojay-podcast-76-devbcn-report-part-1-learn-from-the-community/"
 ---

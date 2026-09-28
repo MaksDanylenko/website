@@ -14,7 +14,6 @@ related_posts:
   - "sboms-and-software-composition-analysis"
   - "java-where-the-wild-code-isnt"
   - "tiberius-a-security-testing-framework-for-llm-applications-in-java"
-frozen: false
 ---
 
 The third in a series of SBOMs, software supply chains, the government and you (you too, no exceptions).

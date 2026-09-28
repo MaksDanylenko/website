@@ -17,7 +17,6 @@ related_posts:
   - "foojay-podcast-2"
   - "running-a-crac-java-application-on-raspberry-pi"
   - "foojay-podcast-83"
-frozen: false
 ---
 
 **Since its inception, Java has promised to "Write Once, Run Anywhere." In its early days, the main focus of Java was embedded devices, such as set-top boxes and televisions.**

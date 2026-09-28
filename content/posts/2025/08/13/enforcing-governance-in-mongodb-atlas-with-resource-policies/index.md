@@ -15,7 +15,6 @@ related_posts:
   - "java-on-azure-tooling-update-september-2022"
   - "java-virtual-threads-in-action-optimizing-mongodb-operation"
   - "run-an-atlas-cluster-locally-in-minutes"
-frozen: false
 ---
 
 The growing adoption of [MongoDB Atlas](https://www.mongodb.com/lp/cloud/atlas/try4-reg/?utm_campaign=devrel&utm_source=third-party-content&utm_medium=cta&utm_content=samuel-foojay&utm_term=tony.kim) as a managed database platform increasingly demands mechanisms that align security, compliance, and governance. In April 2025, MongoDB introduced a critical feature for this purpose: [**Resource Policies**](https://www.mongodb.com/en-us/docs/atlas/atlas-resource-policies/?utm_campaign=devrel&utm_source=third-party-content&utm_medium=cta&utm_content=samuel-foojay&utm_term=tony.kim).

@@ -16,7 +16,6 @@ related_posts:
   - "5-things-you-probably-didnt-know-about-java-concurrency"
   - "java-17-on-the-raspberry-pi"
   - "fuchs-2024-fepcos-j-multithreaded-server"
-frozen: false
 ---
 
 **Abstract: FEPCOS-J has arisen in the context of my work in the field of robot sensor networks. It implements a Java-language extension that frees a Java developer from network programming and supports cross-system concurrency. This article gives you an impression of using FEPCOS-J based on a simple example.**

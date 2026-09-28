@@ -14,7 +14,6 @@ related_posts:
   - "announcing-the-digma-beta-first-runtime-linter-for-java-code"
   - "effective-coding-with-java-observability"
   - "foojay-podcast-29"
-frozen: false
 ---
 
 ## Tests can run limited sets of assertions on your code, or reveal important insights about how your application really works!

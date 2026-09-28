@@ -13,7 +13,6 @@ related_posts:
   - "java-bytecode-simplified-journey-to-the-wonderland-part-1"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "offline-crypto-address-validation-in-java"
-frozen: false
 ---
 
 Our [previous article](https://foojay.io/today/java-bytecode-simplified-journey-to-the-wonderland-part-2/ "previous article") unpacked Bytecode further and discussed ConstantPool, today I'll go through several resources for working with it now.

@@ -9,7 +9,6 @@ image: "Favicon-3-2.png"
 categories:
   - "Security"
 related_posts:
-frozen: false
 ---
 
 In the 2017 version of the OWASP Top 10 vulnerabilities, injection appeared at the top of the list as the number one vulnerability that year.

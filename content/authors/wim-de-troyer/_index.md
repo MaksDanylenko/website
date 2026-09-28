@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/wim-de-troyer-40647b130/"
 github: ""
 youtube: ""
 website: "https://wimdetroyer.com/"
-frozen: false
 ---

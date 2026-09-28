@@ -14,7 +14,6 @@ related_posts:
   - "idempotent-spring-boot-starter"
   - "quarkus-unpacked-insights-from-the-foojay-podcast"
   - "your-tls-stack-is-lying-about-zero-copy"
-frozen: false
 ---
 
 {{< img src="foojay-don-1-1-469x510.jpg" class="size-medium" width="469" height="510" >}}

@@ -14,7 +14,6 @@ related_posts:
   - "an-introduction-to-scoped-values-in-java"
   - "thinking-about-massive-throughput-meet-virtual-threads"
   - "virtual-thread-pinning-field-guide"
-frozen: false
 ---
 
 **Virtual threads are lightweight implementations of java.lang.Thread and they promise to write highly scalable concurrent applications. This article turns the spotlight on the Continuations that are the basis of Virtual threads.**

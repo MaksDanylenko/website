@@ -14,7 +14,6 @@ related_posts:
   - "melodymatrix-v1-0-0-released-shipping-a-javafx-app-with-jdeploy-github-actions-and-auto-update"
   - "introducing-lottie4j-a-javafx-library-to-parse-and-play-lottie-animation-files"
   - "closing-the-visual-gap-between-the-official-lottie-webplayer-and-lottie4j"
-frozen: false
 ---
 
 I'm building [MelodyMatrix](https://melodymatrix.rocks/) with my son, an application to look at and play along with music. The app already shows a song in different views: falling blocks, chords, guitar views, and many more. Now we want a Learn section, a view that helps someone practice piano by following the actual sheet music while it plays.

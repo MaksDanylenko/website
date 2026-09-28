@@ -13,7 +13,6 @@ related_posts:
   - "foojay-podcast-68"
   - "java-24-whats-new"
   - "exploring-new-features-in-jdk-23-just-write-and-run-prototyping-with-jep-477-not-only-for-beginners"
-frozen: false
 ---
 
 **Java is a programming language with many language features, specifications, and APIs. Even among experienced Java developers, being aware of all of these is quite rare. If a study were conducted, we might come across Java developers who have never worked with Threads, never used JPA, or never developed custom annotations. However, is there a Java developer who has worked with Java 8 or later but has never used the Stream API? I highly doubt it.**

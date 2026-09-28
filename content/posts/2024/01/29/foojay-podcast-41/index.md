@@ -15,7 +15,6 @@ related_posts:
   - "foojay-podcast-39"
   - "foojay-podcast-38"
   - "foojay-podcast-36"
-frozen: false
 ---
 
 When starting to build a new website, you are facing a major challenge. Which framework should you use? Angular, React, Vue, Svelte? They are all based on JavaScript and can be the right choice depending on your needs.

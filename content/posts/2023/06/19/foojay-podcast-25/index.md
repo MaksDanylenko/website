@@ -17,7 +17,6 @@ related_posts:
   - "book-review-learn-javafx-game-and-app-development-with-fxgl-17"
   - "porting-an-existing-javafx-app-to-ios"
   - "wordish-with-javafx-part-4"
-frozen: false
 ---
 
 Java and JavaFX are probably not the first options you consider if you want to create a game application.

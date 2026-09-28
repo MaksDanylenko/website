@@ -15,7 +15,6 @@ related_posts:
   - "video-series-javafx-in-action-part-2"
   - "video-series-javafx-in-action-part-3"
   - "video-series-javafx-in-action-part-4"
-frozen: false
 ---
 
 This is the next part in the series of "JavaFX in Action" interviews. Are you working on a fantastic JavaFX application? Let me know, and let's discuss it in the new year!

@@ -14,7 +14,6 @@ related_posts:
   - "3-ways-to-refactor-your-code-in-intellij-idea"
   - "eight-debugging-tips-for-intellijidea-users-you-never-knew-existed"
   - "analyzing-dependencies-in-intellij-idea"
-frozen: false
 ---
 
 We are back and excited to invite you to [IntelliJ IDEA Conf 2024](http:https://lp.jetbrains.com/intellij-idea-conf-2024/?utm_source=partners&utm_medium=foojay&utm_campaign=intellijideaconf// "IntelliJ IDEA Conf 2024"), a developer-focused, live, online event that is free for all to attend!

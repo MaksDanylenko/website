@@ -9,7 +9,6 @@ image: "2020-06-23-histo-2m-679x510.png"
 categories:
   - "Performance"
 related_posts:
-frozen: false
 ---
 
 This post is a part of a series:

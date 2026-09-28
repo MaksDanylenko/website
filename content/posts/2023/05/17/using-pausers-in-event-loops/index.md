@@ -14,7 +14,6 @@ related_posts:
   - "automatically-creating-microservices-architecture-diagrams"
   - "challenges-when-developing-a-gui-for-fix"
   - "monitoring-event-loops-for-blockages"
-frozen: false
 ---
 
 Typically in low-latency development, a trade-off must be made between minimising latency and avoiding excessive CPU utilisation.

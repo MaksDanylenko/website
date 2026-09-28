@@ -13,7 +13,6 @@ related_posts:
   - "book-review-help-your-boss-help-you"
   - "discuss-problem-not-solution"
   - "book-review-java-by-comparison"
-frozen: false
 ---
 
 This article was co-written with [Wesley Faulkner](https://twitter.com/wesley83).

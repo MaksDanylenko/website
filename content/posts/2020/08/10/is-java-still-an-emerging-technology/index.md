@@ -13,7 +13,6 @@ related_posts:
   - "building-ai-systems-with-mongodb-implementing-the-planning-pattern"
   - "whats-new-in-the-june-2026-azul-payara-release"
   - "introduction-to-cqrs-using-mongodb"
-frozen: false
 ---
 
 Eleven years ago, I wrote an article asking [Is Java Becoming an 'Emerging Technology'? Ask O'Reilly"](https://community.oracle.com/blogs/editor/2011/07/09/java-becoming-emerging-technology-ask-oreilly). Think about that: in 2011, how could one have sensibly argued that Java was an 'emerging technology'? The language already had a long history, deep integration across all spectra of business and scientific software development. How, at that point, could Java possibly represent 'emerging technology'?

@@ -17,7 +17,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "a-simple-service-with-spring-boot"
   - "issues-with-old-glassfish-server-upgrade-to-eclipse-glassfish"
-frozen: false
 ---
 
 One major issue when developing modern enterprise applications is the "works on my machine" problem: when an application works well on your machine but is not functional in production or even on a colleague's machine.

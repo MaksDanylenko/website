@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/rafadelnero/"
 github: ""
 youtube: ""
 website: "https://x.com/RafaDelNero"
-frozen: false
 ---

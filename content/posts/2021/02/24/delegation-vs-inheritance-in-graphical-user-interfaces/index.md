@@ -10,7 +10,6 @@ categories:
   - "Vaadin"
   - "Videos"
 related_posts:
-frozen: false
 ---
 
 In this article, we will look at the difference between inheritance and delegation concepts.

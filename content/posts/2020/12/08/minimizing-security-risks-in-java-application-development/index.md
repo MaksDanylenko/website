@@ -10,7 +10,6 @@ categories:
   - "Security"
   - "Videos"
 related_posts:
-frozen: false
 ---
 
 United by their passion for open source, Payara and IBM recently teamed up for a panel discussion on security in Java application development.

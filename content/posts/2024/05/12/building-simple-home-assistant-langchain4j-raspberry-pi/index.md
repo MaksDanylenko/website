@@ -15,7 +15,6 @@ related_posts:
   - "quick-start-with-machine-learning-in-java"
   - "predicting-secure-java-projects-on-maven-central"
   - "introducing-boxlang-ai-explorer-a-local-catalog-for-every-ai-pattern"
-frozen: false
 ---
 
 **Many believe that the future of IoT is AI. Building a Smart Home Assistant is less complex today than ever before. AI has become so accessible that you only need an internet connection and a computer to connect to an API.**

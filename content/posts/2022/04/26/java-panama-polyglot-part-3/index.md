@@ -16,7 +16,6 @@ related_posts:
   - "java-panama-polyglot-swift-part-2"
   - "does-java-18-finally-have-a-better-alternative-to-jni"
   - "project-panama-for-newbies-part-1"
-frozen: false
 ---
 
 Hello and welcome back to the **[Java Panama Polyglot](https://foojay.io/today/java-panama-polyglot-part1/)** series where we are presenting quick tutorials or recipes on how to access native libraries written in other languages.

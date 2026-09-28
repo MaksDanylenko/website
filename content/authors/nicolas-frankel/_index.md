@@ -9,5 +9,4 @@ linkedin: ""
 github: ""
 youtube: "https://www.youtube.com/playlist?list=PL0EuBuKK-s1EL-K3okpYwR0QZbAPRVmEG"
 website: "https://x.com/nicolas_frankel"
-frozen: false
 ---

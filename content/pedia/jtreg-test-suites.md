@@ -2,7 +2,6 @@
 title: "jtreg Test Suites"
 description: "jtreg is the test harness for regression and unit testing used by the JDK test framework. For many OpenJDK distributions, the jtreg tests are run in addition to the TCK to provide broader coverage of JVM behaviour and standard library ..."
 url: "/pedia/jtreg-test-suites/"
-frozen: false
 ---
 
 jtreg is the test harness for regression and unit testing used by the JDK test framework. For many OpenJDK distributions, the jtreg tests are run in addition to the [TCK](https://foojay.io/pedia/tck/) to provide broader coverage of JVM behaviour and standard library correctness.

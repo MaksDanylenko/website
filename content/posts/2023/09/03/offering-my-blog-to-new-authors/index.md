@@ -10,7 +10,6 @@ image: "wordpress-gdf893a2fd.jpg"
 categories:
   - "Java"
 related_posts:
-frozen: false
 ---
 
 Regular readers of this blog know that I started it a long time ago, namely in April 2008. I soon found my cruising speed: a post a week. It requires time and discipline, but I achieved this goal during all those years.

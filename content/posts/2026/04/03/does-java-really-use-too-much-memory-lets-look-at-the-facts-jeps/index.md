@@ -13,7 +13,6 @@ related_posts:
   - "foojay-podcast-90"
   - "foojay-podcast-78"
   - "foojay-podcast-28"
-frozen: false
 ---
 
 ![](duke_Pinocchio01-1024x640.jpg)

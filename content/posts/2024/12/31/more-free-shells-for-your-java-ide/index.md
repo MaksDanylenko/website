@@ -16,7 +16,6 @@ related_posts:
   - "hand-ground-coffee-command-line-tools-for-java"
   - "12-text-tools-for-developers"
   - "lntellij-idea-selectively-commit-changes-to-a-file"
-frozen: false
 ---
 
 You may be using one of the terminal applications installed on your operating system or use the included terminal panel of the IDE.

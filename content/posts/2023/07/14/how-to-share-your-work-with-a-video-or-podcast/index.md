@@ -17,7 +17,6 @@ related_posts:
   - "foojay-podcast-25"
   - "foojay-podcast-24"
   - "quarkus-unpacked-insights-from-the-foojay-podcast"
-frozen: false
 ---
 
 Season 2 of the [Foojay Podcast](https://foojay.io/today/category/podcast/) has come to an end. Since September of '22, 22 episodes where published here on Foojay.

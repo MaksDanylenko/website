@@ -18,7 +18,6 @@ categories:
   - "JavaPro"
   - "LLM"
 related_posts:
-frozen: false
 ---
 
 Every Java team has a sentence like this one somewhere:

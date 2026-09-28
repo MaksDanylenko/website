@@ -14,7 +14,6 @@ related_posts:
   - "book-review-monolith-to-microservices-part-1"
   - "book-review-monolith-to-microservices-part-2"
   - "building-microservices-spring-boot-fat-uber-jar"
-frozen: false
 ---
 
 I wrote an article on [low latency microservices](https://vanilla-java.github.io/2016/03/22/Micro-services-for-performance.html "low latency microservices") almost five years ago now. Chronicle Software has worked with a number of tier one investment banks to implement and support those systems. What has changed in that time and what lessons have we learnt?

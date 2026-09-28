@@ -16,7 +16,6 @@ categories:
   - "Microservices"
   - "Performance"
 related_posts:
-frozen: false
 aliases:
   - "/today/the-cloud-evolves-and-meets-unikernels-quarkus-superfast-on-nanos-unikernel/"
 ---

@@ -14,7 +14,6 @@ related_posts:
   - "azul-zulu-july-2026-quarterly-update-released"
   - "azul-zulu-april-2026-quarterly-update-released"
   - "should-you-update-java-or-upgrade-and-which-version-should-you-use"
-frozen: false
 ---
 
 If someone discloses a 0-day CVE the day after a quarterly update, you could wait up to three months for a patched build. That gap is closed now. The August 2026 release is the first monthly **Critical Security Patch Update (CSPU)** in Java's history, and Azul shipped it on schedule across both its product lines.

@@ -12,7 +12,6 @@ related_posts:
   - "5-things-you-probably-didnt-know-about-java-concurrency"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "a-minor-but-useful-refactoring-technique-that-would-reduce-your-code-footprint-part-1"
-frozen: false
 ---
 
 **Java continues to evolve, introducing features that streamline coding practices and improve readability. [JEP 455](https://openjdk.org/jeps/455) is one such proposal that enhances the switch statement, making it more versatile and expressive.**

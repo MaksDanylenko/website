@@ -14,7 +14,6 @@ related_posts:
   - "42-practical-java-design-patterns-builder-and-more"
   - "5-great-reasons-to-use-jooq"
   - "virtual-thread-pinning-field-guide"
-frozen: false
 ---
 
 I**n today's fast-paced digital world, web crawling is a cornerstone technology behind search engines, data analysis tools, and various other applications.**

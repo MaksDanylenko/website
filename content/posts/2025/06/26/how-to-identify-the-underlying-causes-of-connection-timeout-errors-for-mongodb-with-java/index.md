@@ -13,7 +13,6 @@ categories:
 related_posts:
   - "understanding-bson-a-beginners-guide-to-mongodbs-data-format"
   - "testing-mongodb-atlas-search-java-apps-using-testcontainers"
-frozen: false
 ---
 
 Java developers and [MongoDB](https://dzone.com/refcardz/mongodb) are like Aladdin and the Genie from Arabian Nights. Developers rub the lamp with their wildest NoSQL wishes, and MongoDB swoops in, granting [Spring Boot microservices](https://dzone.com/refcardz/getting-started-with-spring-boot-and-microservices) and REST APIs the magic they need to soar. But every so often, a Jafar-like menace swoops in, forcing our Aladdin (Java devs) to wrestle with sleepless nights. One such villainous foe is the connection timeout, locking APIs in a cave of wonders with no escape, leaving developers yearning for a magic carpet fix.

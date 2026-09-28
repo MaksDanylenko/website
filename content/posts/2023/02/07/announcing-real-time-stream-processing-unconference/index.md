@@ -14,7 +14,6 @@ related_posts:
   - "real-time-stream-processing-with-hazelcast-and-streamnative"
   - "hazelcast-from-embedded-to-client-server"
   - "hazelcast-kibana-best-buddies-for-exploring-visualizing-data"
-frozen: false
 ---
 
 I'm happy to share [Hazelcast will be kicking off 2023](https://hazelcast.com/lp/unconference/) by hosting #RTSPUnconf to connect with community members and industry experts on the Future of Real-Time Stream Processing.

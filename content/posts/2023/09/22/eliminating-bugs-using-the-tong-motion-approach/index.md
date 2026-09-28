@@ -13,7 +13,6 @@ related_posts:
   - "the-evolution-of-bugs"
   - "debugging-as-a-process-of-isolating-assumptions"
   - "cant-reproduce-a-bug"
-frozen: false
 ---
 
 * [Understanding the Process of Elimination in Debugging](#understanding-the-process-of-elimination-in-debugging)

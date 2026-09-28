@@ -14,7 +14,6 @@ related_posts:
   - "foojay-podcast-17"
   - "a-flavour-of-tornadovm-on-apple-m1-pro"
   - "hardware-acceleration-for-java-tornadovm-can-do-it"
-frozen: false
 ---
 
 [TornadoVM](https://www.tornadovm.org/) is a programming framework for accelerating Java applications on heterogeneous devices, like multi-core CPUs, GPUs and FPGAs.

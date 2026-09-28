@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/aravindputrevu/"
 github: ""
 youtube: ""
 website: "https://x.com/aravindputrevu"
-frozen: false
 ---

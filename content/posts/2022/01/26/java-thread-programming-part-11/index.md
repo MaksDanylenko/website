@@ -13,7 +13,6 @@ related_posts:
   - "java-thread-programming-part-2"
   - "java-thread-programming-part-3"
   - "java-thread-programming-part-10"
-frozen: false
 ---
 
 In the [second article of this series](https://foojay.io/today/java-thread-programming-part-2/ "second article of this series"), we saw that we can create a functional web server application using Java threads. With that, we could receive multiple requests from many clients and serve them properly.

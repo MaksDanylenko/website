@@ -12,7 +12,6 @@ related_posts:
   - "asynchronous-completablefuture-san-francisco-adventure-java-challenge"
   - "daemon-thread-java-code-quiz"
   - "transitioning-to-java-my-first-book"
-frozen: false
 ---
 
 Arrays are objects in Java.

@@ -13,7 +13,6 @@ related_posts:
   - "book-review-openjdk-migration-for-dummies-2"
   - "gerrit-and-ivars-north-america-jug-tour"
   - "indexing-all-of-wikipedia-on-a-laptop"
-frozen: false
 ---
 
 During [Devoxx Morocco](https://devoxx.ma/ "Devoxx Morocco") I've spent some time coding a little new tool where the main reason was to have a widget on my MacOS desktop that shows the days until the next release/update of [OpenJDK](https://openjdk.org/ "OpenJDK").

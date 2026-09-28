@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/ivargrimstad"
 github: ""
 youtube: ""
 website: "https://x.com/ivar_grimstad"
-frozen: false
 ---

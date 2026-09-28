@@ -9,5 +9,4 @@ linkedin: "http://www.linkedin.com/in/donata-p-17328519a"
 github: ""
 youtube: ""
 website: "https://x.com/donatulis"
-frozen: false
 ---

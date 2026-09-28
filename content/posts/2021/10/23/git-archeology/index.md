@@ -15,7 +15,6 @@ related_posts:
   - "java-on-azure-tooling-update-july-2022"
   - "github-actions-with-java-part-2"
   - "debugging-tutorial-1-introduction-conditional-breakpoints-set-value"
-frozen: false
 ---
 
 Working on a large codebase, it's pretty normal to not remember every small or large subsystem or implementation choice. Be it whether you're new to a codebase, or you've been focused on a specific area of the codebase.

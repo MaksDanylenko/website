@@ -10,7 +10,6 @@ categories:
   - "Events"
 related_posts:
   - "apache-apisix-north-america-tour"
-frozen: false
 ---
 
 On March 14th, 2020, I landed home. I had planned the week before to be productive: one talk in Pasadena, two talks in San Francisco, one in Bucharest, and one in Istanbul. Then, on the 16th, I was supposed to fly again to other events.

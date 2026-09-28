@@ -14,7 +14,6 @@ related_posts:
   - "demystifying-memory-management-in-modern-programming-languages"
   - "getting-started-with-java-17-and-intellij-idea"
   - "the-try-block-in-rust"
-frozen: false
 ---
 
 I've tried Go in the past, and the least I could say is that I was not enthusiastic about it. Chief among my griefs was how the language handled errors, or more precisely, what mechanism it provided developers with to manage them.

@@ -15,7 +15,6 @@ related_posts:
   - "9-outdated-ideas-about-java"
   - "deserialization-exploits-in-java-why-should-i-care"
   - "do-you-trust-profilers-i-once-did-too"
-frozen: false
 ---
 
 **Java has been a staple in the software development world for decades, renowned for its robustness and vast ecosystem. However, some seasoned Java developers have encountered limitations within its collections framework, particularly when dealing with ordered elements.**

@@ -15,7 +15,6 @@ related_posts:
   - "8-best-practices-to-prevent-sql-injection-attacks"
   - "5-things-you-probably-didnt-know-about-java-concurrency"
   - "5-great-reasons-to-use-jooq"
-frozen: false
 ---
 
 In this tutorial, we'll build a real-time fraud detection system using MongoDB Atlas Vector Search, Apache Kafka, and AI-generated embeddings. We'll demonstrate how MongoDB Atlas Vector Search can be used to detect anomalies in a stream of financial transactions by analyzing a user's transaction history and identifying suspicious behavior based on LLM-generated embeddings.

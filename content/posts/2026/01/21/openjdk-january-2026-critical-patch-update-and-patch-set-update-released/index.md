@@ -15,7 +15,6 @@ related_posts:
   - "foojay-podcast-78"
   - "foojay-podcast-68"
   - "foojay-podcast-28"
-frozen: false
 ---
 
 The January 2026 OpenJDK quarterly updates are now (or will soon be) available from various OpenJDK distributors. This quarterly release brings important security fixes and updates to all currently supported Java versions.

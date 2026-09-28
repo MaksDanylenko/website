@@ -14,7 +14,6 @@ related_posts:
   - "foojay-mastodon-service-here-it-is"
   - "java-mastodon-service-the-feedback"
   - "not-a-lucid-web3-dream-anymore-x402-erc-8004-a2a-and-the-next-wave-of-ai-commerce"
-frozen: false
 ---
 
 I opened my Twitter account more than 13 years ago, in August 2009. For 12 years, I kept focusing on professional-related content: Java, the JVM, programming, etc. I built my audience, trying to promote good technical content, either my own or stuff that I enjoyed reading.

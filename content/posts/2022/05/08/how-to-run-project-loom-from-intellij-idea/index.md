@@ -14,7 +14,6 @@ related_posts:
   - "fix-java-security-issues-while-coding-in-intellij-idea"
   - "intellij-idea-beyond-the-basics"
   - "ask-a-lille-dev-what-java-developers-really-think-about-quality-frameworks-communities-and-careers"
-frozen: false
 ---
 
 [JEP 425: Virtual Threads (Preview)](https://openjdk.java.net/jeps/425) has been proposed recently. It has been a long-awaited feature in Java. I wanted to give it a try. So I download the [early release](https://jdk.java.net/loom/) of JDK which has the [project loom](https://wiki.openjdk.java.net/display/loom/Main) in it. However, it is under preview.

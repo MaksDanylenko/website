@@ -16,7 +16,6 @@ related_posts:
   - "book-review-why-programs-fail"
   - "interview-with-tom-granot-developer-observability-koolkits-and-reliability"
   - "improving-upon-my-opentelemetry-tracing-demo"
-frozen: true
 ---
 
 Whether you implement microservices or not (and you probably shouldn't), your system is most probably composed of multiple components.

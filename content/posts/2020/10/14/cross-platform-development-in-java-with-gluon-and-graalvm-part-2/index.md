@@ -9,7 +9,6 @@ image: "gluon-bruno-overview.png"
 categories:
   - "Gluon"
 related_posts:
-frozen: false
 ---
 
 [Continued from part 1.](https://foojay.io/today/cross-platform-development-in-java-with-gluon-and-graalvm/)

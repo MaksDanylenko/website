@@ -15,7 +15,6 @@ related_posts:
   - "ap-loader-a-new-way-to-use-and-embed-async-profiler"
   - "a-short-primer-on-java-debugging-internals"
   - "using-async-profiler-and-jattach-programmatically-with-ap-loader"
-frozen: false
 ---
 
 > This is the second post in the series, building a profiler from scratch using AsyncGetCallTrace. Today, we're covering wall-clock profiling and how to collect the obtain stack traces. If you're unfamiliar with AsyncGetCallTrace, please check out my previous article in the series [here](https://foojay.io/today/writing-a-profiler-from-scratch-introduction/).

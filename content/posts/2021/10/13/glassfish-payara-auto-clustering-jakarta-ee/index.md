@@ -16,7 +16,6 @@ related_posts:
   - "getting-started-with-jakarta-ee-9-jakarta-ee-9-1"
   - "payara-platform-october-2021-survey"
   - "jakarta-ee-application-deployment-kubernetes-cluster-jelastic-paas"
-frozen: false
 ---
 
 {{< img src="GlassFish-and-Payara-clustering-e10299b3.png" class="alignleft is-resized" width="400" height="216" >}}

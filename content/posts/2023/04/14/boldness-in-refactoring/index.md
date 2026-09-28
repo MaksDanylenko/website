@@ -13,7 +13,6 @@ related_posts:
   - "devops-for-developers-continuous-integration-github-actions-and-sonar-cloud"
   - "watch-area-and-renderers"
   - "what-are-you-missing-by-debugging-in-vs-code"
-frozen: false
 ---
 
 The old engineering adage: "don't touch it, it works". Is terrible. Don't listen to it. It might be OK at a small scale but as time goes by the bit rot spreads through your code and servers polluting everything.

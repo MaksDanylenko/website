@@ -13,7 +13,6 @@ related_posts:
   - "foojay-podcast-15"
   - "foojay-podcast-13"
   - "foojay-podcast-10"
-frozen: true
 ---
 
 The Foojay Podcast Java User Group World Tour has already brought us to the UK, US, Dubai, and Japan.

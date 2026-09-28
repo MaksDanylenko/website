@@ -12,7 +12,6 @@ categories:
   - "Jakarta EE"
   - "Microservices"
 related_posts:
-frozen: false
 ---
 
 Back in April I had the pleasure of attending Open Community Experience 2026 in Brussels - the Eclipse Foundation's flagship open source conference. It's always good to be in a room (or a few rooms 😉 ) with people who really care about the technology they work with. Several of my colleagues and friends were speaking - watching them present work they've spent serious time on is one of the better parts of this community.

@@ -12,7 +12,6 @@ related_posts:
   - "junit-5-introduction"
   - "junit-5-testing-basics"
   - "java-testing-with-vs-code"
-frozen: false
 ---
 
 In [Part 1](https://foojay.io/today/junit-5-introduction/) of this series, we looked at several annotations used in JUnit 5. We covered test methods as well as lifecycle methods.

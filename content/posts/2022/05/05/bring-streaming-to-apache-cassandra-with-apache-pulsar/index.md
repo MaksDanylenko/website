@@ -18,7 +18,6 @@ related_posts:
   - "5-more-reasons-to-choose-apache-pulsar-over-apache-kafka"
   - "7-reasons-to-choose-apache-pulsar-over-apache-kafka"
   - "why-developers-should-use-apache-pulsar"
-frozen: false
 ---
 
 ![](1_4VRCkVXi6RRfK4pwrJkPjw-1024x506.jpeg)

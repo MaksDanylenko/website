@@ -13,7 +13,6 @@ related_posts:
   - "interview-frank-delporte-foojay-raspberry-pi-community-manager"
   - "interview-with-tom-granot-developer-observability-koolkits-and-reliability"
   - "from-assembler-to-chat-gpt-steve-poole-on-the-shifting-landscape-of-programming"
-frozen: false
 ---
 
 {{< img src="https://media.licdn.com/dms/image/C4E03AQHPaOIko7idtg/profile-displayphoto-shrink_800_800/0/1598955813161?e=1683763200&v=beta&t=-F4XJx_E2F68XRT8-aQu982KIxiA8BJ43HuReoUgAMo" class="alignright size-large is-resized" width="394" height="394" >}}

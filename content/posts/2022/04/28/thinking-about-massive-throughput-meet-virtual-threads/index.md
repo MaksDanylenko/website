@@ -15,7 +15,6 @@ related_posts:
   - "java-thread-programming-part-1"
   - "java-thread-programming-part-2"
   - "virtual-thread-pinning-field-guide"
-frozen: false
 ---
 
 The goal of this article is to examine known facts about an upcoming Java threading model extension.

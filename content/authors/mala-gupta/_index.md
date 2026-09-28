@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/malagupta/"
 github: ""
 youtube: ""
 website: "https://x.com/eMalaGupta"
-frozen: false
 ---

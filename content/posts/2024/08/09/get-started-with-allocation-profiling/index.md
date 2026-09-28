@@ -19,7 +19,6 @@ related_posts:
   - "a-short-primer-on-java-debugging-internals"
   - "analyzing-and-tuning-warm-up-of-the-jvm-with-azul-zulu-prime-builds-of-openjdk"
   - "ask-a-lille-dev-what-java-developers-really-think-about-quality-frameworks-communities-and-careers"
-frozen: false
 ---
 
 **Read in other languages** : [中文](https://flounder.dev/zh/posts/allocation-profiling/) [Español](https://flounder.dev/es/posts/allocation-profiling/) [Português](https://flounder.dev/pt/posts/allocation-profiling/)

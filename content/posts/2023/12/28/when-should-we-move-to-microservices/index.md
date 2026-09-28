@@ -13,7 +13,6 @@ related_posts:
   - "devops-for-developers-introduction-version-control"
   - "why-i-dont-do-tdd"
   - "idempotent-spring-boot-starter"
-frozen: false
 ---
 
 **Sometime ago I wrote about [modular Monoliths and the value of modern Monolithic architecture](https://debugagent.com/is-it-time-to-go-back-to-the-monolith). One of the more interesting discussions that came out of that post (and [video](https://www.youtube.com/watch?v=NWu7AJJlLM8)) is the inverse discussion: when is it right to still pick Microservices?**

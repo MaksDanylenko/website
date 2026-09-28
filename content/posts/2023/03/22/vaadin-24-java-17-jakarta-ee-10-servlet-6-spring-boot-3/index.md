@@ -14,7 +14,6 @@ related_posts:
   - "blink-a-led-on-raspberry-pi-with-vaadin"
   - "build-web-apps-in-pure-java-with-vaadin-flow"
   - "create-a-crud-ui-in-pure-java"
-frozen: false
 ---
 
 Vaadin 24 delivers a significant step forward with a new technology baseline that includes Java 17, Jakarta EE 10, Servlet 6.0, Spring 6.0, and Spring Boot 3.

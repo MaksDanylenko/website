@@ -14,7 +14,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "can-java-jakarta-ee-do-microservices"
   - "issues-with-old-glassfish-server-upgrade-to-eclipse-glassfish"
-frozen: false
 ---
 
 [Jakarta EE](https://jakarta.ee/), previously Java EE, is a set of specifications that enables the world wide community of Java developers to work on cloud native Java enterprise applications.

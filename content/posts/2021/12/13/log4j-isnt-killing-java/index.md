@@ -12,7 +12,6 @@ related_posts:
   - "java-where-the-wild-code-isnt"
   - "java-logging-what-to-log-what-not-to-log"
   - "log4shell-critical-log4j-rce-vulnerabilty-update-to-version-2-15-0"
-frozen: false
 ---
 
 In the season of resurrection, I'd like to join the ranks of those who have made [long careers announcing the death of Java](https://www.forrester.com/blogs/10-11-23-java_is_a_dead_end_for_enterprise_app_development/) who follow up each obituary with an equally shocking revelation that [it is alive again](https://jaxenter.com/java-not-dead-yet-133459.html) as one of the top programming languages [25 years running](https://www.oracle.com/news/connect/25-years-of-java-technology-community-family.html). Even before the recent log4j2 vulnerability allegedly "killing" it yet again, we have a joke in the Foojay chat that a Java museum would be called a cemetery for the [number of times this has happened](https://redmonk.com/jgovernor/2016/02/24/on-lightbend-lagom-and-java-is-dead-is-dead/).

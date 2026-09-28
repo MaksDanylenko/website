@@ -18,7 +18,6 @@ related_posts:
   - "are-java-security-updates-important"
   - "exploring-cve-2022-33980-the-apache-commons-configuration-rce-vulnerability"
   - "foojay-podcast-7"
-frozen: false
 ---
 
 In this article, we're going to take a look at the [Package Checker plugin](https://plugins.jetbrains.com/plugin/18337-package-checker), that's bundled with [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/).

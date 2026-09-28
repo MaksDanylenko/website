@@ -16,7 +16,6 @@ related_posts:
   - "new-user-interface-for-jfx-central-the-home-for-all-javafx-information-part-2"
   - "book-review-learn-javafx-game-and-app-development-with-fxgl-17"
   - "foojay-podcast-25"
-frozen: false
 ---
 
 {{< img src="cover.jpg" class="size-full is-resized" width="327" height="466" style="width:auto;height:200px" >}}

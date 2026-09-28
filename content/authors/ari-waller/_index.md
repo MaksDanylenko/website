@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/ariwaller/"
 github: ""
 youtube: ""
 website: "https://x.com/ariwaller"
-frozen: false
 ---

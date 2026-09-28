@@ -15,7 +15,6 @@ related_posts:
   - "chopping-monolith"
   - "how-to-beautify-your-github-repo"
   - "running-your-database-on-openshift-and-codeready-containers"
-frozen: false
 ---
 
 With the rise of Docker came a new focus for engineers: optimizing the build to reach the smallest image size possible.

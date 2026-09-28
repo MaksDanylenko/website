@@ -16,7 +16,6 @@ quote: |
 
   Simultaneously, Yugabyte benefits from the invaluable feedback, enabling us to refine our distributed SQL database and ultimately streamline the development process for Java professionals.
 quoteAuthor: "Denis Magda, Head of Developer Relations at Yugabyte"
-frozen: false
 ---
 
 Yugabyte is the company behind YugabyteDB, the leading distributed SQL database that brings PostgreSQL to the Cloud native world by delivering ACID transactions, high availability, and global scale. The company prides itself on supporting multiple platforms and is committed to engaging with Java developers and communities.

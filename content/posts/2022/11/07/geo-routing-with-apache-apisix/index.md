@@ -16,7 +16,6 @@ related_posts:
   - "blockhound-how-it-works"
   - "7-reasons-to-switch-to-openjdk-17-as-a-jakarta-ee-developer"
   - "dry-your-apache-apisix-config"
-frozen: false
 ---
 
 Apache APISIX, the Apache-led API Gateway, comes out of the box with many plugins to implement your use case.

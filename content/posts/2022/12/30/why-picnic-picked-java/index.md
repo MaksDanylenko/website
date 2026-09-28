@@ -15,7 +15,6 @@ related_posts:
   - "embracing-java-17-heres-what-we-learned-at-picnic"
   - "the-quest-to-the-os-java-native-memory-foojay-today"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
-frozen: false
 ---
 
 **Picking a tech stack for your startup isn't something to do lightly. It's a choice that will shape the future in many ways: how will the tech enable your emerging product and business, what talent can you attract, and how future-proof is the tech stack?**

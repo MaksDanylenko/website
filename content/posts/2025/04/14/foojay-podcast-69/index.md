@@ -15,7 +15,6 @@ related_posts:
   - "foojay-podcast-67"
   - "foojay-podcast-66"
   - "foojay-podcast-65"
-frozen: false
 ---
 
 On April 3rd, the first [VoxxedDays event in Amsterdam](https://amsterdam.voxxeddays.com/) took place. VoxxedDays are tech events organized by local community groups, with support from the Devoxx team. Geertjan Wielenga brought along a camera and microphone and spoke with many of the attendees.

@@ -15,7 +15,6 @@ related_posts:
   - "creating-terabyte-sized-queues-with-low-latency"
   - "chronicle-queue-storing-1tb-in-virtual-memory-on-a-128gb-machine"
   - "building-custom-solutions-vs-buy-and-build-software"
-frozen: false
 ---
 
 Many of our customers have upgraded from QuickFIX/J to [Chronicle FIX](https://chronicle.software/fix-engine/) and this article provides some background as to why.

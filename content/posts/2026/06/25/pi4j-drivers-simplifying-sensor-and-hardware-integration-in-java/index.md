@@ -15,7 +15,6 @@ related_posts:
   - "java-on-single-board-computers-x86-vs-arm-vs-risc-v"
   - "pi4j-welcomes-java-21-on-the-raspberry-pi"
   - "evolutions-in-the-pi4j-library-by-tom-aarts-and-robert-von-burg"
-frozen: false
 ---
 
 {{< img src="duke_driver01-819x1024.jpg" class="alignleft is-resized" style="width:300px" >}}

@@ -15,7 +15,6 @@ related_posts:
   - "better-error-handling-for-your-spring-boot-rest-apis"
   - "avoiding-nullpointerexception"
   - "boxlang-1-14-0-boxset-is-here-boxlangs-new-first-class-set-type"
-frozen: false
 ---
 
 Java has long been infamous for its `NullPointerException`. The reason for the is calling a method or accessing an attribute of an **object that has not been initialized**.

@@ -16,7 +16,6 @@ related_posts:
   - "7-reasons-to-switch-to-openjdk-17-as-a-jakarta-ee-developer"
   - "are-java-jakarta-ee-application-servers-heavy"
   - "can-java-jakarta-ee-do-microservices"
-frozen: false
 ---
 
 The Representational State Transfer or RESTful architecture is a stateless, HTTP based communication standard for modern applications. It was originally proposed by Dr. Roy Fielding in his PhD thesis.

@@ -15,7 +15,6 @@ related_posts:
   - "what-is-debugging-in-140-seconds"
   - "debugging-tutorial-java-return-value-intellij-jump-to-line-and-more"
   - "build-secure-ai-chat-applications-with-boxlang-rag-ollama-and-amazon-bedrock-with-dan-card"
-frozen: false
 ---
 
 DevOps culture revolutionized our industry. Continuous Delivery and Continuous Integration made six sigma reliability commonplace. 20 years ago we would kick the production servers and listen to the hard drive spin, that was observability. Today's DevOps teams deploy monitoring tools that provide development teams with deep insight into the production environment.

@@ -14,7 +14,6 @@ related_posts:
   - "aggregation-optimization-in-mongodb-optimizing-many-to-many-relationships-part-3"
   - "building-ai-systems-with-mongodb-implementing-the-planning-pattern"
   - "whats-new-in-the-june-2026-azul-payara-release"
-frozen: false
 ---
 
 ![header image](zf8mvgix8icaz64mgj89-61fb2317.jpg)

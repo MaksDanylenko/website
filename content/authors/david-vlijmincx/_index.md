@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/david-vlijmincx/"
 github: "https://github.com/davidtos"
 youtube: ""
 website: "https://davidvlijmincx.com"
-frozen: false
 ---

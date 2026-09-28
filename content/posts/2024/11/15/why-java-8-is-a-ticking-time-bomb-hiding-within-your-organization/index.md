@@ -16,7 +16,6 @@ related_posts:
   - "java-23-has-arrived-and-it-brings-a-truckload-of-changes"
   - "java-22-whats-new"
   - "foojay-podcast-57"
-frozen: false
 ---
 
 When I spoke to developers at Devoxx in Belgium in October, I was surprised to learn how many of them are maintaining systems that are still running on Java 8 (released in 2014). One of them even still has a Java 5 application in production, with a runtime of 20 years old!

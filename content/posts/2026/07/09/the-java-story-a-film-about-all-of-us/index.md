@@ -13,7 +13,6 @@ categories:
   - "JUGs"
   - "Videos"
 related_posts:
-frozen: false
 ---
 
 Every so often a story comes along that belongs to an entire community rather than any one company or person. The Java Story documentary by CultRepo is one of those. On July 17th at 7pm UTC, the official Java documentary premieres live on YouTube - if you've spent any significant part of your career working with Java (and I assume most Foojay readers have!), I really think you'd want to watch it!

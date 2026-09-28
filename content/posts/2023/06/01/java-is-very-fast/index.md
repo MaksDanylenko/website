@@ -17,7 +17,6 @@ related_posts:
   - "the-more-you-say-the-less-people-remember"
   - "automatically-creating-microservices-architecture-diagrams"
   - "java-whats-old-part-ii-utils"
-frozen: false
 ---
 
 This article looks at a benchmark passing events over TCP/IP at 4 billion events per minute using the net.openhft.chronicle.wire.channel package in [Chronicle Wire](https://chronicle.software/wire/?utm_source=article&utm_medium=foojay&utm_campaign=java-is-fast "Chronicle Wire") and why we aim to avoid object allocations.

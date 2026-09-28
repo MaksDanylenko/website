@@ -16,7 +16,6 @@ related_posts:
   - "vibe-coding-maven-and-the-dependencies-you-didnt-choose"
   - "ai-found-the-bugs-whos-patching-your-eol-java-code"
   - "did-ai-just-break-software-security-for-ever"
-frozen: false
 ---
 
 > Steve Poole \| With contributions from James Fredley, Apache Grails PMC Chair

@@ -18,7 +18,6 @@ related_posts:
   - "openrewrite-automatic-code-refactoring-and-maintenance"
   - "openrewrite-automatic-code-refactoring-and-maintenance-part-2"
   - "we-all-grow-older-but-do-our-projects-really-have-to-openrewrite"
-frozen: false
 ---
 
 **As a developer, we frequently face the challenges of migrating to newer versions of frameworks and refactoring code. However, we can effortlessly achieve these tasks with the assistance of [OpenRewrite](https://docs.openrewrite.org/). OpenRewrite provides a stack of recipes specifically designed for migration purposes. By utilizing the appropriate recipes and integrating with the rewrite plugin, we can effectively migrate our code.**

@@ -9,5 +9,4 @@ linkedin: "https://linkedin.com/in/mary-grygleski"
 github: ""
 youtube: "https://www.youtube.com/@marygrygleski9271"
 website: "https://x.com/mgrygles"
-frozen: false
 ---

@@ -18,7 +18,6 @@ related_posts:
   - "continuous-production-profiling-and-diagnostics"
   - "contributing-to-openjdk-mission-control"
   - "virtual-thread-pinning-field-guide"
-frozen: true
 ---
 
 How do you get the maximum performance out of your Java application?

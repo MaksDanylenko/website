@@ -16,7 +16,6 @@ related_posts:
   - "why-developers-should-use-apache-pulsar"
   - "5-more-reasons-to-choose-apache-pulsar-over-apache-kafka"
   - "bring-streaming-to-apache-cassandra-with-apache-pulsar"
-frozen: false
 ---
 
 **Learn actionable strategies for error management modeling in Apache NiFi data pipelines, and understand the benefits of planning for error handling.**

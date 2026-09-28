@@ -15,7 +15,6 @@ related_posts:
   - "best-practices-for-deploying-mongodb-in-kubernetes"
   - "beyond-keywords-implementing-semantic-search-in-java-with-spring-data-part-1"
   - "beyond-keywords-optimizing-vector-search-with-filters-and-caching-part-2"
-frozen: false
 ---
 
 In modern software design, it is important to develop code that is clean and maintainable. One way developers do this is using the **Service Layer pattern**.

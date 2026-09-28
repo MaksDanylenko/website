@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/jeffreyscarpenter/"
 github: ""
 youtube: ""
 website: "https://x.com/jscarp"
-frozen: false
 ---

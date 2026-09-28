@@ -12,7 +12,6 @@ categories:
 related_posts:
   - "an-example-of-hacs-adaptive-lighting"
   - "the-home-assistant-companion-app"
-frozen: false
 ---
 
 This post will be short, but I hope it prove to be useful.

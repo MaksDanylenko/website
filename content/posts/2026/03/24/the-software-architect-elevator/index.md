@@ -10,7 +10,6 @@ image: "cover_large-2.jpg"
 categories:
   - "Book Review"
 related_posts:
-frozen: false
 ---
 
 I don't think it's necessary to introduce Gregor Hohpe. I'm a big fan, having read [Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com/), and I've recommended the book ever since. When I spoke at the [Software Architecture Gathering](https://conferences.isaqb.org/software-architecture-gathering/session/make-your-security-policy-auditable/) in 2024, I was fortunate enough to meet him and purchase this book. I'm the happy owner of a signed copy.

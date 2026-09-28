@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/ismaila-abdoulahi-adamou-035928166/"
 github: ""
 youtube: ""
 website: ""
-frozen: false
 ---

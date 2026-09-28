@@ -15,5 +15,4 @@ website: "https://x.com/maxdearruda"
 # reads neither, writes "" over both, and the profile loses them on every run.
 # The values below come from the WordPress usermeta `linkedin` / `youtube`
 # keys in the SQL dump, which name the network outright.
-frozen: true
 ---

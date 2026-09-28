@@ -15,7 +15,6 @@ related_posts:
   - "7-functional-programming-techniques-in-java-a-primer"
   - "a-simple-service-with-spring-boot"
   - "boxlang-1-14-0-boxset-is-here-boxlangs-new-first-class-set-type"
-frozen: false
 ---
 
 Java introduced the concept of *checked exceptions* . The idea of forcing developers to manage exceptions was revolutionary compared to the [earlier approaches](https://blog.frankel.ch/error-handling/).

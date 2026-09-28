@@ -16,7 +16,6 @@ related_posts:
   - "k8ssandra-production-ready-platform-for-running-apache-cassandra-on-kubernetes"
   - "connect-stateful-workloads-across-kubernetes-clusters"
   - "running-your-database-on-openshift-and-codeready-containers"
-frozen: false
 ---
 
 K8ssandra includes Medusa for Apache Cassandra® to handle backup and restore for your Cassandra nodes. Recently Medusa was upgraded to introduce support for all S3 compatible backends, including [MinIO](https://min.io/), the popular k8s-native object storage suite. Let's see how to set up K8ssandra and MinIO to backup Cassandra in just a few steps. If you don't want to self-manage Kubernetes and Cassandra, you can always use [Astra DB](https://dtsx.io/3nHk38t), where this is all set up for you.

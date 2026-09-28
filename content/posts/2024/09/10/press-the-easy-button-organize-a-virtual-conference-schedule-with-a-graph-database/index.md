@@ -16,7 +16,6 @@ related_posts:
   - "native-graphql-api-with-neo4j-auradb-on-heroku"
   - "faster-integration-tests-with-reusable-testcontainers"
   - "gear-up-for-nodes-2024-what-to-know"
-frozen: false
 ---
 
 **Putting together a conference schedule for NODES 2024 (one of my favorite events of the year) is a massive undertaking, but my colleague and I used technologies and tools at our disposal to make this process a little more efficient and greatly reduce opportunities for mistakes.**

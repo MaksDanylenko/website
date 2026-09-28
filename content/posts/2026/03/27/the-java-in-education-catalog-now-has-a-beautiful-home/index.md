@@ -16,7 +16,6 @@ related_posts:
   - "busting-myths-building-futures-a-conversation-with-cay-horstmann-on-java-and-machine-learning"
   - "foojay-podcast-85"
   - "java-in-education-combining-java-with-raspberry-pi-and-the-pi4j-library"
-frozen: false
 ---
 
 A few weeks ago, Igor De Souza shared [Bringing Java Closer to Education: A Community-Driven Initiative](https://foojay.io/today/bringing-java-closer-to-education-a-community-driven-initiative/) here on Foojay. It's something we started together to gather Java educational resources in one place, making it easier for mentors, educators, and learners to discover what's out there.

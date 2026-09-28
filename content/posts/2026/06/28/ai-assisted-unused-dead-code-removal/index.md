@@ -15,7 +15,6 @@ categories:
   - "Events"
   - "Java"
 related_posts:
-frozen: false
 ---
 
 ## Why Your Codebase Is Forcing AI to Underperform, and What to Do About It

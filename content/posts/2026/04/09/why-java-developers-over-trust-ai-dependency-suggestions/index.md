@@ -14,7 +14,6 @@ related_posts:
   - "build-secure-ai-chat-applications-with-boxlang-rag-ollama-and-amazon-bedrock-with-dan-card"
   - "spring-ai-agents-no-second-runtime"
   - "jc-ai-newsletter-16"
-frozen: false
 ---
 
 *This article is adapted from [The Confidence Trap](https://noregressions.substack.com/p/the-confidence-trap-why-developers), part of the "2026 Supply Chain Reckoning" series on my No Regressions newsletter.*

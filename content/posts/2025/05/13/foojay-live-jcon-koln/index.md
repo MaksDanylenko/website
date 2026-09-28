@@ -9,7 +9,6 @@ image: "foojay-at-jcon-booth-1-scaled.jpg"
 categories:
   - "Interviews"
 related_posts:
-frozen: false
 ---
 
 Today and tomorrow, we will be at the JCON Conference in Köln, Germany. We have set up an interview booth to talk to speakers and visitors about all things Java.

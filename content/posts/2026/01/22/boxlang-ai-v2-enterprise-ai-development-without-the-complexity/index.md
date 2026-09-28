@@ -16,7 +16,6 @@ categories:
   - "LLM"
   - "Use Cases"
 related_posts:
-frozen: false
 ---
 
 ![](boxlang-ai-v2-700x467.jpg)

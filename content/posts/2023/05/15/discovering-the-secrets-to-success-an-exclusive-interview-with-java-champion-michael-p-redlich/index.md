@@ -13,7 +13,6 @@ related_posts:
   - "why-your-choice-of-java-virtual-machine-jvm-matters-more-than-ever"
   - "interviews-with-robert-savage-and-johan-vos-on-the-state-of-java-on-raspberry-pi"
   - "interview-with-a-java-champion-reflections-on-a-storied-career-and-insights-for-the-next-generation"
-frozen: false
 ---
 
 {{< img src="michael-redlich.jpg" class="alignright size-full is-resized" width="480" height="480" >}}

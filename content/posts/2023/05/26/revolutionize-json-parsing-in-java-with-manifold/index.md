@@ -15,7 +15,6 @@ related_posts:
   - "boldness-in-refactoring"
   - "devops-for-developers-continuous-integration-github-actions-and-sonar-cloud"
   - "boxlang-1-14-0-navigate-anything-jsonpath-comes-to-boxlangs-datanavigator"
-frozen: false
 ---
 
 Java developers have often envied JavaScript for its ease of parsing JSON.

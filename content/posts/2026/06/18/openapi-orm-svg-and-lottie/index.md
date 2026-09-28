@@ -14,7 +14,6 @@ related_posts:
   - "push-v3-one-message-from-your-server-to-every-surface"
   - "the-codename-one-javascript-port-is-now-free-and-open-source"
   - "own-your-pixels-native-fidelity-on-your-schedule"
-frozen: false
 ---
 
 ![OpenAPI, ORM, SVG and Lottie](build-time-codegen.jpg)

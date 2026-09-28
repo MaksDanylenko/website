@@ -13,7 +13,6 @@ related_posts:
   - "javafx-links-of-february-2024"
   - "javafx-links-of-february-2023"
   - "hidden-beauties-of-java-enums"
-frozen: false
 ---
 
 Just one week after the first public release of [Lottie4J](https://lottie4j.com), the open-source Java library for rendering Lottie animations in JavaFX, version 1.1.0 is already out. And it's a big one!

@@ -13,7 +13,6 @@ related_posts:
   - "7-reasons-to-choose-apache-pulsar-over-apache-kafka"
   - "book-review-effortless-cloud-native-app-development-using-skaffold"
   - "boxlang-aws-azure-and-google-secrets-manager-module-released"
-frozen: false
 ---
 
 ### Introduction

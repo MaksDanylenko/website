@@ -14,7 +14,6 @@ related_posts:
   - "introducing-skills-boxlang-io-the-open-agent-skills-ecosystem-for-boxlang-the-ortus-world"
   - "tokensparsamkeit-for-coding-assistants"
   - "experimenting-with-ai-subagents"
-frozen: false
 ---
 
 Before working for 2 years on the Apache APISIX API gateway, I was mainly oblivious to API gateways. It's only by working with them that I understood their value. Decoupling the client and the server unlocks a lot of options: [moving authentication to the API Gateway](/authentication-api-gateway/), [securing](/secure-api-practices-apisix/1/) [APIs](/secure-api-practices-apisix/2/), [deduplicating API requests](/implement-idempotency-key-apisix/), etc.

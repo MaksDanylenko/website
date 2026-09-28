@@ -15,7 +15,6 @@ related_posts:
   - "foojay-podcast-6"
   - "foojay-podcast-5"
   - "ask-a-lille-dev-what-java-developers-really-think-about-quality-frameworks-communities-and-careers"
-frozen: false
 ---
 
 With this Foojay Podcast, we introduce a new topic: **once per month, we will virtually travel to a Java User Group (JUG) to learn how they organize their events and learn from their experiences**.

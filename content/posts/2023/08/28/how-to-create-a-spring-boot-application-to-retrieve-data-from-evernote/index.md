@@ -14,7 +14,6 @@ related_posts:
   - "5-tips-to-create-secure-docker-images-for-java-applications"
   - "guide-lazyinitializationexception"
   - "introducing-bx-jwt-enterprise-grade-json-web-tokens-for-boxlang"
-frozen: false
 ---
 
 I recently started work on a joint project with my colleague, [Jason Koo](https://twitter.com/jalakoo). For this project, we want to import data from second brain apps (such as Obsidian, Notion, Evernote, etc) to Neo4j.

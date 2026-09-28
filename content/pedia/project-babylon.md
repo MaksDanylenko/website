@@ -2,7 +2,6 @@
 title: "Project Babylon"
 description: "Project Babylon extends Java's reflection to reach inside method bodies, so a library can read and transform the code of a lambda. Its driving use case is running Java on GPUs."
 url: "/pedia/project-babylon/"
-frozen: false
 ---
 
 Project Babylon is the OpenJDK project exploring **code reflection**: extending Java's reflective capabilities from the *shape* of a program — its classes, methods and fields — to the *contents* of a method body.

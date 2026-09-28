@@ -13,7 +13,6 @@ related_posts:
   - "skills-java-17-and-theme-accents-with-codename-one"
   - "metal-and-skins"
   - "liquid-glass-material-3-and-a-lot-of-plumbing"
-frozen: false
 ---
 
 Last week was about defaults. This week is about device APIs moving into the framework core, a small simulator change that revolutionizes Bluetooth development, and a preview of the new Build Cloud UI we would love your feedback on. There is a handful of other things in here too — and the Metal default flip I trailed [last week](https://www.codenameone.com/blog/skills-java17-and-theme-accents/) is in a different state than I expected, which is worth a word at the end.

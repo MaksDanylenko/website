@@ -14,7 +14,6 @@ related_posts:
   - "idempotent-spring-boot-starter"
   - "boxlang-1-15-0-released-blazing-fast-strings-runtime-portability-and-much-more"
   - "jurassic-jdk-migrate-or-extinct"
-frozen: false
 aliases:
   - "/today/container-awareness-for-java-developer/"
 ---

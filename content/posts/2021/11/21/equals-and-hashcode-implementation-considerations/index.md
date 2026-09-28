@@ -13,7 +13,6 @@ related_posts:
   - "better-error-handling-for-your-spring-boot-rest-apis"
   - "for-the-record"
   - "generating-code-with-intellij-idea"
-frozen: false
 ---
 
 I always struggled with how to implement equals and hashcode, until I learned about the difference between entities and value objects.

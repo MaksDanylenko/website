@@ -19,7 +19,6 @@ related_posts:
   - "kubernetes-gateway-api"
   - "apisix-api-gateway"
   - "aggregation-optimization-in-mongodb-unnecessary-unwinds-part-2"
-frozen: false
 ---
 
 [Kubernetes](https://kubernetes.io/) is a widely used open-source container management platform for running stateless, containerized applications at scale. In recent years, Kubernetes has been extended to also support stateful workloads, including databases and key-value stores.

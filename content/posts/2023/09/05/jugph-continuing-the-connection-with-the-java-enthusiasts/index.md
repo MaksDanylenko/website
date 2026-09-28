@@ -14,7 +14,6 @@ related_posts:
   - "friends-of-openjdk-at-fosdem-2023"
   - "5-tips-to-create-secure-docker-images-for-java-applications"
   - "jug-ph-meetup-4-and-5"
-frozen: false
 ---
 
 ## JUG PH: Continuing the Connection with the Java Enthusiasts

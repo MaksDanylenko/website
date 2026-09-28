@@ -21,7 +21,6 @@ related_posts:
   - "build-secure-ai-chat-applications-with-boxlang-rag-ollama-and-amazon-bedrock-with-dan-card"
   - "tiberius-a-security-testing-framework-for-llm-applications-in-java"
   - "boxlang-ai-3-2-0-image-generation-web-search-fluent-audio-agent-registry-mcp-observability"
-frozen: false
 ---
 
 **F**ourteen days have passed, and it is time to present a fresh collection of readings that could influence developments in the field of artificial intelligence.

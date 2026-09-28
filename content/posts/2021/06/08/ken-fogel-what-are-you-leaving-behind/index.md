@@ -9,7 +9,6 @@ image: "image-9-1024x276.png"
 categories:
   - "Interviews"
 related_posts:
-frozen: false
 ---
 
 I recently had the good fortune to be interviewed by Robbie Russel on his podcast "Maintainable: The Art of Improving Existing Software" ([@_maintainable](https://twitter.com/_maintainable)).

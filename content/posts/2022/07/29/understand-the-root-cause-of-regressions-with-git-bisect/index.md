@@ -12,7 +12,6 @@ related_posts:
   - "what-is-debugging-in-140-seconds"
   - "debugging-tutorial-java-return-value-intellij-jump-to-line-and-more"
   - "remote-debugging-and-developer-observability"
-frozen: true
 ---
 
 In this series, I cover a lot of magical tools and [git bisect](https://git-scm.com/docs/git-bisect) is probably the best example of such magic.

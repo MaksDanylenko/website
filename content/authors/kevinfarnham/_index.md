@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/kevin-farnham-668037b4/"
 github: ""
 youtube: ""
 website: "https://x.com/kevin_farnham"
-frozen: false
 ---

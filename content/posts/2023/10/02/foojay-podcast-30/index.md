@@ -15,7 +15,6 @@ related_posts:
   - "foojay-podcast-28"
   - "foojay-podcast-27"
   - "ask-a-lille-dev-what-java-developers-really-think-about-quality-frameworks-communities-and-careers"
-frozen: false
 ---
 
 On September 12th, I was invited to speak at the Utrecht JUG together with Hanno Embrechts.

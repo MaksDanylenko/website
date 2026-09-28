@@ -17,7 +17,6 @@ related_posts:
   - "building-real-time-applications-to-process-wikimedia-streams-using-kafka-and-hazelcast"
   - "chronicle-services-building-fast-microservices-with-java"
   - "cloud-cost-optimization-is-hard-java-can-help"
-frozen: false
 ---
 
 Welcome to this hands-on guide to building a Spring Boot Kafka Streams application! (SpringBoot and Kafka Streams).

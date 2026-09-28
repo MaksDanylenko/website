@@ -15,7 +15,6 @@ related_posts:
   - "creating-cloud-native-java-applications-with-the-12-factor-app-methodology"
   - "is-java-jakarta-ee-cloud-native"
   - "run-ai-enabled-jakarta-ee-and-microprofile-applications-with-langchain4j-and-open-liberty"
-frozen: false
 ---
 
 All companies are software companies, and businesses will always experience the challenge of keeping integrations between users and applications scalable, productive, fast, and of high quality. To combat this, cloud, microservices, and other modern solutions come up more and more in architectural decisions.

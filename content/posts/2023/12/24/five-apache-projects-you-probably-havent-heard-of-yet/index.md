@@ -13,7 +13,6 @@ related_posts:
   - "7-reasons-to-choose-apache-pulsar-over-apache-kafka"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "sboms-and-software-composition-analysis"
-frozen: false
 ---
 
 **In early 2021, I started to work on the [Apache APISIX](https://apisix.apache.org/) project. I have to admit that at the time I had never heard about it before.**

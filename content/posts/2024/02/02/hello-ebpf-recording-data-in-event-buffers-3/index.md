@@ -15,7 +15,6 @@ related_posts:
   - "hello-ebpf-recording-data-in-basic-ebpf-maps-2"
   - "looking-back-on-one-year-of-speaking-and-blogging"
   - "hello-ebpf-xdp-based-packet-filter-9"
-frozen: false
 ---
 
 **Welcome back to my article series on eBPF. Last week, I showed you how the [eBPF program and Java application can communicate using eBPF maps](https://foojay.io/today/hello-ebpf-recording-data-in-basic-ebpf-maps-2/). This allowed us to write an application that counts the number of `execve` calls per user.**

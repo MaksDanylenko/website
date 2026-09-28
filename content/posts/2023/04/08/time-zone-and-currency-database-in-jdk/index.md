@@ -15,7 +15,6 @@ related_posts:
   - "should-you-update-java-or-upgrade-and-which-version-should-you-use"
   - "still-time-to-schedule-your-holiday-for-2038"
   - "foojay-podcast-92"
-frozen: false
 ---
 
 There is a saying that you aren't a real developer until you have done programming involving dates, times, daylight savings, and time zones.

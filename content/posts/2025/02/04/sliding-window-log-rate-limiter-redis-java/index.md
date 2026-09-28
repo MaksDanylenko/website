@@ -18,7 +18,6 @@ related_posts:
   - "token-bucket-rate-limiter-redis-java"
   - "rate-limiting-with-redis-an-essential-guide"
   - "sliding-window-counter-rate-limiter-redis-java"
-frozen: true
 ---
 
 > [This article is also available on YouTube. Check it out!](https://youtu.be/bCYzRg0oQjY)

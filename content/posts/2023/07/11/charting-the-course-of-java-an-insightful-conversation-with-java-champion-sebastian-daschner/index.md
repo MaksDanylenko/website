@@ -13,7 +13,6 @@ related_posts:
   - "7-reasons-to-switch-to-openjdk-17-as-a-jakarta-ee-developer"
   - "7-ways-to-improve-your-code-reading-skills"
   - "resilience-in-coding-miro-wengner-on-thriving-in-the-software-industry"
-frozen: false
 ---
 
 {{< img src="Sebastian.jpeg" class="alignright size-full is-resized" width="375" height="375" >}}

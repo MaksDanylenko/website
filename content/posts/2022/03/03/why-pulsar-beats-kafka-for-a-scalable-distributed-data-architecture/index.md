@@ -18,7 +18,6 @@ related_posts:
   - "why-developers-should-use-apache-pulsar"
   - "evolution-of-microservices"
   - "bring-streaming-to-apache-cassandra-with-apache-pulsar"
-frozen: false
 ---
 
 ![](shutterstock_1009002379-350x233-1.jpg) © Shutterstock / Jurik Peter   

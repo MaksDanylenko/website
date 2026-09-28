@@ -10,7 +10,6 @@ image: "cover_large-3.jpg"
 categories:
   - "DevOps"
 related_posts:
-frozen: false
 ---
 
 I noticed some time ago that three [Mastodon](https://mastodon.top/@frankel) features had stopped working on my blog. Each of them seemed like a separate problem, but they had the same root cause. In this blog post, I want to describe these issues and the simple fix.

@@ -14,7 +14,6 @@ related_posts:
   - "building-rest-apis-in-java-with-spring-boot"
   - "clean-and-modular-java-a-hexagonal-architecture-approach"
   - "data-modeling-for-java-developers-structuring-with-postgresql-and-mongodb"
-frozen: false
 ---
 
 Last time, we created a [vector search index](https://www.linkedin.com/pulse/from-zero-vector-hero-locally-arek-borucki-w5otf/?trackingId=xNlcCImhQCC0HsnlThlQFg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B1MUlV%2B0kQm%2BvelL3UScxcA%3D%3D) in a [local MongoDB Atlas cluster](https://www.linkedin.com/pulse/run-local-atlas-cluster-minutes-locally-arek-borucki-mmiqf/?trackingId=ntYzEbTVSuauLVmp2Zbt4w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B1MUlV%2B0kQm%2BvelL3UScxcA%3D%3D). Now, let's put it to work with a real case: building an AI-powered movie recommender that suggests films similar to *The Matrix*–without any shared keywords.

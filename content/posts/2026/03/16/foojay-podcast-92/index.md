@@ -16,7 +16,6 @@ related_posts:
   - "foojay-podcast-78"
   - "java-26-whats-new"
   - "faster-java-warmup-crac-versus-readynow"
-frozen: false
 ---
 
 Welcome to another episode of the Foojay Podcast! In this episode, we're talking about Java 26, released on March 17 in the year 26. Again, right on schedule with Java's six-month release cadence.

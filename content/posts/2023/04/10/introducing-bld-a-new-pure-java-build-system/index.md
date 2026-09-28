@@ -16,7 +16,6 @@ related_posts:
   - "web-app-startup-in-3ms-with-rife2-and-graalvm"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "why-i-moved-my-blog-to-rife2-after-23-years"
-frozen: false
 ---
 
 [RIFE2's `bld`](https://rife2.com/bld) is a new build system that allows you to write your build logic in pure Java.

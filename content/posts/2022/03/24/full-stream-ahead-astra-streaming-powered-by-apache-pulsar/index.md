@@ -17,7 +17,6 @@ related_posts:
   - "bring-streaming-to-apache-cassandra-with-apache-pulsar"
   - "build-a-status-dashboard-using-spring-boot-and-astra-db"
   - "unified-event-driven-architecture-for-the-cloud-native-enterprise"
-frozen: false
 ---
 
 With a serverless architecture, multi-region geo replication, and Apache Cassandra's legendary performance, [DataStax Astra DB](https://astra.datastax.com) makes it easy for developers and enterprises to start small with their applications and grow them to infinite scale without constant performance tuning and optimization exercises.

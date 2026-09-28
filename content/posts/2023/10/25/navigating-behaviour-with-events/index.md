@@ -15,7 +15,6 @@ related_posts:
   - "billions-of-messages-tcp-ip"
   - "building-custom-solutions-vs-buy-and-build-software"
   - "when-not-to-use-event-driven-architecture-eda"
-frozen: false
 ---
 
 ## Two Approaches

@@ -14,7 +14,6 @@ related_posts:
   - "api-mocking-essential-and-redundant"
   - "beyond-pass-fail-a-modern-approach-to-java-integration-testing"
   - "faster-integration-tests-with-reusable-testcontainers"
-frozen: false
 ---
 
 *TL;DR : You can run a full Supabase instance inside Test Containers quite easily. [See this repository](https://github.com/jlengrand/supabase-testcontainers-kotlin?ref=lengrand.fr).*

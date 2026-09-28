@@ -14,7 +14,6 @@ related_posts:
   - "kotlin-delegation"
   - "kubernetes-gateway-api"
   - "playing-with-wasm-on-docker"
-frozen: false
 ---
 
 Apache APISIX is built upon the shoulders of two giants:

@@ -15,7 +15,6 @@ related_posts:
   - "faster-java-warmup-crac-versus-readynow"
   - "how-readynow-improves-java-warmup-time"
   - "superfast-application-startup-java-on-crac"
-frozen: false
 ---
 
 *This is the third blog post in a series on faster Java application warmup with ReadyNow. If you haven't been following the series, go back to the first blog post, [Faster Java Warmup: CRaC versus ReadyNow](https://foojay.io/today/faster-java-warmup-crac-versus-readynow/), and catch up. This post explains how you can train the ReadyNow feature in Azul Platform Prime to achieve optimal Java performance.*

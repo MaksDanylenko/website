@@ -17,7 +17,6 @@ related_posts:
   - "azul-brings-java-from-edge-to-cloud"
   - "wordish-with-javafx-part-5"
   - "wordish-with-javafx-part-4"
-frozen: false
 ---
 
 Combined with an inexpensive touch screen, the Raspberry Pi makes for a perfect controller for a machine or game console. Let's see how we can use Java and JavaFX to build a test application that also communicates with the pins of the Raspberry Pi to control a LED.

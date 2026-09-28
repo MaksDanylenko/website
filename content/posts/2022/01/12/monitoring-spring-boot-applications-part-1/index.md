@@ -16,7 +16,6 @@ related_posts:
   - "a-simple-service-with-spring-boot"
   - "annotation-free-spring"
   - "better-error-handling-for-your-spring-boot-rest-apis"
-frozen: false
 ---
 
 > In part 1 of this series, we will learn about JDK Flight Recorder and how we can use it to monitor a Spring Boot application.

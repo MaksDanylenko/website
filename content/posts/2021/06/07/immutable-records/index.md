@@ -14,7 +14,6 @@ related_posts:
   - "java-23-has-arrived-and-it-brings-a-truckload-of-changes"
   - "java-22-is-here-and-its-ready-to-rock"
   - "java-21-is-available-today-and-its-quite-the-update"
-frozen: false
 ---
 
 In a multi-threaded Java application, any thread can change the state of an object. The [Java memory model](https://foojay.io/today/demystifying-jvm-memory-management/) in Java language specification specifies when exactly updates made by one thread are going to be visible to other threads. This is one of the biggest problems professional Java developers deal with every day. Java records are immutable, an object is considered immutable if its state cannot change after it is constructed. The immutable nature of the record eliminates problems of its usage in a multithreaded environment.

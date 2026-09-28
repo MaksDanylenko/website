@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/anthony-layton-40b67b100/"
 github: ""
 youtube: ""
 website: ""
-frozen: false
 ---

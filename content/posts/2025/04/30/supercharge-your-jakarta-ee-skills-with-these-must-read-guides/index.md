@@ -14,7 +14,6 @@ related_posts:
   - "glassfish-embedded-a-simple-way-to-run-jakarta-ee-apps"
   - "glassfish-is-rolling-forward-whats-new"
   - "how-to-upgrade-to-jakarta-ee-10-and-glassfish-7-its-much-easier-than-you-think"
-frozen: false
 ---
 
 If you're working with Jakarta EE — or just starting to explore the power of enterprise Java — there's never been a better time to level up your skills. Whether you're building your first servlet, designing secure REST APIs, or diving deep into dependency injection, the Jakarta EE community has been busy crafting an outstanding collection of [starter](https://jakarta.ee/learn/starter-guides/) and [specification](https://jakarta.ee/learn/specification-guides/) guides to help you get up to speed.

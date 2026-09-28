@@ -16,7 +16,6 @@ related_posts:
   - "debug-unresponsive-apps"
   - "debug-without-breakpoints"
   - "debugging-tutorial-1-introduction-conditional-breakpoints-set-value"
-frozen: false
 ---
 
 Other languages: [Español](https://flounder.dev/es/posts/trying-out-junie/) [한국어](https://flounder.dev/ko/posts/trying-out-junie/) [Português](https://flounder.dev/pt/posts/trying-out-junie/) [中文](https://flounder.dev/zh/posts/trying-out-junie/)

@@ -17,7 +17,6 @@ related_posts:
   - "testing-and-local-development-made-simpler-with-testcontainers-desktop-app"
   - "faster-integration-tests-with-reusable-testcontainers"
   - "creating-cloud-native-java-applications-with-the-12-factor-app-methodology"
-frozen: false
 ---
 
 As supported by the [12 factor](https://foojay.io/today/creating-cloud-native-java-applications-with-the-12-factor-app-methodology/ "12 factor") and [15 factor app](https://developer.ibm.com/articles/creating-a-12-factor-application-with-open-liberty/ "15 factor app") methodologies, in application development, we've come to realize just how important it is to test our applications in a true-to-production environment before releasing them to consumers. This helps us to mitigate potential failures and spot bugs that could appear in production but be missed in testing due to environmental differences and ensure we have high confidence in our applications being deployed to production environments. But, traditionally, developers have struggled with replicating an application's production environment locally.

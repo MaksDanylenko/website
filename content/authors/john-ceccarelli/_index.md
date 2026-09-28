@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/john-ceccarelli-95b7041/"
 github: ""
 youtube: ""
 website: ""
-frozen: false
 ---

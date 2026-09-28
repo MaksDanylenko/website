@@ -14,7 +14,6 @@ related_posts:
   - "8-best-practices-to-prevent-sql-injection-attacks"
   - "5-tips-to-create-secure-docker-images-for-java-applications"
   - "are-java-security-updates-important"
-frozen: false
 ---
 
 Path traversal is a type of security vulnerability that can occur when a web application or service allows an attacker to access server files or directories that are outside the intended directory structure.

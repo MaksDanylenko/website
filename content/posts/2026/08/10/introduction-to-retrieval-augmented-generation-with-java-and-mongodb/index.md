@@ -12,7 +12,6 @@ related_posts:
   - "aggregation-optimization-in-mongodb-a-case-study-from-the-field-part-1"
   - "aggregation-optimization-in-mongodb-unnecessary-unwinds-part-2"
   - "ai-powered-code-review-assistant-automated-code-analysis-with-spring-ai-and-mongodb"
-frozen: false
 ---
 
 Modern organizations store large volumes of information in documents, databases, internal platforms, support systems, policies, and operational tools. However, having data does not guarantee that employees or applications can access the right information when needed. As data grows, traditional search tools often fail to identify context, meaning, and relationships between distributed sources. This results in a growing gap between the information an organization holds and its ability to use that information for effective decisions and actions.

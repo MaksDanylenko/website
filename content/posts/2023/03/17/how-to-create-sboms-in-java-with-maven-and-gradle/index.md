@@ -15,7 +15,6 @@ related_posts:
   - "sboms-first-steps-in-a-new-journey-for-developers"
   - "sboms-and-software-composition-analysis"
   - "making-sboms-threats-and-modelling-them-a-piece-of-cake"
-frozen: false
 ---
 
 When building applications in Java, we highly depend on external libraries and frameworks. And each Java package that is imported likely also depends on more libraries. This means that the amount of Java packages included in your application is often not really transparent.

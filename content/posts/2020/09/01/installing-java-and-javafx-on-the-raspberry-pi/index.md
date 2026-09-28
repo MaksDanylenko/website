@@ -14,7 +14,6 @@ related_posts:
   - "sheetmusic4j-0-0-3-abc-notation-guitar-pro-engraving-improvements"
   - "first-experiments-with-java-on-the-lattepanda-iota"
   - "javafx-links-of-november-2025"
-frozen: false
 ---
 
 One of the most read articles on my blog is about [the installation of a recent Java on Raspberry Pi (March 13, 2019)](https://webtechie.be/post/2019-03-13-pijava-part-2-java-11-on-raspberry-pi-3/), so it was time for an update, which is here republished on foojay.

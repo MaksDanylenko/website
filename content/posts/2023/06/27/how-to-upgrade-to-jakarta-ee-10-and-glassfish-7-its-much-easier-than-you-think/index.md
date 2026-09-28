@@ -16,7 +16,6 @@ related_posts:
   - "ejb-support-in-piranha-via-cdi"
   - "omnifish-jakarta-ee-survey-2022"
   - "reflections-on-2024-a-remarkable-year-for-omnifish-glassfish-piranha-and-jakarta-ee"
-frozen: false
 ---
 
 Upgrading to Jakarta EE 10 from an older version of Jakarta EE or Java EE can be a bit tricky and may require some extra attention to detail. But don't worry, we've got you covered!

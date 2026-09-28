@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/minborg/"
 github: ""
 youtube: ""
 website: "https://x.com/PMinborg"
-frozen: false
 ---

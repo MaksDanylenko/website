@@ -16,7 +16,6 @@ related_posts:
   - "agents-meet-databases-the-future-of-agentic-architectures"
   - "atlas-searching-with-the-java-driver"
   - "best-practices-for-deploying-mongodb-in-kubernetes"
-frozen: false
 ---
 
 My native language is Spanish. I've been learning (and butchering) English my whole life. But at some point, I felt confident with English and wanted to learn Japanese. Big mistake. This is a totally different beast: three writing systems (Hiragana ひらがな, Katakana カタカナ and Kanji 漢字), a completely different grammar, no relation whatsoever with European languages… I needed help. And tools to learn. And one of them is Space Repetition System based apps.

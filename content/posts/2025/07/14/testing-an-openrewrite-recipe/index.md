@@ -14,7 +14,6 @@ related_posts:
   - "authoring-an-openrewrite-recipe"
   - "foojay-podcast-12"
   - "foojay-podcast-19"
-frozen: false
 ---
 
 For the last two weeks, I've kicked the tires of OpenRewrite.

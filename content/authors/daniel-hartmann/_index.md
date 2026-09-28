@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/daniel-hartmann-0b5827197/"
 github: ""
 youtube: ""
 website: ""
-frozen: false
 ---

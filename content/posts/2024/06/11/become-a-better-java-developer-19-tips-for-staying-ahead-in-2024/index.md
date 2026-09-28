@@ -14,7 +14,6 @@ related_posts:
   - "couch-to-fully-observed-code-with-spring-boot-3-2-micrometer-tracing-and-digma"
   - "effective-coding-with-java-observability"
   - "offline-crypto-address-validation-in-java"
-frozen: false
 ---
 
 Recently I reached out to one of my fellow Java developers who is very experienced and has been working in the industry forever and asked for his thoughts about the observability improvements in JDK 21 and Spring Boot 3.2 and if he has already migrated from 17 to 21 and to Spring Boot 3.2.

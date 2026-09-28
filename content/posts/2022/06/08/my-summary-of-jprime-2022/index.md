@@ -15,7 +15,6 @@ related_posts:
   - "friends-of-openjdk-at-fosdem-2022"
   - "friends-of-openjdk-at-fosdem-2021"
   - "press-the-easy-button-organize-a-virtual-conference-schedule-with-a-graph-database"
-frozen: false
 ---
 
 Writing summaries of conference talks is the best way to focus on the talk and listen actively.

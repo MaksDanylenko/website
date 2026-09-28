@@ -2,7 +2,6 @@
 title: "JEP (JDK Enhancement Proposal)"
 description: "A JDK Enhancement Proposal (JEP) is the formal document used to propose, track, and communicate a significant change to the Java platform. Every major language feature, JVM improvement, or API addition that ships in a JDK release starts life as ..."
 url: "/pedia/jep-jdk-enhancement-proposal/"
-frozen: false
 ---
 
 A JDK Enhancement Proposal (JEP) is the formal document used to propose, track, and communicate a significant change to the Java platform. Every major language feature, JVM improvement, or API addition that ships in a JDK release starts life as a JEP.

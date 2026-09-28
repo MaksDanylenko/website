@@ -12,7 +12,6 @@ related_posts:
   - "2023-in-retrospective"
   - "2022-in-retrospective"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
-frozen: false
 ---
 
 For the first article of 2025, I'm continuing my retrospective series!

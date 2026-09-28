@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/rijosam19"
 github: ""
 youtube: ""
 website: "http://rijosam.com"
-frozen: false
 ---

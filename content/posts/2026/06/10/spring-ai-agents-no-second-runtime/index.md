@@ -17,7 +17,6 @@ related_posts:
   - "free-webinar-making-ai-useful-for-java-developers-in-real-applications-with-boxlang"
   - "build-secure-ai-chat-applications-with-boxlang-rag-ollama-and-amazon-bedrock-with-dan-card"
   - "boxlang-ai-3-2-0-image-generation-web-search-fluent-audio-agent-registry-mcp-observability"
-frozen: false
 aliases:
   - "/today/why-spring-teams-dont-need-a-second-runtime-for-ai-agents/"
 ---

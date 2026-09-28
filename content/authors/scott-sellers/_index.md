@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/ssellers/"
 github: ""
 youtube: ""
 website: ""
-frozen: false
 ---

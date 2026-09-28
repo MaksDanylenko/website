@@ -12,7 +12,6 @@ related_posts:
   - "3-ways-to-refactor-your-code-in-intellij-idea"
   - "an-example-of-overengineering-keep-it-wet"
   - "avoiding-nullpointerexception"
-frozen: false
 ---
 
 Reading source code is in the job description of a software developer. However, this experience is not always pleasant. Not everyone would like to read someone else's code because they find it boring, sometimes frustrating. There are cases when you start reading someone else's code but end up getting a bitter feeling because you are not being able to understand it or the code is not well written. Most developers want to focus on writing code rather reading it, not realizing that reading code is also an important skill to have.

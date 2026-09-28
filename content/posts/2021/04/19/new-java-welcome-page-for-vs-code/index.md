@@ -9,7 +9,6 @@ image: "feature-tour1-poster.jpg"
 categories:
   - "VS Code"
 related_posts:
-frozen: false
 ---
 
 For many of us, it's Spring now, a season for being refreshed, no exception to VS Code. In this blog, we will share with you our experiments with a new Welcome Page.

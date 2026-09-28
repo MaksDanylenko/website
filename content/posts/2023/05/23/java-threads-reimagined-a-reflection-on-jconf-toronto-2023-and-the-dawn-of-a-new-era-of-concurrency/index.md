@@ -14,7 +14,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "an-introduction-to-scoped-values-in-java"
   - "2023-software-conferences-in-the-philippines"
-frozen: false
 ---
 
 [JConf Toronto](https://2023.jconftoronto.dev/), held on May 3rd, 2023, was a memorable gathering of Java enthusiasts and experts from both the local and global communities.

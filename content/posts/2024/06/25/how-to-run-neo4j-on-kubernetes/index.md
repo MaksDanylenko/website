@@ -16,7 +16,6 @@ related_posts:
   - "native-graphql-api-with-neo4j-auradb-on-heroku"
   - "faster-integration-tests-with-reusable-testcontainers"
   - "running-your-database-on-openshift-and-codeready-containers"
-frozen: false
 ---
 
 ### Kubernetes is an open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications. In this post, we walk through how to run the Neo4j graph database on Kubernetes.

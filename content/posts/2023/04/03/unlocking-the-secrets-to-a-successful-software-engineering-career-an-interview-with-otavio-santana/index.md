@@ -13,7 +13,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "a-minor-but-useful-refactoring-technique-that-would-reduce-your-code-footprint-part-1"
   - "from-assembler-to-chat-gpt-steve-poole-on-the-shifting-landscape-of-programming"
-frozen: false
 ---
 
 {{< img src="otavio-edited.webp" class="alignright size-full is-resized" width="481" height="481" >}}

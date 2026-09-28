@@ -13,7 +13,6 @@ related_posts:
   - "javafx-links-of-april-2023"
   - "javafx-links-of-march-2023"
   - "javafx-links-of-july-2026"
-frozen: false
 ---
 
 Again a lot has been shared this month in the [jfx-central.com](https://www.jfx-central.com/home) #LinksOfTheWeek! And that website itself is "under heavy construction" as version 2 is getting a completely new design and several improvements. Your help is wanted! See the last section of this summary...

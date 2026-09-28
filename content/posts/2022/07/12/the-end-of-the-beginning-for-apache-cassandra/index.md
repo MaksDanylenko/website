@@ -15,7 +15,6 @@ categories:
   - "DevOps"
   - "Kubernetes"
 related_posts:
-frozen: false
 ---
 
 ![](1_xslbFHC3hRapwGV_wj17vg-1024x663.jpeg) Image: [Pixabay](https://pixabay.com/photos/prairie-river-stream-curved-sunset-679014/)

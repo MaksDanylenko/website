@@ -16,7 +16,6 @@ related_posts:
   - "project-panama-for-newbies-part-2"
   - "project-panama-for-newbies-part-4"
   - "java-panama-polyglot-rust-part-4"
-frozen: false
 ---
 
 **Updated December 31, 2025:** This article now features Java 25 and the Foreign Function \& Memory (FFM) API, which has been a standard feature since JDK 22 ([JEP-454](https://openjdk.java.net/jeps/454)).

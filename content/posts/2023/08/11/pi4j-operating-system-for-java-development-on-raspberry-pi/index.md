@@ -18,7 +18,6 @@ related_posts:
   - "java-17-on-the-raspberry-pi"
   - "java-in-education-combining-java-with-raspberry-pi-and-the-pi4j-library"
   - "first-test-of-java-on-banana-pi-arm-and-risc-v-plus-a-blinking-led-with-pi4j"
-frozen: false
 ---
 
 **Yes, the Raspberry Pi Operating System is awesome! But the Pi4J project made it even more awesome by adding "goodies" for Java developers! Pi4J OS is not yet another OS, but the official Raspberry Pi OS, with additional tools and preconfigurations to make it the ideal OS for any Java and JavaFX developer who wants to use a Raspberry Pi.**

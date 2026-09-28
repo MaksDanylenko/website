@@ -16,7 +16,6 @@ related_posts:
   - "using-async-profiler-and-jattach-programmatically-with-ap-loader"
   - "asyncgetstacktrace-a-better-stack-trace-api-for-the-jvm"
   - "couldnt-we-just-use-asyncgetcalltrace-in-a-separate-thread"
-frozen: false
 ---
 
 When I first started exploring Virtual Threads in Java, I wanted to understand everything about them like, performance characteristics, when they yield, and limitations. This journey led me to an interesting challenge about file I/O operations. These operations cause Virtual Threads to become "pinned" to platform threads, limiting their effectiveness for I/O-heavy applications.

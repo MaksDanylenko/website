@@ -17,7 +17,6 @@ related_posts:
   - "azul-enhances-readynow-to-solve-javas-warmup-problem-simplify-operations-and-optimize-cloud-costs"
   - "best-practice-comparative-evaluation-of-jdk-setups-azul-zulu-prime-vs-openjdk"
   - "new-between-quarters-security-updates-for-java-what-cspus-mean-for-your-release-pipeline"
-frozen: false
 ---
 
 *The latest Long Term Support (LTS) version of OpenJDK was released on September 19, 2023. Below is an overview of all the combined improvements in the latest Azul Prime Builds of OpenJDK, stable release, 23.08.01.0.*

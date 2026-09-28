@@ -9,7 +9,6 @@ image: "Screenshot-2020-08-29-at-23.09.05-1024x514.jpg"
 categories:
   - "Interviews"
 related_posts:
-frozen: true
 ---
 
 We're happy to announce that we're hosting Chris Newland's [VMOptionsExplorer](http://javaalmanac.io) [right here on foojay](https://javaalmanac.io/jdk/8/), providing all details per release on Java command line switches.

@@ -14,7 +14,6 @@ related_posts:
   - "build-and-test-non-blocking-web-applications-with-spring-webflux-kotlin-and-coroutines"
   - "demystifying-memory-management-in-modern-programming-languages"
   - "unit-testing-supabase-in-kotlin-using-test-containers-part-2"
-frozen: false
 ---
 
 *TL;DR: Kover is a code coverage tool for Kotlin. It's still in incubator phase but I took it for a spin and it is already very useful as part of local or CI workflows! In this article I go through the setup and some of my favourite goodies of the tool. [You can see my experiment over here.](https://github.com/jlengrand/spring-petclinic-kotlin/pull/1)*

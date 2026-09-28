@@ -15,7 +15,6 @@ related_posts:
   - "creating-terabyte-sized-queues-with-low-latency"
   - "did-you-know-you-can-create-mappers-without-creating-underlying-objects-in-java"
   - "comparing-approaches-to-durability-in-low-latency-messaging-queues"
-frozen: false
 ---
 
 Persistent queue solutions are frequently used when designing low-latency applications.

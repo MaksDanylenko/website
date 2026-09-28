@@ -14,7 +14,6 @@ related_posts:
   - "building-javafx-with-gradle"
   - "creating-a-javafx-world-clock-from-scratch-part-1"
   - "azul-brings-java-from-edge-to-cloud"
-frozen: false
 ---
 
 Have you ever wanted to control a remote process from a Java application? Essentially something like a `ProcessBuilder` for remote systems that allows you to run and configure a process on almost any system and also supports all regular features that you would expect from it.

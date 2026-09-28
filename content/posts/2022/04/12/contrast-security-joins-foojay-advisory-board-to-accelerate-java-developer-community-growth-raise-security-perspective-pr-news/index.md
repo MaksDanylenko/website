@@ -9,7 +9,6 @@ image: "Favicon-3-2.png"
 categories:
   - "Press"
 related_posts:
-frozen: false
 ---
 
 LOS ALTOS, Calif., April 12, 2022 /PRNewswire/ -- [Contrast Security](https://c212.net/c/link/?t=0&l=en&o=3501861-1&h=2716114597&u=https%3A%2F%2Fwww.contrastsecurity.com%2F&a=Contrast+Security) (Contrast), the leader in code security that empowers developers to secure-as-they code, today announces its commitment to helping Java developers build code securely by joining the Foojay Advisory Board.

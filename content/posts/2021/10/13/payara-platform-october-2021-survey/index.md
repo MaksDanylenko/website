@@ -13,7 +13,6 @@ related_posts:
   - "getting-started-with-jakarta-ee-9-jakarta-ee-9-1"
   - "getting-started-with-jakarta-ee-9-hello-world"
   - "getting-started-with-jakarta-ee-9-how-to-create-a-rest-api-with-jakarta-ee-9"
-frozen: false
 ---
 
 [](https://www.payara.fish/Survey)

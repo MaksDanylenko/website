@@ -14,7 +14,6 @@ related_posts:
   - "java-string-templates-today"
   - "revolutionize-json-parsing-in-java-with-manifold"
   - "spring-boot-debugging-with-aspect-oriented-programming-aop"
-frozen: false
 ---
 
 Today, we'll explore an intriguing aspect of Manifold: its property support.

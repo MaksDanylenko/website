@@ -16,7 +16,6 @@ related_posts:
   - "book-review-practical-design-patterns-for-java-developers"
   - "book-review-quarkus-for-spring-developers"
   - "book-review-seriously-good-software"
-frozen: false
 ---
 
 **Java transformed the world of software development as we know it and continues to evolve as a platform and language. Nevertheless, the "[enlightenment roadmap](https://github.com/devoxx/JavaRoadmap)" of a Java developer can be scary. How do you become the 10x Java Developer you always dreamed of becoming?**

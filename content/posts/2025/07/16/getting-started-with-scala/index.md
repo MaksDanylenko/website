@@ -14,7 +14,6 @@ related_posts:
   - "sboms-and-software-composition-analysis"
   - "handling-security-vulnerabilities-in-spring-boot"
   - "creating-sboms-with-the-snyk-cli"
-frozen: false
 ---
 
 **Why Scala?**

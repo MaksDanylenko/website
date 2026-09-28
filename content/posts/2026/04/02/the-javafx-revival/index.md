@@ -12,7 +12,6 @@ related_posts:
   - "book-review-learn-javafx-game-and-app-development-with-fxgl-17"
   - "foojay-podcast-9"
   - "foojay-podcast-25"
-frozen: false
 ---
 
 Oracle's JavaOne 2026 brought an announcement that caught some attention in the Java community: the Java Verified Portfolio (JVP), a new program that bundles JDK-related tools, frameworks, libraries, and services under a single commercially supported umbrella with clear roadmaps and support timelines. One of the headline items? Commercial support for JavaFX in JDK 17, 21, 25, 26, and future LTS releases.

@@ -15,7 +15,6 @@ related_posts:
   - "why-jep-411-will-have-a-negative-impact-on-java-security"
   - "log4shell-leak4j"
   - "quick-fire-java-java-after-log4j"
-frozen: false
 ---
 
 Last December, Log4Shell shortened the nights of many people in the JVM world. Worse, using the earthquake analogy caused many aftershocks after the initial quake.

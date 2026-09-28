@@ -15,7 +15,6 @@ related_posts:
   - "book-review-persistence-best-practices-for-java-applications"
   - "book-review-quarkus-for-spring-developers"
   - "book-review-effortless-cloud-native-app-development-using-skaffold-2"
-frozen: false
 ---
 
 Public clouds such as AWS, Microsoft Azure, and Google Cloud, and platforms like Red Hat OpenShift, favor services that start fast and stay lean. Quarkus is engineered for exactly that.

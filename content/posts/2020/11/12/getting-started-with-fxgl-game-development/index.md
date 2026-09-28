@@ -16,7 +16,6 @@ related_posts:
   - "creating-a-snake-game-with-javafx-fxgl-in-three-pair-programming-sessions"
   - "sheetmusic4j-0-0-3-abc-notation-guitar-pro-engraving-improvements"
   - "first-experiments-with-java-on-the-lattepanda-iota"
-frozen: false
 ---
 
 [FXGL](https://github.com/AlmasB/FXGL) is a Java, JavaFX and Kotlin Game Library (Engine) made by [Almas Baimagambetov](https://twitter.com/AlmasBaim). As my son (almost 10y) challenged me to make a game during my "Corona-stay-at-home-time", I had the luck Almas provided me a getting-started with this detailed step-by-step.

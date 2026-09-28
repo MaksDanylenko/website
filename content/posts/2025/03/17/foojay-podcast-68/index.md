@@ -18,7 +18,6 @@ related_posts:
   - "java-24-whats-new"
   - "foojay-podcast-57"
   - "foojay-podcast-45"
-frozen: false
 ---
 
 We serve you a podcast about the new Java version every six months.

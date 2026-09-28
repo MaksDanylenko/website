@@ -18,7 +18,6 @@ related_posts:
   - "introducing-boxlang-ai-explorer-a-local-catalog-for-every-ai-pattern"
   - "boxlang-ai-3-2-0-image-generation-web-search-fluent-audio-agent-registry-mcp-observability"
   - "free-webinar-making-ai-useful-for-java-developers-in-real-applications-with-boxlang"
-frozen: false
 ---
 
 ![](bxai-series-cover-06-700x368.png)

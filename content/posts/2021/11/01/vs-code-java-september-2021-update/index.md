@@ -13,7 +13,6 @@ related_posts:
   - "announcing-the-1-0-release-of-language-support-for-java-on-visual-studio-code"
   - "vs-code-java-august-updates-springone-updates-ux-improvements-community-feedback"
   - "vs-code-java-july-2021-update-new-testing-experience-maven-improvements-and-product-roadmap-progress-update"
-frozen: false
 ---
 
 Hi everyone, welcome to the September edition of the Visual Studio Code Java update!

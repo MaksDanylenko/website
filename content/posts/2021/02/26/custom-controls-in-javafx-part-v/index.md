@@ -13,7 +13,6 @@ related_posts:
   - "custom-controls-in-javafx-part-vi"
   - "azul-brings-java-from-edge-to-cloud"
   - "java-for-desktop-applications-part-1"
-frozen: false
 ---
 
 In [the last article](https://foojay.io/today/custom-controls-in-javafx-part-iv/), I showed you how to create a custom control based on the Control plus Skin approach, which is great for building controls libraries.

@@ -14,7 +14,6 @@ related_posts:
   - "3-ways-to-refactor-your-code-in-intellij-idea"
   - "eight-debugging-tips-for-intellijidea-users-you-never-knew-existed"
   - "beginning-javafx-with-intellij"
-frozen: false
 ---
 
 In this tutorial, we're going to take a look at using bookmarks in [IntelliJ IDEA](https://www.jetbrains.com/idea/).

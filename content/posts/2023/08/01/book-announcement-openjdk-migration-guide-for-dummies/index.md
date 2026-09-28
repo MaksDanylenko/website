@@ -14,7 +14,6 @@ related_posts:
   - "new-book-fxgl-17-learn-javafx-game-and-app-development"
   - "unlocking-java-secrets-with-frank-delporte-insights-stories-and-tips-for-success"
   - "book-review-api-design-patterns"
-frozen: false
 ---
 
 For the fourth time in four years, Oracle has changed how it prices and licenses Java.

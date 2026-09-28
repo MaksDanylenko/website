@@ -17,7 +17,6 @@ related_posts:
   - "fixing-vulnerabilities-in-maven-projects"
   - "introduction-to-maven-toolchains"
   - "sonar-connect-amsterdam-2025"
-frozen: false
 ---
 
 #### This article is the second in a series about SBOMs, software supply chains, the government and you.

@@ -12,7 +12,6 @@ related_posts:
   - "book-review-help-your-boss-help-you"
   - "book-review-learn-javafx-game-and-app-development-with-fxgl-17"
   - "book-review-effortless-cloud-native-app-development-using-skaffold"
-frozen: false
 ---
 
 I asked on [Twitter](https://twitter.com/bazlur_rahman/status/1610800339405389826 "Twitter") and [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7016566492548775936/ "LinkedIn") why many developers don't write or give talks, and I was amused by the response I received. This article is about that.

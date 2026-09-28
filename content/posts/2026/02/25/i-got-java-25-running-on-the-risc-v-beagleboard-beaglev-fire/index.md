@@ -13,7 +13,6 @@ related_posts:
   - "java-on-single-board-computers-x86-vs-arm-vs-risc-v"
   - "first-test-of-java-on-beagleboards-arm-and-risc-v"
   - "first-test-of-java-on-banana-pi-arm-and-risc-v-plus-a-blinking-led-with-pi4j"
-frozen: false
 ---
 
 After my initial struggles with the BeagleV-Fire in a [previous video](https://webtechie.be/post/2026-02-10-first-test-beagleboard-java/), I succeeded in getting Java 25 running on RISC-V-powered BeagleV-Fire! Let me walk you through the journey and the steps I took to make it work.

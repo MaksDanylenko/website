@@ -13,7 +13,6 @@ related_posts:
   - "cross-platform-development-in-java-with-gluon-and-graalvm"
   - "native-applications-for-multiple-devices-from-a-single-javafx-project-with-gluon-mobile-and-github-actions"
   - "creating-a-javafx-world-clock-from-scratch-part-4"
-frozen: false
 ---
 
 Here on Foojay we already talked about JavaFX write-once-run-everywhere applications and how they can be created on GitHub with Gluon and GraalVM:

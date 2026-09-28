@@ -13,7 +13,6 @@ categories:
   - "Tools"
   - "Videos"
 related_posts:
-frozen: false
 ---
 
 Low on time and want to know what an 'application server' really is?  

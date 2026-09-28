@@ -12,7 +12,6 @@ categories:
 related_posts:
   - "runtime-initialized-variables-in-rust"
   - "error-management-in-rust-and-libs-that-support-it"
-frozen: false
 ---
 
 I have been learning Rust for a couple of years, and using it for pet projects and [demos](https://github.com/nfrankel/opentelemetry-tracing/tree/master/inventory) alike. Working for a JVM-heavy company, I thought it would be my fate forever. Last week, I had a nice surprise: I convinced my management that using Rust for a particular project was the right choice. It's not a huge project, but I want to describe my experience using Rust in a "real" project.

@@ -12,7 +12,6 @@ categories:
 related_posts:
   - "7-habits-of-highly-effective-java-coding"
   - "building-robust-ai-applications-with-langchain4j-guardrails-and-spring-boot"
-frozen: false
 ---
 
 A practical guide to the five best practices every developer should apply when working with AI agents, subagents, skills and MCP servers — from choosing the right model and writing precise prompts, to defining agent behaviour with SDD, isolating context with Claude Code subagents, securing MCP calls, and guiding agent response quality with guardrails.

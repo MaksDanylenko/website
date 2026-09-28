@@ -15,7 +15,6 @@ related_posts:
   - "the-basics-of-breakpoints-you-might-not-know"
   - "the-debugger-checklist-part-ii"
   - "what-is-debugging-in-140-seconds"
-frozen: false
 ---
 
 Race conditions can occur when a multithreaded application accesses a shared resource using over one thread. Unless we have guards in place, the result might depend on which thread "got there first". This is especially problematic when the state is changed externally.

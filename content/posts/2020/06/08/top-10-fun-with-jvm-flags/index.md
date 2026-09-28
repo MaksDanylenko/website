@@ -13,7 +13,6 @@ related_posts:
   - "how-is-leyden-improving-java-performance-part-3-of-3"
   - "how-is-leyden-improving-java-performance-part-2-of-3"
   - "indexing-all-of-wikipedia-on-a-laptop"
-frozen: true
 ---
 
 When I first started programming in Java and configuring my local environment, I came across mentions of JVM flags. I wanted to find out more about what options are available, what they do, and how to make use of them. Delving into the internet to discover what other more seasoned developers had to say on the topic, I was surprised at how hard it was to get definitive answers, and ultimately this research left me with more questions than answers. Since resources on this topic are scattered and hard to find, I put together this consolidated list in the hopes that others don't have to scour the internet as I did to find these useful morsels.

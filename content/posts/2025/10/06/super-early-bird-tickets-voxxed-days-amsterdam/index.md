@@ -15,7 +15,6 @@ related_posts:
   - "foojay-podcast-46"
   - "java-conferences-2025"
   - "to-brussels-canada-and-back"
-frozen: false
 ---
 
 After this year's success, the Voxxed Amsterdam team is proud to announce that next year will be even bigger, with more speakers, breakouts, sponsors, and attendees. We warmly invite you to join and meet us at the **JUG Square** on **April 1–2, 2026** in Amsterdam.

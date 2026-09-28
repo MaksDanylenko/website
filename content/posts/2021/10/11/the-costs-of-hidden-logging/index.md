@@ -13,7 +13,6 @@ related_posts:
   - "java-logging-what-to-log-what-not-to-log"
   - "introduction-to-jvm-unified-logging-jep-158-jep-271"
   - "towards-continuous-performance-regression-testing"
-frozen: false
 ---
 
 A while ago I received a customer escalation ticket regarding performance degradation when using [Datadog Continuous Profiler for Java](https://docs.datadoghq.com/tracing/profiler/). The degradation was observable as an increased CPU usage as well as unexpected latency.

@@ -14,7 +14,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "a-minor-but-useful-refactoring-technique-that-would-reduce-your-code-footprint-part-1"
   - "tiberius-a-security-testing-framework-for-llm-applications-in-java"
-frozen: false
 ---
 
 Java, being a safe language, doesn't usually allow direct low-level access. Memory is primarily managed on the heap, so developers don't typically deal with memory directly. However, library developers are occasionally required to manipulate memory outside the heap for performance or specific use cases. This is where the controversial [**sun.misc.Unsafe**](https://github.com/openjdk/jdk/blob/master/src/jdk.unsupported/share/classes/sun/misc/Unsafe.java) comes in.

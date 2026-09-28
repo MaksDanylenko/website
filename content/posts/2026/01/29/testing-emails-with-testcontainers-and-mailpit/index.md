@@ -16,7 +16,6 @@ related_posts:
   - "foojay-podcast-36"
   - "foojay-podcast-46"
   - "foojay-podcast-53"
-frozen: false
 ---
 
 Testing email functionality is often painful. SMTP servers are external, tests become slow or flaky, and local setups differ from CI environments. As a result, many teams either mock the mail sender or skip proper email tests completely.

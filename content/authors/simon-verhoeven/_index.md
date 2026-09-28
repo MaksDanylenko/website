@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/simonverhoeven/"
 github: ""
 youtube: ""
 website: "https://x.com/Simon_Verhoeven"
-frozen: false
 ---

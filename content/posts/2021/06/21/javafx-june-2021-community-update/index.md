@@ -11,7 +11,6 @@ categories:
   - "Research"
   - "Surveys"
 related_posts:
-frozen: false
 ---
 
 JavaFX is a modern cross-platform open-source UI toolkit for the JVM. It provides a wide range of built-in controls and platform-specific features, such as hardware acceleration. If you have not used JavaFX before, you can get started at [openjfx.io](https://openjfx.io/).

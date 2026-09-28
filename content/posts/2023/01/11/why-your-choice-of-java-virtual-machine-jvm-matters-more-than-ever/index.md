@@ -14,7 +14,6 @@ related_posts:
   - "getting-more-mileage-out-of-kafka-openjdk-vs-azul-prime"
   - "analyzing-and-tuning-warm-up-of-the-jvm-with-azul-zulu-prime-builds-of-openjdk"
   - "best-practice-comparative-evaluation-of-jdk-setups-azul-zulu-prime-vs-openjdk"
-frozen: false
 ---
 
 In [my recent interview with Software Daily](https://softwareengineeringdaily.com/2022/10/14/azul-with-john-ceccarelli/), I discussed that there are many companies looking for better customer experience, faster execution, and lower infrastructure costs… and that they have discovered a better use of Java to help them with just that.

@@ -13,7 +13,6 @@ related_posts:
   - "javafx-gluon-status-update-dual-screen-on-raspberry-pi-sample-intellij-new-javafx-project-wizard"
   - "creating-a-javafx-world-clock-from-scratch-part-1"
   - "ask-a-lille-dev-what-java-developers-really-think-about-quality-frameworks-communities-and-careers"
-frozen: false
 ---
 
 Let's take a look at some of my favourite keyboard shortcuts in [IntelliJ IDEA](https://www.jetbrains.com/idea/).

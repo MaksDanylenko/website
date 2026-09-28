@@ -16,7 +16,6 @@ related_posts:
   - "java-on-azure-tooling-update-september-2022"
   - "java-virtual-threads-in-action-optimizing-mongodb-operation"
   - "understanding-bson-a-beginners-guide-to-mongodbs-data-format"
-frozen: false
 ---
 
 **Many developers start building their applications with MongoDB using a free M0 cluster or a local environment. While this is common and convenient, it can lead to issues that could easily be avoided by using a more robust setup, such as a development cluster that closely mirrors production. Problems like inefficient queries, missing indexes, or even costly mistakes often go unnoticed in limited environments like M0 or local setups.**

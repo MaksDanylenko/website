@@ -15,7 +15,6 @@ related_posts:
   - "java-21-is-available-today-and-its-quite-the-update"
   - "java-23-has-arrived-and-it-brings-a-truckload-of-changes"
   - "java-24-rolls-out-today-find-out-why-its-aptly-named"
-frozen: false
 ---
 
 The structured concurrency API changed again after two incubations and four rounds of previews.

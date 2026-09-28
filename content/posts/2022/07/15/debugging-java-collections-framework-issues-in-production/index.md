@@ -16,7 +16,6 @@ related_posts:
   - "debugging-java-equals-hashcode-performance-in-production"
   - "debugging-race-conditions-in-production"
   - "get-started-with-allocation-profiling"
-frozen: false
 ---
 
 The Java Collections Framework was a huge leap forward when it was introduced as part of Java 2 (JDK 1.2).

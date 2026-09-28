@@ -14,7 +14,6 @@ related_posts:
   - "a-faster-way-to-build-react-spring-boot-apps-using-hilla-1-3"
   - "hilla-1-0-a-new-frontend-framework-for-springboot"
   - "hilla-1-3-faster-react-spring-boot-development"
-frozen: false
 ---
 
 ### Develop clean and maintainable business apps on top of Spring Boot and React, and do it faster using the Hilla framework.

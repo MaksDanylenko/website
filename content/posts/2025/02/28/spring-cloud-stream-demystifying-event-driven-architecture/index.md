@@ -18,7 +18,6 @@ related_posts:
   - "billion-events-per-second-with-millisecond-latency"
   - "boosting-similarity-search-with-real-time-stream-processing"
   - "building-reactive-java-applications-with-spring-framework"
-frozen: false
 ---
 
 ## Introduction

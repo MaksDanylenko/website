@@ -13,7 +13,6 @@ related_posts:
   - "understanding-apache-maven-part-4-maven-lifecycle"
   - "understanding-apache-maven-part-5-dependencies-in-maven"
   - "understanding-apache-maven-part-6-pom-reference"
-frozen: false
 ---
 
 In this, [part 7 of the series](https://foojay.io/today/author/c-guntur/), various means of configuring Apache Maven are covered!

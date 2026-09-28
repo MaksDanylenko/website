@@ -16,7 +16,6 @@ quote: |
 
   We hope to continue to help the community grow and adapt to all the challenges the future brings.
 quoteAuthor: "Steve Poole, Director of Developer Advocacy"
-frozen: false
 ---
 
 Sonatype, the inventors of Apache Maven and Nexus, the stewards of Maven Central, invented componentized software development and then software supply chain management. We apply that expertise and intelligence in our platform to help you develop the highest-quality and most secure software which delivers true business value.

@@ -12,7 +12,6 @@ related_posts:
   - "a-walk-to-lazy-fetching-with-hibernate-and-spring-data-jpa"
   - "annotation-free-spring"
   - "jurassic-jdk-migrate-or-extinct"
-frozen: false
 ---
 
 UPDATE - To make it abundantly clear:  

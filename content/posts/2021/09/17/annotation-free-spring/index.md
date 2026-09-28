@@ -16,7 +16,6 @@ related_posts:
   - "agent-memory-with-spring-ai-redis"
   - "checking-out-junie-a-coding-agent-by-jetbrains"
   - "duplicate-finder-for-text-requirements"
-frozen: false
 ---
 
 Some, if not most, of our judgments regarding technology stacks come either from third-party opinions or previous experiences. Yet, we seem to be adamant about them. For a long time (and sometimes even now), I've seen posts that detailed how Spring is bad because it uses XML for its configuration. Unfortunately, they blissfully ignore the fact that annotation-based configuration has been available for ages.

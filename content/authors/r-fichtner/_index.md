@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/richardfichtner/"
 github: ""
 youtube: ""
 website: "https://x.com/RichardFichtner"
-frozen: false
 ---

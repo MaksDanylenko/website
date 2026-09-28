@@ -15,7 +15,6 @@ related_posts:
   - "foojay-podcast-49"
   - "foojay-podcast-58"
   - "increase-readability-and-reduce-complexity-with-javas-pattern-matching"
-frozen: false
 ---
 
 ### Code quality + Code security for Open Source \& AI code

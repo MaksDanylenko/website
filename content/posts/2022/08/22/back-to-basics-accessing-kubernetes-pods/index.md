@@ -14,7 +14,6 @@ related_posts:
   - "cassandra-database-migration-to-kubernetes-with-zero-downtime"
   - "choosing-a-cache-1"
   - "fearless-distroless"
-frozen: false
 ---
 
 Kubernetes is a colossal beast. You need to understand many different concepts before it starts being useful.

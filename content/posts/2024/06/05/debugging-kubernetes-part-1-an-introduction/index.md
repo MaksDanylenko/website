@@ -15,7 +15,6 @@ related_posts:
   - "software-testing-as-a-debugging-tool"
   - "debugging-streams-with-peek"
   - "dtrace-revisited-advanced-debugging-techniques"
-frozen: false
 ---
 
 * [Introduction to Kubernetes and Distributed Systems](#introduction-to-kubernetes-and-distributed-systems)

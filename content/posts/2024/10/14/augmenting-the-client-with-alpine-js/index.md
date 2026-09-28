@@ -16,7 +16,6 @@ related_posts:
   - "server-side-rendering-with-spring-boot"
   - "augmenting-the-client-with-vue-js"
   - "web-caching-server"
-frozen: false
 ---
 
 This article is part of a series comparing different ways to implement asynchronous requests on the client, which is colloquially known as AJAX. I dedicated the [previous post](https://foojay.io/today/augmenting-the-client-with-vue-js/) to Vue.js; I'll dedicate this one to [Alpine.js](https://alpinejs.dev/) - not to be confused with Alpine Linux.

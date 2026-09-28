@@ -13,7 +13,6 @@ related_posts:
   - "5-tips-to-create-secure-docker-images-for-java-applications"
   - "eight-debugging-tips-for-intellijidea-users-you-never-knew-existed"
   - "java-encryption-and-hashing"
-frozen: false
 ---
 
 Code reviews are hard to do well. Particularly when you're not entirely sure about the errors you should be looking for!

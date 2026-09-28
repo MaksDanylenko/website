@@ -16,7 +16,6 @@ related_posts:
   - "breaktime-tech-talks-ep37-vector-database-frustration-microsoft-lazygraphrag"
   - "building-a-fullstack-imdb-clone-with-a-java-backend-using-sparkjava-and-neo4j"
   - "ai-powered-chat-application-using-ibm-watsonx-ai-and-spring-ai"
-frozen: false
 ---
 
 In [the last post](https://foojay.io/today/intro-to-rag-foundations-of-retrieval-augmented-generation-part-1/), we discussed the basics of Retrieval Augmented Generation (RAG) and how it enhances the capabilities of Large Language Models (LLMs) by integrating them with external knowledge sources. We also introduced the concept of vector embeddings and their role in semantic search.

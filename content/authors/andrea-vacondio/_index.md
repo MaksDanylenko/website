@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/torakiki/"
 github: ""
 youtube: ""
 website: "https://soberlemur.com"
-frozen: false
 ---

@@ -16,7 +16,6 @@ related_posts:
   - "foojay-podcast-61"
   - "foojay-podcast-60"
   - "foojay-podcast-47"
-frozen: false
 ---
 
 AI, LLMs, ChatGPT—these are just a few of the buzzwords of the massive revolution unfolding right now.

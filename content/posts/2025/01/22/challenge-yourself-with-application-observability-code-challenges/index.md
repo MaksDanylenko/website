@@ -15,7 +15,6 @@ related_posts:
   - "effective-coding-with-java-observability"
   - "boxlang-ai-3-2-0-image-generation-web-search-fluent-audio-agent-registry-mcp-observability"
   - "runtime-code-analysis-in-the-age-of-vibe-coding"
-frozen: false
 ---
 
 Code challenges are a nice way to challenge yourself with programming, resulting in some great challenges like [#1brc](https://github.com/gunnarmorling/1brc) and the yearly [Advent of Code (#AoC)](https://adventofcode.com).

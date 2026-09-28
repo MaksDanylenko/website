@@ -9,5 +9,4 @@ linkedin: ""
 github: ""
 youtube: ""
 website: "https://datallmhub.github.io/agentflow4j"
-frozen: false
 ---

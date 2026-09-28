@@ -17,7 +17,6 @@ related_posts:
   - "5-more-reasons-to-choose-apache-pulsar-over-apache-kafka"
   - "bring-streaming-to-apache-cassandra-with-apache-pulsar"
   - "streaming-real-time-data-on-the-hazelcast-viridian-serverless"
-frozen: false
 ---
 
 ## Introduction

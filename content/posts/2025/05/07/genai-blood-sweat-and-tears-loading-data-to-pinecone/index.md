@@ -16,7 +16,6 @@ related_posts:
   - "building-a-fullstack-imdb-clone-with-a-java-backend-using-sparkjava-and-neo4j"
   - "journeys-in-java-level-3-building-an-empire-of-microservices"
   - "journeys-in-java-level-5-building-an-empire-of-microservices"
-frozen: false
 ---
 
 As someone who is pretty familiar with relational and graph databases, I wanted to dig a little deeper into vector databases and understand the strengths and quirks they bring to the database table. I put together a conference abstract on vector RAG versus GraphRAG which got picked up, so I went to work building a demo and learning all I could.

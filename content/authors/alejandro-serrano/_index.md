@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/alejandroserranomena/"
 github: ""
 youtube: ""
 website: "https://x.com/trupill"
-frozen: false
 ---

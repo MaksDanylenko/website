@@ -12,7 +12,6 @@ related_posts:
   - "foojay-podcast-14"
   - "what-are-you-missing-by-debugging-in-vs-code"
   - "remote-debugging-dangers-and-pitfalls"
-frozen: false
 ---
 
 I've been a Java developer long enough to remember the excitement when Sun introduced the concept of serialization in the JVM.

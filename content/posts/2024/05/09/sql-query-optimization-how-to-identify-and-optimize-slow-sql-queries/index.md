@@ -14,7 +14,6 @@ related_posts:
   - "effective-coding-with-java-observability"
   - "foojay-podcast-29"
   - "offline-crypto-address-validation-in-java"
-frozen: false
 ---
 
 **In this article, we want to share our experience with fellow developers and offer insights using real-life examples on how to identify and optimize slow SQL queries, especially when working with relational database management systems like PostgreSQL, MySQL, MSSQL, Oracle, etc.**

@@ -16,7 +16,6 @@ related_posts:
   - "crossing-the-river-styx-spring-boot-3-5-and-the-zombie-dependency-problem"
   - "whats-new-in-the-january-2026-payara-platform-release"
   - "from-spring-boot-to-jakarta-ee-11-how-payara-starter-eases-the-transition"
-frozen: false
 ---
 
 The recent releases of[Spring Framework 7.0](https://spring.io/blog/2025/11/13/spring-framework-7-0-general-availability " Spring Framework 7.0") and [Spring Data 2025.1.0](https://spring.io/blog/2025/11/14/spring-data-2025-1-goes-ga "Spring Data 2025.1.0") mark an important milestone for the Java ecosystem, with both now aligned with [Jakarta EE 11](https://jakarta.ee/news/jakarta-ee-11-released/ "Jakarta EE 11"). This compatibility represents a continued convergence between the two major Enterprise Java Platforms.

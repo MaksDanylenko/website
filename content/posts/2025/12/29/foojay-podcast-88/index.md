@@ -14,7 +14,6 @@ related_posts:
   - "foojay-podcast-85"
   - "foojay-podcast-84"
   - "foojay-podcast-83"
-frozen: false
 ---
 
 ***What turns a nervous first-timer into a confident conference speaker? Let's find out.***

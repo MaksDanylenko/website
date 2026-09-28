@@ -19,7 +19,6 @@ related_posts:
   - "foojay-podcast-4"
   - "installing-java-with-sdkman-on-raspberry-pi"
   - "where-production-policy-belongs-building-eliya-in-public"
-frozen: false
 ---
 
 **Did you know Foojay is not only a human-readable OpenJDK knowledge base but also provides the Disco API that lets you search all OpenJDK distributions? And even if you didn't know, you probably already are using it, as it's integrated into [SDKMAN!](https://sdkman.io/), [JReleaser](https://jreleaser.org/), [JBang!](https://www.jbang.dev/), [Gradle toolchain](https://docs.gradle.org/current/userguide/toolchains.html), [Paketo buildpacks](https://paketo.io/docs/howto/java/),and more.**

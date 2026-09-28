@@ -13,7 +13,6 @@ related_posts:
   - "the-debugger-checklist-part-ii"
   - "eight-debugging-tips-for-intellijidea-users-you-never-knew-existed"
   - "boxlang-aws-azure-and-google-secrets-manager-module-released"
-frozen: true
 ---
 
 **Just in time for Halloween failures in production are scarier than most movie monsters. Here's a personal scary story of a production fail...**

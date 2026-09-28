@@ -11,7 +11,6 @@ categories:
   - "Microservices"
   - "Surveys"
 related_posts:
-frozen: false
 ---
 
 The Payara Platform 2021 Survey is underway and we're inviting everyone to [answer a few questions](https://forms.office.com/Pages/ResponsePage.aspx?id=Ol4Z8U5Yuk6GfwMLbUz_qRvNA3jNrcFAk2okHLVZDLJUOUNCWllWM1ZBMzBQTkk1NU85MUtVU05WNi4u) about your use of the Payara Platform and ecosystem components.

@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/jens-k-87b4a717b/"
 github: ""
 youtube: ""
 website: "https://jensknipper.de"
-frozen: false
 ---

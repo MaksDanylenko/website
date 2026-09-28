@@ -13,7 +13,6 @@ related_posts:
   - "book-review-help-your-boss-help-you"
   - "book-review-seriously-good-software"
   - "openjdk-vs-openjfx-release-cycles"
-frozen: false
 ---
 
 {{< img src="book-java-by-comparison-423x510.png" class="size-medium" width="423" height="510" >}}

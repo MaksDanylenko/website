@@ -16,7 +16,6 @@ related_posts:
   - "creating-cloud-native-java-applications-with-the-12-factor-app-methodology"
   - "data-modeling-for-java-developers-structuring-with-postgresql-and-mongodb"
   - "how-to-identify-the-underlying-causes-of-connection-timeout-errors-for-mongodb-with-java"
-frozen: false
 ---
 
 Imagine this: You're working with a relational database that's served you well for years, but now your applications demand flexibility, scalability, and faster development cycles. Transitioning from structured tables to MongoDB's dynamic, schema-less JSON documents might be daunting. That's where MongoDB's Relational Migrator becomes your secret weapon.

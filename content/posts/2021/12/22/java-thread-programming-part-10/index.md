@@ -13,7 +13,6 @@ related_posts:
   - "java-thread-programming-part-8"
   - "java-thread-programming-part-7"
   - "java-thread-programming-part-11"
-frozen: false
 ---
 
 In this article, I will discuss `BlockingQueue`, one of the essential concurrent collections available in the concurrent package in the JDK. In [one of our previous articles](https://foojay.io/today/java-thread-programming-part-6/), we discussed the Producer/Consumer pattern. We will implement the same pattern today using BlockingQueue.

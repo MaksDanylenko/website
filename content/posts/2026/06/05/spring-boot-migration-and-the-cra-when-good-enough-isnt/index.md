@@ -13,7 +13,6 @@ related_posts:
   - "crossing-the-river-styx-spring-boot-3-5-and-the-zombie-dependency-problem"
   - "ai-found-the-bugs-whos-patching-your-eol-java-code"
   - "foojay-podcast-95"
-frozen: false
 ---
 
 Back in April I [wrote](https://foojay.io/today/crossing-the-river-styx-spring-boot-3-5-and-the-zombie-dependency-problem/ "wrote") about what happens to your security posture when Spring Boot 3.5 crosses the EOL line.

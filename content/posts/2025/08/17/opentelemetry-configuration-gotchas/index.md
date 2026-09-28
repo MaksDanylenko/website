@@ -14,7 +14,6 @@ related_posts:
   - "creating-cloud-native-java-applications-with-the-12-factor-app-methodology"
   - "couch-to-fully-observed-code-with-spring-boot-3-2-micrometer-tracing-and-digma"
   - "continuous-feedback-free-udemy-course-additional-coupons-available"
-frozen: false
 ---
 
 Last week, I described [several approaches to OpenTelemetry on the JVM](https://blog.frankel.ch/opentelemetry-tracing-jvm/), their requirements, and their different results. This week, I want to highlight several gotchas found across stacks in the zero-code instrumentation.

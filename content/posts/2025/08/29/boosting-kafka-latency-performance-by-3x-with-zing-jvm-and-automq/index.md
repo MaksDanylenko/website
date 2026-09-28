@@ -17,7 +17,6 @@ related_posts:
   - "changes-included-in-release-24-08-of-azul-zing-builds-of-openjdk"
   - "azul-august-2026-release-javas-first-monthly-cspu"
   - "new-between-quarters-security-updates-for-java-what-cspus-mean-for-your-release-pipeline"
-frozen: false
 ---
 
 ![](kafka-with-zing-and-automq.jpg)

@@ -15,7 +15,6 @@ related_posts:
   - "spring-ai-how-to-write-genai-applications-with-java"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "how-is-leyden-improving-java-performance-part-3-of-3"
-frozen: false
 ---
 
 In November, [Cohere released a dataset containing all of Wikipedia](https://huggingface.co/datasets/Cohere/wikipedia-2023-11-embed-multilingual-v3), chunked and embedded to vectors with [their multilingual-v3 model](https://cohere.com/blog/introducing-embed-v3).

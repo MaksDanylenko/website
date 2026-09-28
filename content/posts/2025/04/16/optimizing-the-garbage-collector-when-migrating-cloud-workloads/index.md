@@ -18,7 +18,6 @@ related_posts:
   - "achieving-high-throughput-without-sacrificing-latency"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "eight-debugging-tips-for-intellijidea-users-you-never-knew-existed"
-frozen: false
 ---
 
 ## Introduction to Java on Arm

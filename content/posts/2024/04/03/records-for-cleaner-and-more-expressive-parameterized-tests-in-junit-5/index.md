@@ -12,7 +12,6 @@ related_posts:
   - "5-things-you-probably-didnt-know-about-java-concurrency"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "a-minor-but-useful-refactoring-technique-that-would-reduce-your-code-footprint-part-1"
-frozen: false
 ---
 
 ### **Introduction**:

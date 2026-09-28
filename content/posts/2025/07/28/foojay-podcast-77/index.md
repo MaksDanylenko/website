@@ -15,7 +15,6 @@ related_posts:
   - "foojay-podcast-75"
   - "foojay-podcast-74"
   - "foojay-podcast-73"
-frozen: false
 ---
 
 This is the first Foojay podcast in Spanish. It's also the shortest one and the final of season 4 😉 Jonathan Vila "highjacked" the microphone from Geertjan Wielenga (See [episode 76](https://foojay.io/today/foojay-podcast-76-devbcn-report-part-1-learn-from-the-community/)) during the DevBcn conference in Barcelona and interviewed a few of the participants for this first Spanish-only edition of the podcast.

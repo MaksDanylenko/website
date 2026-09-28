@@ -14,7 +14,6 @@ categories:
   - "Machine Learning"
   - "Spring"
 related_posts:
-frozen: false
 ---
 
 ## Introduction

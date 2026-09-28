@@ -14,7 +14,6 @@ related_posts:
   - "eight-debugging-tips-for-intellijidea-users-you-never-knew-existed"
   - "9-outdated-ideas-about-java"
   - "augmenting-the-client-with-alpine-js"
-frozen: false
 ---
 
 Understanding the shared steps in the project setup is crucial before delving into the specifics of each client-augmenting technology. My requirements [from the last post](https://blog.frankel.ch/ajax-ssr/1/) where quite straightforward:

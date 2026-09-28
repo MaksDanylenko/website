@@ -16,7 +16,6 @@ related_posts:
   - "beginning-javafx-with-intellij"
   - "creating-a-simple-spring-boot-application-in-intellij-idea"
   - "debugging-tutorial-1-introduction-conditional-breakpoints-set-value"
-frozen: false
 ---
 
 As developers, we're all familiar with debuggers. We use debugging tools on a daily basis – they're an essential part of programming. But let's be honest. Usually, we only use the breakpoint option. If we're feeling frisky, we might use a conditional breakpoint.

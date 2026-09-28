@@ -16,7 +16,6 @@ related_posts:
   - "agents-meet-databases-the-future-of-agentic-architectures"
   - "best-practices-for-deploying-mongodb-in-kubernetes"
   - "beyond-keywords-hybrid-search-with-atlas-and-vector-search-part-3"
-frozen: false
 ---
 
 This is going to be a fun, practical tutorial demonstrating how to build a Java faceted full-text search API (like the ones powering sites like Amazon)!

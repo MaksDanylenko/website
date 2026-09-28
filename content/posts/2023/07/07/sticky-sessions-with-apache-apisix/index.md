@@ -14,7 +14,6 @@ related_posts:
   - "blockhound-how-it-works"
   - "chopping-monolith"
   - "dry-your-apache-apisix-config"
-frozen: false
 ---
 
 Sticky sessions, also known as session affinity, is a mechanism by which a routing component that acts as a facade always routes a request to the same underlying upstream node.

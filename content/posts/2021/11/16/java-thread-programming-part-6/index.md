@@ -13,7 +13,6 @@ related_posts:
   - "java-thread-programming-part-4"
   - "java-thread-programming-part-3"
   - "java-thread-programming-part-2"
-frozen: false
 ---
 
 > Have you ever wondered what is the purpose of the "wait()", "notify()", "notifyAll()" methods that come with each Java object? Well, this article will explain that!

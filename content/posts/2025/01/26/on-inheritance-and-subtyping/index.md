@@ -12,7 +12,6 @@ categories:
 related_posts:
   - "on-cosmetics-vs-intrinsics-programming"
   - "three-mistakes-junior-software-developers-make-preventing-getting-hired-on-amazing-projects"
-frozen: false
 ---
 
 Java is the first language I learned in my career. Its structure is foundational in my early years of understanding programming concepts. After going through several other languages with very different approaches, I've widened my point of view. Today, I want to reflect on the idea of *inheritance*.

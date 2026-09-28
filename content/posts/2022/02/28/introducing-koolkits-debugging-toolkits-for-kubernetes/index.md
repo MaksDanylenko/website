@@ -14,7 +14,6 @@ related_posts:
   - "eight-debugging-tips-for-intellijidea-users-you-never-knew-existed"
   - "the-debugger-checklist-part-ii"
   - "what-is-debugging-in-140-seconds"
-frozen: false
 aliases:
   - "/today/introducing-koolkits - oss-debugging-toolkits-for-kubernetes/"
 ---

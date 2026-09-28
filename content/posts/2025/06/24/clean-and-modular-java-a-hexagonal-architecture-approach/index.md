@@ -14,7 +14,6 @@ categories:
 related_posts:
   - "testing-mongodb-atlas-search-java-apps-using-testcontainers"
   - "understanding-bson-a-beginners-guide-to-mongodbs-data-format"
-frozen: false
 ---
 
 One of the discussions that always leaves me with both doubts and excitement is the one about system architecture. Ever since I started diving deeper into programming, I've encountered questions like how to separate packages and modules: is it really worth creating so many divisions? I must admit, it's often complicated to understand or make decisions without being fully sure that I'm doing the right thing.

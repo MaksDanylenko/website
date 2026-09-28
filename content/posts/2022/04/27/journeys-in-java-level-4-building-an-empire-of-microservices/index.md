@@ -15,7 +15,6 @@ related_posts:
   - "journeys-in-java-level-2-building-an-empire-of-microservices"
   - "journeys-in-java-level-3-building-an-empire-of-microservices"
   - "journeys-in-java-level-6-build-a-neo4j-microservice"
-frozen: false
 ---
 
 This article is the fourth iteration in a series of posts about building microservices in Java.

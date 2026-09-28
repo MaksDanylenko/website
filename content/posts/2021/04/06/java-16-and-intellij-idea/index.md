@@ -15,7 +15,6 @@ related_posts:
   - "exploring-java-records-in-a-jakarta-ee-context"
   - "java-on-azure-tooling-update-july-2022"
   - "debugging-tutorial-1-introduction-conditional-breakpoints-set-value"
-frozen: false
 ---
 
 If you are still working with Java 8, you might have mixed feelings about the news of the release of [Java 16](http://openjdk.java.net/projects/jdk/16/). However, you'll see these numbers are going to increment at a much faster and predictable rate with Java's six-month release cadence.

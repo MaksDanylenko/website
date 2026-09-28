@@ -15,7 +15,6 @@ related_posts:
   - "journeys-in-java-level-2-building-an-empire-of-microservices"
   - "journeys-in-java-level-3-building-an-empire-of-microservices"
   - "journeys-in-java-level-6-build-a-neo4j-microservice"
-frozen: false
 ---
 
 We continue building our microservices system by adding a coordination layer to handle spinning multiple services up and down.

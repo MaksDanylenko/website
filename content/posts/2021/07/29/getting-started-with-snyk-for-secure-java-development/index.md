@@ -12,7 +12,6 @@ categories:
   - "Snyk"
   - "Tutorials"
 related_posts:
-frozen: false
 ---
 
 If you're a Java developer who wants to develop your applications more securely, you've come to the right place. Snyk can help you with that mission.

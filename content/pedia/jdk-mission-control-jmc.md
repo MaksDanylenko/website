@@ -2,7 +2,6 @@
 title: "JDK Mission Control (JMC)"
 description: "JDK Mission Control is a suite of tools for profiling, monitoring, and diagnosing Java applications. It provides a GUI frontend for Java Flight Recorder (JFR) data and a live connection to running JVMs via JMX. JMC was originally developed by ..."
 url: "/pedia/jdk-mission-control-jmc/"
-frozen: false
 ---
 
 JDK Mission Control is a suite of tools for profiling, monitoring, and diagnosing Java applications. It provides a GUI frontend for [Java Flight Recorder (JFR)](https://foojay.io/pedia/jfr-java-flight-recorder/) data and a live connection to running JVMs via JMX.

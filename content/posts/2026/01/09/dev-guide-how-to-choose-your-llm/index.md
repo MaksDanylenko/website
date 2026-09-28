@@ -13,7 +13,6 @@ related_posts:
   - "spring-ai-agents-no-second-runtime"
   - "tiberius-a-security-testing-framework-for-llm-applications-in-java"
   - "boxlang-ai-3-2-0-image-generation-web-search-fluent-audio-agent-registry-mcp-observability"
-frozen: false
 ---
 
 ## The LLM ecosystem

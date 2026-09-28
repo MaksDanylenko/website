@@ -17,7 +17,6 @@ related_posts:
   - "duplicate-finder-for-documentation"
   - "localize-apps-with-ai"
   - "ask-a-lille-dev-what-java-developers-really-think-about-quality-frameworks-communities-and-careers"
-frozen: false
 ---
 
 Read in other languages: [中文](https://flounder.dev/zh/posts/debug-unresponsive-apps/) [Español](https://flounder.dev/es/posts/debug-unresponsive-apps/) [Português](https://flounder.dev/pt/posts/debug-unresponsive-apps/)

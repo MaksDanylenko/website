@@ -1,5 +1,5 @@
 ---
-title: "25 Years of IntelliJ IDEA: The IDE That Grew Up With Java"
+title: "Foojay Podcast #91: 25 Years of IntelliJ IDEA: The IDE That Grew Up With Java"
 date: "2026-03-02T07:21:06+00:00"
 description: "In this Foojay Podcast, we're celebrating a major milestone in Java development history: 25 years of IntelliJ IDEA. Think about it: IntelliJ IDEA launched…"
 authors:
@@ -15,7 +15,6 @@ related_posts:
   - "command-completion-intellij-idea"
   - "youre-invited-to-intellij-idea-conf-2026"
   - "eight-debugging-tips-for-intellijidea-users-you-never-knew-existed"
-frozen: false
 ---
 
 In this Foojay Podcast, we're celebrating a major milestone in Java development history: 25 years of IntelliJ IDEA.

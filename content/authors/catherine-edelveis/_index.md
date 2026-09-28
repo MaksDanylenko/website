@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/catherine-edelveis-13b2632ab/"
 github: ""
 youtube: ""
 website: "https://x.com/cat_edelveis"
-frozen: false
 ---

@@ -14,7 +14,6 @@ related_posts:
   - "detecting-investigating-and-verifying-fixes-for-security-incidents-and-zero-day-issues-using-lightrun"
   - "psa-the-risks-of-remote-jdwp-debugging"
   - "solarwinds-hack-and-the-executive-order-of-cybersecurity-what-does-this-mean-for-us"
-frozen: false
 ---
 
 In this article, we're going to look at the differences between the various cybersecurity defence techniques. Here you can identify four main groups, which we will go through briefly one after another to illustrate the advantages and disadvantages.

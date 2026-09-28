@@ -15,7 +15,6 @@ related_posts:
   - "exploring-new-features-in-jdk-23-factory-pattern-with-flexible-constructor-bodies-with-jep-482"
   - "exploring-new-features-in-jdk-23-null-object-pattern-to-avoid-null-pointer-exception-with-jep-455"
   - "boxlang-1-14-0-boxset-is-here-boxlangs-new-first-class-set-type"
-frozen: false
 ---
 
 Source-code flexibility goes hand in hand with maintainability and testability. The Java language benefits not only from its maturity but also from the fact that it is strongly typed. This may initiate possible discussion topics, as each defined variable requires its type to be known, which can lead to unnecessary verbosity in the source code (reduced by JEP-286: local variable type inference\[4\]).

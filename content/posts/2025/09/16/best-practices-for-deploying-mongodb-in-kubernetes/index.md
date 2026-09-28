@@ -15,7 +15,6 @@ related_posts:
   - "run-an-atlas-cluster-locally-in-minutes"
   - "queryable-encryption-with-spring-data-mongodb-how-to-query-encrypted-fields"
   - "understanding-bson-a-beginners-guide-to-mongodbs-data-format"
-frozen: false
 ---
 
 [Kubernetes](https://kubernetes.io/), also known as K8s, is an open-source system that simplifies the deployment, scaling, and management of containerized applications. You define your application's desired state, such as the number of instances ([pods](https://kubernetes.io/docs/concepts/workloads/pods/)) or how they communicate, and Kubernetes works continuously to ensure that state is met. It excels at running stateless workloads, where pods can be replaced at any time without impacting application state or user data. Think of web servers or REST APIs: If a pod crashes, Kubernetes simply spins up a replacement and everything continues as expected.

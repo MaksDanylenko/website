@@ -14,7 +14,6 @@ related_posts:
   - "jreleaser-0-9-0-released"
   - "jreleaser-0-8-0-released"
   - "jreleaser-0-7-0-released"
-frozen: false
 ---
 
 **JReleaser is a tool that streamlines creating releases for \[Java\] projects. It can create a GitHub/GitLab/Gitea release, while also packaging binaries for Homebrew, Snapcraft, Docker, Chocolatey, Scoop, JBang and, more than that, announces releases to Twitter, SdkMan!, e-mail, Zulip, Discord, Gitter, Slack, Teams, and more.**

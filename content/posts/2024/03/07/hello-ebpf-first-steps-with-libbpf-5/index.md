@@ -13,7 +13,6 @@ related_posts:
   - "hello-ebpf-recording-data-in-basic-ebpf-maps-2"
   - "hello-ebpf-recording-data-in-event-buffers-3"
   - "hello-ebpf-xdp-based-packet-filter-9"
-frozen: false
 ---
 
 **Welcome back to my blog series on eBPF. Two weeks ago, I showed you [how to write your own eBPF application using my hello-ebpf library based on libbcc](https://mostlynerdless.de/blog/2024/02/12/hello-ebpf-tail-calls-and-your-first-ebpf-application-4/). This week, I show you why using libbcc is not the best idea and start working with the newer [libbpf](https://libbpf.readthedocs.io/en/latest/).**

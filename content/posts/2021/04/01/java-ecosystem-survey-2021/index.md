@@ -11,7 +11,6 @@ image: "pE3ECVjEXTzDVr3fus4nGAzSoY7288RU21Vb-KQ5-4bb1e610.png"
 categories:
   - "Surveys"
 related_posts:
-frozen: false
 ---
 
 Just like in 2020, [Snyk](https://snyk.io) is creating a comprehensive Java 2021 report that reflects the state of the JVM ecosystem.

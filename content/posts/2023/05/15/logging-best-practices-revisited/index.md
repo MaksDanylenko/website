@@ -14,7 +14,6 @@ related_posts:
   - "spring-boot-debugging-with-aspect-oriented-programming-aop"
   - "relearning-java-thread-primitives"
   - "boldness-in-refactoring"
-frozen: false
 ---
 
 As I write this my interview on [DevCentral](https://www.youtube.com/@devcentral) [hasn't started yet](https://www.linkedin.com/events/7062528143797952513/comments/) so if you subscribe to my blog or [follow](https://www.youtube.com/@debugagent) [me](https://twitter.com/debugagent) [on](https://www.linkedin.com/in/shai-almog-81a42/) [socials](https://mastodon.social/@debugagent) you might be able to catch it live. If not the recording should appear right here:

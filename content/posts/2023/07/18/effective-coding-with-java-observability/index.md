@@ -13,7 +13,6 @@ related_posts:
   - "announcing-the-digma-beta-first-runtime-linter-for-java-code"
   - "boldness-in-refactoring"
   - "java-developer-vs-chatgpt-part-i-writing-a-spring-boot-microservice"
-frozen: false
 ---
 
 ## Things you can do right now to learn new and valuable things that can improve your code.

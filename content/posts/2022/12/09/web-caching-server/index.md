@@ -16,7 +16,6 @@ related_posts:
   - "a-list-of-cache-providers"
   - "chopping-monolith"
   - "augmenting-the-client-with-alpine-js"
-frozen: false
 ---
 
 The subject of Web resource caching is as old as the World Wide Web itself.

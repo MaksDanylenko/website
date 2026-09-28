@@ -12,7 +12,6 @@ related_posts:
   - "foojay-io-fosdem-speaker-predictions-for-2023"
   - "friends-of-openjdk-at-fosdem-2022"
   - "video-sdkman-explained"
-frozen: false
 ---
 
 Again, i.e., following on from good times in [2022](https://foojay.io/today/friends-of-openjdk-schedule-at-fosdem-2022/) and [2021](https://foojay.io/today/friends-of-openjdk-schedule-at-fosdem-2021/), we have a really great schedule with inspiring speakers for FOSDEM in Brussels, on Sunday, February 5, providing a place for Friends Of OpenJDK in the Foojay.io Developer Room.

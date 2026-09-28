@@ -19,7 +19,6 @@ related_posts:
   - "journeys-in-java-level-8-add-mongodb-to-spring-cloud-config"
   - "journeys-in-java-level-7-externalize-microservice-configuration"
   - "idempotent-spring-boot-starter"
-frozen: false
 ---
 
 Gaining complexity in a microservices system certainly isn't for the faint of heart (though neither is complexity in monoliths!).

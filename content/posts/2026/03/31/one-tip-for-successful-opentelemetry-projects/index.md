@@ -10,7 +10,6 @@ image: "cover_large-3.jpg"
 categories:
   - "Java"
 related_posts:
-frozen: false
 ---
 
 Leading your organization to use OpenTelemetry is a challenge. In addition to all the usual project hurdles, you'll face one of these two situations: convince your teams to use OpenTelemetry, or convince them to move from the telemetry tool they are already using to OpenTelemetry. Most people don't want to change. You'll need lots of effort and baby steps. My tip is the following: the fewer the changes, the higher your chances of success. In this post, I want to tackle a real-world use case and describe which tools you can leverage to reduce the necessary changes.

@@ -15,7 +15,6 @@ related_posts:
   - "asyncgetcalltrace-reworked-frame-by-frame-with-an-iterative-touch"
   - "class-loader-hierarchies"
   - "ask-a-lille-dev-what-java-developers-really-think-about-quality-frameworks-communities-and-careers"
-frozen: false
 ---
 
 ## Fixing bugs in Spring Boot and Mockito by instrumenting them

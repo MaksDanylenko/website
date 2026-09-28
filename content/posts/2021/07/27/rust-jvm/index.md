@@ -13,7 +13,6 @@ related_posts:
   - "the-try-block-in-rust"
   - "feedback-from-calling-rust-from-python"
   - "error-handling"
-frozen: false
 ---
 
 So far, we have learned the basics of Rust syntax, developed a custom Kubernetes controller, and integrated with the front-end with .

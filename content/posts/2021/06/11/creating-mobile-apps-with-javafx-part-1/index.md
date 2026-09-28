@@ -14,7 +14,6 @@ related_posts:
   - "creating-mobile-apps-with-javafx-part-3"
   - "virtual-foojay-openjdk-17-jug-tour"
   - "the-javafx-revival"
-frozen: false
 aliases:
   - "/today/creating-mobile-apps-with-javafx---part-1/"
 ---

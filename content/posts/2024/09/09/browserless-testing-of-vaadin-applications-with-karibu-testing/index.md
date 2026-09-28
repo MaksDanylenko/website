@@ -13,7 +13,6 @@ related_posts:
   - "blink-a-led-on-raspberry-pi-with-vaadin"
   - "book-review-modern-frontends-with-htmx"
   - "build-web-apps-in-pure-java-with-vaadin-flow"
-frozen: false
 ---
 
 I**n modern web development, testing is essential for ensuring the reliability and performance of applications. For developers working with Vaadin, one of the best testing tools is Karibu Testing. This testing framework stands out for its ability to run browserless testing, offering several advantages over traditional end-to-end testing approaches, such as Selenium, Playwright, or Cypress.**

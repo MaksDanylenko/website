@@ -10,7 +10,6 @@ categories:
   - "JavaFX"
   - "Use Cases"
 related_posts:
-frozen: false
 ---
 
 I'm a [Java (JavaFX) freelance consultant, Software Engineer and Software Designer](http://www.pixelduke.com/) and a few months ago I finished a CAD application for a client.

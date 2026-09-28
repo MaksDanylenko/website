@@ -17,7 +17,6 @@ related_posts:
   - "analyzing-and-tuning-warm-up-of-the-jvm-with-azul-zulu-prime-builds-of-openjdk"
   - "explained-memory-allocation-pacing-in-azul-zulu-prime-builds-of-openjdk"
   - "changes-included-in-release-24-02-of-azul-zing-builds-of-openjdk"
-frozen: false
 ---
 
 **Today's modern, containerized, elastically scaling Java clusters often rely on CPU utilization as the main trigger for scaling out new instances. Imperfect as this metric may be, it is ubiquitous to scale out new instances based on CPU utilization going over some limit. Often that limit is surprisingly low, somewhere around 40 to 50%.**

@@ -13,7 +13,6 @@ related_posts:
   - "the-debugger-checklist-part-ii"
   - "spring-boot-performance-workshop-with-vlad-mihalcea"
   - "get-started-with-allocation-profiling"
-frozen: true
 ---
 
 Say you have a new code base to study or picked up an open source project. You might be a seasoned developer for whom this is another project in a packed resume. Alternatively, you might be a junior engineer for whom this is the first "real" project.

@@ -13,7 +13,6 @@ related_posts:
   - "5-great-reasons-to-use-jooq"
   - "a-faster-way-to-build-react-spring-boot-apps-using-hilla-1-3"
   - "blink-a-led-on-raspberry-pi-with-vaadin"
-frozen: false
 ---
 
 **Want to track how users interact with your Vaadin Flow application? Learn how to integrate Google Analytics with a clean, reusable component. This guide shows you step-by-step instructions on how to set up tracking, monitor page views, and capture custom events in your Vaadin application.**

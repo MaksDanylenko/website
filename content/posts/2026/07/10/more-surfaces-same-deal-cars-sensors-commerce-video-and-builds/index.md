@@ -13,7 +13,6 @@ related_posts:
   - "push-v3-one-message-from-your-server-to-every-surface"
   - "the-codename-one-javascript-port-is-now-free-and-open-source"
   - "own-your-pixels-native-fidelity-on-your-schedule"
-frozen: false
 ---
 
 ![More Surfaces, Same Deal: Cars, Sensors, Commerce, Video And Builds](one-codebase-more-surfaces.jpg)

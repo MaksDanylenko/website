@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/raphaeldelio/"
 github: ""
 youtube: ""
 website: "https://raphaeldelio.com"
-frozen: false
 ---

@@ -16,7 +16,6 @@ related_posts:
   - "how-to-publish-a-java-maven-project-to-the-maven-central-repository"
   - "how-to-release-a-java-module-with-jreleaser-to-maven-central-with-github-actions"
   - "offline-crypto-address-validation-in-java"
-frozen: false
 ---
 
 ***This article is the first in a series about SBOMs, software supply chains, the government and you. Buckle up - it's going to be a wild ride. Luckily there is cake to see you through.***

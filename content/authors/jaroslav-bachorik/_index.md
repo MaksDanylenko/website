@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/jbachorik/"
 github: ""
 youtube: ""
 website: ""
-frozen: false
 ---

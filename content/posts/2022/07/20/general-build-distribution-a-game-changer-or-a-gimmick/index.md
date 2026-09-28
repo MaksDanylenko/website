@@ -14,7 +14,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "evolution-of-microservices"
   - "compilation-avoidance-with-gradle"
-frozen: false
 ---
 
 **Understand the performance potential of remote and distributed builds and explore how to improve build feedback times.**

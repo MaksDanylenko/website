@@ -10,7 +10,6 @@ type: "champions"
 outputs:
   - html
   - rss
-frozen: true
 ---
 
 The Java Champions program recognizes influential members of the Java community &mdash; presenters, authors, educators, JUG and conference organizers, and others who've helped shape the ecosystem. Read more on [javachampions.org](https://javachampions.org/).

@@ -9,7 +9,6 @@ image: "Favicon-3-2.png"
 categories:
   - "Library"
 related_posts:
-frozen: false
 ---
 
 PDF files are the world's most common file format, defining 70% of the world's documents. But they are also complex and poorly supported by Java.

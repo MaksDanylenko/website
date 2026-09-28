@@ -16,7 +16,6 @@ related_posts:
   - "kafka-vs-chronicle-for-microservices-which-is-750-times-faster"
   - "7-reasons-to-choose-apache-pulsar-over-apache-kafka"
   - "achieving-high-throughput-without-sacrificing-latency"
-frozen: false
 ---
 
 Most Apache Kafka benchmarks appear to test high throughput but not low latency.

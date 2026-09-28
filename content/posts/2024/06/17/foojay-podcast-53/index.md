@@ -26,7 +26,6 @@ related_posts:
   - "foojay-podcast-51"
   - "foojay-podcast-50"
   - "foojay-podcast-19"
-frozen: false
 aliases:
   - "/today/foojay-podcast-53-jcon-report-part-5-cqrs-jooq-graphql-api-vaadin-openrewrite-errorprone-gateways-proxies/"
 ---

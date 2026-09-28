@@ -18,7 +18,6 @@ related_posts:
   - "interviews-with-robert-savage-and-johan-vos-on-the-state-of-java-on-raspberry-pi"
   - "build-web-apps-in-pure-java-with-vaadin-flow"
   - "controlling-electronics-with-jbang-on-the-raspberry-pi"
-frozen: false
 ---
 
 As I'm becoming a senior developer, at least in terms of age, I've transitioned from one language to another.

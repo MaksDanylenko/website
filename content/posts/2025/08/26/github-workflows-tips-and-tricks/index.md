@@ -14,7 +14,6 @@ related_posts:
   - "kubernetes-gateway-api"
   - "real-world-stream-collector"
   - "a-short-history-of-ajax-and-ssr"
-frozen: false
 ---
 
 I've quite a lengthy experience with GitHub workflows, but not up to the point where I can claim I'm an expert. However, I recently developed a new workflow, and it prompted me to write this post. Feel free to add your own.

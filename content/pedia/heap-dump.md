@@ -2,7 +2,6 @@
 title: "Heap Dump"
 description: "A heap dump is a snapshot of all the objects in a Java process's heap memory at a specific point in time, written to a file. It captures every object, its class, its size, and the references connecting objects to ..."
 url: "/pedia/heap-dump/"
-frozen: false
 ---
 
 A heap dump is a snapshot of all the objects in a Java process's heap memory at a specific point in time, written to a file. It captures every object, its class, its size, and the references connecting objects to each other.

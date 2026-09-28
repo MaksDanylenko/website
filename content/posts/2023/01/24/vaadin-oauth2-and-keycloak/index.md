@@ -14,7 +14,6 @@ related_posts:
   - "blink-a-led-on-raspberry-pi-with-vaadin"
   - "build-web-apps-in-pure-java-with-vaadin-flow"
   - "crafting-your-own-railway-display-with-java"
-frozen: false
 ---
 
 This article shows how to configure Vaadin and Spring Security to use OAuth2 with Keycloak.

@@ -15,7 +15,6 @@ related_posts:
   - "eight-debugging-tips-for-intellijidea-users-you-never-knew-existed"
   - "analyzing-dependencies-in-intellij-idea"
   - "beginning-javafx-with-intellij"
-frozen: false
 ---
 
 ## We are excited to invite you to IntelliJ IDEA Conf 2025, a free virtual event.

@@ -10,7 +10,6 @@ categories:
   - "JDK Flight Recorder"
   - "Security"
 related_posts:
-frozen: false
 ---
 
 In December 2020, an advanced persistent threat attacked many companies by [injecting malicious code into a vendor application](https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html) that belonged to SolarWinds. This technique is called a "supply chain attack," because instead of targeting the victim directly, the attacker damaged something higher up the supply chain and simply waited. The US government uses SolarWinds, so by attacking SolarWinds in a way that would infiltrate the US government, the attacker effectively got their target.

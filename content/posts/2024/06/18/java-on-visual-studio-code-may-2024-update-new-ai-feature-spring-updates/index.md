@@ -14,7 +14,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "announcing-the-bsp-repo"
   - "boldness-in-refactoring"
-frozen: false
 ---
 
 Hi everyone, welcome to the May update for Visual Studio Code for Java!

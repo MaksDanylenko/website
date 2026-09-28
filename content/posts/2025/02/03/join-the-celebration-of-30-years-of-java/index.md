@@ -9,7 +9,6 @@ image: "duke30.jpg"
 categories:
   - "Events"
 related_posts:
-frozen: false
 ---
 
 **On Thursday, March 13, Azul is hosting a virtual celebration of 30 years of Java, starting at 09:00 PST / 17:00 GMT / 18:00 CET.**

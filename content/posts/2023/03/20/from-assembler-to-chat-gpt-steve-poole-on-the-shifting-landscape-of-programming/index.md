@@ -13,7 +13,6 @@ related_posts:
   - "developer-productivity-masterclass-interview-with-leonid-blouvshtein"
   - "a-minor-but-useful-refactoring-technique-that-would-reduce-your-code-footprint-part-1"
   - "from-law-degree-to-java-champion-geertjan-wielenga-on-the-success-of-java-and-navigating-the-software-industry"
-frozen: false
 ---
 
 {{< img src="image-4-921x1024.jpg" class="alignright size-large is-resized" width="461" height="512" >}}

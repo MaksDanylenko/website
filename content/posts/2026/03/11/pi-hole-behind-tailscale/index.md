@@ -10,7 +10,6 @@ image: "cover_large.jpg"
 categories:
   - "Java"
 related_posts:
-frozen: false
 ---
 
 As I age, I become increasingly cautious about my privacy. The slope the world is sliding on is also a big, unfortunate incentive. I have been eying Pi-hole for some time: in this post, I want to explain what it does, how to install it on a [Raspberry Pi](https://www.raspberrypi.com/), and how to integrate it with [Tailscale](https://tailscale.com/).

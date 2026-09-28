@@ -8,5 +8,4 @@ linkedin: "https://www.linkedin.com/in/danamcrane/"
 github: ""
 youtube: ""
 website: "https://www.azul.com/blog/author/dcrane/"
-frozen: false
 ---

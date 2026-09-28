@@ -13,7 +13,6 @@ related_posts:
   - "choosing-a-cache-1"
   - "container-awareness-for-java"
   - "contributing-to-openjdk-mission-control"
-frozen: false
 ---
 
 Recently, we described [several criteria to look at to choose a cache](https://foojay.io/today/choosing-a-cache-1/). Now it's time to list Java cache providers based on these criteria.

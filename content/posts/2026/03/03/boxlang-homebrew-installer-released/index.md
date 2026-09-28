@@ -13,7 +13,6 @@ categories:
   - "Release Notes"
   - "Tools"
 related_posts:
-frozen: false
 ---
 
 ![](boxlang-homebrew-700x467.jpg)

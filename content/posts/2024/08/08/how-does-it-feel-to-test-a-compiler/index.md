@@ -15,7 +15,6 @@ related_posts:
   - "book-review-frontend-development-with-javafx-and-kotlin"
   - "unit-testing-supabase-in-kotlin-using-test-containers-part-2"
   - "exposed-kotlin-orm-complete-guide"
-frozen: false
 ---
 
 **Hi, my name is Alex. I work as a QA engineer on the [Kotlin/Native](https://kotlinlang.org/docs/native-overview.html "Kotlin/Native") team. I'm often asked by friends and colleagues what it's like to test a compiler, so I decided to write an article about it.**

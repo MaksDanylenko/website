@@ -14,7 +14,6 @@ related_posts:
   - "ap-loader-a-new-way-to-use-and-embed-async-profiler"
   - "a-short-primer-on-java-debugging-internals"
   - "asyncgetcalltrace-reworked-frame-by-frame-with-an-iterative-touch"
-frozen: false
 ---
 
 In [my last article](https://foojay.io/today/do-you-trust-profilers-i-once-did-too/), I covered a correctness bug in the fundamental Java profiling API AsyncGetCallTrace that I found just by chance.

@@ -13,7 +13,6 @@ related_posts:
   - "book-review-api-design-patterns"
   - "book-review-designing-apis-with-swagger-and-openapi"
   - "book-review-effortless-cloud-native-app-development-using-skaffold"
-frozen: false
 ---
 
 Shai Almog's "[Java Basics: A Practical Introduction to Full Stack Java](https://www.amazon.com/Java-Basics-Practical-Introduction-Full-Stack/dp/B0CCCJ38WH)" more than lives up to its title. And how could it be otherwise, with its highly Java driven and opinionated author having a track record going back to leading Java mobile efforts all the way back to Sun Microsystems.

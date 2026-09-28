@@ -18,7 +18,6 @@ related_posts:
   - "a-case-for-databases-on-kubernetes-from-a-former-skeptic"
   - "developing-an-enterprise-level-apache-cassandra-sink-connector-for-apache-pulsar"
   - "why-developers-should-use-apache-pulsar"
-frozen: false
 ---
 
 ***I wrote an earlier version of this article in 2019, while I was CEO of Kesque, a real-time messaging service built on*** [***Apache Pulsar***](https://pulsar.apache.org/)***, the cloud-native distributed messaging and streaming platform. A lot of big changes have happened in the interim; perhaps the most significant of these is the fact that the company I founded in early 2019 was*** [***acquired***](https://www.datastax.com/press-release/datastax-delivers-scale-out-enterprise-event-streaming-modern-data-apps)***, in January, by DataStax. One thing that hasn't changed, however, is the rationale behind our choice of Apache Pulsar.***

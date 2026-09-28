@@ -15,7 +15,6 @@ related_posts:
   - "exposed-kotlin-orm-complete-guide"
   - "jc-ai-newsletter-15"
   - "jc-ai-newsletter-13"
-frozen: false
 ---
 
 Kotlin offers many exciting features. In general, developers tend to cite null safety as their favorite. For me, it's function extensions. But delegation comes a close second.

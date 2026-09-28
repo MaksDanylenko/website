@@ -13,7 +13,6 @@ related_posts:
   - "vs-code-java-july-2021-update-new-testing-experience-maven-improvements-and-product-roadmap-progress-update"
   - "vs-code-java-august-updates-springone-updates-ux-improvements-community-feedback"
   - "effective-cloud-native-development-open-liberty-vs-code"
-frozen: false
 ---
 
 In our [last post](https://foojay.io/today/welcome-to-vs-code-for-java/ "last post"), we talked about starting a new Java project and running and debugging it with VS Code. In this post, we will cover testing.

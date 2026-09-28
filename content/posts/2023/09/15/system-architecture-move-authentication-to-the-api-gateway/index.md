@@ -15,7 +15,6 @@ related_posts:
   - "apisix-api-gateway"
   - "authenticate-with-openid-connect-and-apache-apisix"
   - "poor-mans-api"
-frozen: true
 ---
 
 **When exposing an application to the outside world, consider a Reverse-Proxy or an API Gateway to protect it from attacks. Rate Limiting comes to mind first, but it shouldn't stop there. We can factor many features in the API Gateway and should be bold in moving them from our apps. In this post, I'll show how to implement authentication at the Gateway API stage.**

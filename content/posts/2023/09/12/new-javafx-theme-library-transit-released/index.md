@@ -15,7 +15,6 @@ related_posts:
   - "blink-a-led-on-raspberry-pi-with-vaadin"
   - "a-quick-look-at-faces-jsf-4-0-in-jakarta-ee-10"
   - "sheetmusic4j-0-0-3-abc-notation-guitar-pro-engraving-improvements"
-frozen: false
 ---
 
 **A new Java (JavaFX) theme has been released. This is a new theme called "Transit" and it builds upon the lessons learned while developing JMetro. The code is hosted on [Github](https://github.com/dukke/Transit).**

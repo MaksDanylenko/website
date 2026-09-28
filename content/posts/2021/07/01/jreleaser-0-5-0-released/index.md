@@ -13,7 +13,6 @@ related_posts:
   - "jreleaser-0-9-0-released"
   - "jreleaser-0-8-0-released"
   - "jreleaser-0-7-0-released"
-frozen: false
 ---
 
 JReleaser v0.5.0 has been released!

@@ -15,7 +15,6 @@ related_posts:
   - "kafka-vs-chronicle-for-microservices-which-is-750-times-faster"
   - "chronicle-queue-storing-1tb-in-virtual-memory-on-a-128gb-machine"
   - "creating-terabyte-sized-queues-with-low-latency"
-frozen: false
 ---
 
 While the Cloud offers great convenience and flexibility, the operational cost for applications deployed in it can sometimes be significant.

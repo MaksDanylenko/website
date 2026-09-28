@@ -15,7 +15,6 @@ related_posts:
   - "chopping-monolith"
   - "how-to-beautify-your-github-repo"
   - "the-evolution-of-apis-from-restful-to-event-driven"
-frozen: false
 ---
 
 Ever since I started to work on the [Apache APISIX](https://apisix.apache.org/) project, I've been trying to improve my knowledge and understanding of REST RESTful HTTP APIs.

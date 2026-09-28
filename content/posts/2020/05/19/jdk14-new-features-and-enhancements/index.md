@@ -14,7 +14,6 @@ related_posts:
   - "how-is-leyden-improving-java-performance-part-2-of-3"
   - "indexing-all-of-wikipedia-on-a-laptop"
   - "billion-events-per-second-with-millisecond-latency"
-frozen: false
 ---
 
 Well, another six months have passed, and we have another release of Java, this one pretty packed with exciting new features. It is, therefore, time for another blog post trying to list everything new in [JDK 14](https://openjdk.java.net/projects/jdk/14/).

@@ -14,7 +14,6 @@ related_posts:
   - "semeru-v11-beyond-oct-2024"
   - "start-using-java-21"
   - "pseudorandom-number-generator"
-frozen: false
 ---
 
 **IBM® Semeru Runtimes™ for Java™ 11, 17, 21+ now includes FIPS 140-3 cryptography ([certified by the U.S. National Institute of Standards and Technology; NIST](https://csrc.nist.gov/projects/cryptographic-module-validation-program/certificate/4755 "certified by the U.S. National Institute of Standards and Technology (NIST)")) and is production-ready for Java deployments. FIPS 140-3 is also available in IBM SDK, Java Technology Edition, V8.**

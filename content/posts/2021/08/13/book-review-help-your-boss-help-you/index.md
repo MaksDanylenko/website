@@ -13,7 +13,6 @@ related_posts:
   - "book-review-seriously-good-software"
   - "book-review-java-by-comparison"
   - "new-to-java-some-resources"
-frozen: false
 ---
 
 {{< img src="book-help-your-boss-help-you-415x510.png" class="size-medium" width="415" height="510" >}}

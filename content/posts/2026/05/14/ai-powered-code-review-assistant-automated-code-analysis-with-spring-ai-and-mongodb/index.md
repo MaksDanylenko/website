@@ -16,7 +16,6 @@ related_posts:
   - "agents-meet-databases-the-future-of-agentic-architectures"
   - "atlas-online-archive-efficiently-manage-the-data-lifecycle"
   - "atlas-searching-with-the-java-driver"
-frozen: false
 ---
 
 Code reviews catch bugs before they ship, but they take time. Most teams rely on manual review or basic linters that flag syntax issues but miss deeper problems like subtle resource leaks, poor exception handling, or security anti-patterns. Static analysis tools help, but they work with rigid rules that cannot generalize across code variations. A rule that catches `catch (Exception e) {}` will miss `catch (Throwable t) { return null; }`, even though both are the same underlying problem.

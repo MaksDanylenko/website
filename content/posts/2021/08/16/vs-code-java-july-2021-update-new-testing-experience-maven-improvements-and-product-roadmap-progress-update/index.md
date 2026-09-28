@@ -9,7 +9,6 @@ image: "Testing-Decoration-poster.png"
 categories:
   - "VS Code"
 related_posts:
-frozen: false
 ---
 
 Hi everyone and welcome to the July 2021 edition of the Visual Studio Code Java update!

@@ -16,7 +16,6 @@ related_posts:
   - "building-secure-ci-cd-pipelines-with-github-actions-for-your-java-application"
   - "exploring-cve-2022-33980-the-apache-commons-configuration-rce-vulnerability"
   - "new-java-17-features-for-improved-security-and-serialization"
-frozen: false
 ---
 
 Creating Java applications is great, and many resources are available.

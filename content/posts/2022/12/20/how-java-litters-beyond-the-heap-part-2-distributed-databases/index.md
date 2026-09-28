@@ -13,7 +13,6 @@ related_posts:
   - "how-java-litters-beyond-the-heap-relational-databases"
   - "how-java-litters-beyond-the-heap-part-3-solid-state-drives"
   - "are-java-security-updates-important"
-frozen: false
 ---
 
 **Let's create a simple Java application using a distributed database for the user data and see how the database generates litter in response to application requests.**

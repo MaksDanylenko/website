@@ -15,7 +15,6 @@ related_posts:
   - "5-things-you-probably-didnt-know-about-java-concurrency"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "offline-crypto-address-validation-in-java"
-frozen: false
 ---
 
 An uber-JAR, also known as a fat JAR or JAR with dependencies, is a JAR file that contains not only a Java program but embeds its dependencies as well, and might also contain the web application that needs to be executed.

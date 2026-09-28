@@ -9,7 +9,6 @@ image: "54521451118_839e4e684e_o.jpg"
 categories:
   - "Events"
 related_posts:
-frozen: false
 ---
 
 At [JCON EUROPE](https://2026.europe.jcon.one/), developers, speakers, and contributors from across the globe come together to exchange ideas, share experiences, and connect around Java.

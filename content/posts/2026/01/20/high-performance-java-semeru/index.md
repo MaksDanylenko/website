@@ -15,7 +15,6 @@ related_posts:
   - "how-we-developed-the-eclipse-openj9-criu-support-for-fast-java-startup"
   - "where-do-you-get-your-java"
   - "how-is-leyden-improving-java-performance-part-2-of-3"
-frozen: false
 ---
 
 Originally published at [developer.ibm.com](https://developer.ibm.com/articles/j-java-performance/ "developer.ibm.com").

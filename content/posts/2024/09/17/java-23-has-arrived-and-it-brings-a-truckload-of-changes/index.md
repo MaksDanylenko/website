@@ -17,7 +17,6 @@ related_posts:
   - "java-23-whats-new"
   - "exploring-new-features-in-jdk-23-simplifying-java-with-module-import-declarations-with-jep-476"
   - "offline-crypto-address-validation-in-java"
-frozen: false
 ---
 
 Java 23 has arrived! It's been six months since Java 22 was released, so it's time for a fresh truckload of JEPs.

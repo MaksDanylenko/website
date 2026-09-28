@@ -19,7 +19,6 @@ related_posts:
   - "running-javafx-applications-on-arm-with-azul-zulu"
   - "changes-included-in-release-24-02-of-azul-zing-builds-of-openjdk"
   - "will-openjfx-be-merged-into-openjdk-it-would-be-a-perfect-match-with-java-on-mobile"
-frozen: false
 ---
 
 In Part 1 of this series, "[A Fresh Look at Embedded Java](https://foojay.io/today/a-fresh-look-at-embedded-java/)," we explored the use of Java for embedded use cases.

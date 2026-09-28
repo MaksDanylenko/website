@@ -12,7 +12,6 @@ related_posts:
   - "foojay-at-fosdem-2022-on-youtube"
   - "friends-of-openjdk-at-fosdem-2022"
   - "friends-of-openjdk-at-fosdem-2021"
-frozen: false
 ---
 
 We're excited to announce that Friends Of OpenJDK (foojay.io), that is, developers who use OpenJDK on a day to day basis developing tools and technologies in languages such as Java and Kotlin, will be represented at [FOSDEM 2023](https://fosdem.org/) again at the live Foojay DevRoom on Sunday, 5 February 2023!

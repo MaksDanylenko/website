@@ -11,7 +11,6 @@ categories:
   - "Developer Tools"
   - "OpenTelemetry"
 related_posts:
-frozen: false
 ---
 
 Here's a super awesome prompt (e.g., for Claude Code) that you can use with <https://github.com/dash0hq/agent-skills>, the free collection of skills for AI coding agents to make applications observable with OpenTelemetry, such as with [Dash0](https://www.dash0.com/).

@@ -15,7 +15,6 @@ related_posts:
   - "a-simple-service-with-spring-boot"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "how-gradle-works-inside-the-daemon"
-frozen: false
 ---
 
 We at Gradle recently noticed some community chatter about speeding up Gradle compilation on the JVM by ignoring changes not affecting the application binary interface (ABIs) of dependencies.

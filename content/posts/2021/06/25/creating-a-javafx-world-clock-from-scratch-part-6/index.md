@@ -14,7 +14,6 @@ related_posts:
   - "first-experiments-with-java-on-the-lattepanda-iota"
   - "javafx-links-of-november-2025"
   - "will-openjfx-be-merged-into-openjdk-it-would-be-a-perfect-match-with-java-on-mobile"
-frozen: false
 ---
 
 > Wherever you go, no matter what the weather, always bring your own sunshine. -- Anthony J. D'Angelo

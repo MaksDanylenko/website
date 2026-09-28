@@ -13,7 +13,6 @@ related_posts:
   - "browserless-testing-of-vaadin-applications-with-karibu-testing"
   - "video-vaadin-drag-drop-support-its-so-easy"
   - "enterprise-java-application-development-with-jakarta-ee-and-vaadin"
-frozen: false
 ---
 
 **I've written a lot about [Vaadin](https://vaadin.com/). I was so enthusiastic that I wrote the [first book](https://www.amazon.fr/Learning-Vaadin-Nicolas-Frankel/dp/1849515220) about it (besides the Book of Vaadin), its [updated edition](https://www.amazon.fr/Learning-Vaadin-Second-Nicolas-Frankel/dp/1782169776) for Vaadin 7, and a [companion website](https://morevaadin.com/). Still, I'm amazed that so many people in the JVM world never heard of it.**

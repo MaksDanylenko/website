@@ -10,7 +10,6 @@ image: "jan-kopriva-AAMaDdDHLFg-unsplash.jpg"
 categories:
   - "Records"
 related_posts:
-frozen: false
 ---
 
 In this article, we will discuss Records, which is an official feature in Java 16, and we will apply this knowledge while using it in conjunction with a Spring Boot application.

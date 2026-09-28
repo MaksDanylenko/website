@@ -15,7 +15,6 @@ related_posts:
   - "foojay-podcast-28"
   - "azuls-high-performance-java-platform-achieves-historic-first-with-10000-customer-jvms-collaborating-and-sharing-performance-optimizations-cutting-cloud-costs-by-20"
   - "improve-devops-productivity-with-azul-intelligence-cloud-for-any-jvm"
-frozen: false
 ---
 
 Every year, I look forward to our [State of Java Survey \& Report](https://www.azul.com/state-of-java-2026?utm_medium=blog&utm_campaign=State-of-Java-2026&utm_source=web&utm_content=&utm_term=) because it gives us a view into how organizations are using Java today and where they're heading next. This year, more than 2,000 Java professionals from around the world weighed in, and their message is clear:

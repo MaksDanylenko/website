@@ -14,7 +14,6 @@ related_posts:
   - "foojay-podcast-10"
   - "foojay-podcast-8"
   - "ask-a-lille-dev-what-java-developers-really-think-about-quality-frameworks-communities-and-careers"
-frozen: false
 ---
 
 Last month we were in the US, and this time we travel to the other side of the world as we spoke with the organizers of the Japan JUG!

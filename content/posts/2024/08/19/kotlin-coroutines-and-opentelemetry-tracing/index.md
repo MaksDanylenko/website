@@ -15,7 +15,6 @@ related_posts:
   - "couch-to-fully-observed-code-with-spring-boot-3-2-micrometer-tracing-and-digma"
   - "exposed-kotlin-orm-complete-guide"
   - "ask-a-lille-dev-what-java-developers-really-think-about-quality-frameworks-communities-and-careers"
-frozen: false
 ---
 
 I recently [compared three OpenTelemetry approaches](https://blog.frankel.ch/opentelemetry-tracing-spring-boot/) on the JVM: Java Agent v1, v2, and Micrometer. I used Kotlin and coroutines without overthinking. I received interesting feedback on the usage of `@WithSpan` with coroutines:

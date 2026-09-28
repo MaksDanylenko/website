@@ -13,7 +13,6 @@ related_posts:
   - "book-review-seriously-good-software"
   - "build-a-status-dashboard-using-spring-boot-and-astra-db"
   - "offline-crypto-address-validation-in-java"
-frozen: false
 ---
 
 Generics are used to parameterize types. A piece of code can be written generically enough so that we can fit a variety of types in it. Being a strongly type-safe language, Java requires to specify types in all aspects of its code, methods, fields, interfaces, etc.

@@ -14,7 +14,6 @@ related_posts:
   - "did-you-know-you-can-create-mappers-without-creating-underlying-objects-in-java"
   - "creating-terabyte-sized-queues-with-low-latency"
   - "java-is-very-fast"
-frozen: false
 ---
 
 **Become familiar with the art of object reuse by reading this article and learn the pros and cons of different reuse strategies in a multi-threaded Java application. This allows you to write more performant code with less latency.**

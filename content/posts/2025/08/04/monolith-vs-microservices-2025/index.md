@@ -15,7 +15,6 @@ related_posts:
   - "backend-for-frontend-the-demo"
   - "jc-ai-newsletter-8"
   - "chopping-the-monolith-in-a-smarter-way"
-frozen: false
 ---
 
 In recent years, the tech world has been buzzing with debates about architecture choices. However, 2025 offers a more balanced perspective.

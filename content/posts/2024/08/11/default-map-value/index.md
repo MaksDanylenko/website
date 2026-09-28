@@ -15,7 +15,6 @@ related_posts:
   - "making-illegal-state-unrepresentable"
   - "does-language-still-matter-in-the-age-of-ai-yes-but-the-tradeoff-has-changed"
   - "research-measuring-energy-consumption-in-programming-languages-for-ai-applications"
-frozen: false
 ---
 
 In this post, I'll explain how to provide a default value when querying an absent key in a hash map in different programming languages.

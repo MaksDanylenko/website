@@ -17,7 +17,6 @@ related_posts:
   - "easy-jakarta-ee-integration-testing"
   - "build-and-test-non-blocking-web-applications-with-spring-webflux-kotlin-and-coroutines"
   - "soft-assertions-testing-kindly"
-frozen: false
 ---
 
 In my job, I often need integration tests against a [Neo4j](https://neo4j.com) database. My software is written in Java, and so is Neo4j. Neo4j is embeddable, too. So, in theory, I could just depend on the embedded version, open a connection, test my stuff and call it a day. It would not be a different engine, it would be - at least from a query-engine and planer perspective - the same thing, in contrast to using an embedded SQL database as a drop-in for PostgresQL for example.

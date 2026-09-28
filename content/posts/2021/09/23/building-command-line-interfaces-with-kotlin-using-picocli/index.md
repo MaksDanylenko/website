@@ -13,7 +13,6 @@ related_posts:
   - "kotlin-delegation"
   - "annotation-free-spring"
   - "blockhound-how-it-works"
-frozen: false
 ---
 
 *TL;DR : We'll dive into a few interesting bits about CLI applications and picoCLI. But you can directly [see the code here](https://github.com/jlengrand/swacli), or view my related conference talk [here](https://www.youtube.com/watch?v=Rc_D4OTKidU&t=460s).*

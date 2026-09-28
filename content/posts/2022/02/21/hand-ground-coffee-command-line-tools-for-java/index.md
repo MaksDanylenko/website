@@ -14,7 +14,6 @@ related_posts:
   - "building-command-line-interfaces-with-kotlin-using-picocli"
   - "building-openjdk-from-github-sources-on-64-bit-raspberry-pi"
   - "jdb"
-frozen: true
 ---
 
 ![kaffeemuehle](kaffeemuehle-2f2e0d93.jpg)

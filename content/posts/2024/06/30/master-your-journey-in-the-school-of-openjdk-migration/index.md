@@ -15,7 +15,6 @@ related_posts:
   - "book-announcement-openjdk-migration-guide-for-dummies"
   - "mastering-the-challenges-of-openjdk-migration"
   - "book-review-openjdk-migration-for-dummies"
-frozen: false
 ---
 
 Azul has led so many OpenJDK migrations, we could write a book. Like, seriously, [we wrote the book](https://www.azul.com/openjdk-migration-for-dummies/). If you prefer more a more visual, immersive experience, welcome to the School of OpenJDK Migration!

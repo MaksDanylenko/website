@@ -17,7 +17,6 @@ related_posts:
   - "java-17-on-the-raspberry-pi"
   - "pi4j-v-2-released"
   - "coroutines-on-the-raspberrypi-pi4j-kotlin"
-frozen: false
 ---
 
 ## Intro

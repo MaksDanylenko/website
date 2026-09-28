@@ -5,7 +5,7 @@ lastmod: "2025-07-23T15:42:47+00:00"
 description: "By embracing the new features in Java 22, 23, and 24—such as unnamed variables and patterns, Markdown in Javadoc, the Class-File API, and Stream Gatherers—developers can write more efficient, and more maintainable code resulting in a higher-quality code."
 authors:
   - "jonathan-vila"
-image: "sonar-logo-horizontal-dark-bg.svg"
+image: "sonar-logo-horizontal-dark-bg.jpg"
 categories:
   - "Developer Tools"
   - "Java"
@@ -14,7 +14,6 @@ related_posts:
   - "code-reviews-with-ai-a-developer-guide"
   - "building-for-failure-best-practices-for-easy-production-debugging"
   - "ai-driven-testing-best-practices"
-frozen: false
 ---
 
 ### Java introduces several new language features in the 22 to 24 versions which collectively simplify code, enhance documentation, and provide powerful tools for bytecode manipulation and advanced stream processing. This article shows you how to leverage these new features with simple examples.

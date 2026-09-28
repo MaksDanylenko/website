@@ -15,7 +15,6 @@ related_posts:
   - "did-ai-just-break-software-security-for-ever"
   - "foojay-podcast-95"
   - "crossing-the-river-styx-spring-boot-3-5-and-the-zombie-dependency-problem"
-frozen: false
 ---
 
 Earlier this year an AI model found a flaw in OpenBSD's TCP stack that had been sitting there for 27 years. The same scanning run turned up a 16-year-old bug in FFmpeg's H.264 code.

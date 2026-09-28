@@ -14,7 +14,6 @@ related_posts:
   - "controlling-led-strips-with-java-and-jbang"
   - "controlling-electronics-with-jbang-on-the-raspberry-pi"
   - "java-on-raspberry-pi-5-with-pi4j"
-frozen: false
 ---
 
 Java developers building applications for Raspberry Pi often face a common challenge: combining hardware access with modern application frameworks.

@@ -10,7 +10,6 @@ image: "image-12.png"
 categories:
   - "Java Core"
 related_posts:
-frozen: false
 ---
 
 When your application goes beyond a dozen of lines of code, you should probably split the code into multiple classes. At this point, the question is how to distribute them. In Java, the classical format is the Java ARchive, better known as the JAR. But real-world applications probably depend on other JARs.

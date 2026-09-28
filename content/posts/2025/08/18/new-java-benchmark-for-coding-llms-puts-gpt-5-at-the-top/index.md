@@ -17,7 +17,6 @@ related_posts:
   - "5-things-you-probably-didnt-know-about-java-concurrency"
   - "5-tips-to-create-secure-docker-images-for-java-applications"
   - "6-considerations-when-building-high-performance-java-microservices-with-eda"
-frozen: false
 ---
 
 ## Introducing the Brokk Power Ranking

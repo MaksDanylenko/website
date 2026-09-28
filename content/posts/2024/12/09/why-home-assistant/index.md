@@ -16,7 +16,6 @@ related_posts:
   - "a-fresh-look-at-embedded-java"
   - "azul-brings-java-from-edge-to-cloud"
   - "getting-a-single-value-from-a-devices-state-in-home-assistant"
-frozen: false
 ---
 
 **Last June, I spoke at [Berlin Buzzwords](https://program.berlinbuzzwords.de/bbuzz24/talk/HMQMDH/). In all honesty, I rarely attend others' talks for a variety of reasons: lack of time, lack of energy, no interest in the proposed subjects, etc. When I do, I go either for subjects I know and want to deepen my understanding of *or* for subjects I know nothing about to get a foot in the door.**

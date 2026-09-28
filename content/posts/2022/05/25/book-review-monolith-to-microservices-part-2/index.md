@@ -15,7 +15,6 @@ related_posts:
   - "chopping-monolith"
   - "easy-jakarta-ee-integration-testing"
   - "book-review-monolith-to-microservices-part-1"
-frozen: false
 ---
 
 This is the second article [of the first one I wrote the other day](https://foojay.io/today/book-review-monolith-to-microservices-part-1/), "[Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith](https://www.amazon.ca/Monolith-Microservices-Evolutionary-Patterns-Transform/dp/1492047848)" by Sam Newman.

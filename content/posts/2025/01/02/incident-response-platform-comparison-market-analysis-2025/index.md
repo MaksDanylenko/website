@@ -9,7 +9,6 @@ image: "chemical-scientist-test-chemistry-chemist-student.jpg"
 categories:
   - "Developer Tools"
 related_posts:
-frozen: false
 ---
 
 The incident response platform market continues to expand as organizations prioritize effective incident management in their Cloud-native environments and beyond.

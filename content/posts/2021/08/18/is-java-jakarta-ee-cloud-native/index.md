@@ -16,7 +16,6 @@ related_posts:
   - "ignore-infrastructure-concentrate-on-code-with-jakarta-ee-and-payara-cloud"
   - "how-to-bring-your-java-microservices-to-the-cloud"
   - "enterprise-java-in-practice-fragmentation-platforms-and-real-world-trade-offs"
-frozen: false
 ---
 
 In this myth-busting webinar, Steve Millidge (founder of [Payara](https://www.payara.fish/)), shows you that Java/Jakarta EE **IS** Cloud-native and can handle microservices and containers in the Cloud.

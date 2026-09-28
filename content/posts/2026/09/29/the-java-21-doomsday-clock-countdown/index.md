@@ -14,7 +14,6 @@ related_posts:
   - "new-between-quarters-security-updates-for-java-what-cspus-mean-for-your-release-pipeline"
   - "azul-august-2026-release-javas-first-monthly-cspu"
   - "foojay-podcast-101"
-frozen: false
 ---
 
 ## The Java 21 Countdown Is Pressing

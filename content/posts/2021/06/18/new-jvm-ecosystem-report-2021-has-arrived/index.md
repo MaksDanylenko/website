@@ -9,7 +9,6 @@ image: "tldr-jvm-2021-1024x420.png"
 categories:
   - "Surveys"
 related_posts:
-frozen: false
 ---
 
 Snyk has just released the annual JVM ecosystem report! This report presents the results of the largest annual survey on the state of the JVM ecosystem.

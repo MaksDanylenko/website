@@ -13,7 +13,6 @@ related_posts:
   - "debugging-the-technical-interview-methods-and-cheating"
   - "the-debugger-checklist-part-ii"
   - "idempotent-spring-boot-starter"
-frozen: true
 ---
 
 **I love cooking and use my [Thermomix](https://www.thermomix.com/) a lot. If you hadn't heard about that amazing innovation, it's a kitchen robot… Well, it's a magical super cooking machine. When designing the Thermomix, its designers took the approach of [fail-safe](https://en.wikipedia.org/wiki/Fail-safe) instead of [fail-fast](https://en.wikipedia.org/wiki/Fail-fast). This is a smart choice in this case, but it has its drawbacks.**

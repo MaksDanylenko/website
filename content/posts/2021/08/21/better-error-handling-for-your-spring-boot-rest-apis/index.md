@@ -13,7 +13,6 @@ related_posts:
   - "building-microservices-spring-boot-fat-uber-jar"
   - "creating-a-simple-spring-boot-application-in-intellij-idea"
   - "ask-a-lille-dev-what-java-developers-really-think-about-quality-frameworks-communities-and-careers"
-frozen: false
 ---
 
 One of the things that distinguishes a decent API from one that is a pleasure to work with is robust error handling. Nothing is more frustrating than using some API and getting back cryptic errors where you can only guess why the server is not accepting your request.

@@ -14,7 +14,6 @@ related_posts:
   - "building-command-line-interfaces-with-kotlin-using-picocli"
   - "build-and-test-non-blocking-web-applications-with-spring-webflux-kotlin-and-coroutines"
   - "debug-unresponsive-apps"
-frozen: true
 ---
 
 ***TL;DR : The `Duration`API is coming out of its experimental stage and offers a nice DSL to easily work with time durations. If offers the obvious but also nice extra goodies, such as coercions and ISO/String conversions and is notably used to [calculate processing time](https://github.com/Kotlin/KEEP/blob/master/proposals/stdlib/durations-and-time-measurement.md#measuretime-and-measuretimedvalue).*** ***You can directly run the code I present below [in the Kotlin playground](https://pl.kotl.in/QwksQa5h1)!***

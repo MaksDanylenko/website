@@ -9,5 +9,4 @@ linkedin: ""
 github: "https://github.com/error0702"
 youtube: ""
 website: "https://autorun.fun"
-frozen: false
 ---

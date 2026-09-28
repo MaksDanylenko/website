@@ -11,7 +11,6 @@ categories:
   - "Machine Learning"
   - "Research"
 related_posts:
-frozen: false
 ---
 
 Time-traveling cyborgs and robots that are able to love. These interesting and romantic ideas emerged from the imagination of Hollywood film directors. Nevertheless, many people are afraid of Artificial Intelligence (AI). This also can be seen in the economic world. Small and medium-sized enterprises (SMEs) in particular see AI as a threat to their own business. Surprisingly however, all different-sized companies are able to see the potential of AI when it comes to penetrating the national and global market. ^\[1\]^

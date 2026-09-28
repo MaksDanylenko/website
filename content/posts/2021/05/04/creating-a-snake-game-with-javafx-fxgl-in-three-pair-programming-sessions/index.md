@@ -16,7 +16,6 @@ related_posts:
   - "the-javafx-revival"
   - "javafx-links-of-november-2025"
   - "will-openjfx-be-merged-into-openjdk-it-would-be-a-perfect-match-with-java-on-mobile"
-frozen: false
 ---
 
 In this article, Almas and I will show you how to start with an idea for a game and bring it to life in a prototype application. We will then modify the application to run on a Raspberry Pi and on a mobile device.

@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/tarek-oraby/"
 github: ""
 youtube: ""
 website: "https://x.com/tarek_oraby"
-frozen: false
 ---

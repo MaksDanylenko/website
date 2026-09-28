@@ -23,7 +23,6 @@ related_posts:
   - "jc-ai-newsletter-2"
   - "jc-ai-newsletter-3"
   - "jc-ai-newsletter-4"
-frozen: false
 ---
 
 **A** few months ago, I launched the [AI Newsletter](https://foojay.io/today/category/jc-ai-newsletter/) to provide a minimally biased perspective on the growing challenges surrounding artificial intelligence.

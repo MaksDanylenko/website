@@ -18,7 +18,6 @@ related_posts:
   - "a-case-for-databases-on-kubernetes-from-a-former-skeptic"
   - "avoiding-nullpointerexception"
   - "build-a-status-dashboard-using-spring-boot-and-astra-db"
-frozen: false
 ---
 
 K8ssandra is a cloud-native distribution of the Apache Cassandra® database that runs on Kubernetes, with a suite of tools to ease and automate operational tasks. In this post, we'll walk you through a database migration from a Cassandra cluster running in AWS EC2 to a K8ssandra cluster running in Kubernetes on AWS EKS, with zero downtime.

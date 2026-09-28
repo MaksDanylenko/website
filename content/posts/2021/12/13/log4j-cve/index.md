@@ -14,7 +14,6 @@ related_posts:
   - "java-security-log4j-the-securitymanager-and-funding"
 aliases:
   - "/log4j-cve/"
-frozen: true
 ---
 
 On Dec.10, 2021, a new, critical [Log4j](https://logging.apache.org/log4j/2.x/) vulnerability was disclosed: [Log4Shell](https://techcrunch.com/2021/12/10/apple-icloud-twitter-and-minecraft-vulnerable-to-ubiquitous-zero-day-exploit/).

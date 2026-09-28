@@ -13,7 +13,6 @@ related_posts:
   - "java-testing-with-vs-code"
   - "towards-continuous-performance-regression-testing"
   - "avoiding-nullpointerexception"
-frozen: false
 ---
 
 In [a recent article on Spring](https://foojay.io/today/annotation-free-spring/), I advised reassessing one's opinion now and then as the IT world changes so fast. What was true a couple of years ago could be dead wrong nowadays, and you probably don't want to base your decisions on outdated data. This week, I'd like to follow my advice.

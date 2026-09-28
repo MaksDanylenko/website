@@ -15,7 +15,6 @@ related_posts:
   - "localize-apps-with-ai"
   - "managing-distributed-applications-in-kubernetes-using-cilium-and-istio-with-helm-and-operator-for-deployment"
   - "12-lessons-learned-from-doing-the-one-billion-row-challenge"
-frozen: false
 ---
 
 As a developer today, you've almost certainly encountered the need of localizing your application or website. While setting up your project for internationalization is usually straightforward, managing translations over time can become a complex, time consuming and costly task, especially for open source projects.

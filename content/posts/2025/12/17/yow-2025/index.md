@@ -11,7 +11,6 @@ categories:
   - "Conference"
 related_posts:
   - "why-is-my-talk-selected-reflections-from-a-program-committee-reviewer"
-frozen: false
 ---
 
 I have been eyeing the [YOW!](https://yowcon.com/) conferences for probably more than a decade. They occur in Australia, and feature top industry experts. I was thus overjoyed when they invited me to speak on the YOW! tour earlier this year. Here's a summary of my amazing time there.

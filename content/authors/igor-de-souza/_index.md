@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/igfasouza/"
 github: ""
 youtube: ""
 website: "https://x.com/Igfasouza"
-frozen: false
 ---

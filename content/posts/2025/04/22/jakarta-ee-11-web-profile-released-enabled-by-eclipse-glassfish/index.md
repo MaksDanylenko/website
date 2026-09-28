@@ -14,7 +14,6 @@ related_posts:
   - "ejb-support-in-piranha-via-cdi"
   - "glassfish-is-rolling-forward-whats-new"
   - "how-to-upgrade-to-jakarta-ee-10-and-glassfish-7-its-much-easier-than-you-think"
-frozen: false
 ---
 
 The **Jakarta EE 11 Web Profile** has [officially been released](https://www.agilejava.eu/2025/04/06/hashtag-jakarta-ee-275/) on March 30, 2025 — bringing a cleaner, more modern baseline to the Jakarta EE platform, with strong alignment to recent Java versions, improved modularity, and the removal of legacy specifications.

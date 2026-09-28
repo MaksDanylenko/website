@@ -14,7 +14,6 @@ related_posts:
   - "spring-boot-migration-and-the-cra-when-good-enough-isnt"
   - "ai-found-the-bugs-whos-patching-your-eol-java-code"
   - "foojay-podcast-95"
-frozen: true
 ---
 
 Whether the answer is yes or no (read on for my opinion) , something fundamental has changed this year. Not one thing. Four things, converging at once.

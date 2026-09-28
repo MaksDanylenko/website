@@ -18,7 +18,6 @@ related_posts:
   - "a-case-for-databases-on-kubernetes-from-a-former-skeptic"
   - "how-to-put-a-database-in-kubernetes"
   - "port-management-in-local-kubernetes-clusters"
-frozen: false
 ---
 
 ![](K15a-AdobeStock_459893049-1536x922-1-1024x615.jpeg) "I need it now and I need it reliable"

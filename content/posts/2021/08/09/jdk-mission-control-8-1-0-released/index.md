@@ -11,7 +11,6 @@ categories:
   - "Performance"
   - "Release Notes"
 related_posts:
-frozen: false
 ---
 
 Yay, the latest release of JDK Mission Control was just released!

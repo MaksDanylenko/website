@@ -12,7 +12,6 @@ categories:
   - "Kubernetes"
   - "OpenTelemetry"
 related_posts:
-frozen: false
 ---
 
 This guide walks through the complete process of deploying a minimal Spring Boot service to Kubernetes and adding full observability using the [Dash0 Kubernetes Operator](https://www.dash0.com/docs/dash0/monitoring/kubernetes/about-kubernetes) — without making any changes to the application code.

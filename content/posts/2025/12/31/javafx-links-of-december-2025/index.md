@@ -13,7 +13,6 @@ related_posts:
   - "javafx-links-of-october-2025"
   - "javafx-links-of-september-2025"
   - "javafx-links-of-august-2025"
-frozen: false
 ---
 
 Here is the final JavaFX LinksOfTheMonth for 2025... Thank you all for sharing your knowledge and experience with JavaFX. And we hope to see even more in the next year!

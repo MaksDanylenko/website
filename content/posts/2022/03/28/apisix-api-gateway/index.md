@@ -13,7 +13,6 @@ related_posts:
   - "7-functional-programming-techniques-in-java-a-primer"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "container-awareness-for-java"
-frozen: false
 ---
 
 During the pioneer area of the World Wide Web, the content was static. To serve it, a group of developers created a web server, which is now known as the [Apache Web Server](https://httpd.apache.org/).

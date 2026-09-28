@@ -13,7 +13,6 @@ related_posts:
   - "evolution-of-microservices"
   - "how-to-bring-your-java-microservices-to-the-cloud"
   - "microprofile-metrics-with-prometheus-and-grafana"
-frozen: false
 ---
 
 The [MicroProfile Config](https://microprofile.io/microprofile-config/) specification is one of those attempts to create a specification around application configuration for the Java Enterprise world. In the past, there were already some other attempts within Java EE to define this specification for Java EE, but they were never finalised.

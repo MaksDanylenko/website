@@ -17,7 +17,6 @@ related_posts:
   - "foojay-podcast-80"
   - "foojay-podcast-79"
   - "foojay-podcast-78"
-frozen: false
 ---
 
 In this Foojay Podcast, we're diving deep into some of the most exciting developments happening within the OpenJDK and TornadoVM projects.

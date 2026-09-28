@@ -5,7 +5,6 @@ url: "/what-is-foojay/"
 aliases:
   - "/who-we-are/"
   - "/foojay-brand-and-logo/"
-frozen: false
 ---
 
 {{< img src="/images/pages/who-we-are/Foojay-and-Java-Duke-with-weblink.png" class="alignleft size-large is-resized on-light" width="666" height="681" style="width:300px" >}}

@@ -32,7 +32,6 @@ topics:
 # Never on WordPress -- APIdia joined after the Hugo migration, so the folder
 # name IS the only URL and there is no legacy /sponsor/<wpSlug>/ to alias.
 wpSlug: "apidia"
-frozen: false
 ---
 
 APIdia is a growing collection of high-quality, structured and interlinked API documentation for open source software. In the past decades, hardly any factor played such a crucial role for advancing the world's technology and economy as the open source movement — and developers should be allowed to dedicate their full energy to software development rather than to documentation plumbing. The goal of APIdia is to lift the API documentation burden from their shoulders: comment your code, and APIdia does the rest. Libraries can link their users straight to their API docs with an [APIdia badge](https://apidia.net/#badge) in their readme, always pointing at the newest version or at a specific one.

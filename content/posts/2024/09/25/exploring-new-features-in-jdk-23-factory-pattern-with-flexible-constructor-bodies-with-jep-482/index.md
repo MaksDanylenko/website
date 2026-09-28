@@ -14,7 +14,6 @@ related_posts:
   - "java-23-whats-new"
   - "foojay-podcast-57"
   - "boxlang-1-14-0-boxset-is-here-boxlangs-new-first-class-set-type"
-frozen: false
 ---
 
 Since the introduction of the new JDK release cadence, we have seen an incredible amount of new enhancements added to each JDK cycle, kicking the Java platform back on track compared to other languages.

@@ -10,7 +10,6 @@ categories:
   - "Apache Cassandra"
   - "Press"
 related_posts:
-frozen: false
 ---
 
 **SUNNYVALE, Calif., January 28, 2021** – Foojay.io, the community site for developers who use, target, and run their applications on top of Java and OpenJDK, today named the companies who will make up its advisory board—Azul, Datadog, DataStax, JFrog, Payara, and Snyk. The board will guide the direction, content and oversight of Foojay.io with the goal to grow the community and meet its mission to provide free information for everyday Java developers.

@@ -15,7 +15,6 @@ categories:
 related_posts:
   - "context-is-code-a-tour-of-apm-and-agentrc"
   - "introducing-skills-boxlang-io-the-open-agent-skills-ecosystem-for-boxlang-the-ortus-world"
-frozen: false
 ---
 
 *Eight levers and three workflow patterns that pay for themselves in a week.*

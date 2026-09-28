@@ -13,7 +13,6 @@ related_posts:
   - "2022-in-retrospective"
   - "apisix-api-gateway"
   - "kubernetes-gateway-api"
-frozen: false
 ---
 
 **Last year, I wrote my first [yearly retrospective](https://blog.frankel.ch/retrospective/). I liked the experience, so I'm trying one more time. Let the future decide if it will become a trend or not.**

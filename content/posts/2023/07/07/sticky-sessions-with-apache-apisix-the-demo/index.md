@@ -16,7 +16,6 @@ related_posts:
   - "5-great-reasons-to-use-jooq"
   - "42-practical-java-design-patterns-builder-and-more"
   - "dry-your-apache-apisix-config"
-frozen: false
 ---
 
 We've described the concept behind [sticky sessions](https://foojay.io/today/sticky-sessions-with-apache-apisix/): you forward a request to the same upstream because there's context data associated with the session on that node.

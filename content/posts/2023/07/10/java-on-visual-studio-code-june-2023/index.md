@@ -14,7 +14,6 @@ related_posts:
   - "debugging-openjdk-tests-in-vscode-without-losing-your-mind"
   - "java-on-visual-studio-code-may-2023"
   - "java-on-visual-studio-code-update-february-2023"
-frozen: false
 ---
 
 Hi everyone, welcome to the our June update for Visual Studio Code for Java!

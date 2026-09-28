@@ -14,7 +14,6 @@ related_posts:
   - "blink-a-led-on-raspberry-pi-with-vaadin"
   - "build-web-apps-in-pure-java-with-vaadin-flow"
   - "crafting-your-own-railway-display-with-java"
-frozen: false
 ---
 
 In this article, I'll explain how to use the web application framework [Hilla](https://hilla.dev) to create a master-detail view with a Grid to display the data and a Form to edit the data.

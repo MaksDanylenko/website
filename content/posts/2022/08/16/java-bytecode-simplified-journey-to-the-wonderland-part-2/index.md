@@ -13,7 +13,6 @@ related_posts:
   - "what-is-jvm-bytecode"
   - "hardware-acceleration-for-java-tornadovm-can-do-it"
   - "java-bytecode-simplified-journey-to-the-wonderland-part-3"
-frozen: true
 ---
 
 Our [previous article](https://foojay.io/today/java-bytecode-simplified-journey-to-the-wonderland-part-1/) introduced Bytecode and discussed what it includes.

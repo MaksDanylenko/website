@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/dmagda"
 github: ""
 youtube: ""
 website: "https://x.com/denismagda"
-frozen: false
 ---

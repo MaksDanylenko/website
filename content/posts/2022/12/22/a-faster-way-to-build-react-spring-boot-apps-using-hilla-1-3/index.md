@@ -14,7 +14,6 @@ related_posts:
   - "blink-a-led-on-raspberry-pi-with-vaadin"
   - "build-web-apps-in-pure-java-with-vaadin-flow"
   - "master-detail-with-hilla"
-frozen: false
 ---
 
 It's time to build a new web application. You've decided to use React with a Java back end, so you're good to go right? Not quite.

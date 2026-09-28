@@ -16,7 +16,6 @@ related_posts:
   - "why-i-dont-do-tdd"
   - "internal-security-hardening-internal-systems"
   - "api-mocking-essential-and-redundant"
-frozen: false
 ---
 
 My book on debugging is [already on preorder](https://www.amazon.com/dp/1484290410/) and I'm super thrilled to announce I'm doing a full online course to go along with it.

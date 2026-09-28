@@ -11,7 +11,6 @@ categories:
   - "Eclipse"
   - "Tools"
 related_posts:
-frozen: false
 ---
 
 EclipseCon Community Day is on Monday, October 19 14:00 to 18:00 CET (the day before the start of the main EclipseCon conference). Community Day at EclipseCon has always been a great event for Eclipse working groups and project teams. This year both EclipseCon and Community Day is virtual and free. Space for Community Day is limited, so please [register](https://www.eclipsecon.org/2020/registration) and save your spot soon.

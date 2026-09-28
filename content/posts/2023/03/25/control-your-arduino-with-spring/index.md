@@ -14,7 +14,6 @@ related_posts:
   - "vert-x-example-on-the-raspberry-pi-with-a-virtual-potentiometer"
   - "electronics-micronaut-velocity-with-raspberry-pi"
   - "using-the-raspberry-pi-sense-hat-with-pi4j-drivers"
-frozen: false
 ---
 
 Have you ever wanted to control your Arduino board from a Raspberry Pi, or your computer, using only Java and not the Arduino language?

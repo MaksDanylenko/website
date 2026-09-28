@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/grace-jansen/"
 github: ""
 youtube: ""
 website: "https://x.com/gracejansen27"
-frozen: false
 ---

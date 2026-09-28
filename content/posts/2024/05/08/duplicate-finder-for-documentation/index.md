@@ -15,7 +15,6 @@ related_posts:
   - "how-object-reuse-can-reduce-latency-and-improve-performance"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "spring-boot-api-documentation-redocusaurus"
-frozen: false
 ---
 
 Other languages: [Español](https://flounder.dev/es/posts/duplicate-finder-intro/) [한국어](https://flounder.dev/ko/posts/duplicate-finder-intro/) [Português](https://flounder.dev/pt/posts/duplicate-finder-intro/) [中文](https://flounder.dev/zh/posts/duplicate-finder-intro/)  

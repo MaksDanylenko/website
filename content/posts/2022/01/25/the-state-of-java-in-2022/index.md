@@ -15,7 +15,6 @@ related_posts:
   - "are-java-jakarta-ee-application-servers-heavy"
   - "azul-datadog-datastax-jfrog-payara-and-snyk-form-inaugural-foojay-advisory-board"
   - "whats-new-in-the-july-2026-azul-payara-release"
-frozen: false
 ---
 
 

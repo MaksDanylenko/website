@@ -9,7 +9,6 @@ image: "image-3-1024x385.jpg"
 categories:
   - "Press"
 related_posts:
-frozen: false
 ---
 
 Today, published [by Jenna Sargent in SD Times](https://sdtimes.com/java/whats-coming-in-java-16/):

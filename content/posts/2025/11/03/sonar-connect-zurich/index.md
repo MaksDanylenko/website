@@ -9,7 +9,6 @@ image: "1761763663675.jpeg"
 categories:
   - "Events"
 related_posts:
-frozen: false
 ---
 
 **Sonar Connect Zurich: Maximize the ROI of your generative AI projects**

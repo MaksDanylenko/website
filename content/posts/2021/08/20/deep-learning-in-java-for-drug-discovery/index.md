@@ -19,7 +19,6 @@ related_posts:
   - "deep-learning-in-java-for-nuclear-physics-using-deep-netts"
   - "how-to-bring-your-java-microservices-to-the-cloud"
   - "jc-ai-newsletter-16"
-frozen: false
 ---
 
 In the age of big-data, rising pharmaceutical costs, and an ever-increasing market demand, it is becoming apparent that drug design strategies need to adapt in order to meet patients' therapeutic needs for a host of medical conditions.

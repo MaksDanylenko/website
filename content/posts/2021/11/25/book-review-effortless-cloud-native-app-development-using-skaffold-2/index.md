@@ -15,7 +15,6 @@ related_posts:
   - "book-review-why-programs-fail"
   - "the-debugger-checklist-part-ii"
   - "modernize-legacy-code-in-production-rebuild-your-airplane-midflight-without-crashing"
-frozen: true
 aliases:
   - "/today/cloud-native-skaffold-book-review/"
 ---

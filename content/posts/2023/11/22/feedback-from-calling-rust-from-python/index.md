@@ -15,7 +15,6 @@ related_posts:
   - "apache-apisix-loves-rust"
   - "java-panama-polyglot-rust-part-4"
   - "research-measuring-energy-consumption-in-programming-languages-for-ai-applications"
-frozen: false
 ---
 
 I got plenty of feedback on my post about [Calling Rust from Python](https://blog.frankel.ch/rust-from-python/):

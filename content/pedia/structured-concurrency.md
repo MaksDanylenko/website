@@ -2,7 +2,6 @@
 title: "Structured Concurrency"
 description: "Structured Concurrency, finalised in Java 24 (JEP 499), is a programming model that treats concurrent tasks executing in parallel as a single unit of work. The key insight is that tasks spawned within a scope must complete before that scope ..."
 url: "/pedia/structured-concurrency/"
-frozen: false
 ---
 
 Structured Concurrency, finalised in Java 24 (JEP 499), is a programming model that treats concurrent tasks executing in parallel as a single unit of work. The key insight is that tasks spawned within a scope must complete before that scope exits — just as sequential control flow requires a called method to return before the caller continues.

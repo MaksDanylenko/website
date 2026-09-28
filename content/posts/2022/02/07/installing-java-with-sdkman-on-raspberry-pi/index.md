@@ -14,7 +14,6 @@ related_posts:
   - "installing-java-and-javafx-on-the-raspberry-pi"
   - "java-17-on-the-raspberry-pi"
   - "a-fresh-look-at-embedded-java"
-frozen: false
 ---
 
 If you create a new SD card for a Raspberry Pi with the operating system, you can choose the "Raspberry Pi OS Full (32-bit)" edition, which includes Java 11. But a lot of the other available OS-versions don't have Java included.

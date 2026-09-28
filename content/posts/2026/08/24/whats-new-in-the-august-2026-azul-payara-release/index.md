@@ -16,7 +16,6 @@ related_posts:
   - "bring-ai-into-your-jakarta-ee-apps-with-langchain4j-cdi"
   - "get-recognized-for-your-cloud-native-java-development-skills-with-this-new-badge"
   - "creating-cloud-native-java-applications-with-the-12-factor-app-methodology"
-frozen: false
 ---
 
 The August 2026 release brings Azul Payara Server and Micro 7.3.0, Azul Payara Community 7.2026.8, Azul Payara Server and Micro 6.41.0, Azul Payara Server and Micro 5.90.0, and Azul Payara Server and Micro 4.1.2.191.58.

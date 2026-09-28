@@ -14,7 +14,6 @@ related_posts:
   - "the-try-block-in-rust"
   - "feedback-from-calling-rust-from-python"
   - "learning-by-doing-an-http-api-with-rust"
-frozen: false
 ---
 
 I'm in the process of adding more components to my OpenTelemetry demo (again!). The new design deploys several warehouse services behind the `inventory` service so the latter can query the former for data via their respective HTTP interface. I implemented each warehouse on top of a different technology stack. This way, I can show OpenTelemetry traces across several stacks.

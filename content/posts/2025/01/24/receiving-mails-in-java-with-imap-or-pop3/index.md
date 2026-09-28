@@ -14,7 +14,6 @@ related_posts:
   - "7-ways-to-contribute-to-openjdk"
   - "7-reasons-to-switch-to-openjdk-17-as-a-jakarta-ee-developer"
   - "masking-a-jvm-thread-dump-without-breaking-the-analysis"
-frozen: false
 ---
 
 **I was recently in need to write some small demo project which was receiving and processing mails. There is a lot of documentation for sending mails, but gathering information about the receiving and processing part is less easy.**

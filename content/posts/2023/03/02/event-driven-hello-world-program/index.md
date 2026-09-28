@@ -14,7 +14,6 @@ related_posts:
   - "the-evolution-of-apis-from-restful-to-event-driven"
   - "learn-how-to-develop-event-driven-architectures"
   - "event-driven-architecture-and-change-data-capture-made-easy"
-frozen: false
 ---
 
 **Event-driven microservices** can be straightforward to describe before they are implemented, tested and maintained.

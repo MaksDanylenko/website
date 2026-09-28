@@ -23,7 +23,6 @@ related_posts:
   - "top-security-flaws-hiding-in-your-code-right-now-and-how-to-fix-them"
   - "trash-pandas-love-enterprise-java-garbage-code"
   - "foojay-podcast-95"
-frozen: false
 aliases:
   - "/today/foojay-podcast-58-how-java-developers-can-secure-their-code/"
 ---

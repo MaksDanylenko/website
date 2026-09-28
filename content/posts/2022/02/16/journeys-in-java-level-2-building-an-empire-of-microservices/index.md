@@ -15,7 +15,6 @@ related_posts:
   - "book-review-quarkus-for-spring-developers"
   - "building-reactive-java-applications-with-spring-framework"
   - "journeys-in-java-level-6-build-a-neo4j-microservice"
-frozen: false
 ---
 
 **Let's dive into the world of microservices find out the complexities, best practices, and troubles. I will share all my learnings, as well!**

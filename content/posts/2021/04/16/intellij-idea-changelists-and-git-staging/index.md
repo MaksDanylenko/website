@@ -13,7 +13,6 @@ related_posts:
   - "foojay-podcast-91"
   - "lntellij-idea-selectively-commit-changes-to-a-file"
   - "using-git-interactive-rebase"
-frozen: false
 ---
 
 Since the release of IntelliJ IDEA 2020.3, there are now two ways to manage your commits to Git. The first one is through existing functionality with [IntelliJ IDEA changelists](https://www.jetbrains.com/help/idea/managing-changelists.html), the second is through support for [Git staging](https://www.jetbrains.com/help/idea/commit-and-push-changes.html#use-git-staging-area-to-commit-changes). This blog will take you through both approaches and highlight the differences. There is no right or wrong answer, it's a case of choosing the method that works best for you, or that you're most familiar with.

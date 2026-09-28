@@ -14,7 +14,6 @@ related_posts:
   - "skps-definitive-primer-failures-pitfalls-and-disadvantages-of-microservices"
   - "book-review-quarkus-for-spring-developers"
   - "idempotent-spring-boot-starter"
-frozen: false
 ---
 
 Microservices have been used and deployed in businesses and projects for awhile, and there is plenty of content available for architecting them into a system. For my next project, I want to dive into the world of microservices and begin building my own little virtual empire from different kinds of services to find out the complexities, best practices, power, and trouble that comes with them. I will share all my learnings along the way, as well.

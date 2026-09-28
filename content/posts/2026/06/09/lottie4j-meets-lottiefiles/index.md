@@ -13,7 +13,6 @@ related_posts:
   - "testing-lottie4j-javafx-animations-in-github-actions-with-javafx-26-headless"
   - "lottie4j-1-2-0-dotlottie-support-marker-playback-cropping-and-a-big-speed-boost"
   - "lottie4j-1-1-0-better-rendering-smarter-debugging"
-frozen: false
 ---
 
 Lottie animations run on Android, iOS, and the web. Getting them working on the JVM is a different story. [Lottie4J](https://lottie4j.com) started as a question: can JavaFX render them without a WebView? That question turned into a library with a first release in March 2026! Since then, I received the first pull requests, recently added headless unit testing with JavaFX 26, and now this: a video conversation with Naail from the LottieFiles team.

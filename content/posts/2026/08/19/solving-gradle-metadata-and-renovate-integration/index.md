@@ -15,7 +15,6 @@ related_posts:
   - "renovate-for-everything"
   - "compilation-avoidance-with-gradle"
   - "renovate-alternative-dependabot"
-frozen: false
 ---
 
 My current company has settled on using Gradle. It doesn't make me [very happy](https://blog.frankel.ch/final-take-gradle/), but you need to learn to work with constraints. Plus, I must admit that the developers who actually implemented the build files did a pretty good job overall: they used Kotlin instead of Groovy, they moved code to regular plugins, etc.

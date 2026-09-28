@@ -13,7 +13,6 @@ related_posts:
   - "code-interoperability-mode-for-opencl-portability-across-various-programming-languages-with-tornadovm"
   - "exploring-the-depths-of-java-a-comprehensive-conversation-with-jakob-jenkov-part-i"
   - "tornadovm-for-risc-v-accelerators"
-frozen: false
 ---
 
 **The TornadoVM API is designed to aid Java programmers in adapting their code bases for hardware acceleration. As explained in a previous [++article++](https://foojay.io/today/migrating-applications-to-tornadovm-v0-15-part-1/), the TornadoVM API exposes two key Java objects for programmers, the [++TaskGraph++](https://github.com/beehive-lab/TornadoVM/blob/master/tornado-api/src/main/java/uk/ac/manchester/tornado/api/TaskGraph.java) and the [++TornadoExecutionPlan++](https://github.com/beehive-lab/TornadoVM/blob/master/tornado-api/src/main/java/uk/ac/manchester/tornado/api/TornadoExecutionPlan.java). The former is used to define which methods should be offloaded on an accelerator as well as how often the data will flow. The latter is used to configure how the execution will take place (e.g., with a warmup, with a specific grid, with a profiler, etc.) and contains a method that actually invokes the execution. More information about how to use those objects are provided [++here++](https://tornadovm.readthedocs.io/en/latest/programming.html#selecting-the-methods-to-be-accelerated-using-a-task-graph-api).**

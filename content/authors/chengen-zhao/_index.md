@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/chengenzhao/"
 github: ""
 youtube: ""
 website: "https://x.com/WhiteWoodCity"
-frozen: false
 ---

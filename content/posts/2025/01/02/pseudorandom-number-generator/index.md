@@ -14,7 +14,6 @@ related_posts:
   - "crafting-your-own-railway-display-with-java"
   - "6-considerations-when-building-high-performance-java-microservices-with-eda"
   - "tiberius-a-security-testing-framework-for-llm-applications-in-java"
-frozen: false
 ---
 
 On a snowy Christmas Eve, Santa sets off on his journey around the world, gliding through the night sky on his sleigh to deliver presents to children everywhere.

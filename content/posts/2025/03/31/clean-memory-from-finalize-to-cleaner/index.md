@@ -15,7 +15,6 @@ related_posts:
   - "code-reviews-with-ai-a-developer-guide"
   - "jdb"
   - "eliminating-bugs-using-the-tong-motion-approach"
-frozen: false
 ---
 
 Garbage collection in Java takes care of memory management, but it does not clean up non-memory resources like sockets or file handles.

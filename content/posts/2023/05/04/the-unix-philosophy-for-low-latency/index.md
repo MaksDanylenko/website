@@ -14,7 +14,6 @@ related_posts:
   - "journeys-in-java-level-1-building-an-empire-of-microservices"
   - "building-microservices-spring-boot-fat-uber-jar"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
-frozen: false
 ---
 
 Unix has been around for more than 50 years, and the original design principles must be good enough for it (and its derivative, Linux) to be the most widely used Operating System on the planet – [80% of servers](https://en.wikipedia.org/wiki/Usage_share_of_operating_systems), [most supercomputers](https://en.wikipedia.org/wiki/Usage_share_of_operating_systems#Supercomputers), and the most [deployed OS (Android](https://en.wikipedia.org/wiki/Usage_share_of_operating_systems)). It is also the most popular OS on Mars!

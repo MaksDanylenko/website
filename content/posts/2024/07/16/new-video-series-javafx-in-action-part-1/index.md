@@ -17,7 +17,6 @@ related_posts:
   - "book-review-frontend-development-with-javafx-and-kotlin"
   - "creating-cad-applications-with-java-and-javafx"
   - "javafx-links-of-november-2025"
-frozen: false
 ---
 
 JavaFX is a powerful user interface framework, often overlooked in the world of desktop applications development. With this new series of video interviews, I want to take you behind-the-scenes of some applications built using JavaFX.

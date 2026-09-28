@@ -13,7 +13,6 @@ related_posts:
   - "azul-provides-the-crac-in-aws-snapstart-builds"
   - "book-review-monolith-to-microservices-part-1"
   - "how-to-identify-dependencies-in-your-codebase-during-microservices-migration"
-frozen: false
 ---
 
 #### The Evolution of Microservices with SOA: Navigating the Architectural Landscape 🗺️

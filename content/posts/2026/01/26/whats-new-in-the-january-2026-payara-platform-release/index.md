@@ -15,7 +15,6 @@ related_posts:
   - "leading-the-way-payara-platform-community-7-beta-now-fully-jakarta-ee-11-certified"
   - "whats-new-in-the-may-2026-azul-payara-release"
   - "jakarta-data-makes-persistence-a-breeze"
-frozen: false
 ---
 
 As we begin 2026, we're pleased to announce new releases across all Payara Platform editions this January: [Payara Platform Community 7.2026.1](https://payara.fish/downloads/payara-platform-community-edition/ "Payara Platform Community 7.2026.1"), [Payara Platform Enterprise 6.34.0 and 5.83.0](https://payara.fish/payara-enterprise-downloads/ "Payara Platform Enterprise 6.34.0 and 5.83.0"). These releases deliver important security fixes, address deployment and administration issues as well as refreshing multiple component versions across the platform.

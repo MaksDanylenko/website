@@ -15,7 +15,6 @@ related_posts:
   - "sorting-text-in-java-how-complicated-can-it-be"
   - "how-object-reuse-can-reduce-latency-and-improve-performance"
   - "foojay-podcast-23"
-frozen: false
 ---
 
 The One Billion Row Challenge or 1BRC or 1️⃣🐝🏎 was a challenge to read a CSV file of one billion rows with "station name;temperature" data and compute the min/average/max temperature per weather station as fast as possible.

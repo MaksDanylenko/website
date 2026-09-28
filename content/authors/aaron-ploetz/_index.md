@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/aaronploetz/"
 github: ""
 youtube: ""
 website: ""
-frozen: false
 ---

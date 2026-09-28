@@ -20,7 +20,6 @@ related_posts:
   - "jc-ai-newsletter-2"
   - "do-we-understand-the-value-of-ai-knowledge"
   - "book-review-tidy-first"
-frozen: false
 ---
 
 **The [first](https://foojay.io/today/ai-newsletter-1/ "first") and [second](https://foojay.io/today/jc-ai-newsletter-2/ "second") newsletters introduced a 14-day cadence, and even though it is the holiday season for many of us, we are sticking to the promised period.**

@@ -14,7 +14,6 @@ related_posts:
   - "book-review-why-programs-fail"
   - "java-logging-what-to-log-what-not-to-log"
   - "jc-ai-newsletter-16"
-frozen: true
 ---
 
 **On December 7th, Lightrun will [host a free master class](https://www.linkedin.com/events/developerproductivitymasterclas6870717107772907520/ "host a free master class") with Mykyta Protsenko, Senior Software Engineer at Netflix; Michael Wood, Field CTO, HashiCorp; Ryan Menezez, Software Engineering Manager, Meta; and Leonid Blouvshtein, CTO of Lightrun.**

@@ -10,7 +10,6 @@ categories:
   - "Interviews"
   - "Machine Learning"
 related_posts:
-frozen: false
 ---
 
 I attended sessions and spoke with Java Champion Fabiane Bizinella Nardon at many JavaOne conferences over the past years. I remember, in our conversations in the hallways, discussing various entrepreneurial ventures she was working on. One of the ideas was [Tail Target](https://www.tail.digital "Tail Target"). Fast forward almost a decade, and Tail Target has truly come to fruition.

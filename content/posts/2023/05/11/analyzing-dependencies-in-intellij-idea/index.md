@@ -17,7 +17,6 @@ related_posts:
   - "3-ways-to-refactor-your-code-in-intellij-idea"
   - "eight-debugging-tips-for-intellijidea-users-you-never-knew-existed"
   - "beginning-javafx-with-intellij"
-frozen: false
 ---
 
 If you're working on a real world project, you're probably using external dependencies.

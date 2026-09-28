@@ -14,7 +14,6 @@ related_posts:
   - "playing-practically-with-stream-api"
   - "did-you-know-you-can-create-mappers-without-creating-underlying-objects-in-java"
   - "confusing-java-strings"
-frozen: false
 ---
 
 **Sorting text should be easy as String implements the *Comparable* interface. In this article, we'll see that it can be more complicated than that.**

@@ -8,7 +8,6 @@ authors:
 categories:
   - "Release Notes"
 related_posts:
-frozen: false
 ---
 
 We are very happy to announce the availability of initial guidance to run IBM WebSphere Liberty and Open Liberty on Azure Red Hat OpenShift (ARO). This is the first release delivered through an ongoing collaboration between IBM and Microsoft around the WebSphere family of products and Azure.

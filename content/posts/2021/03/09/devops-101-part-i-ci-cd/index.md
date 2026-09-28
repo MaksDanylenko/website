@@ -13,7 +13,6 @@ related_posts:
   - "lights-camera-action-github-actions-with-java-part-3"
   - "devops-101-part-iii-package-management"
   - "devops-101-part-ii-container-registries"
-frozen: false
 ---
 
 > This post was originally published by [Kat Costgove](https://dev.to/katcosgrove) at [Dev.to](https://dev.to/jfrog/devops-101-ci-cd-49il).

@@ -14,7 +14,6 @@ related_posts:
   - "poor-mans-api"
   - "kubernetes-gateway-api"
   - "not-a-lucid-web3-dream-anymore-x402-erc-8004-a2a-and-the-next-wave-of-ai-commerce"
-frozen: false
 ---
 
 **I've always liked , both desktop-based and browser-based before you needed five years of training on the latter. That's the reason I loved, and still love [Vaadin](https://vaadin.com/): you can develop web UIs without writing a single line of HTML, JavaScript, and CSS. I'm still interested in the subject; a couple of years ago, I analyzed the [state of JVM desktop frameworks](https://blog.frankel.ch/focus/state-jvm-desktop-frameworks/).**

@@ -13,7 +13,6 @@ related_posts:
   - "java-for-desktop-applications-part-1"
   - "presenting-xpipe"
   - "jdkmon-your-friendly-jdk-distribution-updater"
-frozen: false
 ---
 
 If you've been following this series of blog posts, you already read about how to create custom controls by [re-styling existing controls](https://foojay.io/today/custom-controls-in-javafx-part-i/) or [combining existing controls](https://foojay.io/today/custom-controls-in-javafx-part-ii/). This time let me show you how to create a custom JavaFX control by extending an existing control.
