@@ -4351,6 +4351,28 @@ th[aria-sort="descending"] .sort-btn::after { content: "\2193"; opacity: 1; }
    leaving the single paragraph pushed away from its own box. */
 .prose .legacy-notice p { margin: 0; font-size: .95rem; }
 
+/* Legal notice -- the "please read before using this site" banner at the top
+   of terms/policy pages (see content/pages/terms-of-use.md). This copy used
+   to run in full caps for legal conspicuousness (contract law wants must-read
+   clauses to be visually distinct). The box now carries that conspicuousness
+   instead, so the text itself can be normal sentence case.
+
+   Full border, not .legacy-notice's left-only border: that page treats its
+   box as an editorial aside the reader can skim past, but this one is
+   something the reader is meant to actually stop and read, so it gets the
+   fuller frame. Same ground as .legacy-notice / .highlight-panel though --
+   --brand-accent-soft -- so it stays inside the site's one highlight
+   treatment rather than inventing a second. */
+.prose .legal-notice {
+  margin: 0 0 1.75rem;
+  padding: 1rem 1.25rem;
+  background: var(--brand-accent-soft);
+  border: 1px solid var(--brand-accent);
+  border-radius: var(--radius);
+  color: var(--ink);
+}
+.prose .legal-notice p { margin: 0; font-size: .95rem; }
+
 /* --- /jvm-weekly/ : the monthly Foojay roundup in JVM Weekly ---------------
    layouts/jvm-weekly/single.html, from data/jvm-weekly.yaml.
 
