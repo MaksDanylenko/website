@@ -4383,11 +4383,20 @@ th[aria-sort="descending"] .sort-btn::after { content: "\2193"; opacity: 1; }
   .jvmw-head__logo { width: 56px; height: 56px; padding: .4rem; border-radius: 10px; }
 }
 
-/* Native code actions stay discoverable with pointer, touch and keyboard. */
+/* Code actions use a native disclosure on narrow screens. */
+.enlighter-default .code-options,
+.enlighter-default .code-actions {
+  background: #282a36; color: #f8f8f2;
+  font-family: var(--font-body); font-size: .875rem;
+}
+.enlighter-default .code-options > summary {
+  display: list-item; width: fit-content; max-width: 100%; min-height: 44px;
+  padding: .5rem .75rem; line-height: 28px; cursor: pointer;
+}
+.enlighter-default .code-options > summary[hidden] { display: none; }
 .enlighter-default .code-actions {
   display: flex; flex-wrap: wrap; align-items: center; gap: .25rem .5rem;
-  padding: .5rem .75rem; background: #282a36; color: #f8f8f2;
-  font-family: var(--font-body); font-size: .875rem;
+  padding: .5rem .75rem;
 }
 .enlighter-default .code-actions button,
 .enlighter-default .code-actions a {
@@ -4400,12 +4409,20 @@ th[aria-sort="descending"] .sort-btn::after { content: "\2193"; opacity: 1; }
 .enlighter-default .code-actions a:hover,
 .enlighter-default .code-actions button[aria-pressed="true"] { background: #44475a; }
 .enlighter-default .code-actions :focus-visible,
+.enlighter-default .code-options > summary:focus-visible,
 .enlighter-default .enlighter-code:focus-visible {
   outline: 2px solid var(--focus-ring); outline-offset: -4px;
   box-shadow: inset 0 0 0 2px var(--focus-halo, #ffffff);
 }
 .code-actions__status { flex-basis: 100%; }
 .code-actions__status:empty { display: none; }
+
+@media (max-width: 40rem) {
+  .enlighter-default .code-actions button,
+  .enlighter-default .code-actions a {
+    display: inline-flex; align-items: center; min-height: 44px;
+  }
+}
 
 /* Dracula's original muted tokens were 3.02:1; this is 5.07:1 on #282a36.
    Extra component specificity wins over the later-loaded vendor stylesheet. */
