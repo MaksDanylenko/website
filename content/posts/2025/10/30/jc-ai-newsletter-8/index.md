@@ -23,7 +23,6 @@ related_posts:
   - "jc-ai-newsletter-2"
   - "jc-ai-newsletter-3"
   - "jc-ai-newsletter-4"
-frozen: false
 ---
 
 **Fourteen days have passed, and it is time to present a fresh collection of readings that could influence developments in the field of artificial intelligence.**

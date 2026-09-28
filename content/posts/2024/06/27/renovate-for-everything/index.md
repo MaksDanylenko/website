@@ -14,7 +14,6 @@ related_posts:
   - "authenticate-with-openid-connect-and-apache-apisix"
   - "canary-releases-with-apache-apisix"
   - "renovate-alternative-dependabot"
-frozen: true
 ---
 
 In my earlier post about moving from [Kotlin Scripting to Python](https://blog.frankel.ch/kotlin-scripting-to-python/), I mentioned several reasons:

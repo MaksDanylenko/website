@@ -15,7 +15,6 @@ related_posts:
   - "best-practices-for-deploying-mongodb-in-kubernetes"
   - "beyond-keywords-hybrid-search-with-atlas-and-vector-search-part-3"
   - "beyond-keywords-implementing-semantic-search-in-java-with-spring-data-part-1"
-frozen: false
 ---
 
 Dear fellow developer, welcome!

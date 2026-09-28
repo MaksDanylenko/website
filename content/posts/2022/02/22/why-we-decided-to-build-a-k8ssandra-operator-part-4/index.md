@@ -15,7 +15,6 @@ categories:
   - "Kubernetes"
   - "Microservices"
 related_posts:
-frozen: false
 ---
 
 In the [first](https://k8ssandra.io/blog/other/why_k8ssandra_operator_part_1/), [second](https://k8ssandra.io/blog/articles/why-k8ssandra-operator-part-2/), and [third](https://k8ssandra.io/blog/articles/why-we-decided-to-build-a-k8ssandra-operator-part-3/) posts in this series, we've shared conversations with K8ssandra core team members on our journey to build a Kubernetes operator for K8ssandra. We've discussed the virtues of the Helm package manager versus Kubernetes operators for deploying and managing infrastructure in Kubernetes and some of our implementation choices for the operator.

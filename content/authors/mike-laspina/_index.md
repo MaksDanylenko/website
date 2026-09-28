@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/mike-laspina/"
 github: ""
 youtube: ""
 website: ""
-frozen: false
 ---

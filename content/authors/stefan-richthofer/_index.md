@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/stefan-richthofer/"
 github: "https://github.com/Stewori"
 youtube: ""
 website: "https://apidia.net/"
-frozen: false
 ---

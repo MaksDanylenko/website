@@ -14,7 +14,6 @@ related_posts:
   - "kubernetes-gateway-api"
   - "apache-apisix-loves-rust"
   - "dry-your-apache-apisix-config"
-frozen: false
 ---
 
 **I spoke at [Swiss PgDay](https://www.pgday.ch/2024/#schedule) in Switzerland in late June. The talk was about how to create a no-code API with the famous [PostgreSQL](https://www.postgresql.org/) database, the related [PostgREST](https://postgrest.org/), and [Apache APISIX](https://apisix.apache.org), of course. I already wrote about the idea in a [previous post](https://blog.frankel.ch/poor-man-api/). However, I wanted to improve it, if only slightly.**

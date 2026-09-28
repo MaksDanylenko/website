@@ -12,7 +12,6 @@ related_posts:
   - "asyncgetcalltrace-reworked-frame-by-frame-with-an-iterative-touch"
   - "book-review-practical-design-patterns-for-java-developers"
   - "foojay-podcast-14"
-frozen: false
 ---
 
 **2023 was an adventurous year for me: I came into my blogging rhythm, blogging every one to two weeks, resulting in 39 articles, many of them on Foojay.io, spoke at my first conferences, around 14 overall, 22 if you include JUGs and online conferences, and continued working on my [IntelliJ plugin](https://mostlynerdless.de/blog/2023/12/04/profiling-maven-projects-with-my-intellij-profiler-plugin/), as well as my proposal for a [new profiling API](https://openjdk.org/jeps/435).**

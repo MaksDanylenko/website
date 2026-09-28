@@ -2,7 +2,6 @@
 title: "CRaC (Coordinated Restore at Checkpoint)"
 description: "CRaC is an OpenJDK project that solves one of the most common complaints about Java in cloud environments: slow startup. The JVM traditionally takes time to load classes, initialise frameworks, and warm up the JIT compiler before an application can ..."
 url: "/pedia/crac-coordinated-restore-at-checkpoint/"
-frozen: false
 ---
 
 CRaC is an OpenJDK project that solves one of the most common complaints about Java in cloud environments: slow startup. The JVM traditionally takes time to load classes, initialise frameworks, and warm up the JIT compiler before an application can serve its first request. In a serverless or container-heavy deployment, this warmup cost is paid every time a new instance starts.

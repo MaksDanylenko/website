@@ -14,7 +14,6 @@ related_posts:
   - "java-functional-programming"
   - "java-functional-programming-fx-part2"
   - "7-functional-programming-techniques-in-java-a-primer"
-frozen: false
 ---
 
 In our earlier articles [part1](https://foojay.io/today/java-functional-programming/) and [part2](https://foojay.io/today/java-functional-programming-fx-part2), we have previously explored the significance of functional programming, Lambda Calculus, as well as various features such as Functional Interfaces, Lambda Expressions, and Method References.

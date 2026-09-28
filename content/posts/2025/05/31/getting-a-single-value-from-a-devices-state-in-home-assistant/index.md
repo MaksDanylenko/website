@@ -16,7 +16,6 @@ related_posts:
   - "a-case-for-databases-on-kubernetes-from-a-former-skeptic"
   - "a-better-way-to-use-gradle-with-github-actions"
   - "poor-mans-api"
-frozen: false
 ---
 
 I recently acquired [Netatmo smart radiator valves](https://www.netatmo.com/en-eu/additional-smart-radiator-valve) to manage my rooms' temperature remotely. I'm not skilled at manual tasks, but I could easily replace the old thermo-static valves. I then registered the smart ones in the Netatmo app. Finally, I integrated them in my Home Assistant via the dedicated [Netatmo integration](https://www.home-assistant.io/integrations/netatmo/). Everything was very straightforward.

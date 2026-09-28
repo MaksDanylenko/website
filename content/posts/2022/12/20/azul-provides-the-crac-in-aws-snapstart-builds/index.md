@@ -16,7 +16,6 @@ related_posts:
   - "introducing-the-openjdk-coordinated-restore-at-checkpoint-project"
   - "java-performance-ahead-of-time-versus-just-in-time"
   - "analyzing-and-tuning-warm-up-of-the-jvm-with-azul-zulu-prime-builds-of-openjdk"
-frozen: false
 ---
 
 At Azul, we are very excited about the Amazon Web Services launch of [SnapStart for Lambdas](https://docs.aws.amazon.com/lambda/latest/dg/snapstart-runtime-hooks.html).

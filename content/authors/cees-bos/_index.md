@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/ceesbos/"
 github: ""
 youtube: ""
 website: "https://ceesbos.nl"
-frozen: false
 ---

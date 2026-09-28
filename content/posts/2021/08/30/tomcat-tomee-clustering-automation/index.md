@@ -11,7 +11,6 @@ categories:
   - "Jelastic"
   - "Tutorials"
 related_posts:
-frozen: false
 ---
 
 {{< img src="image11-379fd649.png" class="alignleft" alt="Tomcat TomEE Automatic Clustering" >}}

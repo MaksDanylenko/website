@@ -15,7 +15,6 @@ related_posts:
   - "java-on-azure-tooling-update-august-2022"
   - "java-on-azure-tooling-update-july-2022"
   - "java-on-azure-tooling-update-june-2022"
-frozen: false
 ---
 
 Hi everyone, welcome back to September update of Java on Azure Tooling.

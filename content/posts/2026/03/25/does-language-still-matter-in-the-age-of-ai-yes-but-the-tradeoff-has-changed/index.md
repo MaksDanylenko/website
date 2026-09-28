@@ -16,7 +16,6 @@ related_posts:
   - "jc-ai-newsletter-4"
   - "ai4devs-schedule-published"
   - "offline-crypto-address-validation-in-java"
-frozen: false
 ---
 
 ## ![](dominance-700x467.jpg)

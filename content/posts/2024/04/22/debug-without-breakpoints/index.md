@@ -18,7 +18,6 @@ related_posts:
   - "eight-debugging-tips-for-intellijidea-users-you-never-knew-existed"
   - "analyzing-dependencies-in-intellij-idea"
   - "ask-a-lille-dev-what-java-developers-really-think-about-quality-frameworks-communities-and-careers"
-frozen: false
 ---
 
 Read in other languages: [中文](https://flounder.dev/zh/posts/debug-without-breakpoints/) [Español](https://flounder.dev/es/posts/debug-without-breakpoints/) [Português](https://flounder.dev/pt/posts/debug-without-breakpoints/)

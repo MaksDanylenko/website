@@ -12,7 +12,6 @@ categories:
 related_posts:
   - "ai-assisted-genealogy"
   - "ai-gateways-why-and-how"
-frozen: false
 ---
 
 You make decisions with data. Most businesses assumed that the most data, the better the decision. Then, several factors put a halt to the hoarding of always more data. and its localized counterparts, and the cost of storage. However, before it happened, the Datensparsamkeit approach already existed.

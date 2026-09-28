@@ -12,7 +12,6 @@ related_posts:
   - "apache-apisix-north-america-tour"
   - "gerrit-and-ivars-north-america-jug-tour"
   - "springone-tlv-world-tour-trip-report"
-frozen: false
 ---
 
 Last year was my first year blogging, speaking at conferences, meeting incredible people, and seeing places I've never been before.

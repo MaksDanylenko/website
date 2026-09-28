@@ -13,7 +13,6 @@ related_posts:
   - "how-is-leyden-improving-java-performance-part-2-of-3"
   - "indexing-all-of-wikipedia-on-a-laptop"
   - "how-to-create-a-failover-client-using-the-hazelcast-viridian-serverless"
-frozen: false
 ---
 
 This post is a part of a series:

@@ -15,7 +15,6 @@ related_posts:
   - "a-closer-look-at-jfr-streaming"
   - "billion-events-per-second-with-millisecond-latency"
   - "offline-crypto-address-validation-in-java"
-frozen: false
 ---
 
 Cryptocurrency trading is an emerging market with its own rules.

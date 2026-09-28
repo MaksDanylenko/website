@@ -17,7 +17,6 @@ related_posts:
   - "building-a-fullstack-imdb-clone-with-a-java-backend-using-sparkjava-and-neo4j"
   - "journeys-in-java-level-6-build-a-neo4j-microservice"
   - "ai4devs-schedule-published"
-frozen: false
 ---
 
 ![Base Photo by Compare Fibre on Unsplash](nodes2023-java-scaled.jpg)

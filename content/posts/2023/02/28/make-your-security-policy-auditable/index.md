@@ -14,7 +14,6 @@ related_posts:
   - "blockhound-how-it-works"
   - "chopping-monolith"
   - "jc-ai-newsletter-8"
-frozen: false
 ---
 
 Following from my previous article, I wrote about [putting the right feature at the right place](https://foojay.io/today/the-right-feature-at-the-right-place/).

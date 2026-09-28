@@ -14,7 +14,6 @@ related_posts:
   - "semantic-search-with-spring-boot-redis"
   - "sliding-window-counter-rate-limiter-redis-java"
   - "sliding-window-log-rate-limiter-redis-java"
-frozen: false
 ---
 
 > Did you know the Deep Java Library (DJL) powers Spring AI and Redis OM Spring? DJL helps you run machine learning models right inside your Java applications.

@@ -14,7 +14,6 @@ related_posts:
   - "poor-mans-api"
   - "kubernetes-gateway-api"
   - "real-world-stream-collector"
-frozen: false
 ---
 
 Git has become a fundamental part of our developers' daily routine that it's hard to remember our lives without it. And yet, most of us use a limited set of commands **and** options. Today, I want to focus on two commands most developers probably use **every** day and look at the defaults behind them.

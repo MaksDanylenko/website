@@ -14,7 +14,6 @@ related_posts:
   - "data-modeling-for-java-developers-structuring-with-postgresql-and-mongodb"
   - "mongodb-acid-transactions-with-java"
   - "mongodb-aggregation-framework-a-beginners-guide"
-frozen: false
 ---
 
 In this series, we're exploring different [MongoDB aggregation operators](https://www.mongodb.com/docs/manual/aggregation/?utm_campaign=devrel&utm_source=third-party-content&utm_medium=cta&utm_content=recipe-foojay&utm_term=tony.kim) by applying them to a recipe collection. I hope you'll follow along with each post!

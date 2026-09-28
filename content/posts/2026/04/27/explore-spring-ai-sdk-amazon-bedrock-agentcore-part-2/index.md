@@ -14,7 +14,6 @@ categories:
   - "Maven"
   - "Spring"
 related_posts:
-frozen: false
 ---
 
 *If you're joining us from [Part 1](https://foojay.io/today/spring-ai-amazon-bedrock-sdk-guide/) or need a quick refresher on the architecture, listen to this brief overview of how Spring AI and Amazon Bedrock work together.*

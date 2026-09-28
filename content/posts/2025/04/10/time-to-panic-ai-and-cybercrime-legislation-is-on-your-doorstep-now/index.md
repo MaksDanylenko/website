@@ -13,7 +13,6 @@ related_posts:
   - "foojay-podcast-50"
   - "foojay-podcast-7"
   - "announcing-java-unscripted-an-asynchronous-exploration-of-excellence"
-frozen: false
 ---
 
 **As we settle into 2025, legislation around AI and cybercrime is no longer a distant threat or vague aspiration. It's here, real, and it's already changing how companies must build, deploy, and secure intelligent systems.**

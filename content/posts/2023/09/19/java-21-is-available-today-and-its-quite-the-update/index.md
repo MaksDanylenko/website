@@ -18,7 +18,6 @@ related_posts:
   - "its-java-20-release-day-heres-whats-new"
   - "preparing-for-jdk-21-a-comprehensive-overview-of-key-features-and-enhancements"
   - "offline-crypto-address-validation-in-java"
-frozen: false
 aliases:
   - "/java-21/"
 ---

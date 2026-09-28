@@ -22,7 +22,6 @@ related_posts:
   - "idempotent-spring-boot-starter"
   - "ai-found-the-bugs-whos-patching-your-eol-java-code"
   - "did-ai-just-break-software-security-for-ever"
-frozen: false
 ---
 
 {{< youtube eSreg0xPGqo >}}

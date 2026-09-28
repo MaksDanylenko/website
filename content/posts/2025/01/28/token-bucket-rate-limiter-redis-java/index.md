@@ -16,7 +16,6 @@ related_posts:
   - "fixed-window-counter-rate-limiter-redis-java"
   - "sliding-window-counter-rate-limiter-redis-java"
   - "sliding-window-log-rate-limiter-redis-java"
-frozen: false
 ---
 
 > [This article is also available on YouTube!](https://youtu.be/cfF6nXIpDwE)

@@ -14,7 +14,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "a-minor-but-useful-refactoring-technique-that-would-reduce-your-code-footprint-part-1"
   - "how-to-diagnose-and-mitigate-pinning-in-javas-virtual-thread-execution"
-frozen: false
 ---
 
 As Java evolves, simplifying code and improving developer productivity remain priorities.

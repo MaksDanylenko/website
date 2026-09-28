@@ -17,7 +17,6 @@ related_posts:
   - "java-performance-ahead-of-time-versus-just-in-time"
   - "are-java-security-updates-important"
   - "five-java-developer-must-haves"
-frozen: false
 ---
 
 CRaC (Coordinated Restore at Checkpoint) is [an OpenJDK project](https://openjdk.org/projects/crac/) that was [developed by Azul](https://www.azul.com/blog/aws-snapstart-builds-momentum-for-the-crac-api/) to solve the problem of "slow" startup times of the Java Virtual Machine in a microservice environment.

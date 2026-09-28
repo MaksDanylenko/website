@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/reneschwietzke/"
 github: ""
 youtube: ""
 website: "https://x.com/ReneSchwietzke"
-frozen: false
 ---

@@ -16,7 +16,6 @@ related_posts:
   - "7-reasons-to-switch-to-openjdk-17-as-a-jakarta-ee-developer"
   - "are-java-jakarta-ee-application-servers-heavy"
   - "enterprise-java-in-practice-fragmentation-platforms-and-real-world-trade-offs"
-frozen: false
 ---
 
 Java EE, now Jakarta EE, makes it possible for developers to focus purely on the development of a Java enterprise application, solving the business logic without needing to think about infrastructure and operations when writing code.

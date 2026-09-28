@@ -15,7 +15,6 @@ related_posts:
   - "java-on-azure-tooling-update-september-2022"
   - "java-virtual-threads-in-action-optimizing-mongodb-operation"
   - "understanding-bson-a-beginners-guide-to-mongodbs-data-format"
-frozen: false
 ---
 
 A database is constantly under pressure. Real-time applications, exponential growth of data, and multiple operations may hit the system at once. Without coordination, this can lead to race conditions, conflicts, and ultimately, the dreaded inconsistent data! To address this, MongoDB supports [transactions](https://learn.mongodb.com/courses/mongodb-transactions?utm_campaign=devrel&utm_source=third-party-content&utm_medium=cta&utm_content=java+acid&utm_term=tim.kelly).

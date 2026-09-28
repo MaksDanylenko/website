@@ -14,7 +14,6 @@ related_posts:
   - "backend-for-frontend-the-demo"
   - "canary-releases-with-apache-apisix"
   - "free-tier-api-with-apache-apisix"
-frozen: false
 ---
 
 **In my talk Evolving your APIs, I mention that an API Gateways is a Reverse Proxy "on steroids". One key difference between the former and the latter is that the API Gateway is not unfriendly to business logic. The poster child is rate-limiting.**

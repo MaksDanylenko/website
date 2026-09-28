@@ -10,7 +10,6 @@ image: "Favicon-3-2.png"
 categories:
   - "Security"
 related_posts:
-frozen: false
 ---
 
 Java serialization is a mechanism to transform an object into a byte stream. Java deserialization is exactly the other way around and allows us to recreate an object from a byte stream. Java serialization—and more specifically deserialization in Java—is also known as "the gift that keeps on giving". This relates to the many security issues and other problems it has produced over the years.

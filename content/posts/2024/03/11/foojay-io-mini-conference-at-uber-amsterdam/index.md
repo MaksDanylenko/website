@@ -9,7 +9,6 @@ image: "foojay_podcast.png"
 categories:
   - "Events"
 related_posts:
-frozen: false
 ---
 
 Uber Tech is partnering with Java User Group Amsterdam to host [their first mini conference with Foojay.io](https://www.meetup.com/amsterdam-java-user-group/events/299589593/). Come and join in at the Uber Amsterdam HQ and learn from experts in their fields.

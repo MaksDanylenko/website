@@ -17,7 +17,6 @@ related_posts:
   - "new-book-taming-thymeleaf"
   - "controlling-an-lcd-display-with-spring-and-thymeleaf-on-the-raspberry-pi"
   - "foojay-podcast-67"
-frozen: false
 ---
 
 **People who follow me probably know I have a big love for user interface development with JavaFX (for desktop), and Vaadin (for browser). But as always, there are different solutions for every challenge, and building a web user interface with Java can be done with other frameworks.**

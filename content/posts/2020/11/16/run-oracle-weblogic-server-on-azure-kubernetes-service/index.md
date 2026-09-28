@@ -10,7 +10,6 @@ categories:
   - "Kubernetes"
   - "Release Notes"
 related_posts:
-frozen: false
 ---
 
 We are delighted to announce the initial release of solutions to run Oracle WebLogic Server (WLS) on the Azure Kubernetes Service (AKS) developed with the WebLogic team as part of a broad-ranging partnership between Microsoft and Oracle. The partnership includes joint support for a range of Oracle software running on Azure, including Oracle WebLogic, Oracle Linux, and Oracle DB, as well as interoperability between Oracle Cloud Infrastructure (OCI) and Azure.

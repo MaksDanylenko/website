@@ -18,7 +18,6 @@ related_posts:
   - "build-a-status-dashboard-using-spring-boot-and-astra-db"
   - "aggregation-optimization-in-mongodb-unnecessary-unwinds-part-2"
   - "ask-a-lille-dev-what-java-developers-really-think-about-quality-frameworks-communities-and-careers"
-frozen: false
 ---
 
 ![](1_bAqotS_F1PipZLOHx_Tcww-1024x403.jpeg)

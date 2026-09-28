@@ -16,7 +16,6 @@ related_posts:
   - "the-javafx-revival"
   - "wordish-with-javafx-part-5"
   - "wordish-with-javafx-part-4"
-frozen: false
 aliases:
   - "/today/native-applications-for-multiple-device-from-a-single-javafx-project-with-gluon-mobile-and-github-actions/"
 ---

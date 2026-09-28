@@ -13,7 +13,6 @@ related_posts:
   - "api-mocking-essential-and-redundant"
   - "7-ways-to-improve-your-code-reading-skills"
   - "eight-debugging-tips-for-intellijidea-users-you-never-knew-existed"
-frozen: false
 aliases:
   - "/today/61904/"
 ---

@@ -17,7 +17,6 @@ related_posts:
   - "vibe-coding-maven-and-the-dependencies-you-didnt-choose"
   - "enterprise-java-quality-gates-ai"
   - "why-java-developers-over-trust-ai-dependency-suggestions"
-frozen: false
 ---
 
 Backend validation often starts with simple questions.

@@ -15,7 +15,6 @@ related_posts:
   - "task-schedulers-in-java-modern-alternatives-to-quartz-scheduler"
   - "starting-docker-desktop-with-spring-boot"
   - "kicking-spring-natives-tires"
-frozen: false
 ---
 
 Frameworks promise to speed up one's development pace provided one follows the mainstream path.

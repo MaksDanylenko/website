@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/mohamedtaman/"
 github: ""
 youtube: ""
 website: "https://x.com/_tamanm"
-frozen: false
 ---

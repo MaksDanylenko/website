@@ -15,7 +15,6 @@ related_posts:
   - "getting-started-with-fxgl-game-development"
   - "high-performance-rendering-in-javafx"
   - "sheetmusic4j-0-0-3-abc-notation-guitar-pro-engraving-improvements"
-frozen: false
 ---
 
 [Version 17](https://github.com/AlmasB/FXGL/releases/tag/17) of the FXGL game engine brings a number of improvements in many areas. Key changes include:

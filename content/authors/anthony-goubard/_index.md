@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/anthonygoubard/"
 github: ""
 youtube: "https://www.youtube.com/@Japplis."
 website: "https://x.com/Anthony_Goubard"
-frozen: false
 ---

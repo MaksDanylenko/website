@@ -12,7 +12,6 @@ related_posts:
   - "boxlang-redis-has-landed-enterprise-grade-caching-pub-sub-and-distributed-locking"
   - "foojay-podcast-76"
   - "javafx-links-of-september-2025"
-frozen: false
 ---
 
 ![](bx-chart-release-700x467.jpg)

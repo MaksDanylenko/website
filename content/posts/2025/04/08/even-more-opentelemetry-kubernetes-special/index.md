@@ -16,7 +16,6 @@ related_posts:
   - "optimizing-java-for-the-cloud-native-era-with-quarkus"
   - "quarkus-a-runtime-and-framework-for-cloud-native-java"
   - "opentelemetry-tracing-on-the-jvm"
-frozen: false
 ---
 
 I have presented my [OpenTelemetry demo](https://github.com/nfrankel/opentelemetry-tracing) many times, and I still do. Each time, the audience is different. To make no two presentations the same, I always ask attendees what stack they are more interested in. I also [regularly add](https://blog.frankel.ch/improve-otel-demo/) [new features](https://blog.frankel.ch/even-more-opentelemetry/) for the same reason.

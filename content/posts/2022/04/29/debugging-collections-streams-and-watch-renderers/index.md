@@ -14,7 +14,6 @@ related_posts:
   - "what-is-debugging-in-140-seconds"
   - "the-basics-of-breakpoints-you-might-not-know"
   - "exception-breakpoint-that-doesnt-suck-and-a-real-use-case-for-method-breakpoints"
-frozen: true
 ---
 
 In the last two ducklings, I finished the extensive discussion on breakpoints and switched my focus to the watch area. In it, we have several amazing and lesser known tools that let us build insight into our running application. Being able to tell at a glance if something works correctly is crucial for many applications.

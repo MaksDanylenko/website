@@ -15,7 +15,6 @@ related_posts:
   - "understanding-apache-maven-part-1-the-basics"
   - "understanding-apache-maven-part-2-pom-hierarchy"
   - "boxlang-1-15-0-released-blazing-fast-strings-runtime-portability-and-much-more"
-frozen: false
 ---
 
 Following on from [different techniques](https://foojay.io/today/faster-maven-builds-1/) to speed up your Maven builds, I'd like to widen the scope and do the same for Maven builds *inside Docker*.

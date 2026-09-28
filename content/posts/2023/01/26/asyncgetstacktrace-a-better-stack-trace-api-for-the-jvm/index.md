@@ -15,7 +15,6 @@ related_posts:
   - "writing-a-profiler-from-scratch-the-profiling-loop"
   - "ap-loader-a-new-way-to-use-and-embed-async-profiler"
   - "couldnt-we-just-use-asyncgetcalltrace-in-a-separate-thread"
-frozen: false
 ---
 
 *This article is the basis for my upcoming talk at* [*FOSDEM 2023,*](https://fosdem.org/2023/schedule/event/asyncgetstacktrace_the_improved_version_of_asyncgetcalltrace_jep_435/)*"AsyncGetStackTrace: The Improved Version Of AsyncGetCallTrace (JEP 435),["](https://fosdem.org/2023/schedule/event/asyncgetstacktrace_the_improved_version_of_asyncgetcalltrace_jep_435/) and is based on JEP Candidate 435.*

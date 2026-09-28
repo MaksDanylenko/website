@@ -15,7 +15,6 @@ related_posts:
   - "annotation-free-spring"
   - "debugging-tutorial-1-introduction-conditional-breakpoints-set-value"
   - "foojay-podcast-53"
-frozen: false
 ---
 
 The need for shorter and shorter Time-To-Market requires us to integrate more and more third-party libraries. There's no time for the [NIH syndrom](https://en.wikipedia.org/wiki/Not_invented_here) anymore, if it ever was. While most of the time the library's API is ready to use, it may happen that one needs to "adapt" it to the codebase sometimes. How easy the adaptation is depends a lot on the language.

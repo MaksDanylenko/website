@@ -11,7 +11,6 @@ categories:
   - "Performance"
   - "Research"
 related_posts:
-frozen: false
 ---
 
 One of the talks in my current portfolio is [Migrating from Imperative to Reactive](https://www.papercall.io/speakers/nicolasfrankel/speaker_talks/194232-migrating-from-imperative-to-reactive). The talk is based on a [demo](https://github.com/hazelcast-demos/imperative-to-reactive/) migrating from Spring WebMVC to Spring WebFlux in a step-by-step approach. One of the steps involves installing [BlockHound](https://github.com/reactor/BlockHound): it allows to check whether a blocking call occurs in a thread it shouldn't happen and throws an exception at runtime when it happens.

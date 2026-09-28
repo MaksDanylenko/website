@@ -25,7 +25,6 @@ related_posts:
   - "jc-ai-newsletter-15"
   - "jc-ai-newsletter-13"
   - "jc-ai-newsletter-easy-access-to-expanding-challenges"
-frozen: true
 ---
 
 **Two** weeks have passed and a lot have been happening on the field of artificial-intelligence.  

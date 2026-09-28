@@ -15,7 +15,6 @@ related_posts:
   - "chopping-monolith-demo"
   - "migrating-monoliths-to-microservices-in-practice"
   - "ask-a-lille-dev-what-java-developers-really-think-about-quality-frameworks-communities-and-careers"
-frozen: false
 ---
 
 With the usage of microservices in application modernization, we have seen both the advantages and disadvantages of maintaining such software development styles.

@@ -20,7 +20,6 @@ related_posts:
   - "foojay-podcast-49"
   - "foojay-podcast-48"
   - "reflections-on-2024-a-remarkable-year-for-omnifish-glassfish-piranha-and-jakarta-ee"
-frozen: false
 aliases:
   - "/today/foojay-podcast-51-persistence-evolving-your-career-jakarta-ee-glassfish-messaging-via-telegram/"
 ---

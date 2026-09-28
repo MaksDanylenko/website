@@ -17,7 +17,6 @@ related_posts:
   - "foojay-podcast-21"
   - "foojay-podcast-18"
   - "ask-a-lille-dev-what-java-developers-really-think-about-quality-frameworks-communities-and-careers"
-frozen: false
 ---
 
 Since December last year, the Foojay podcast virtually visited a Java User Group monthly.

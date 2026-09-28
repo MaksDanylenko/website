@@ -14,7 +14,6 @@ related_posts:
   - "5-minute-azure-survey-java-ee-jakarta-ee-and-microprofile"
   - "fantastic-jvms-and-where-to-find-them"
   - "kubernetes-data-simplicity-getting-started-with-k8ssandra"
-frozen: false
 ---
 
 [Thorntail](https://thorntail.io/), originally [WildFly Swarm](https://wildfly-swarm.io/), is most suitable for packaging applications as *JAR* , *WAR,* or *EAR* files. The most important value is in the functional agility the Thorntail provides. You can start with the stripped down version of Thorntail, adding the required parts and application code on top.  

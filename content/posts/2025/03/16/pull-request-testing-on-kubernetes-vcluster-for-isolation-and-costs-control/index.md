@@ -15,7 +15,6 @@ related_posts:
   - "is-it-time-to-go-back-to-the-monolith"
   - "langchain4j-musings"
   - "my-final-take-on-gradle-vs-maven"
-frozen: false
 ---
 
 This week's article is the third and final in my series about running tests on Kubernetes for each pull request. In the [first post](https://blog.frankel.ch/pr-testing-kubernetes/1/), I described the app and how to test locally using Testcontainers and in a GitHub workflow. The [second post](https://blog.frankel.ch/pr-testing-kubernetes/2/) focused on setting up the target environment and running end-to-end tests on Kubernetes.

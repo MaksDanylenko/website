@@ -15,7 +15,6 @@ related_posts:
   - "pitest-do-you-test-your-tests"
   - "spring-6-1-restclient"
   - "foojay-podcast-99"
-frozen: true
 ---
 
 [ArchUnit](https://www.archunit.org/) is a library that allows us to test our architecture (layering/slicing/(naming) conventions, and more).

@@ -16,7 +16,6 @@ related_posts:
   - "how-we-developed-the-eclipse-openj9-criu-support-for-fast-java-startup"
   - "different-approaches-to-building-stateful-microservices-in-the-cloud-native-world"
   - "effective-cloud-native-java-app-development-with-open-liberty-in-intellij-idea"
-frozen: false
 ---
 
 **Open Liberty is a lightweight, open cloud-native runtime, great for building fast and efficient cloud-native Java applications. If you're unfamiliar with Open Liberty, and want to learn more, check out the "[Why cloud-native Java developers love Liberty](https://developer.ibm.com/articles/why-cloud-native-java-developers-love-liberty/)" article.**

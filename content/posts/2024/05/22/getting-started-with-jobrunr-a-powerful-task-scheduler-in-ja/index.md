@@ -19,7 +19,6 @@ related_posts:
   - "unleashing-the-power-of-lightweight-concurrency-a-comprehensive-guide-to-java-virtual-threads-part-1"
   - "web-crawling-in-java-a-tale-of-classical-threads-and-virtual-threads"
   - "carbon-aware-job-processing-with-jobrunr-v8"
-frozen: false
 ---
 
 ## What is JobRunr

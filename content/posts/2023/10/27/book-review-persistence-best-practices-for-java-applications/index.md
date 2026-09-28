@@ -16,7 +16,6 @@ related_posts:
   - "book-review-designing-apis-with-swagger-and-openapi"
   - "book-review-effortless-cloud-native-app-development-using-skaffold"
   - "book-review-tidy-first"
-frozen: false
 ---
 
 **In todays ever-evolving world, fast and efficient data management is becoming ever more important. With the explosion of digital data and diverse data sources, selecting the right database type, whether it's traditional relational, NoSQL, or emerging options like NewSQL, has become pivotal. This also leads us to the next challenge for us, how do we integrate with this? Do we use JPA/JOOQ/... ? Where/how do we map our data? What is a polyglot setup, and should we be using it?**

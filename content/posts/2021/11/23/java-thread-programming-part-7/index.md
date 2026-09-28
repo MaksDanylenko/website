@@ -13,7 +13,6 @@ related_posts:
   - "java-thread-programming-part-5"
   - "java-thread-programming-part-4"
   - "java-thread-programming-part-9"
-frozen: false
 ---
 
 **In [our previous Java threading articles in this series](https://foojay.io/today/author/bazlur-rahman/), we learned a great deal about how we can create threads and how to use them while avoiding the issues that come with them. But what does this leave us with? Can we create as many threads as we want? I wish I could answer this with a straight yes or no. In this article, I will try to come up with an answer via an exercise, so bear with me!**

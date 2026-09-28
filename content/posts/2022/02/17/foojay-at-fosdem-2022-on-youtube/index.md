@@ -12,7 +12,6 @@ related_posts:
   - "new-java-17-features-for-improved-security-and-serialization"
   - "java-where-the-wild-code-isnt"
   - "are-java-security-updates-important"
-frozen: false
 ---
 
 Last weekend, FOSDEM 2022 was held virtually, with the Friends Of OpenJDK putting together an awesome program around the tools and editors that support the OpenJDK, from overviews of new OpenJDK features, to cutting edge development with new languages on the OpenJDK, sessions on the ever important topic of security, as well as new developments in JavaFX, Jakarta EE, Raspberry Pi, and beyond:

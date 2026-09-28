@@ -14,7 +14,6 @@ related_posts:
   - "an-example-of-overengineering-keep-it-wet"
   - "annotation-free-spring"
   - "resizing-images-on-the-fly"
-frozen: false
 ---
 
 I described [how to add a dynamic watermark to your images on the JVM](https://foojay.io/today/dynamic-watermarking-on-the-jvm/). I didn't find any library, so I had to develop the feature, or, more precisely, an embryo of a feature, by myself.

@@ -16,7 +16,6 @@ related_posts:
   - "foojay-podcast-17"
   - "how-to-run-a-java-application-with-crac-in-a-docker-container"
   - "openjdk-january-2026-critical-patch-update-and-patch-set-update-released"
-frozen: false
 ---
 
 **Many regular Foojay readers are already familiar with project CRaC - a technology that can checkpoint (suspend) running Java application into a snapshot image and later restore it to the already warmed-up state. The most common motivation for this is significantly faster startup than if the application (and JVM) started normally. Traditionally this was supported by CRIU (Checkpoint and Restore in Userspace), coming with the burden of root privileges required for execution. Since Azul Zulu October 2024 release, this pain-point can be gone: meet Warp.**

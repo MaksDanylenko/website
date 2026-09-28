@@ -19,7 +19,6 @@ related_posts:
   - "foojay-podcast-91"
   - "foojay-podcast-90"
   - "foojay-podcast-89"
-frozen: false
 ---
 
 In this episode of the Foojay Podcast, we're bringing you something special: a full batch of hallway-track conversations recorded live at VoxxedDays Amsterdam.

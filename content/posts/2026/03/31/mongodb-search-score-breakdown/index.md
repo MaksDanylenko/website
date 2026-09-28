@@ -15,7 +15,6 @@ related_posts:
   - "java-concurrency-best-practices-for-mongodb"
   - "mongodb-sharding-what-to-know-before-you-shard"
   - "power-your-ai-application-with-vector-search"
-frozen: false
 aliases:
   - "/today/atlas-search-score-breakdown/"
 ---

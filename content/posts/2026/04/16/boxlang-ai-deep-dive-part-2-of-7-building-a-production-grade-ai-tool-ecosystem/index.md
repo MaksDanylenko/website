@@ -18,7 +18,6 @@ related_posts:
   - "boxlang-ai-3-2-0-image-generation-web-search-fluent-audio-agent-registry-mcp-observability"
   - "introducing-skills-boxlang-io-the-open-agent-skills-ecosystem-for-boxlang-the-ortus-world"
   - "boxlang-ai-deep-dive-part-1-of-7-the-skills-revolution"
-frozen: false
 ---
 
 ![](bxai-series-cover-02-700x368.png)

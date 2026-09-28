@@ -11,7 +11,6 @@ categories:
   - "Debugging"
   - "Machine Learning"
 related_posts:
-frozen: false
 ---
 
 Every Java developer has been there. Something breaks, and the first instinct is to litter the code with `System.out.println(">>> HERE 1")`. Then `HERE 2`. Then `HERE 3 — value is: " + x`. Rebuild. Rerun. Stare at the console. Repeat.

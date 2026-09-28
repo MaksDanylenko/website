@@ -14,7 +14,6 @@ related_posts:
   - "trash-pandas-love-enterprise-java-garbage-code"
   - "improve-devops-productivity-with-azul-intelligence-cloud-for-any-jvm"
   - "moving-security-into-the-jvm"
-frozen: false
 ---
 
 Java, the popular object-oriented language renowned for its portability, performance, and security, is often the preferred choice for organisations building everything from enterprise and cloud-native applications to Android apps.

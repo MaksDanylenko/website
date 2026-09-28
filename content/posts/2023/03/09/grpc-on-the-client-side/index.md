@@ -15,7 +15,6 @@ related_posts:
   - "managing-data-residency-concepts-theory"
   - "backend-for-frontend-the-demo"
   - "service-discovery-client-apache-apisix"
-frozen: false
 ---
 
 Most inter-systems communication components that use REST serialize their payload in JSON. As of now, JSON lacks a widely-used schema validation standard: [JSON Schema](https://json-schema.org/) is not widespread. Standard schema validation allows delegating the validation to a third-party library and being done with it. Without one, we must fall back to manual validation in the code. Worse, we must keep the validation code in sync with the schema.

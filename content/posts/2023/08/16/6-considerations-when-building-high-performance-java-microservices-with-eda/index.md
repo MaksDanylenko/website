@@ -17,7 +17,6 @@ related_posts:
   - "billions-of-messages-tcp-ip"
   - "building-custom-solutions-vs-buy-and-build-software"
   - "idempotent-spring-boot-starter"
-frozen: false
 ---
 
 **Event-Driven Architecture (EDA) is a design principle focused on the creation, detection, and reaction to events.**

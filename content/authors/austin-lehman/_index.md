@@ -10,5 +10,4 @@ github: "https://github.com/rsv-code"
 gitlab: "https://gitlab.com/cupofcode"
 youtube: ""
 website: ""
-frozen: false
 ---

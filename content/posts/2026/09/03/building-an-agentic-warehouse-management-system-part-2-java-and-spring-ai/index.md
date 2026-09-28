@@ -13,7 +13,6 @@ related_posts:
   - "inside-the-engine-the-sub-millisecond-performance-relay-of-mongodb-8-0"
   - "introduction-to-behavior-driving-development-with-java-and-mongodb"
   - "java-virtual-threads-in-action-optimizing-mongodb-operation"
-frozen: false
 ---
 
 If you arrived here without reading the first part, I recommend starting with **[Agentic WMS — Part 1: Where AI Agents Add Value](https://foojay.io/today/building-an-agentic-warehouse-management-system-part-1-where-ai-agents-add-value/).** There, we introduced the WMS scenario, explored the replenishment problem, and discussed where an AI agent can add value without replacing deterministic application logic.

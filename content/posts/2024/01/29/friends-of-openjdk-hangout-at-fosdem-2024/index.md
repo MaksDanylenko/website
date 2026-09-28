@@ -13,7 +13,6 @@ related_posts:
   - "foojay-io-at-fosdem-2023-trip-report"
   - "friends-of-openjdk-schedule-at-fosdem-2021"
   - "friends-of-openjdk-schedule-at-fosdem-2022"
-frozen: false
 ---
 
 [FOSDEM is here again](https://fosdem.org/2024/), this coming weekend. Many will remember [the great hangout Friends Of OpenJDK had at Bier Centraal in Brussels](https://foojay.io/today/foojay-io-at-fosdem-2023-trip-report/) last year.

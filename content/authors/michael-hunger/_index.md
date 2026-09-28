@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/jexpde/"
 github: ""
 youtube: ""
 website: "https://x.com/mesirii"
-frozen: false
 ---

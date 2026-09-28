@@ -17,7 +17,6 @@ related_posts:
   - "project-panama-for-newbies-part-2"
   - "java-panama-polyglot-part1"
   - "java-panama-polyglot-rust-part-4"
-frozen: false
 ---
 
 > Absorb what is useful, discard what is useless and add what is specifically your own. -- Bruce Lee

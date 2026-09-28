@@ -11,7 +11,6 @@ categories:
   - "Java"
 related_posts:
   - "why-java-c-and-python-are-todays-most-utilized-programming-languages"
-frozen: false
 ---
 
 In the [previous post](https://blog.frankel.ch/seasons-time-lapse/1/), I described the Seasons project: a time-lapse of hundreds of pictures taken from nearly the same viewpoint over the years. The hardest challenge wasn't taking the pictures or assembling them, but aligning them.

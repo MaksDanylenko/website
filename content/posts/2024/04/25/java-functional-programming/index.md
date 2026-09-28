@@ -16,7 +16,6 @@ related_posts:
   - "7-functional-programming-techniques-in-java-a-primer"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "9-outdated-ideas-about-java"
-frozen: false
 ---
 
 ## Java: Functional Programming f(x) – Part1

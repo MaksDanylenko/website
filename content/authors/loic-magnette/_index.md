@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/lomagnette/"
 github: ""
 youtube: ""
 website: "https://x.com/LoMagnette"
-frozen: false
 ---

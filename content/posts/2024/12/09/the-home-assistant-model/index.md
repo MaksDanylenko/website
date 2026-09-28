@@ -16,7 +16,6 @@ related_posts:
   - "why-i-love-intellij-idea-for-java-development"
   - "run-ai-enabled-jakarta-ee-and-microprofile-applications-with-langchain4j-and-open-liberty"
   - "getting-a-single-value-from-a-devices-state-in-home-assistant"
-frozen: false
 ---
 
 Home Assistant ([home-assistant.io](https://www.home-assistant.io/)) is a massive beast. It can be overwhelming for a newcomer; it was for me.

@@ -17,7 +17,6 @@ related_posts:
   - "debugging-jaxb-production-issues"
   - "production-horrors-handling-disasters-public-debrief"
   - "spring-boot-debugging-with-aspect-oriented-programming-aop"
-frozen: false
 ---
 
 A couple of weeks ago, we had a great time hosting the workshop you can see below with Vlad Mihalcea. It was loads of fun and we hope to do this again soon!

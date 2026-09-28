@@ -9,7 +9,6 @@ image: "Favicon-3-2.png"
 categories:
   - "Books"
 related_posts:
-frozen: false
 ---
 
 Working correctly with exceptions is crucial to a high-quality application that users enjoy using. This quiz reinforces some of the basic concepts of exceptions.

@@ -14,7 +14,6 @@ related_posts:
   - "clean-shutdown-of-spring-boot-applications"
   - "getting-more-mileage-out-of-kafka-openjdk-vs-azul-prime"
   - "micrometer-prometheus-in-spring-boot-kafka-burger-orders"
-frozen: false
 ---
 
 This is part 2 of a two part series on Starting Apache Kafka Server, Configuring Kafka Topic, and Creating a Core Java Based Kafka Consumer, as also a Core Java Based Kafka Producer.

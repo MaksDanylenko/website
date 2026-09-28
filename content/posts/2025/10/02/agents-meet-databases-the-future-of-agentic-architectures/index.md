@@ -15,7 +15,6 @@ related_posts:
   - "building-a-real-time-ai-fraud-detection-system-with-spring-kafka-and-mongodb"
   - "building-a-spring-boot-crud-application-using-mongodbs-relational-migrator"
   - "building-an-ai-semantic-movie-recommender-with-vector-search"
-frozen: false
 ---
 
 With 2025 hailed as "the year of agents" by [NVIDIA CEO Jensen Huang](https://www.barrons.com/articles/nvidia-stock-ceo-ai-agents-8c20ddfb) and [OpenAI CPO Kevin Weil](https://www.axios.com/2025/01/23/davos-2025-ai-agents), AI agents are increasingly of interest to organizations across industries. These autonomous systems will often need to interact with databases, where much of the world's valuable data resides. According to [IDC's Data Age 2025 report](https://www.seagate.com/files/www-content/our-story/trends/files/Seagate-WP-DataAge2025-March-2017.pdf), enterprises will manage nearly 60% of the world's data by 2025, most of it organized in databases. As a result, databases will be central to agentic architectures, and the success of agent deployments will depend on how well they connect and interact with them.

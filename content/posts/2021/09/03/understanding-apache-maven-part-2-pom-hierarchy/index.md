@@ -13,7 +13,6 @@ related_posts:
   - "understanding-apache-maven-part-1-the-basics"
   - "a-simple-service-with-spring-boot"
   - "getting-started-with-jakarta-ee-9-hello-world"
-frozen: false
 aliases:
   - "/today/understanding-apache-maven-part-2-pom-hierarchy-and-effective-pom/"
 ---

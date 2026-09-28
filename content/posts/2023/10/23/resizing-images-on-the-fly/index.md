@@ -15,7 +15,6 @@ related_posts:
   - "apache-apisix-loves-rust"
   - "down-the-rabbit-hole-of-an-apache-apisix-plugin"
   - "dynamic-watermarking-with-imgproxy-and-apache-apisix"
-frozen: false
 ---
 
 As a web architect, one of the many issues is asset management. And the most significant issue in assets is images. A naive approach would be to set an image and let the browser resize the image via CSS:

@@ -13,7 +13,6 @@ categories:
   - "Machine Learning"
   - "Webinar"
 related_posts:
-frozen: true
 ---
 
 This first online Foojay Webinar highlights Java's place in the AI revolution, focusing on exploring AI/ML using pure Java tools.

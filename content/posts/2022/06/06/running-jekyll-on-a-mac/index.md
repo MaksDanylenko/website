@@ -13,7 +13,6 @@ related_posts:
   - "5-tips-to-create-secure-docker-images-for-java-applications"
   - "are-java-security-updates-important"
   - "beginning-javafx-with-intellij"
-frozen: false
 ---
 
 At the beginning of the year, I had two new Macs in a row in one month. I changed my company and had to return my previous laptop. Thus, I ordered a replacement one, but due to the current hardware shortage, the shipping took weeks: I had to rent one in the meanwhile.

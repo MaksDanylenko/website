@@ -18,7 +18,6 @@ related_posts:
   - "controlling-electronics-with-jbang-on-the-raspberry-pi"
   - "java-17-on-the-raspberry-pi"
   - "reading-the-temperature-humidity-and-pressure-from-a-bme280-sensor-with-java-pi4j-i2c-spi-and-jbang"
-frozen: false
 ---
 
 On the Pi4J discussion list, someone recently asked what the [best and easiest way is in Java to convert a byte value](https://github.com/Pi4J/pi4j-v2/discussions/379). In Java, there is no distinction between signed and unsigned bytes, which can be confusing. My book ["Getting Started with Java on the Raspberry Pi"](https://webtechie.be/books/) contains an explanation about this, and I am happy to share it in this post with some more info and code examples...

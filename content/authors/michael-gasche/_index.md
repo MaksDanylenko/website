@@ -9,5 +9,4 @@ linkedin: ""
 github: ""
 youtube: "https://www.youtube.com/@autumoswitzerland"
 website: "https://x.com/autumo"
-frozen: false
 ---

@@ -13,7 +13,6 @@ categories:
   - "DataStax"
   - "Spring"
 related_posts:
-frozen: false
 ---
 
 ## **1. Introduction**

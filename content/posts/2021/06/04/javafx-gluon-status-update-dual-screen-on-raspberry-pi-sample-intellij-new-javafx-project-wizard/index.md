@@ -18,7 +18,6 @@ related_posts:
   - "sheetmusic4j-0-0-3-abc-notation-guitar-pro-engraving-improvements"
   - "ask-a-lille-dev-what-java-developers-really-think-about-quality-frameworks-communities-and-careers"
   - "first-experiments-with-java-on-the-lattepanda-iota"
-frozen: false
 ---
 
 Last week, Johan Vos of Gluon, released a video with a status update of JavaFX. In this post we are going to take a deeper look into one of the announcements: dual screen support on Raspberry Pi.

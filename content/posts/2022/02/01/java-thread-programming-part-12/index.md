@@ -13,7 +13,6 @@ related_posts:
   - "java-thread-programming-part-10"
   - "java-thread-programming-part-11"
   - "java-thread-programming-part-13"
-frozen: false
 ---
 
 In our [previous article](https://foojay.io/today/java-thread-programming-part-11/), we introduced ThreadPool through the Executor Framework. This article will discuss the different ways we can create ThreadPool.

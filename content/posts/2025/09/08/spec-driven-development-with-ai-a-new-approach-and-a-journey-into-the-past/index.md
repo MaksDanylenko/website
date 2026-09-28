@@ -14,7 +14,6 @@ related_posts:
   - "a-faster-way-to-build-react-spring-boot-apps-using-hilla-1-3"
   - "a-quick-look-at-faces-jsf-4-0-in-jakarta-ee-10"
   - "a-short-history-of-ajax-and-ssr"
-frozen: false
 ---
 
 The software development world is buzzing about AI-assisted coding. Tools like Claude Code, Windsurf, and JetBrains Junie promise to make us more productive. But most approaches focus on generating code faster – they're still **code-centric**.

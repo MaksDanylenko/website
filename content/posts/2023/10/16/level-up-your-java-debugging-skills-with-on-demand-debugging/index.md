@@ -13,7 +13,6 @@ related_posts:
   - "book-review-practical-design-patterns-for-java-developers"
   - "foojay-podcast-14"
   - "jdwp-onthrow-and-a-mysterious-error"
-frozen: false
 ---
 
 **Debugging is one of the most common tasks in software development, so one would assume that all features of debuggers have ample coverage in tutorials and guides.**

@@ -18,7 +18,6 @@ related_posts:
   - "3-ways-to-refactor-your-code-in-intellij-idea"
   - "eight-debugging-tips-for-intellijidea-users-you-never-knew-existed"
   - "working-unfamiliar-codebase"
-frozen: false
 ---
 
 **As developers, we read code more than we write it. When adding new features or fixing bugs, we first need to understand existing code, so we can make the right changes in the right place.**

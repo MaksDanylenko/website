@@ -17,7 +17,6 @@ related_posts:
   - "extending-third-party-apis-in-different-languages"
   - "measuring-time-and-duration-in-kotlin"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
-frozen: false
 ---
 
 *TL;DR: Five years after its introduction Kotlin adoption inside ING keeps growing year after year, with a current adoption rate of just over 11%. We were also featured as one of the user stories for the KotlinConf 2025 Keynote.*

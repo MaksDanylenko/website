@@ -14,7 +14,6 @@ related_posts:
   - "building-simple-home-assistant-langchain4j-raspberry-pi"
   - "building-local-llm-ai-powered-applications-with-quarkus-ollama-and-testcontainers"
   - "calling-gemma-with-ollama-testcontainers-and-langchain4j"
-frozen: false
 ---
 
 **LLM chat models have become an integral part of many applications today. We are all experimenting and exploring the best ways to utilize them effectively. For Java developers, LangChain4j has been an incredible tool in this journey.**

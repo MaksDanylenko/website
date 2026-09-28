@@ -13,7 +13,6 @@ categories:
 related_posts:
   - "the-right-feature-at-the-right-place"
   - "choosing-a-cache-1"
-frozen: false
 ---
 
 Recently, while working on a workshop titled [Testing Your Pull Request on Kubernetes with GKE, and GitHub Actions](https://loftlabs-experiments.github.io/workshop-test-pr-k8s/), I faced twice the same issue: service A needs service B, but service A starts faster than service B, and the system fails. In this post, I want to describe the context of these issues and how I solved them both with the same tool.

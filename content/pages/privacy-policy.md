@@ -2,7 +2,6 @@
 title: "Privacy Policy"
 description: "What personal data foojay.io collects, why we collect it, how long we keep it and who we share it with."
 url: "/privacy-policy/"
-frozen: false
 ---
 
 Please read the following to learn more about our Privacy Policy. The foojay.io website and domain name and all other websites and domain names affiliated with Azul Systems, Inc. ("Company"), and any other linked pages, features, content, or application services offered from time to time by Company in connection therewith (collectively, the "Website" or "Websites") are owned and operated by Company. By visiting the foojay.io website at <https://foojay.io/> or any of Company's other websites, applications, domain names or other linked pages, or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. By using the Website, you are consenting to have your personal data transferred to and processed in the United States.

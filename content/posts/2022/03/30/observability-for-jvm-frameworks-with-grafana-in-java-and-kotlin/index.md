@@ -18,7 +18,6 @@ related_posts:
   - "java-where-the-wild-code-isnt"
   - "are-java-security-updates-important"
   - "quarkus-unpacked-insights-from-the-foojay-podcast"
-frozen: false
 ---
 
 ![](observ_img1-700x470.png)

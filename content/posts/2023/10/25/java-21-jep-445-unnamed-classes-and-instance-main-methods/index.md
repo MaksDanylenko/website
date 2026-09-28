@@ -16,7 +16,6 @@ related_posts:
   - "disco-api-helping-you-to-find-any-openjdk-distribution"
   - "java-21-is-available-today-and-its-quite-the-update"
   - "foojay-podcast-28"
-frozen: false
 ---
 
 Java 21, released on September 19th, 2023, brings many new features, 8 which are fully integrated and 7 which are incubator or preview.

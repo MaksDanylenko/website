@@ -18,7 +18,6 @@ related_posts:
   - "backing-up-k8ssandra-with-minio"
   - "k8ssandra-production-ready-platform-for-running-apache-cassandra-on-kubernetes"
   - "running-your-database-on-openshift-and-codeready-containers"
-frozen: false
 ---
 
 One of the biggest selling points of Apache Cassandra™ is its shared-nothing architecture, making it an ideal choice for deployments that span multiple physical datacenters. So when our [Cassandra as-a-service](https://astra.datastax.com/) single-region offering reached maturity, we naturally started looking into offering it cross-region and cross-cloud.

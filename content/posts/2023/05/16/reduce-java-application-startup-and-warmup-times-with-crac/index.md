@@ -15,7 +15,6 @@ related_posts:
   - "how-to-run-a-java-application-with-crac-in-a-docker-container"
   - "azul-provides-the-crac-in-aws-snapstart-builds"
   - "superfast-application-startup-java-on-crac"
-frozen: false
 ---
 
 When a Java application runs, the JVM goes through the process of loading, initializing, and optimizing the code used by the application, including libraries, frameworks, and other components to reach the optimal performance level.

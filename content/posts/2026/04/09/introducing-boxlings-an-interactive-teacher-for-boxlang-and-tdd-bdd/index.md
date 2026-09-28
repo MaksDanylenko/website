@@ -9,7 +9,6 @@ categories:
   - "BoxLang"
   - "Testing"
 related_posts:
-frozen: false
 ---
 
 We believe the best way to learn a programming language is by writing code — real code, with real feedback, and real tests. That's exactly why we built **BoxLings**.

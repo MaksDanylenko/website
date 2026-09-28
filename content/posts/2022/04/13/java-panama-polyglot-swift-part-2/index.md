@@ -16,7 +16,6 @@ related_posts:
   - "7-ways-to-contribute-to-openjdk"
   - "5-things-you-probably-didnt-know-about-java-concurrency"
   - "project-panama-for-newbies-part-4"
-frozen: false
 ---
 
 Hello and welcome back to the **Java Panama Polyglot** series where we will be presenting quick tutorials or recipes on how to access native libraries written in other languages.

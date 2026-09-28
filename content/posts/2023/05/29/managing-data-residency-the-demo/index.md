@@ -16,7 +16,6 @@ related_posts:
   - "a-list-of-cache-providers"
   - "annotation-free-spring"
   - "dry-your-apache-apisix-config"
-frozen: false
 ---
 
 I explained the concepts and theory behind Data Residency in a [previous post](https://foojay.io/today/managing-data-residency-concepts-theory/).

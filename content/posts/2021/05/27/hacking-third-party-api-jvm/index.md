@@ -14,7 +14,6 @@ related_posts:
   - "boxlang-aws-azure-and-google-secrets-manager-module-released"
   - "quarkus-unpacked-insights-from-the-foojay-podcast"
   - "tiberius-a-security-testing-framework-for-llm-applications-in-java"
-frozen: false
 ---
 
 The JVM ecosystem is mature and offers plenty of libraries, so you don't need to reinvent the wheel. Basic - and not so basic - functionalities are just a dependency away. Sometimes, however, the dependency and your use-case are slightly misaligned.

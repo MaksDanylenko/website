@@ -13,7 +13,6 @@ related_posts:
   - "efficient-memory-mapping-for-terabyte-sparse-files-in-java"
   - "explained-memory-allocation-pacing-in-azul-zulu-prime-builds-of-openjdk"
   - "understand-source-code-deep-into-the-codebase-locally-and-in-production"
-frozen: false
 ---
 
 ***Understanding memory management in Java, and particularly the role of object allocation is essential when optimising system performance.***

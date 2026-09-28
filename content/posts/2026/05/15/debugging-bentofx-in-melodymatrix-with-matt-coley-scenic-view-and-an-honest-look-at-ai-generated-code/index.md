@@ -13,7 +13,6 @@ related_posts:
   - "javafx-links-of-october-2025"
   - "foojay-podcast-54"
   - "melodymatrix-v1-0-0-released-shipping-a-javafx-app-with-jdeploy-github-actions-and-auto-update"
-frozen: false
 ---
 
 There are bugs you can solve by yourself, and bugs where you just need to sit down with someone who knows the internals. This video is in the second category. [MelodyMatrix](https://melodymatrix.rocks/) uses [BentoFX](https://github.com/Col-E/BentoFX) for its dockable panel layout. Branches, leaves, tabs on the side, content panels that open and close. It works well until something fights the layout. But I had some visual problems I could not explain, some code that felt more complicated than it should be, and no good explanation for why.

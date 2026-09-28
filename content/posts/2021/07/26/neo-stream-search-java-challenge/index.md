@@ -13,7 +13,6 @@ related_posts:
   - "asynchronous-completablefuture-san-francisco-adventure-java-challenge"
   - "daemon-thread-java-code-quiz"
   - "function-calculation-java-challenge"
-frozen: false
 ---
 
 Understanding the mechanics of the functional interface Predicate of a Stream is crucial if you want to create something meaningful with streams. On this challenge, we will explore important key methods when we work with a stream so that it becomes clear for you what they do.

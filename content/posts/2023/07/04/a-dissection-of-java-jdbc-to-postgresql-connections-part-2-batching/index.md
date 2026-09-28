@@ -14,7 +14,6 @@ related_posts:
   - "a-dissection-of-java-jdbc-to-postgresql-connections"
   - "a-list-of-cache-providers"
   - "5-great-reasons-to-use-jooq"
-frozen: false
 ---
 
 This is the second part of a series where I look into how Java JDBC connections to PostgreSQL are working, to understand how to optimally implement them.

@@ -14,7 +14,6 @@ related_posts:
   - "real-world-stream-collector"
   - "comparison-fault-tolerance-libraries"
   - "leverage-the-richness-of-http-status-codes"
-frozen: false
 ---
 
 Since I started working for [Apache APISIX](https://apisix.apache.org/), I have tried to deepen my understanding of REST via various means. Did you read my review of [API Design Patterns book](https://blog.frankel.ch/api-design-patterns)?

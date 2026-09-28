@@ -9,7 +9,6 @@ image: "2020-06-01-batch-mutable-664x510.png"
 categories:
   - "Performance"
 related_posts:
-frozen: false
 ---
 
 This post is a part of a series:

@@ -16,7 +16,6 @@ related_posts:
   - "how-to-run-a-java-application-with-crac-in-a-docker-container"
   - "azul-provides-the-crac-in-aws-snapstart-builds"
   - "openjdk-january-2026-critical-patch-update-and-patch-set-update-released"
-frozen: false
 ---
 
 Last week Spring 6.1 and [SpringBoot 3.2](https://spring.io/blog/2023/11/23/spring-boot-3-2-0-available-now "SpringBoot 3.2") were released and they both came with full support for CRaC (Coordinated Restore at Checkpoint).

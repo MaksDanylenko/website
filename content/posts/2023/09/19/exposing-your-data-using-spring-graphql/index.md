@@ -14,7 +14,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "a-simple-service-with-spring-boot"
   - "idempotent-spring-boot-starter"
-frozen: false
 ---
 
 **In this article, we'll take an introductory look at how we can use Spring GraphQL in our Java applications.** **GraphQL is a query language (hence the QL) that in conjunction with a framework such as `Spring GraphQL` can be used to efficiently manage our data, and even reuse existing services.**

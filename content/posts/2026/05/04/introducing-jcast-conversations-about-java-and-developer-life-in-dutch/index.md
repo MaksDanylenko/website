@@ -15,7 +15,6 @@ related_posts:
   - "ask-a-lille-dev-what-java-developers-really-think-about-quality-frameworks-communities-and-careers"
   - "foojay-podcast-92"
   - "optimizing-the-garbage-collector-when-migrating-cloud-workloads"
-frozen: false
 ---
 
 The Java community thrives on sharing knowledge and experiences. Most content is in English, which works well for many developers. However, there's something special about discussing complex topics in your native language. The nuances. The humor. The ability to express yourself freely without translating your thoughts first.

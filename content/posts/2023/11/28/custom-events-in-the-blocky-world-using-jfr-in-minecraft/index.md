@@ -14,7 +14,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "a-closer-look-at-jfr-streaming"
   - "firefox-profiler-beyond-the-web"
-frozen: false
 ---
 
 I was searching for some JFR-related settings on the internet when I stumbled upon the [`/jfr` command](https://minecraft.fandom.com/wiki/Commands/jfr) that exists in [Minecraft](https://www.minecraft.net):  

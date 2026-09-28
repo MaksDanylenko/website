@@ -15,7 +15,6 @@ related_posts:
   - "connecting-resilience-to-performance-in-relation-to-openjdk"
   - "the-impact-of-the-eu-dora-act-on-non-eu-financial-organizations"
   - "consequences-of-dora-on-java-and-openjdk-with-azul"
-frozen: false
 ---
 
 **For the EU Digital Operations Resilience Act (DORA) to have any meaning at all in the context of OpenJDK (and surely it must have application there since it is explicitly focused on "ICT Assets", which it defines as broadly as possible as "a software or hardware asset in the network and information systems used by a financial entity"), it can only be interpreted to, at the very least, very strongly encourage the usage of supported OpenJDK distributions.**

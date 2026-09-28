@@ -14,7 +14,6 @@ related_posts:
   - "advanced-url-rewriting-with-apache-apisix"
   - "apache-apisix-loves-rust"
   - "implementing-the-idempotency-key-specification-on-apache-apisix"
-frozen: false
 ---
 
 **When I introduce Apache APISIX in my talks, I mention the [massive number of existing plugins](https://apisix.apache.org/plugins/), and that each of them implements a specific feature.**

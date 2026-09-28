@@ -12,7 +12,6 @@ related_posts:
   - "java-thread-programming-part-1"
   - "java-thread-programming-part-2"
   - "changing-field-type-recent-jdks"
-frozen: false
 ---
 
 **\[About SKP's Core Java/Java EE Roots\]**  

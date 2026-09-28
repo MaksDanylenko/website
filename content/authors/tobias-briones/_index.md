@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/tobiasbriones/"
 github: ""
 youtube: ""
 website: "https://x.com/tobiasbriones_"
-frozen: false
 ---

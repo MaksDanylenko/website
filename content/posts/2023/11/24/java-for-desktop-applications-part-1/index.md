@@ -16,7 +16,6 @@ related_posts:
   - "state-jvm-desktop-frameworks-jetpack-compose-for-desktop"
   - "starting-docker-desktop-with-spring-boot"
   - "sheetmusic4j-0-0-3-abc-notation-guitar-pro-engraving-improvements"
-frozen: false
 ---
 
 **As desktop applications have kind of become a niche topic, it's getting harder to find information about up-to-date best practices for desktop development.**

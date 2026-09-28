@@ -15,7 +15,6 @@ related_posts:
   - "7-reasons-to-switch-to-openjdk-17-as-a-jakarta-ee-developer"
   - "chopping-monolith"
   - "five-java-developer-must-haves"
-frozen: false
 ---
 
 A couple of years ago, I developed an app that helped me manage my conference submission workflow.

@@ -15,7 +15,6 @@ related_posts:
   - "best-practices-for-deploying-mongodb-in-kubernetes"
   - "beyond-keywords-implementing-semantic-search-in-java-with-spring-data-part-1"
   - "beyond-keywords-optimizing-vector-search-with-filters-and-caching-part-2"
-frozen: false
 ---
 
 In the[previous article](https://foojay.io/today/getting-started-with-hibernate-orm-and-mongodb/)—*Getting Started With Hibernate ORM and MongoDB*—we learned how to configure Hibernate to work with MongoDB, create an entity, and perform basic CRUD operations using the familiar Hibernate API.

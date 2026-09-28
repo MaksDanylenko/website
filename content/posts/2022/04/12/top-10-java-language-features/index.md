@@ -13,7 +13,6 @@ related_posts:
   - "are-java-security-updates-important"
   - "avoid-java-serialization"
   - "optional-in-java-a-swiss-army-knife-for-handling-nulls-and-improving-code-quality"
-frozen: false
 ---
 
 Every programming language provides ways to express our ideas and then translates them into reality.

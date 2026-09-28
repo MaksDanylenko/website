@@ -14,7 +14,6 @@ related_posts:
   - "the-debugger-checklist-part-ii"
   - "what-is-debugging-in-140-seconds"
   - "get-started-with-allocation-profiling"
-frozen: false
 ---
 
 Debugging is often viewed as an art form or a craft. This is true for most engineering-related troubleshooting processes (e.g., art of motorcycle maintenance). We're usually indoctrinated into the basic moves by a senior developer and are then thrown into the proverbial pool. As a result, even senior engineers sometimes have gaps in their debugging skills. There are very few university courses or books on the subject, so it's really hard to blame them.

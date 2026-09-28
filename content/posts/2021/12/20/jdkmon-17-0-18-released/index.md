@@ -14,7 +14,6 @@ related_posts:
   - "are-java-security-updates-important"
   - "fix-java-security-issues-while-coding-in-intellij-idea"
   - "jdkmon-17-0-23-released"
-frozen: false
 ---
 
 JDKMon is a little tool written in JavaFX that tries to detect all OpenJDK distributions installed on your machine and keep track of updates for those distributions.

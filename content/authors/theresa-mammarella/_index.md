@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/tmammarella/"
 github: ""
 youtube: ""
 website: "https://x.com/t_mammarella"
-frozen: false
 ---

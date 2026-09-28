@@ -16,7 +16,6 @@ related_posts:
   - "vaadin-and-jooq-match-made-in-heaven"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "7-reasons-to-switch-to-openjdk-17-as-a-jakarta-ee-developer"
-frozen: false
 ---
 
 ***Hi, I'm [Lukas](https://twitter.com/lukaseder "Lukas"). I was invited to talk about the business behind jOOQ on Foojay.io and as a short introduction to [jOOQ](https://www.jooq.org/ "jOOQ"), I'd like to highlight 5 great reasons to use it.***

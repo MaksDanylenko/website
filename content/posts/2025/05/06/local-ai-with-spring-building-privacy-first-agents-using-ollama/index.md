@@ -14,7 +14,6 @@ related_posts:
   - "calling-gemma-with-ollama-testcontainers-and-langchain4j"
   - "code-reviews-with-ai-a-developer-guide"
   - "building-local-llm-ai-powered-applications-with-quarkus-ollama-and-testcontainers"
-frozen: false
 ---
 
 ## Introduction

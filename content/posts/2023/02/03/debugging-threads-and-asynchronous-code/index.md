@@ -14,7 +14,6 @@ related_posts:
   - "debugging-streams-and-collections"
   - "the-massive-hidden-power-of-breakpoints"
   - "debugging-program-control-flow"
-frozen: false
 ---
 
 I'm doing a community interview in the [Code Ranch](https://coderanch.com/f/157/Cloud-Virtualization) drop by and ask a question to win a free book!

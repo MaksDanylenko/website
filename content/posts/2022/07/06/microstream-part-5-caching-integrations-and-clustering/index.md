@@ -15,7 +15,6 @@ related_posts:
   - "microstream-part-2-configure-the-storage-manager"
   - "microstream-part-3-storing-data"
   - "microstream-part-4-serialisation-engine"
-frozen: false
 ---
 
 **In this last article of the series, we cover a few other MicroStream features: caching, clustering, and the integrations into other frameworks.**

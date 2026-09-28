@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/frosnerd/"
 github: ""
 youtube: ""
 website: ""
-frozen: false
 ---

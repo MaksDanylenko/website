@@ -18,7 +18,6 @@ related_posts:
   - "a-case-for-databases-on-kubernetes-from-a-former-skeptic"
   - "stateless-secretless-multi-cluster-monitoring-in-azure-kubernetes-service-with-thanos-prometheus-and-azure-managed-grafana"
   - "book-review-effortless-cloud-native-app-development-using-skaffold"
-frozen: false
 ---
 
 The [Get Started](https://k8ssandra.io/get-started/) examples on the K8ssandra site are primarily concerned with spinning up a single Apache Cassandra datacenter in a single Kubernetes cluster.

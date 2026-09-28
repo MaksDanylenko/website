@@ -9,5 +9,4 @@ linkedin: ""
 github: ""
 youtube: ""
 website: "http://fepcos.info/en/fuchs.html"
-frozen: false
 ---

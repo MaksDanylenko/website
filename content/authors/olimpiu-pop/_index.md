@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/olimpiupop/"
 github: ""
 youtube: ""
 website: ""
-frozen: false
 ---

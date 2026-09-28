@@ -13,7 +13,6 @@ related_posts:
   - "javafx-links-of-august-2023"
   - "foojay-podcast-9"
   - "foojay-podcast-25"
-frozen: false
 ---
 
 **Just like [Foojay](https://foojay.io/) is the starting place for all info related to Java, [JFX Central](https://www.jfx-central.com/) is the place to be for all JavaFX info. The website is a project started by Dirk Lemmermann and has been online since 2021. The [team has expanded](https://www.jfx-central.com/team) since then, and the content has been extended, partially by the team, but also thanks to many contributors from the JavaFX community. End of August, a new user interface was published to replace the initial version.**

@@ -15,7 +15,6 @@ related_posts:
   - "better-error-handling-for-your-spring-boot-rest-apis"
   - "a-simple-service-with-spring-boot"
   - "clean-shutdown-of-spring-boot-applications"
-frozen: false
 ---
 
 **In the world of software development, managing dependencies is a core part of creating strong and secure applications. Spring Boot, a favorite among Java developers, makes building applications easier, but there's more to it than meets the eye. Keeping your dependencies in check is crucial to ensure that your Spring Boot projects run smoothly and remain resilient in the face of ever-evolving threats.**

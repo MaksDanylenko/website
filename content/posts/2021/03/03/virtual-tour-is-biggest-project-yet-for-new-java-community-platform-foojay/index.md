@@ -11,7 +11,6 @@ categories:
   - "Events"
   - "Foojay"
 related_posts:
-frozen: false
 ---
 
 [Fifteen events are already confirmed](https://foojay.io/today/schedule-for-foojay-virtual-jug-tour/) in an ambitious virtual tour of Java User Groups across the globe, marking a strong start for new Java community platform Foojay. Foojay.io was founded last year as a vendor-neutral platform for developers who create and run applications on top of Java and OpenJDK. It is designed to provide free information on all things Java, with updated analysis, highlights, OpenJDK update release details, and command line arguments hosted on its website.

@@ -13,7 +13,6 @@ related_posts:
   - "free-foojay-io-tickets-for-jcon-europe-cologne"
   - "foojay-podcast-48"
   - "why-this-jcon-europe-talk-is-unmissable-part-1"
-frozen: false
 ---
 
 **[JCON Europe](https://2024.europe.jcon.one/) in Cologne is around the corner ([and here are your free Foojay JCON tickets](https://bit.ly/3xv9yfT)), May 13 to 16. Why should you go? Well, one reason is that the talks will be awesome. Here's the start of a series of reasons why some of them are absolutely unmissable!**

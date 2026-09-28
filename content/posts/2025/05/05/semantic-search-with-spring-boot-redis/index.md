@@ -17,7 +17,6 @@ related_posts:
   - "foojay-podcast-69"
   - "how-to-detect-cache-misses-using-observability"
   - "getting-started-with-jobrunr-a-powerful-task-scheduler-in-ja"
-frozen: false
 ---
 
 > **TL;DR:** **You're building a semantic search app using Spring Boot and Redis. Instead of matching exact words, semantic search finds meaning using Vector Similarity Search (VSS). It works by turning movie synopses into vectors with embedding models, storing them in Redis (as a vector database), and finding the closest matches to user queries.**

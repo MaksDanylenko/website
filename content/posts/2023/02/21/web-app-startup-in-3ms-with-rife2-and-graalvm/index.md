@@ -17,7 +17,6 @@ related_posts:
   - "which-is-the-fastest-jvm-openjdk-or-graalvm"
   - "cross-platform-development-in-java-with-gluon-and-graalvm"
   - "why-i-moved-my-blog-to-rife2-after-23-years"
-frozen: false
 ---
 
 [RIFE2](https://rife2.com) applications already launch quickly with a regular JVM thanks merely calling Java methods, lambdas and doing object instantiations at startup. There are no annotations to scan for, nor any declarations or config files to parse and resolve.

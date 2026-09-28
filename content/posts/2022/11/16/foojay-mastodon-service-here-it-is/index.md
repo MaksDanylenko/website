@@ -14,7 +14,6 @@ related_posts:
   - "java-mastodon-service-the-feedback"
   - "foojay-podcast-6"
   - "foojay-on-mastodon-an-update"
-frozen: false
 ---
 
 After [thinking about it](https://foojay.io/today/lets-start-a-java-mastodon-community-for-friends-of-openjdk/), and [collecting the feedback](https://foojay.io/today/java-mastodon-service-the-feedback/), there was only one direction forward: get a Foojay Mastodon service up-and-running!

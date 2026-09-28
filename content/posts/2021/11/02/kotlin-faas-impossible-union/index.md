@@ -15,7 +15,6 @@ related_posts:
   - "kicking-spring-natives-tires"
   - "boxlang-1-15-0-released-blazing-fast-strings-runtime-portability-and-much-more"
   - "exposed-kotlin-orm-complete-guide"
-frozen: false
 ---
 
 Some time ago, I read a post describing how to run a serverless Kotlin function on [OpenFaaS](https://www.openfaas.com/). While the content is technically correct, I believe the concept itself is very wrong. Such posts can lead people to make ill-advised decisions: "because we can" is hardly a winning strategy.

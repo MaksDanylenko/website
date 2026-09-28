@@ -22,7 +22,6 @@ related_posts:
   - "foojay-podcast-25"
   - "foojay-podcast-24"
   - "enterprise-java-quality-gates-ai"
-frozen: false
 ---
 
 As developers, we like to automate the boring parts of our job. This automation includes the source control system, build pipelines, and code analysis tools.

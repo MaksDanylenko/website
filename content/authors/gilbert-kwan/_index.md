@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/gilbert-kwan-972a4217a/"
 github: ""
 youtube: ""
 website: ""
-frozen: false
 ---

@@ -14,7 +14,6 @@ related_posts:
   - "javafx-links-of-november-2023"
   - "javafx-links-of-october-2023"
   - "javafx-links-of-june-2026"
-frozen: false
 ---
 
 This is the first JavaFX LinksOfTheMonth review for 2024, an overview of the LinksOfTheWeek that got published on [jfx-central.com](https://www.jfx-central.com/) during January.

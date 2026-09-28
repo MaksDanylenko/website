@@ -16,7 +16,6 @@ related_posts:
   - "java-on-azure-tooling-update-july-2022"
   - "will-openjfx-be-merged-into-openjdk-it-would-be-a-perfect-match-with-java-on-mobile"
   - "foojay-podcast-83"
-frozen: false
 ---
 
 Have you ever been in the situation where you've been looking for a specific JDK version of a specific distribution? I think most of us have been there and, I don't know how you handle this, but in the past I used to save links to distributions in my browser and then I usually I started searching through the vendor website for the package I was looking for.

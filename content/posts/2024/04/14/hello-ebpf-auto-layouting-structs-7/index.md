@@ -13,7 +13,6 @@ related_posts:
   - "hello-ebpf-recording-data-in-basic-ebpf-maps-2"
   - "hello-ebpf-recording-data-in-event-buffers-3"
   - "hello-ebpf-xdp-based-packet-filter-9"
-frozen: false
 ---
 
 **Welcome back to my [series on ebpf](https://mostlynerdless.de/blog/tag/hello-ebpf/). In the last article, [we learned how to use ring buffers with libbpf](https://mostlynerdless.de/blog/2024/03/12/hello-ebpf-ring-buffers-in-libbpf-6/) for efficient communication. This week, we're looking into the memory layout and alignment of structs transferred between the kernel and user-land.**

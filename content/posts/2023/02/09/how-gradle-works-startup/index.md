@@ -16,7 +16,6 @@ related_posts:
   - "compilation-avoidance-with-gradle"
   - "introducing-gradle-test-suites"
   - "boxlang-1-15-0-released-blazing-fast-strings-runtime-portability-and-much-more"
-frozen: false
 ---
 
 This is the first article of a series *How Gradle Works*, which includes the following topics:

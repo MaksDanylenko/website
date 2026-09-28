@@ -14,7 +14,6 @@ related_posts:
   - "azul-enhances-readynow-to-solve-javas-warmup-problem-simplify-operations-and-optimize-cloud-costs"
   - "azul-brings-java-from-edge-to-cloud"
   - "azul-provides-the-crac-in-aws-snapstart-builds"
-frozen: false
 ---
 
 ***A large global enterprise achieved a performance and efficiency milestone, running 10,000 Java Virtual Machines (JVMs) that collaborate and share optimizations with one another, using Azul Platform Prime's Optimizer Hub. The enterprise improved application responsiveness and stability at scale while reducing infrastructure costs, which has resulted in better user experiences and greater business efficiency.***

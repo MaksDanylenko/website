@@ -14,7 +14,6 @@ related_posts:
   - "kubernetes-gateway-api"
   - "apisix-api-gateway"
   - "fearless-distroless"
-frozen: false
 ---
 
 Kubernetes offers a lot of benefits: an enormous ecosystem with plenty of actors, self-healing capabilities, etc. There's no free lunch, though. It also comes with downsides, chief among them its complexity and operating costs.

@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/nick-zhu-24bbb126/"
 github: ""
 youtube: ""
 website: "https://x.com/NickZhu9"
-frozen: false
 ---

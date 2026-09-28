@@ -13,7 +13,6 @@ related_posts:
   - "a-fresh-look-at-embedded-java"
   - "blink-a-led-on-raspberry-pi-with-vaadin"
   - "controlling-electronics-with-jbang-on-the-raspberry-pi"
-frozen: false
 ---
 
 The OpenJDK sources are now [fully available and developed on GitHub](https://github.com/openjdk/jdk) as a result of [Project Skara](https://openjdk.java.net/projects/skara/). Thanks to a lot of work done by the community, the full Java development flow has been migrated to GitHub while keeping the repository history. This process has been [described on the GitHub blog](https://github.blog/2020-09-30-github-welcomes-the-openjdk-project/?s=09).

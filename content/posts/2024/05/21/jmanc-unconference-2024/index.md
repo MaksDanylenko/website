@@ -15,7 +15,6 @@ related_posts:
   - "the-story-of-a-java-17-native-memory-leak"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "7-reasons-to-switch-to-openjdk-17-as-a-jakarta-ee-developer"
-frozen: true
 ---
 
 [![JManc Unconferece](jmanc-logo-9875160f.png "JManc Unconferece")](https://www.jmanc.org "JManc Unconferece")

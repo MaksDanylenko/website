@@ -15,7 +15,6 @@ related_posts:
   - "do-java-jakarta-ee-standards-matter"
   - "easy-jakarta-ee-integration-testing"
   - "enterprise-java-in-practice-fragmentation-platforms-and-real-world-trade-offs"
-frozen: false
 ---
 
 **22.09. 2022** . With the launch of Jakarta EE 10 today, Payara releases **Payara 6 Community Alpha 4 immediately,** bringing its new features directly to its product for innovation and learning*.*

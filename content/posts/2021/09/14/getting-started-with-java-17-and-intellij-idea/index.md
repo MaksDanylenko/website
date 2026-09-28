@@ -16,7 +16,6 @@ related_posts:
   - "java-17-on-the-raspberry-pi"
   - "schedule-for-foojay-virtual-openjdk-17-jug-tour"
   - "ask-a-lille-dev-what-java-developers-really-think-about-quality-frameworks-communities-and-careers"
-frozen: false
 ---
 
 A new Java release every six months can be exciting, overwhelming, or both. Given that [Java 17](https://openjdk.java.net/projects/jdk/17/) is also an [LTS](https://www.oracle.com/java/technologies/java-se-support-roadmap.html) release, it's not just the developers but enterprises also noticing it. If you have been [waiting](https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator) to move on from Java 8 or 11, now is the time to weigh its advantages.

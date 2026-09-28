@@ -14,7 +14,6 @@ related_posts:
   - "are-java-jakarta-ee-application-servers-heavy"
   - "automatic-wildfly-clustering-managed-domain-scaling-containers"
   - "can-java-jakarta-ee-do-microservices"
-frozen: false
 ---
 
 [JDK 17,](https://openjdk.java.net/projects/jdk/17/) the next Long-Term Release of [Java SE](https://www.oracle.com/java/technologies/downloads/), launched in September.

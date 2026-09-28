@@ -12,7 +12,6 @@ related_posts:
   - "avoiding-nullpointerexception"
   - "null-safety-kotlin-vs-java"
   - "handling-null-optional-and-nullable-types"
-frozen: false
 ---
 
 Occasionally something in Java pops up that I thought I knew about, but it turns out I didn't appreciate all the subtle details.

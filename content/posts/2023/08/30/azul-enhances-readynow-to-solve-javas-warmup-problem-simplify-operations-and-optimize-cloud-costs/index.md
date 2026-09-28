@@ -15,7 +15,6 @@ related_posts:
   - "5-things-you-probably-didnt-know-about-java-concurrency"
   - "6-considerations-when-building-high-performance-java-microservices-with-eda"
   - "7-functional-programming-techniques-in-java-a-primer"
-frozen: false
 ---
 
 * Azul Platform Prime's ReadyNow technology continuously learns from application usage across fleets of Java Virtual Machines (JVMs) and automatically selects the best warmup optimization patterns.

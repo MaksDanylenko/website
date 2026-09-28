@@ -20,7 +20,6 @@ related_posts:
   - "a-faster-way-to-build-react-spring-boot-apps-using-hilla-1-3"
   - "blink-a-led-on-raspberry-pi-with-vaadin"
   - "whats-new-in-the-august-2026-azul-payara-release"
-frozen: false
 ---
 
 **Watch this webinar recording to get an overview of the [Vaadin framework](https://vaadin.com/) and learn how to use it to build modern web applications on the Jakarta EE Platform in pure Java, without any frontend framework.**

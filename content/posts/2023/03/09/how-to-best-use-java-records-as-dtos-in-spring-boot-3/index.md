@@ -17,7 +17,6 @@ related_posts:
   - "how-java-litters-beyond-the-heap-part-2-distributed-databases"
   - "how-java-litters-beyond-the-heap-part-3-solid-state-drives"
   - "idempotent-spring-boot-starter"
-frozen: false
 ---
 
 With the Spring 6 and Spring Boot 3 releases, [Java 17+ became the baseline framework](https://spring.io/blog/2022/11/16/spring-framework-6-0-goes-ga "Java 17+ became the baseline framework") version.

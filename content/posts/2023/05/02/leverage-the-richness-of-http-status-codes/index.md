@@ -13,7 +13,6 @@ related_posts:
   - "7-functional-programming-techniques-in-java-a-primer"
   - "5-tips-to-create-secure-docker-images-for-java-applications"
   - "quest-for-rest"
-frozen: false
 ---
 
 If you're not a REST expert, you probably use the same HTTP codes over and over in your responses, mostly 200, 404, and 500.

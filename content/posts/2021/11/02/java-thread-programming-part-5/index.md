@@ -13,7 +13,6 @@ related_posts:
   - "java-thread-programming-part-3"
   - "java-thread-programming-part-4"
   - "java-thread-programming-part-6"
-frozen: false
 ---
 
 In [our previous article](https://foojay.io/today/java-thread-programming-part-4/), we discussed the "data race" concept and how we can solve it using volatile keywords. However, this is not the only problem we face when dealing with code that runs in multi-threaded environments. In this article, we will discuss another situation called "race conditions" and how we can resolve it.

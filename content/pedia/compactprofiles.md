@@ -2,7 +2,6 @@
 title: "Compact Profiles"
 description: "Note: Compact Profiles are a Java 8 feature. Starting with Java 9, the same goal — creating a minimal, self-contained runtime — is achieved more flexibly by jlink and the Java Module System (JPMS). If you are working with Java ..."
 url: "/pedia/compactprofiles/"
-frozen: false
 ---
 
 > **Note:** Compact Profiles are a Java 8 feature. Starting with Java 9, the same goal — creating a minimal, self-contained runtime — is achieved more flexibly by `jlink` and the Java Module System (JPMS). If you are working with Java 9 or later, see [Java Module System (JPMS)](https://foojay.io/pedia/java-module-system-jpms/) instead.

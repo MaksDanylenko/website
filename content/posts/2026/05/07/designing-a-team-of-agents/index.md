@@ -14,7 +14,6 @@ related_posts:
   - "boxlang-ai-3-2-0-image-generation-web-search-fluent-audio-agent-registry-mcp-observability"
   - "free-webinar-making-ai-useful-for-java-developers-in-real-applications-with-boxlang"
   - "introducing-skills-boxlang-io-the-open-agent-skills-ecosystem-for-boxlang-the-ortus-world"
-frozen: false
 ---
 
 I continue to experiment with AI in the context of software engineering. I'm fortunate that my team supports me in exploring different ways to improve our daily work. This week, I designed a team of **autonomous** agents to implement features, from design to implementation.

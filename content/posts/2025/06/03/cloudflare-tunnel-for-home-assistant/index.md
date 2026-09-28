@@ -14,7 +14,6 @@ related_posts:
   - "getting-a-single-value-from-a-devices-state-in-home-assistant"
   - "the-home-assistant-model"
   - "why-home-assistant"
-frozen: false
 ---
 
 I continue to take care of my Home Assistant. This week, I replaced my original setup with [Cloudflare Tunnel](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/).

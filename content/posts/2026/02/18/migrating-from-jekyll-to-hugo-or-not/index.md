@@ -11,7 +11,6 @@ categories:
   - "Java"
 related_posts:
   - "breaktime-tech-talks-ep39-why-embedding-models-should-match-advice-for-starting-a-blog"
-frozen: false
 ---
 
 Most of my blog posts are lessons learned. I'm trying to achieve something, and I document the process I used to do it. This one is one of the few where, in the end, I didn't achieve what I wanted. In this post, I aim to explain what I learned from trying to migrate from Jekyll to Hugo, and why, in the end, I didn't take the final step.

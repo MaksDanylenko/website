@@ -14,7 +14,6 @@ related_posts:
   - "push-v3-one-message-from-your-server-to-every-surface"
   - "the-codename-one-javascript-port-is-now-free-and-open-source"
   - "own-your-pixels-native-fidelity-on-your-schedule"
-frozen: false
 ---
 
 ![Native Java Win32, 3D Gaming, Printing and Wallet](weekly-4df2ff44.jpg)

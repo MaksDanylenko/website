@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/lukethompson9/"
 github: ""
 youtube: ""
 website: ""
-frozen: false
 ---

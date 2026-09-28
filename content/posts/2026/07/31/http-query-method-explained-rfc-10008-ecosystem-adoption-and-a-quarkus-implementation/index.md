@@ -13,7 +13,6 @@ related_posts:
   - "quarkus-unpacked-insights-from-the-foojay-podcast"
   - "ask-a-lille-dev-what-java-developers-really-think-about-quality-frameworks-communities-and-careers"
   - "build-a-sentiment-analysis-api-in-java-with-quarkus-and-local-llms"
-frozen: false
 ---
 
 When you build a search API, you usually start with HTTP GET, the natural choice for a read operation: it is safe, idempotent, and cacheable. Then the search form grows, filters multiply, and nested criteria appear. Since using GET means placing the query inside the URI, a length limit problem emerges. Worse, placing sensitive query values in the URI increases the chance of exposure through access logs, browser history, proxies, and monitoring systems. Because the HTTP protocol does not forbid it, sending a body with GET may look like a way out, but building your design on behavior the standards leave undefined is not a recommended practice. Elasticsearch's GET-with-body search API is a well-known example, and [Elastic's own documentation](https://www.elastic.co/guide/en/elasticsearch/guide/current/_empty_search.html) openly acknowledges the problem:

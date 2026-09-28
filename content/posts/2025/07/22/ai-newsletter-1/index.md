@@ -21,7 +21,6 @@ related_posts:
   - "7-ways-to-improve-your-code-reading-skills"
   - "eight-debugging-tips-for-intellijidea-users-you-never-knew-existed"
   - "9-outdated-ideas-about-java"
-frozen: false
 ---
 
 **There is a lot going on in today's technological world, but the most intense and vibrant area is undoubtedly the field of artificial intelligence. After brainstorming, our Java Champion Education group agreed to create a newsletter with a 14 days cadence. In our newsletters, we will include a collection of recently read interesting resources in the field of artificial intelligence with a short description.**

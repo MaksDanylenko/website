@@ -14,7 +14,6 @@ related_posts:
   - "foojay-podcast-95"
   - "why-java-developers-over-trust-ai-dependency-suggestions"
   - "offline-crypto-address-validation-in-java"
-frozen: false
 ---
 
 When I write about bad actors, I sometimes try to imagine where they are and how they work. For this article, it's clearer than usual because there is some evidence around. You can use your imagination to fill in the gaps.

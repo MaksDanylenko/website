@@ -13,7 +13,6 @@ related_posts:
   - "javafx-links-of-june-2025"
   - "javafx-links-of-may-2025"
   - "javafx-links-of-april-2025"
-frozen: false
 ---
 
 Here are the links shared on [jfx-central.com](https://www.jfx-central.com/links) in the August summary.

@@ -15,7 +15,6 @@ related_posts:
   - "faster-maven-builds-1"
   - "introduction-to-maven-toolchains"
   - "understanding-apache-maven-part-1-the-basics"
-frozen: false
 ---
 
 Maven is still the most used build system in the Java ecosystem. According to the [JVM report 2020](https://snyk.io/blog/jvm-ecosystem-report-2020/), Maven is the number one build tool in the ecosystem with two-thirds of the share.

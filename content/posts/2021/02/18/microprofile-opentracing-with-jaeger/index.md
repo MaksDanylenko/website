@@ -15,7 +15,6 @@ related_posts:
   - "creating-cloud-native-java-applications-with-the-12-factor-app-methodology"
   - "run-ai-enabled-jakarta-ee-and-microprofile-applications-with-langchain4j-and-open-liberty"
   - "how-to-bring-your-java-microservices-to-the-cloud"
-frozen: false
 ---
 
 In this short video, Rudy de Busscher demonstrates how to use MicroProfile OpenTracing with Jaeger in combination with Payara Micro.

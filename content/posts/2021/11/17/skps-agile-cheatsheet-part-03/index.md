@@ -12,7 +12,6 @@ related_posts:
   - "skps-agile-cheatsheet-part-01"
   - "skps-agile-cheatsheet-part-02"
   - "how-to-bring-your-java-microservices-to-the-cloud"
-frozen: false
 ---
 
 SKP's Agile Cheatsheet is a three part series of articles focused on daily agile terminology, ideal to be printed out and pinned up near your workstation. Part 1 is available [here](https://foojay.io/today/skps-agile-cheatsheet-part-01 "Here") and part 2 [here](https://foojay.io/today/skps-agile-cheatsheet-part-02 "Here") while the PDF cheatsheet is [here](https://rebrand.ly/skp-agile-cheat-sheet-all "Here").

@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/nickebbitt/"
 github: ""
 youtube: ""
 website: "https://x.com/nickebbitt"
-frozen: false
 ---

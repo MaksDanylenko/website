@@ -13,7 +13,6 @@ related_posts:
   - "understanding-apache-maven-part-1-the-basics"
   - "understanding-apache-maven-part-2-pom-hierarchy"
   - "understanding-apache-maven-part-3-maven-coordinates-pom-inheritance"
-frozen: false
 ---
 
 In Part 4 of the series, a walkthrough of the Maven lifecycles and executions is covered.

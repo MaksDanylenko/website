@@ -15,7 +15,6 @@ related_posts:
   - "3-ways-to-refactor-your-code-in-intellij-idea"
   - "42-practical-java-design-patterns-builder-and-more"
   - "5-great-reasons-to-use-jooq"
-frozen: false
 ---
 
 **[Recently Azul announced that AVD](https://www.azul.com/blog/how-azul-identifies-java-security-vulnerabilities-with-1000-times-greater-accuracy/) (Azul Vulnerability Detection), which is our solution to scan for security vulnerabilities in production, now comes with a new feature that only makes it possible to identify vulnerable components on a JAR file level but also on class file level.**

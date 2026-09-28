@@ -14,7 +14,6 @@ related_posts:
   - "debugging-using-jmx-revisited"
   - "debugging-streams-with-peek"
   - "dtrace-revisited-advanced-debugging-techniques"
-frozen: false
 ---
 
 * [The Intersection of Debugging and Testing](#the-intersection-of-debugging-and-testing)

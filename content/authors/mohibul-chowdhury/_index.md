@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/mohibulhassan/"
 github: ""
 youtube: ""
 website: "https://x.com/dhrubo555"
-frozen: false
 ---

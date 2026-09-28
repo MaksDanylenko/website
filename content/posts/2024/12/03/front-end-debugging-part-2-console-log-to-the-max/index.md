@@ -14,7 +14,6 @@ related_posts:
   - "front-end-debugging-part-1-not-just-console-log"
   - "strace-revisited-simple-is-beautiful"
   - "the-art-of-full-stack-debugging"
-frozen: false
 ---
 
 * [**Understanding Front-End Logging vs. Back-End Logging**](#understanding-frontend-logging-vs-backend-logging)

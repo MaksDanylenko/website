@@ -13,7 +13,6 @@ related_posts:
   - "custom-controls-in-javafx-part-vi"
   - "azul-brings-java-from-edge-to-cloud"
   - "java-for-desktop-applications-part-1"
-frozen: false
 ---
 
 I hope you found some time to play around with the custom controls that I showed you in [the previous part of this series](https://foojay.io/today/custom-controls-in-javafx-part-iii/).

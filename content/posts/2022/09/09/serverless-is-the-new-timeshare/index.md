@@ -14,7 +14,6 @@ related_posts:
   - "production-horrors-handling-disasters-public-debrief"
   - "debugging-gson-moshi-and-jackson-json-frameworks-in-production"
   - "build-secure-ai-chat-applications-with-boxlang-rag-ollama-and-amazon-bedrock-with-dan-card"
-frozen: false
 ---
 
 We have a shared amnesia. When I speak to younger developers about past technologies, I often get blank stares. To be fair, some of that is because I'm a bit "intense" or "weird" but some of that is because. Huh? Really? Did we have that?

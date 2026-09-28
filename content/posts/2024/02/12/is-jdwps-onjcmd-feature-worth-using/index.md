@@ -13,7 +13,6 @@ related_posts:
   - "asyncgetcalltrace-reworked-frame-by-frame-with-an-iterative-touch"
   - "book-review-practical-design-patterns-for-java-developers"
   - "who-killed-the-jvm-attaching-a-debugger-twice"
-frozen: false
 ---
 
 A few months ago, I told you about the onjcmd feature in my blog post [Level-up your Java Debugging Skills with on-demand Debugging](https://foojay.io/today/level-up-your-java-debugging-skills-with-on-demand-debugging/) (which is coming to JavaLand 2024). The short version is that adding onjcmd=y to the list of JDWP options allows you to delay accepting the incoming connection request in the JDWP agent until `jcmd <JVM pid> VM.start_java_debugging` is called.

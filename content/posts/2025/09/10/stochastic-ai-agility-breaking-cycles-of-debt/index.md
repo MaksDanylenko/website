@@ -17,7 +17,6 @@ related_posts:
   - "jc-ai-newsletter-2"
   - "jc-ai-newsletter-3"
   - "jc-ai-newsletter-4"
-frozen: false
 ---
 
 **The launch of ChatGPT in November 2022 has significantly influenced and potentially transformed industry standards across multiple sectors. While my primary focus remains on the information technology sector, observations indicate that its impact extends across all industries and affects the daily lives of consumers and professionals alike.**

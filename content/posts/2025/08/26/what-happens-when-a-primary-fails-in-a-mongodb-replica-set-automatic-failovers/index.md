@@ -14,7 +14,6 @@ related_posts:
   - "java-on-azure-tooling-update-september-2022"
   - "java-virtual-threads-in-action-optimizing-mongodb-operation"
   - "understanding-bson-a-beginners-guide-to-mongodbs-data-format"
-frozen: false
 ---
 
 In distributed systems, high availability is not a luxury—it's a necessity. And one of the very important parts of that is automatic failovers. What are automatic failovers and how do they work? Let's see today!

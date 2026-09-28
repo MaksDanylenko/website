@@ -16,7 +16,6 @@ related_posts:
   - "exceptions-lambdas"
   - "method-reference-vs-lambda-java-challenge"
   - "build-secure-ai-chat-applications-with-boxlang-rag-ollama-and-amazon-bedrock-with-dan-card"
-frozen: false
 ---
 
 **Have you ever wanted to deploy a Java Serverless function, but package it with a Docker Image? That is possible now with AWS new Container support. This guide will show you how to try it yourself, step by step!**

@@ -14,7 +14,6 @@ related_posts:
   - "azul-enhances-readynow-to-solve-javas-warmup-problem-simplify-operations-and-optimize-cloud-costs"
   - "analyzing-and-tuning-warm-up-of-the-jvm-with-azul-zulu-prime-builds-of-openjdk"
   - "developer-productivity-masterclass-interview-with-leonid-blouvshtein"
-frozen: false
 ---
 
 **If you only know about Arm CPU architecture from working on smartphones or Raspberry Pi devices, it might come as a surprise to you that there are also high-performance, cloud-scale Arm CPUs already on the Java market.**

@@ -15,7 +15,6 @@ related_posts:
   - "new-book-fxgl-17-learn-javafx-game-and-app-development"
   - "creating-a-snake-game-with-javafx-fxgl-in-three-pair-programming-sessions"
   - "getting-started-with-fxgl-game-development"
-frozen: false
 ---
 
 This summer, I read the book [**"Entreprenerd"** by **Bruno Lowagie**](https://entreprenerd.lowagie.com/). It tells the story of how he started with the [**iText** PDF Java library](https://itextpdf.com/) and turned that into a company together with his wife, and eventually sold it with all problems related to most sales and acquisitions trajects...

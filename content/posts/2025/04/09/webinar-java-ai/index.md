@@ -16,7 +16,6 @@ related_posts:
   - "getting-started-with-deep-learning-in-java-using-deep-netts"
   - "getting-started-with-deep-learning-in-java-using-deep-netts-part-2"
   - "visual-recognition-for-chess-with-deep-learning-in-java-on-android"
-frozen: false
 ---
 
 **This first online Foojay Webinar will highlight Java's place in the AI Revolution, focusing on Exploring AI/ML Using Pure Java Tools.**

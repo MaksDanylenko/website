@@ -17,7 +17,6 @@ related_posts:
   - "predicting-secure-java-projects-on-maven-central"
   - "from-assembler-to-chat-gpt-steve-poole-on-the-shifting-landscape-of-programming"
   - "foojay-io-at-fosdem-2023-trip-report"
-frozen: false
 ---
 
 ![](image1-700x272.jpg)

@@ -9,7 +9,6 @@ image: "zelda01.png"
 categories:
   - "Opinion"
 related_posts:
-frozen: false
 ---
 
 ![](zelda01-1024x683.png)

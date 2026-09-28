@@ -15,7 +15,6 @@ related_posts:
   - "ask-a-lille-dev-what-java-developers-really-think-about-quality-frameworks-communities-and-careers"
   - "introducing-the-boxlang-ide-plugin-for-intellij"
   - "foojay-podcast-91"
-frozen: true
 ---
 
 {{< img src="tornado-insight.webp" class="size-full is-resized" width="298" height="298" style="width:138px;height:auto" >}}

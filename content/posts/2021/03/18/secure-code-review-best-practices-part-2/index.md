@@ -10,7 +10,6 @@ image: "Favicon-3-2.png"
 categories:
   - "Security"
 related_posts:
-frozen: false
 ---
 
 Code reviews are hard to do well. Particularly when you're not entirely sure about the errors you should be looking for!

@@ -13,7 +13,6 @@ related_posts:
   - "real-world-stream-collector"
   - "book-review-seriously-good-software"
   - "clean-memory-from-finalize-to-cleaner"
-frozen: true
 ---
 
 ![](0-QMIuX6OHkdzv3HGM-e70ddfe1.jpg)

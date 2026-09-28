@@ -15,7 +15,6 @@ related_posts:
   - "how-is-leyden-improving-java-performance-part-2-of-3"
   - "where-production-policy-belongs-building-eliya-in-public"
   - "official-azul-zulu-openjdk-images-now-available-on-docker-hub"
-frozen: true
 aliases:
   - "/today/122962/"
 ---

@@ -13,7 +13,6 @@ related_posts:
   - "java-for-desktop-applications-part-1"
   - "presenting-xpipe"
   - "jdkmon-your-friendly-jdk-distribution-updater"
-frozen: false
 ---
 
 [Last time we saw](https://foojay.io/today/custom-controls-in-javafx-part-i/) how to create custom controls in JavaFX by simply playing around with CSS styles for the component.

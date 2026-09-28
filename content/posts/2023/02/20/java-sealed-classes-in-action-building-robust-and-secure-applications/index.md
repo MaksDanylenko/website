@@ -14,7 +14,6 @@ related_posts:
   - "jdk-15-sealed-classes"
   - "immutable-collections-in-java-with-sealed-types"
   - "the-state-of-pattern-matching-in-java-17"
-frozen: false
 ---
 
 Java sealed classes were introduced in Java 15 as a way to restrict the inheritance hierarchy of a class or interface.

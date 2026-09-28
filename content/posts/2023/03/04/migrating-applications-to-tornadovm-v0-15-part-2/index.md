@@ -14,7 +14,6 @@ related_posts:
   - "migrating-applications-to-tornadovm-v0-15-part-1"
   - "a-flavour-of-tornadovm-on-apple-m1-pro"
   - "hardware-acceleration-for-java-tornadovm-can-do-it"
-frozen: false
 ---
 
 In the [previous blog](https://foojay.io/today/migrating-applications-to-tornadovm-v0-15-part-1/), we discussed the TornadoVM programming model and showed how programmers can define the parts of their Java applications to be offloaded for hardware acceleration via the TornadoVM API (v0.15).

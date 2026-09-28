@@ -16,7 +16,6 @@ related_posts:
   - "visualization-of-the-message-flow-between-business-functions-with-vaadin-and-neo4j"
   - "journeys-in-java-level-1-building-an-empire-of-microservices"
   - "time-machine-a-look-back-at-java-sessions-from-nodes-2022"
-frozen: false
 ---
 
 In my first article on Foojay, I would like to present one of many possible approaches to create a GraphQL API. I work at [Neo4j](https://neo4j.com/), so it should not be a big suprise that I will use the Graph database with the same name as a backend for the application.

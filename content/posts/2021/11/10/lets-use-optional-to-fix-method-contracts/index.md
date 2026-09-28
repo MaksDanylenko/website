@@ -13,7 +13,6 @@ related_posts:
   - "avoiding-nullpointerexception"
   - "introduction-to-jvm-unified-logging-jep-158-jep-271"
   - "aggregation-optimization-in-mongodb-optimizing-many-to-many-relationships-part-3"
-frozen: false
 ---
 
 A method is a contract: when we define one, we put thought into it. We specify parameters with their type and also a return type. When we invoke a method, we expect it to behave according to the contract. If it doesn't, it's a violation of the contract.

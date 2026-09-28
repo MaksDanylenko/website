@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/sumithpuri/"
 github: ""
 youtube: "http://www,youtube.com/@sumithpuri"
 website: "https://x.com/sumithpuri"
-frozen: false
 ---

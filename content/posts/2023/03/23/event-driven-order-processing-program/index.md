@@ -14,7 +14,6 @@ related_posts:
   - "how-behaviour-driven-development-works-well-with-event-driven-architectures"
   - "the-evolution-of-apis-from-restful-to-event-driven"
   - "dive-into-the-openjdk-top-10-reads-on-foojay-io"
-frozen: false
 ---
 
 Following the [Hello World example](https://foojay.io/today/event-driven-hello-world-program/ "Hello World example") of a simple, independently deployable real-time Event-Driven Microservice, this article looks at a more realistic example of an Order Processor with a New Order Single in and an Execution Report out.

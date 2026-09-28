@@ -15,7 +15,6 @@ related_posts:
   - "optimizing-java-for-the-cloud-native-era-with-quarkus"
   - "blink-a-led-on-raspberry-pi-with-vaadin"
   - "electronics-quarkus-qute-on-raspberry-pi"
-frozen: false
 ---
 
 For my book "[Getting Started with Java on Raspberry Pi](https://webtechie.be/books/)", an example was described to store sensors and measurements in an H2-database through REST APIs with a Spring application on the Raspberry Pi.

@@ -13,7 +13,6 @@ categories:
   - "Kubernetes"
   - "Tutorials"
 related_posts:
-frozen: false
 ---
 
 Recently, we were asked to sponsor cloud hosting of a Jakarta EE project, called [Cargo Tracker](https://cargo-tracker.j.scaleforce.net/). Being a member of Jakarta EE Working Group, Jelastic wanted to support the community and thus we started to run this application at one of our service providers ([Scaleforce](https://jelastic.cloud/details/scaleforce/)).

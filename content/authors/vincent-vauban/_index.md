@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/vvauban/"
 github: ""
 youtube: "https://www.youtube.com/@vvauban"
 website: "https://x.com/vvauban"
-frozen: false
 ---

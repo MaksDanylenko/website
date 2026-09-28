@@ -11,7 +11,6 @@ categories:
 related_posts:
   - "foojay-podcast-43"
   - "browserless-testing-of-vaadin-applications-with-karibu-testing"
-frozen: false
 ---
 
 ### 10x Insights on a different view of quality assurance

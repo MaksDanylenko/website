@@ -18,7 +18,6 @@ related_posts:
   - "aggregation-optimization-in-mongodb-unnecessary-unwinds-part-2"
   - "a-new-chapter-for-the-payara-community"
   - "whats-new-in-the-january-2026-payara-platform-release"
-frozen: false
 ---
 
 We're excited to introduce [*Scalable Enterprise Java for the Cloud*,](https://payara.fish/resource/scalable-enterprise-java-for-the-cloud/ "*Scalable Enterprise Java for the Cloud*,") a new free eBook created through a close collaboration between [Payara](https://payara.fish/ "Payara"), Java Champion [Otavio Santana](https://otaviojava.com/ "Otavio Santana"), and the Oracle NoSQL team Dario Vega \& Michael Brey. This project brings together different parts of the Java ecosystem with a shared goal, helping developers build modern, cloud-native enterprise applications using open standards.

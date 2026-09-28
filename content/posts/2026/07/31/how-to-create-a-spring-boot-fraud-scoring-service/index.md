@@ -6,14 +6,13 @@ description: "Most Java teams who want a machine learning model in production en
 authors:
   - "geertjan-wielenga"
   - "zoran-sevarac"
-image: "Deep-Netts-Logo.svg"
+image: "Deep-Netts-Logo.jpg"
 categories:
   - "AI"
   - "Deep Netts"
   - "Machine Learning"
   - "Spring"
 related_posts:
-frozen: false
 ---
 
 Most Java teams who want a machine learning model in production end up standing up a Python service and calling it over HTTP. That works, but it buys you, as a Java developer, a second runtime, a second deployment pipeline, a network hop on every prediction, and a team boundary that turns retraining into someone else's ticket.

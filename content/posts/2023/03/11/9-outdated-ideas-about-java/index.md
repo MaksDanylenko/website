@@ -15,7 +15,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "are-java-security-updates-important"
   - "foojay-podcast-83"
-frozen: false
 ---
 
 Since the first release of Java in 1995, a lot has changed in both software and hardware, and each evolution impacts the next.

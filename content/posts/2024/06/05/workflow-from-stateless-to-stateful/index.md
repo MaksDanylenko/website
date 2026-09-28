@@ -13,7 +13,6 @@ related_posts:
   - "blockhound-how-it-works"
   - "chopping-monolith"
   - "how-to-beautify-your-github-repo"
-frozen: false
 ---
 
 **A (long) time ago, my first job consisted of implementing *workflows* using the Staffware engine. In short, a workflow comprises *tasks*; an automated task delegates to code, while a manual task requires somebody to do something and mark it as done. Then, it proceeds to the next task - or tasks.**

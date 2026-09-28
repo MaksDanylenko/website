@@ -17,7 +17,6 @@ related_posts:
   - "7-functional-programming-techniques-in-java-a-primer"
   - "azul-brings-java-from-edge-to-cloud"
   - "become-a-better-java-developer-19-tips-for-staying-ahead-in-2024"
-frozen: false
 ---
 
 ## The Hidden Cost of "Good Enough" Code

@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/sjhannah/"
 github: ""
 youtube: ""
 website: "https://x.com/shannah78"
-frozen: false
 ---

@@ -10,7 +10,6 @@ image: "adoptopenjdk-graph-1.png"
 categories:
   - "Security"
 related_posts:
-frozen: false
 ---
 
 Docker is the most widely used way to containerize your application. With Docker Hub, it is easy to create and pull pre-created images. This is very convenient as you can use these images from Docker Hub to quickly build an image for your Java application.

@@ -21,7 +21,6 @@ related_posts:
   - "creating-cloud-native-java-applications-with-the-12-factor-app-methodology"
   - "foojay-podcast-38"
   - "whats-new-in-the-july-2026-azul-payara-release"
-frozen: false
 ---
 
 **In a world where in-demand skills are critical for job success, security, and progression, it's vital that we, as developers, ensure we are showcasing our skills to the wider world. This can include qualifications, courses, and badges, all of which help us to advertise our skills and highlight our professional experiences and expertise.**

@@ -14,7 +14,6 @@ related_posts:
   - "achieving-high-throughput-without-sacrificing-latency"
   - "automatically-creating-microservices-architecture-diagrams"
   - "billions-of-messages-tcp-ip"
-frozen: false
 ---
 
 **Financial institutions today face significant challenges in updating their legacy middleware systems which are crucial for supporting millions of lines of code serving critical business functions. Prior to multicast support in modern switching hardware that became prevalent in the early 2000s, message middleware was largely done via proprietary protocols that converged onto TCP/IP. IBM's Websphere MQ was a leader in this space.**

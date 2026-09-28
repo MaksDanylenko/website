@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/ryan-andrews-398a645/"
 github: ""
 youtube: ""
 website: ""
-frozen: false
 ---

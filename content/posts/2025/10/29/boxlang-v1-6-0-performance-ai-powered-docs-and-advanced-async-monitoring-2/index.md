@@ -13,7 +13,6 @@ related_posts:
   - "foojay-podcast-76"
   - "javafx-links-of-september-2025"
   - "12-lessons-learned-from-doing-the-one-billion-row-challenge"
-frozen: true
 ---
 
 {{< img src="boxlang-v1.6.0-1-700x467.jpg" class="size-medium aligncenter" width="700" height="467" >}}

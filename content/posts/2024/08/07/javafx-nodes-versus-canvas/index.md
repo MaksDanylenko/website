@@ -14,7 +14,6 @@ related_posts:
   - "a-javafx-app-on-zulufx-in-60-seconds"
   - "book-review-learn-javafx-game-and-app-development-with-fxgl-17"
   - "book-review-frontend-development-with-javafx-and-kotlin"
-frozen: false
 ---
 
 **Recently I was working on an article about Azul Zulu with JavaFX support for ARM systems, like the Raspberry Pi. As you can see in [this video](https://www.youtube.com/watch?v=XhDQvkcYJ88), I found out my little test application with a lot of "bouncing balls" started losing performance on the Raspberry Pi with more than 1000 of those balls.**

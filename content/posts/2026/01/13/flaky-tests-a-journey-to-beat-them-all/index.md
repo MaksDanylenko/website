@@ -13,7 +13,6 @@ related_posts:
   - "introducing-boxlang-ai-explorer-a-local-catalog-for-every-ai-pattern"
   - "build-secure-ai-chat-applications-with-boxlang-rag-ollama-and-amazon-bedrock-with-dan-card"
   - "idempotent-spring-boot-starter"
-frozen: false
 ---
 
 > "Sleep is not a synchronization primitive."

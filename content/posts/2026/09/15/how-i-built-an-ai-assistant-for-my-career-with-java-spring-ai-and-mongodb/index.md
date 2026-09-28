@@ -16,7 +16,6 @@ related_posts:
   - "agents-meet-databases-the-future-of-agentic-architectures"
   - "aggregation-optimization-in-mongodb-a-case-study-from-the-field-part-1"
   - "aggregation-optimization-in-mongodb-data-duplication-to-improve-read-performance-part-4"
-frozen: false
 ---
 
 The best way to learn a technology is by putting it into practice in a real system.

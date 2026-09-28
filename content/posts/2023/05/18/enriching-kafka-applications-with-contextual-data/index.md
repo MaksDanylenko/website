@@ -14,7 +14,6 @@ related_posts:
   - "hazelcast-kibana-best-buddies-for-exploring-visualizing-data"
   - "hazelcast-from-embedded-to-client-server"
   - "how-to-get-started-with-the-hazelcast-viridian-serverless"
-frozen: false
 ---
 
 Developing high-performance large-stream processing applications is a challenging task.

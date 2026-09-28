@@ -13,7 +13,6 @@ related_posts:
   - "effective-java-logging"
   - "calling-microservices-in-java"
   - "smarter-logging-in-spring-boot-with-aop"
-frozen: false
 ---
 
 In the world of software development, best practices for SQL optimization are a critical skill that every Java engineer must master. Efficient database interactions can significantly enhance the performance of your applications, leading to faster response times and a better user experience.

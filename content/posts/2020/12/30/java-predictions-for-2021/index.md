@@ -9,7 +9,6 @@ image: "Favicon-3-2.png"
 categories:
   - "Opinion"
 related_posts:
-frozen: false
 ---
 
 **To celebrate the world of Java and predict our highlights for 2021, several key Foojay participants have been sharing their thoughts and hopes over the past days on Foojay, [starting with Frank Delporte, Foojay Community Manager for the Raspberry Pi](https://foojay.io/today/java-predictions-for-2021-raspberry-pi/), [continuing with Jadon Ortlepp, Foojay Community Manager for Microservices](https://foojay.io/today/java-predictions-for-2021-jakarta-ee/), and now wrapping up with a list of brief predictions from a wide variety of other leading members of the Java community**.

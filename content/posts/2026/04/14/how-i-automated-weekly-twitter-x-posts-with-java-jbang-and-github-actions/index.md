@@ -10,7 +10,6 @@ categories:
   - "Foojay"
   - "Java"
 related_posts:
-frozen: false
 ---
 
 Every Monday at 10 AM Eastern, [@javaevolved](https://x.com/javaevolved) now tweets a modern Java pattern — automatically. No manual steps, no third-party services, no cron servers. Just a GitHub Actions workflow, a couple of JBang scripts, and the Twitter API.

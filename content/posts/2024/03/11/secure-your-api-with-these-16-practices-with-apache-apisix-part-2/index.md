@@ -14,7 +14,6 @@ related_posts:
   - "apisix-api-gateway"
   - "authenticate-with-openid-connect-and-apache-apisix"
   - "how-to-secure-your-web-apps-with-an-api-gateway"
-frozen: false
 ---
 
 [We've listed 16 practices to help secure one's APIs](https://foojay.io/today/secure-your-api-with-these-16-practices-with-apache-apisix-part-1/) and described how to implement them with Apache APISIX.

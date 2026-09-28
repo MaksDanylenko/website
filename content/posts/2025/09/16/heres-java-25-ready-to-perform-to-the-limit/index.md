@@ -15,7 +15,6 @@ related_posts:
   - "java-23-has-arrived-and-it-brings-a-truckload-of-changes"
   - "java-22-is-here-and-its-ready-to-rock"
   - "java-21-is-available-today-and-its-quite-the-update"
-frozen: false
 ---
 
 It's been six months since Java 24 was released, so it's time for a fresh set of new Java features.  

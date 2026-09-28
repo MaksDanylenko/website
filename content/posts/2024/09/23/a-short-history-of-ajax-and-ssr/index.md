@@ -14,7 +14,6 @@ related_posts:
   - "book-review-modern-frontends-with-htmx"
   - "example-java-application-with-embedded-jetty-and-a-htmx-website"
   - "jc-ai-newsletter-8"
-frozen: false
 ---
 
 **My journey in programming began over two decades ago, a time when JavaScript was a far cry from its current state, and developers were primarily focused on Microsoft Internet Explorer. One of my proudest achievements back then was writing a few lines of code that allowed users to add and remove table rows entirely on the client side. We called it . Many developers today have forgotten about it—or never knew it existed.**

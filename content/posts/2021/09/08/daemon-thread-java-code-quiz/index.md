@@ -13,7 +13,6 @@ related_posts:
   - "eight-debugging-tips-for-intellijidea-users-you-never-knew-existed"
   - "a-closer-look-at-jfr-streaming"
   - "jedi-lambda-join-java-challenge"
-frozen: false
 ---
 
 When we are working with Threads, it's important to know when to use a daemon or a non-daemon Thread.

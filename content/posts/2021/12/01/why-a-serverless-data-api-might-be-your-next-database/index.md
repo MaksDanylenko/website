@@ -18,7 +18,6 @@ related_posts:
   - "creating-a-kubernetes-operator-in-java"
   - "deploying-spring-boot-applications-on-kubernetes"
   - "aggregation-optimization-in-mongodb-unnecessary-unwinds-part-2"
-frozen: false
 ---
 
 App development stacks have been improving so rapidly and effectively that today there are a number of easy, straightforward paths to push code to production, on the cloud platform of your choice. But what use are applications without the data that users interact with? Persistent data is such an indispensable piece of the IT puzzle that it's perhaps the reason the other pieces even exist.

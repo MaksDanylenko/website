@@ -2,7 +2,6 @@
 title: "Latency"
 description: "Latency is the time between the initiation of a procedure and the completion of the procedure; in other words, how long it takes for something to happen. In the realm of software, there are many types of latency. No application ..."
 url: "/pedia/latency/"
-frozen: false
 ---
 
 Latency is the time between the initiation of a procedure and the completion of the procedure; in other words, how long it takes for something to happen.

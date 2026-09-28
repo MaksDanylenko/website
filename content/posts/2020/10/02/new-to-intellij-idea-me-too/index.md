@@ -12,7 +12,6 @@ categories:
   - "Tools"
   - "Tutorials"
 related_posts:
-frozen: false
 ---
 
 Until recently, I last wrote Java in anger in 2002. IntelliJ IDEA had just been released; it wasn't remotely on my radar. I honestly can't remember what IDE we were using back then, but it certainly was a very long way to the fully featured IDE that JetBrains produce today.

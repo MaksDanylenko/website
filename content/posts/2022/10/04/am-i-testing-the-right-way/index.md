@@ -16,7 +16,6 @@ related_posts:
   - "junit-5-testing-basics"
   - "junit-5-introduction"
   - "soft-assertions-testing-kindly"
-frozen: false
 ---
 
 ## Two unit-testing approaches explained!

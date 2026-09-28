@@ -15,7 +15,6 @@ related_posts:
   - "agents-meet-databases-the-future-of-agentic-architectures"
   - "atlas-online-archive-efficiently-manage-the-data-lifecycle"
   - "atlas-searching-with-the-java-driver"
-frozen: false
 ---
 
 In a relational database, modeling a one-to-many relationship is straightforward: you create two tables and connect them with a foreign key. When you need the data together, you write a JOIN. In MongoDB, you have a choice, and that choice has a direct impact on your application's performance, scalability, and maintainability.

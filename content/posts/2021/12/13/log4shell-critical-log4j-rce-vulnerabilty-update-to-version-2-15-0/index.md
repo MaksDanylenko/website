@@ -13,7 +13,6 @@ related_posts:
   - "the-costs-of-hidden-logging"
   - "java-logging-what-to-log-what-not-to-log"
   - "java-where-the-wild-code-isnt"
-frozen: false
 ---
 
 On Dec.10, 2021, a new, critical [Log4j](https://logging.apache.org/log4j/2.x/) vulnerability was disclosed: [Log4Shell](https://techcrunch.com/2021/12/10/apple-icloud-twitter-and-minecraft-vulnerable-to-ubiquitous-zero-day-exploit/).

@@ -11,7 +11,6 @@ categories:
   - "Kotlin"
 related_posts:
   - "the-pitfall-of-implicit-returns"
-frozen: false
 ---
 
 In , objects collaborate. The initial idea of collaboration, first found in Smalltalk, was for object A to send a message to object B. Languages designed later use method calling. In both cases, the same question stands: how does an object reference other objects to reach the desired results?

@@ -14,7 +14,6 @@ related_posts:
   - "can-java-jakarta-ee-do-microservices"
   - "do-java-jakarta-ee-standards-matter"
   - "is-java-jakarta-ee-cloud-native"
-frozen: false
 ---
 
 In this myth-busting webinar, Steve Millidge (founder of [Payara](https://www.payara.fish/)), demonstrates that Java/Jakarta EE application servers are not resource-heavy or slow.

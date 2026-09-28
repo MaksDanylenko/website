@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/daviddryparry/"
 github: ""
 youtube: ""
 website: "https://x.com/daviddryparry"
-frozen: false
 ---

@@ -14,7 +14,6 @@ related_posts:
   - "kubernetes-gateway-api"
   - "advanced-url-rewriting-with-apache-apisix"
   - "dry-your-apache-apisix-config"
-frozen: false
 ---
 
 **My ideas for blog posts inevitably start to dry up after over two years at [Apache APISIX](https://apisix.apache.org/).**

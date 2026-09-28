@@ -9,7 +9,6 @@ image: "Screenshot-2026-05-27-at-13.22.27.png"
 categories:
   - "Tools"
 related_posts:
-frozen: false
 ---
 
 If you're running JRuby in production, you're running WebAssembly. If TrinoDB is evaluating your Python UDFs, that's WebAssembly too. If Microcks is running JavaScript dispatchers to route your mock API responses, WebAssembly is doing the work.

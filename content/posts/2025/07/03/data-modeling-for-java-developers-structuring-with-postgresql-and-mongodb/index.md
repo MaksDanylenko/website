@@ -15,7 +15,6 @@ related_posts:
   - "java-virtual-threads-in-action-optimizing-mongodb-operation"
   - "understanding-bson-a-beginners-guide-to-mongodbs-data-format"
   - "clean-and-modular-java-a-hexagonal-architecture-approach"
-frozen: false
 ---
 
 **Application and system designs have always been considered the most essential step in application development. All the later steps and technologies to be used depend on how the system has been designed. If you are a Java developer, choosing the right approach can mean distinguishing between a rigid, complex schema and a nimble, scalable solution. If you are a Java developer who works with PostgreSQL or other relational databases, you understand the pain of representing the many-to-many relationships between the tables.**

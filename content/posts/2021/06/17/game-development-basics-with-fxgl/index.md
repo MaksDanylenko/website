@@ -10,7 +10,6 @@ categories:
   - "Game Development"
   - "JavaFX"
 related_posts:
-frozen: false
 ---
 
 Game Development is a large field of Computer Science with a lot of underpinning theory behind the concepts and practices used in the industry. In this short article, we will learn some fundamental basics of these concepts, which will be explored within the context of the [FXGL](https://github.com/AlmasB/FXGL) game engine.

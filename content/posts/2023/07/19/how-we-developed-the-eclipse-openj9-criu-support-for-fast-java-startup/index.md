@@ -15,7 +15,6 @@ related_posts:
   - "foojay-podcast-17"
   - "how-to-run-a-java-application-with-crac-in-a-docker-container"
   - "five-java-developer-must-haves"
-frozen: false
 ---
 
 **Checkpointing and restoring the JVM makes applications run faster because all the startup work is done before deployment. This means that in serverless cloud applications, the end-user of the application perceives no delay when the application starts. You can try it out now with your own apps on Open Liberty with Eclipse OpenJ9. But if you want to know more, here's how we tackled the technical challenges of developing the Eclipse OpenJ9 CRIU Support.**

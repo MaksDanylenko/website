@@ -15,7 +15,6 @@ related_posts:
   - "how-is-leyden-improving-java-performance-part-2-of-3"
   - "indexing-all-of-wikipedia-on-a-laptop"
   - "jmc-8-0-1-released"
-frozen: false
 aliases:
   - "/today/monitoring-rest-apis-with-custom-jdk-flight-recorder-events/"
 ---

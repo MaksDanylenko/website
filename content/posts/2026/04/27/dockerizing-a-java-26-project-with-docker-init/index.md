@@ -15,7 +15,6 @@ related_posts:
   - "building-java-containers-without-a-dockerfile-azul-zulu-and-paketo-buildpacks"
   - "intro-to-the-boxlang-formatter"
   - "all-azul-zulu-container-images-explained-ca-sa-and-chainguard"
-frozen: false
 ---
 
 Docker Init was introduced in Docker Desktop 4.27, before LLMs became the default answer to everything. It's a "smart" interactive wizard that analyzes your project and generates:

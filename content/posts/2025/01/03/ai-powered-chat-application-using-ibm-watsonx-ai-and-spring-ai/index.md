@@ -18,7 +18,6 @@ related_posts:
   - "spring-ai-how-to-write-genai-applications-with-java"
   - "jug-ph-1h-2024-meetups"
   - "spring-ai-agents-no-second-runtime"
-frozen: false
 ---
 
 **Generative Artificial Intelligence (Gen AI) disrupted enterprises with the introduction of GPT-4 foundation model by Open AI in the late 2022 to early 2023 triggering big tech to release their own Gen AI platform and foundation models. Among them are Google, Microsoft, AWS and IBM. In this article, we will deal with the Gen AI platform and model of IBM called watsonx and integrate it with Spring AI to create a custom chat application using the IBM Granite Foundation Model.**

@@ -15,7 +15,6 @@ related_posts:
   - "navigating-behaviour-with-events"
   - "boosting-kafka-latency-performance-by-3x-with-zing-jvm-and-automq"
   - "writing-a-data-orchestrator-in-java"
-frozen: false
 ---
 
 ## When Event-Driven Architecture Is Not the Right Choice

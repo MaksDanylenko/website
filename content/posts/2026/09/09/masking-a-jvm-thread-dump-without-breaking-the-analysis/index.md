@@ -15,7 +15,6 @@ related_posts:
   - "boxlang-1-14-0-sets-ranges-inner-classes-and-a-runtime-that-talks-back"
   - "boxlang-ai-3-2-0-image-generation-web-search-fluent-audio-agent-registry-mcp-observability"
   - "introducing-bx-jwt-enterprise-grade-json-web-tokens-for-boxlang"
-frozen: false
 ---
 
 A few weeks ago I posted on r/java about detecting virtual thread pinning from a plain thread dump. The technical discussion was fine. The comment that stuck with me had nothing to do with pinning: "the problem isn't taking the dump, it's that uploading a production dump to a third-party site is against policy". Not a preference. Policy. And the person saying it was right.

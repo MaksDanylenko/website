@@ -15,7 +15,6 @@ related_posts:
   - "book-review-api-design-patterns"
   - "book-review-effortless-cloud-native-app-development-using-skaffold"
   - "foojay-podcast-67"
-frozen: false
 ---
 
 ***Disclaimer*: this post includes affiliate links; I may receive compensation if you purchase the book from the different links provided in this post.**

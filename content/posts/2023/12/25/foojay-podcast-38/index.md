@@ -20,7 +20,6 @@ related_posts:
   - "foojay-podcast-36"
   - "foojay-podcast-35"
   - "jc-ai-newsletter-16"
-frozen: true
 ---
 
 Java was born in 1995, when the internet as we know it today didn't exist yet.

@@ -14,7 +14,6 @@ related_posts:
   - "what-is-debugging-in-140-seconds"
   - "debugging-ram-detect-fix-memory-leaks-in-managed-languages-heap-deep-dive-part-2"
   - "get-started-with-allocation-profiling"
-frozen: true
 ---
 
 I just published the 3rd episode of the "140 Second Duckling" tutorial series and I'm getting into the rhythm of doing them. I posted the 2nd episode last week and in this post I'll dig deeper into both.

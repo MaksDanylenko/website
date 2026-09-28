@@ -13,7 +13,6 @@ related_posts:
   - "book-review-seriously-good-software"
   - "book-review-java-by-comparison"
   - "book-review-quarkus-for-spring-developers"
-frozen: false
 ---
 
 {{< img src="effortless-cloud-skaffold-835x1024.jpg" class="size-large is-resized" width="299" height="367" >}}

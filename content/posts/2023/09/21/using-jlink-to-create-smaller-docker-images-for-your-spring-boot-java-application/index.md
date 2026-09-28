@@ -15,7 +15,6 @@ related_posts:
   - "a-simple-service-with-spring-boot"
   - "annotation-free-spring"
   - "better-error-handling-for-your-spring-boot-rest-apis"
-frozen: false
 ---
 
 **Containers bring new flexibility and agility to software development and deployment. However, they also introduce a new attack surface that malicious actors can exploit. A compromised container can give an attacker access to other containers and even the host system. Smaller images that contain fewer artifacts are already a great help in achieving a smaller attack surface.**

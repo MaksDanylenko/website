@@ -15,7 +15,6 @@ related_posts:
   - "kotlin-delegation"
   - "a-list-of-cache-providers"
   - "tips-for-reading-code"
-frozen: false
 ---
 
 In our profession, it's common to work on an unfamiliar codebase.

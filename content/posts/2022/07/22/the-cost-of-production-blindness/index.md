@@ -14,7 +14,6 @@ related_posts:
   - "what-is-debugging-in-140-seconds"
   - "exception-breakpoint-that-doesnt-suck-and-a-real-use-case-for-method-breakpoints"
   - "boxlang-1-15-0-released-blazing-fast-strings-runtime-portability-and-much-more"
-frozen: true
 ---
 
 When I speak at conferences, I often fall back to the fact that just a couple of decades ago we'd observe production by kicking the server.

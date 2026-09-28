@@ -15,7 +15,6 @@ related_posts:
   - "benchmark-jdbc-connectors-and-java-21-virtual-threads"
   - "revolutionising-java-collections-the-advent-of-sequenced-collections-in-java-21"
   - "sonarqube-part-4-ai-code-assurance"
-frozen: false
 ---
 
 **Last September 2023 a new version of Java was released as the latest LTS (Long Time Support). This 21st version [brought lots of new features](https://www.sonarsource.com/blog/the-new-jdk-lts-is-out-long-live-jdk-21/ "brought lots of new features") that will improve performance and clarity in our code base.**

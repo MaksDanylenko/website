@@ -19,7 +19,6 @@ related_posts:
   - "journeys-in-java-level-6-build-a-neo4j-microservice"
   - "journeys-in-java-level-5-building-an-empire-of-microservices"
   - "journeys-in-java-level-10-service-discovery-with-eureka"
-frozen: false
 ---
 
 In [our last article](https://foojay.io/today/journeys-in-java-level-7-externalize-microservice-configuration/), we used Spring Cloud Config to provide database credentials to a microservice application connecting to a cloud-hosted Neo4j database. This post will backport this concept to our existing MongoDB database instance and its related microservices.

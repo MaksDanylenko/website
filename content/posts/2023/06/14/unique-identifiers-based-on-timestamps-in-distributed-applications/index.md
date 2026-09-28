@@ -15,7 +15,6 @@ related_posts:
   - "peter-lawrey-latency-performance"
   - "automatically-creating-microservices-architecture-diagrams"
   - "offline-crypto-address-validation-in-java"
-frozen: false
 ---
 
 At [Chronicle](https://chronicle.software/?utm_source=website&utm_medium=foojay&utm_campaign=unique-identifiers "Chronicle") we build applications that must process very high numbers of events with minimum latency. Generating unique IDs for these events using the traditional method of UUIDs introduces an unacceptable time overhead into our applications, so an alternative approach is needed.

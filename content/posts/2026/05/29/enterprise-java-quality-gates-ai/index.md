@@ -18,7 +18,6 @@ related_posts:
   - "boxlang-aws-azure-and-google-secrets-manager-module-released"
   - "jc-ai-newsletter-16"
   - "boxlang-ai-3-2-0-image-generation-web-search-fluent-audio-agent-registry-mcp-observability"
-frozen: false
 ---
 
 {{< img src="ChatGPT-Image-May-26-2026-04_44_09-PM-700x394.jpg" class="size-medium" alt="Illustration of human developers and an AI assistant writing code together, with the code passing through an enterprise quality gate before reaching a trusted repository." width="100%" >}}

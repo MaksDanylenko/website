@@ -13,7 +13,6 @@ related_posts:
   - "real-world-stream-collector"
   - "project-panama-for-newbies-part-1"
   - "confusing-java-strings"
-frozen: false
 ---
 
 Did you know that you can save up to 25% of your heap memory and your Cloud bills without any effort? Well, it's true. Many exciting features have been added to the latest releases of Java recently and I'm going to cover one that is often overlooked in this article.

@@ -16,7 +16,6 @@ related_posts:
   - "foojay-podcast-64"
   - "foojay-podcast-92"
   - "offline-crypto-address-validation-in-java"
-frozen: true
 ---
 
 #### In a zero-copy runtime designed for 1-VT-per-Stream density, ThreadLocal is a performance serial killer. Here is the forensic analysis and how JEP 506 Scoped Values changed everything.

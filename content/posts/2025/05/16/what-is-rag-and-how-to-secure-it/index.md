@@ -16,7 +16,6 @@ related_posts:
   - "log4shell-critical-log4j-rce-vulnerabilty-update-to-version-2-15-0"
   - "minimizing-security-risks-in-java-application-development"
   - "foojay-podcast-7"
-frozen: false
 ---
 
 Integrating large language models (LLMs) into your application is more accessible than ever. With a few API calls to OpenAI, Anthropic, or Cohere, you can instantly add [++AI capabilities++](https://snyk.io/solutions/secure-ai-generated-code/) to your stack. Using frameworks and libraries that abstract this away for you makes it even easier to create your own LLM-powered assistant. However, if you've shipped any real-world LLM features, you've hit the wall where these powerful models confidently make up facts, reference outdated information, or deliver answers that don't take your context into account.

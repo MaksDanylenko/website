@@ -9,7 +9,6 @@ image: "chemical-scientist-test-chemistry-chemist-student.jpg"
 categories:
   - "Developer Tools"
 related_posts:
-frozen: false
 ---
 
 The data encryption and security market continues to evolve as organizations face increasing demands for data protection while maintaining operational efficiency.

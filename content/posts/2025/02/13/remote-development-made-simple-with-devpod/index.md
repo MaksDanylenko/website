@@ -13,7 +13,6 @@ related_posts:
   - "a-list-of-cache-providers"
   - "poor-mans-api"
   - "kubernetes-gateway-api"
-frozen: false
 ---
 
 **I come relatively late to the subject of Remote Development Environments (also known as Cloud Development Environments).**

@@ -13,7 +13,6 @@ related_posts:
   - "method-reference-vs-lambda-java-challenge"
   - "asynchronous-completablefuture-san-francisco-adventure-java-challenge"
   - "function-calculation-java-challenge"
-frozen: false
 ---
 
 There are many concepts involved in Java Challenge! In essence, we will explore lambdas and the Function interface the most. However, we also have static methods introduced in Java 8 the private method in interfaces introduced in Java 9. In the invocation of the interface methods, we are using anonymous inner classes too!

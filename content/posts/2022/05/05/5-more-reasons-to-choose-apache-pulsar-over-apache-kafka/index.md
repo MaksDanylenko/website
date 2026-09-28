@@ -16,7 +16,6 @@ related_posts:
   - "bring-streaming-to-apache-cassandra-with-apache-pulsar"
   - "full-stream-ahead-astra-streaming-powered-by-apache-pulsar"
   - "why-pulsar-beats-kafka-for-a-scalable-distributed-data-architecture"
-frozen: false
 ---
 
 *Author's note: I originally published this blog post in 2019, while I was CEO of Kesque, a real-time messaging service built on* [*Apache Pulsar*](https://pulsar.apache.org/)*, the cloud-native distributed messaging and streaming platform. It's a follow-up to an earlier post, "* [*7 Reasons to Choose Apache Pulsar over Apache Kafka*](https://datastax.medium.com/7-reasons-to-choose-apache-pulsar-over-apache-kafka-cb111087eadb)*." A lot of big changes have happened since these two posts went live, including Kesque's* [*acquisition*](https://www.datastax.com/press-release/datastax-delivers-scale-out-enterprise-event-streaming-modern-data-apps)*, in January 2021, by DataStax. The reasons to choose Pulsar, however, haven't changed.*

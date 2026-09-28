@@ -9,7 +9,6 @@ aliases:
   # is no forum to rebuild, so this page -- every place the community actually
   # is, Slack included -- is where those visitors were looking to end up.
   - "/forum/"
-frozen: false
 ---
 
 Welcome to Foojay! There are lots of ways to connect with the Friends Of OpenJDK community — here's where to find us.

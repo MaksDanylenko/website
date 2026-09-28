@@ -19,7 +19,6 @@ related_posts:
   - "a-short-primer-on-java-debugging-internals"
   - "boldness-in-refactoring"
   - "debug-like-a-senior-developer"
-frozen: false
 ---
 
 Read in other languages: [中文](https://flounder.dev/zh/posts/debugger-god-mode/) [Español](https://flounder.dev/es/posts/debugger-god-mode/) [Português](https://flounder.dev/pt/posts/debugger-god-mode/)

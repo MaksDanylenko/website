@@ -15,7 +15,6 @@ related_posts:
   - "azuls-high-performance-java-platform-achieves-historic-first-with-10000-customer-jvms-collaborating-and-sharing-performance-optimizations-cutting-cloud-costs-by-20"
   - "fantastic-jvms-and-where-to-find-them"
   - "java-warmup-and-the-scaling-loop-problem"
-frozen: false
 ---
 
 Autoscaling on Kubernetes has evolved significantly, but many production systems still rely on reactive scaling based on CPU and memory utilization. The issue is that resource metrics often lag behind real demand. By the time the CPU rises, users may already be experiencing unacceptable latency.

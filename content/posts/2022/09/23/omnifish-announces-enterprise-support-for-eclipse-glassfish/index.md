@@ -14,7 +14,6 @@ related_posts:
   - "a-simple-service-with-spring-boot"
   - "different-approaches-to-building-stateful-microservices-in-the-cloud-native-world"
   - "reflections-on-2024-a-remarkable-year-for-omnifish-glassfish-piranha-and-jakarta-ee"
-frozen: false
 ---
 
 [**OmniFish**](https://omnifish.ee/)**are proud to announce that they have established themselves as a new international company in the field of [Jakarta EE](https://jakarta.ee/) support, specifically supporting the application server Eclipse GlassFish, a new cloud‑native Jakarta EE runtime Piranha Cloud, and their associated components such as Mojarra, the Jakarta Faces implementation.**

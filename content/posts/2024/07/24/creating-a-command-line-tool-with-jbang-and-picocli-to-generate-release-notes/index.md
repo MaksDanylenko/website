@@ -13,7 +13,6 @@ related_posts:
   - "charting-the-course-of-java-an-insightful-conversation-with-java-champion-sebastian-daschner"
   - "competing-for-the-crown-a-friendly-debate-on-the-future-of-java-and-kotlin-on-foojay-io-today"
   - "java-for-scripting"
-frozen: false
 ---
 
 Lately, I have been playing with JBang and PicoCLI, and I am pretty amazed at what we can do with these tools. I needed to create a script that would go to a specified repository on GitHub, check the commit range, and verify if any tickets were associated with them. Additionally, I wanted to check if the ticket is accepted and if the commit was approved or not. The idea was to integrate this script along with the CI/CD pipeline.

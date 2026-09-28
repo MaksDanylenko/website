@@ -15,7 +15,6 @@ related_posts:
   - "5-tips-to-create-secure-docker-images-for-java-applications"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "foojay-podcast-81"
-frozen: false
 ---
 
 ## Running Gradle builds on GitHub Actions

@@ -14,7 +14,6 @@ related_posts:
   - "7-ways-to-contribute-to-openjdk"
   - "9-outdated-ideas-about-java"
   - "azul-brings-java-from-edge-to-cloud"
-frozen: false
 ---
 
 JDK 25 has arrived as the latest long-term support (LTS) release for Java, bringing performance improvements and enhanced stability for modern applications. If your organization is running JDK 21, now is the time to start planning your migration path.

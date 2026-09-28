@@ -12,7 +12,6 @@ categories:
 related_posts:
   - "my-first-real-rust-project"
   - "runtime-initialized-variables-in-rust"
-frozen: false
 ---
 
 As part of learning the Rust ecosystem, I dedicated the last few days to error management. Here are my findings.

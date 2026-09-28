@@ -16,7 +16,6 @@ related_posts:
   - "announcing-real-time-stream-processing-unconference"
   - "backpressure-in-reactive-systems"
   - "real-time-stream-processing-with-hazelcast-and-streamnative"
-frozen: false
 ---
 
 In this tutorial, you'll learn how to build real-time streaming applications with the Hazelcast Viridian Serverless using SQL.

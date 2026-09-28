@@ -16,7 +16,6 @@ related_posts:
   - "building-autopo-an-ai-powered-open-source-application-to-manage-po-files"
   - "different-approaches-to-building-stateful-microservices-in-the-cloud-native-world"
   - "even-more-opentelemetry"
-frozen: false
 ---
 
 > TL;DR: You're building an AI-powered app that needs to send lots of prompts to OpenAI.

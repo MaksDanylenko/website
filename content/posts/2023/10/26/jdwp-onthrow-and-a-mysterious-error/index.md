@@ -14,7 +14,6 @@ related_posts:
   - "asyncgetcalltrace-reworked-frame-by-frame-with-an-iterative-touch"
   - "class-loader-hierarchies"
   - "level-up-your-java-debugging-skills-with-on-demand-debugging"
-frozen: false
 ---
 
 **In my previous Java-related blog post called [Level-up your Java Debugging Skills with on-demand Debugging](https://foojay.io/today/level-up-your-java-debugging-skills-with-on-demand-debugging/), I showed you how to use the `onthrow` option of the JDWP agent to start the debugging session on the first throw of a specific exception.**

@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/johannes-rabauer-032955187/"
 github: ""
 youtube: ""
 website: "https://x.com/JohannesRabauer"
-frozen: false
 ---

@@ -13,7 +13,6 @@ related_posts:
   - "foojay-podcast-91"
   - "java-on-azure-tooling-update-july-2022"
   - "debugging-collections-streams-and-watch-renderers"
-frozen: false
 ---
 
 IntelliJ IDEA Ultimate is the most powerful IDE for JVM developers in the market by now. It has support for various JVM frameworks, complex refactorings, Integration with VCS, and many more.

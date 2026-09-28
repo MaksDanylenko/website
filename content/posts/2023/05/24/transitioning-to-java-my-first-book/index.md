@@ -18,7 +18,6 @@ related_posts:
   - "new-book-fxgl-17-learn-javafx-game-and-app-development"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "offline-crypto-address-validation-in-java"
-frozen: false
 ---
 
 ![](BookCover-407x510.jpg)

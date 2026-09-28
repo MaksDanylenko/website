@@ -13,7 +13,6 @@ related_posts:
   - "are-java-security-updates-important"
   - "java-where-the-wild-code-isnt"
   - "security-warning-your-java-attack-surface-just-got-bigger"
-frozen: false
 ---
 
 Creating and running an application in your favorite language is usually pretty simple. After you create your application, deploying it and showing it to the world is also quite straightforward.

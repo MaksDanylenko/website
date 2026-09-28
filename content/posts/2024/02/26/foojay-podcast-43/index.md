@@ -17,7 +17,6 @@ related_posts:
   - "foojay-podcast-41"
   - "foojay-podcast-40"
   - "foojay-podcast-99"
-frozen: false
 ---
 
 As developers, we all want to write bug free and high quality code. Writing tests is a crucial part to achieve this.

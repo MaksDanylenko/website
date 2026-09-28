@@ -2,7 +2,6 @@
 title: "Technology Compatibility Kit"
 description: "Technology Compatibility Kit is the official Java SE test suite used to test compatibility and performance of the JRE/JDK against Java SE specifications."
 url: "/pedia/tck/"
-frozen: false
 ---
 
 The TCK (Technology Compatibility Kit) is the official Java SE test suite, originally developed by Sun Microsystems and now maintained by Oracle. Any JDK binary that claims to be "Java SE compatible" must pass the TCK for its target release.
@@ -21,8 +20,8 @@ Below are major OpenJDK distributions and their TCK compliance status:
 |----------------------------|----------------|
 | Adoptium Temurin           | ✅              |
 | Amazon Corretto            | ✅              |
-| Azul Platform Prime        | ✅              |
 | Azul Zulu                  | ✅              |
+| Azul Zing                  | ✅              |
 | BellSoft Liberica          | ✅              |
 | Microsoft Build of OpenJDK | ✅              |
 | Oracle JDK                 | ✅              |

@@ -15,7 +15,6 @@ related_posts:
   - "foojay-podcast-72"
   - "foojay-podcast-71"
   - "foojay-podcast-70"
-frozen: false
 ---
 
 **Let's have an AI Bingo and talk about ChatGPT, LLM, ML, RAG, MCP, GenAI, and more!**

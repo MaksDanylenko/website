@@ -13,7 +13,6 @@ related_posts:
   - "ap-loader-a-new-way-to-use-and-embed-async-profiler"
   - "asyncgetcalltrace-reworked-frame-by-frame-with-an-iterative-touch"
   - "virtual-thread-pinning-field-guide"
-frozen: false
 ---
 
 While sitting in [Cay Horstmann](https://horstmann.com/unblog/2023-09-19/index.html)'s ["Looming Changes in Java Concurrency" talk at BaselOne](https://baselone.ch/speech.html?id=BEB1A232-BA37-4619-A7F9-33802755DFEB), I had an epiphany: Aren't virtual threads with Loom just a version of HyperThreading on the JVM?  

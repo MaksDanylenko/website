@@ -14,7 +14,6 @@ related_posts:
   - "java-panama-polyglot-part-3"
   - "compiling-java-code-executing-bytecode"
   - "python-magic-methods-part-2"
-frozen: false
 ---
 
 Java was the first language I used professionally and is the scale by which I measure other languages I learned afterward. It's an statically-typed language. Hence, Python feels a bit weird because of its dynamic typing approach.

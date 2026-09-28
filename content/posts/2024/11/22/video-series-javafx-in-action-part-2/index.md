@@ -14,7 +14,6 @@ related_posts:
   - "new-user-interface-for-jfx-central-the-home-for-all-javafx-information-part-1"
   - "javafx-links-of-september-2024"
   - "video-series-javafx-in-action-part-6"
-frozen: false
 ---
 
 In [July, we published the first part, which included four interviews](https://foojay.io/today/new-video-series-javafx-in-action-part-1/) with Pedro Duque Vieira, Daniel Zimmermann, Christopher Schnick, and Robert Ladstätter.

@@ -14,7 +14,6 @@ related_posts:
   - "cant-reproduce-a-bug"
   - "the-theory-of-debugging"
   - "the-systemic-process-of-debugging"
-frozen: false
 ---
 
 * [Understanding strace and its Origins](#understanding-strace-and-its-origins)

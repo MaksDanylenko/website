@@ -10,7 +10,6 @@ image: "default-yellow-8f95b1d6.png"
 categories:
   - "JEPs"
 related_posts:
-frozen: false
 ---
 
 In this article, I will try to explain the new feature, from Java 10, "local variable type inference", which also provides the new reserved type name "var".

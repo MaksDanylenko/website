@@ -15,7 +15,6 @@ categories:
   - "DevOps"
   - "Kubernetes"
 related_posts:
-frozen: false
 ---
 
 > "Reliability at massive scale is one of the biggest challenges we face at Amazon.com, one of the largest e-commerce operations in the world; even the slightest outage has significant financial consequences and impacts customer trust."

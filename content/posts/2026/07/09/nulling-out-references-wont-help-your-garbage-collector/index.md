@@ -9,7 +9,6 @@ image: "Screenshot-2026-07-09-at-15.41.30.jpg"
 categories:
   - "Performance"
 related_posts:
-frozen: false
 ---
 
 One of the misconceptions that I continuously run into is that nulling out references in Java helps garbage collection.

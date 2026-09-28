@@ -15,7 +15,6 @@ related_posts:
   - "a-simple-service-with-spring-boot"
   - "annotation-free-spring"
   - "idempotent-spring-boot-starter"
-frozen: false
 ---
 
 ## Introduction

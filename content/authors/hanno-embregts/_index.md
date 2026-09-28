@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/hannotify/"
 github: ""
 youtube: ""
 website: "https://x.com/hannotify"
-frozen: false
 ---

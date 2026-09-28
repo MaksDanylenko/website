@@ -14,7 +14,6 @@ related_posts:
   - "unified-event-driven-architecture-for-the-cloud-native-enterprise"
   - "why-the-cool-kids-use-event-loops"
   - "dive-into-the-openjdk-top-10-reads-on-foojay-io"
-frozen: false
 ---
 
 Behaviour Driven Development (BDD) and Event Driven Architecture (EDA) work well together as they complement each other's strengths and weaknesses.

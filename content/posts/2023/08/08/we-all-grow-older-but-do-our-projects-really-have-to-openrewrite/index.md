@@ -15,7 +15,6 @@ related_posts:
   - "3-ways-to-refactor-your-code-in-intellij-idea"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "boxlang-1-14-0-sets-ranges-inner-classes-and-a-runtime-that-talks-back"
-frozen: false
 ---
 
 **We have all likely worked on a project, that has grown quite "mature" over time, who knows we might even have forgotten to keep our dependencies up to date? Mayhap we finally got the green light to move from JDK 8 to 17?**

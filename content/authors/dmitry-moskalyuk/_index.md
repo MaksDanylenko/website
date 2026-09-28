@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/dmitry-moskalyuk/"
 github: ""
 youtube: ""
 website: ""
-frozen: false
 ---

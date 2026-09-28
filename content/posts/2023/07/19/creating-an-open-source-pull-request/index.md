@@ -16,7 +16,6 @@ related_posts:
   - "eight-debugging-tips-for-intellijidea-users-you-never-knew-existed"
   - "analyzing-dependencies-in-intellij-idea"
   - "how-to-publish-a-java-maven-project-to-maven-central-using-jreleaser-and-github-actions-2025-guide"
-frozen: false
 ---
 
 **In this tutorial, we are going to take a look at contributing to Open Source Software, specifically how to do a pull request (PR).**

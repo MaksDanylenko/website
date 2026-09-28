@@ -15,7 +15,6 @@ related_posts:
   - "can-java-jakarta-ee-do-microservices"
   - "do-java-jakarta-ee-standards-matter"
   - "is-java-jakarta-ee-cloud-native"
-frozen: false
 ---
 
 In this second article of the "[Getting Started with Jakarta EE 9](https://foojay.io/today/getting-started-with-jakarta-ee-9-hello-world/)" series, we show you some basic scenarios using the REST specification. Although most people are using the term REST or RESTful API just to indicate they do data transfer over HTTP, and ignore the "Hypermedia as the engine of application State (HATEOS)" part of REST. The technology is used a lot lately to connect the front-end with the back-end.

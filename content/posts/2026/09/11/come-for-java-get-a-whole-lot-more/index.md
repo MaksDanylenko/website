@@ -15,7 +15,6 @@ related_posts:
   - "foojay-podcast-48"
   - "foojay-podcast-53"
   - "foojay-podcast-75"
-frozen: false
 ---
 
 JCON USA returns inside IBM TechXchange 2026 with two rooms of deep Java content, a dedicated community home, and direct access to one of the years biggest technical conferences.

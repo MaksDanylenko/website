@@ -2,7 +2,6 @@
 title: "The Heap, Stack, and Metaspace"
 description: "The JVM divides memory into several distinct regions, each serving a different purpose. The Heap is where object instances live. When you call new, the object is allocated on the heap. The heap is managed by the garbage collector, which ..."
 url: "/pedia/the-heap-stack-and-metaspace/"
-frozen: false
 ---
 
 The JVM divides memory into several distinct regions, each serving a different purpose.

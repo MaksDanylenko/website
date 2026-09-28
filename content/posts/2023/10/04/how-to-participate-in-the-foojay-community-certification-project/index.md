@@ -15,7 +15,6 @@ related_posts:
   - "42-practical-java-design-patterns-builder-and-more"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "offline-crypto-address-validation-in-java"
-frozen: false
 ---
 
 ### ***The recent announcement of Foojay's intention to create a community-driven certification exam for Java software development has spurred a lot of interest. This article explains how any member of the Java community can participate in the creation of tasks for the certification.***

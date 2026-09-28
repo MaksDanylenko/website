@@ -14,7 +14,6 @@ related_posts:
   - "couch-to-fully-observed-code-with-spring-boot-3-2-micrometer-tracing-and-digma"
   - "effective-coding-with-java-observability"
   - "not-a-lucid-web3-dream-anymore-x402-erc-8004-a2a-and-the-next-wave-of-ai-commerce"
-frozen: false
 ---
 
 **I continue to work on my [Opentelemetry demo](https://github.com/nfrankel/opentelemetry-tracing). Its main idea is to showcase *traces* across various technology stacks, including asynchronous communication via an MQTT queue. Recently, I added a couple of components and changed the architecture. Here are some noteworthy learnings; note that some of them might not be entirely connected to OpenTelemetry.**

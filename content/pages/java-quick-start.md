@@ -5,7 +5,6 @@ url: "/java-quick-start/"
 aliases:
   - "/java-learning-trail/"
   - "/getting-started-with-java/"
-frozen: false
 ---
 
 **Is Java your first programming language and do you want to get up and running fast? Or maybe you are already an experienced programmer in another language and want to give Java a try?**

@@ -14,7 +14,6 @@ related_posts:
   - "aggregation-optimization-in-mongodb-optimizing-many-to-many-relationships-part-3"
   - "building-ai-systems-with-mongodb-implementing-the-planning-pattern"
   - "whats-new-in-the-june-2026-azul-payara-release"
-frozen: false
 ---
 
 In [this tweet](https://twitter.com/helenjoscott/status/1372477062263496704?s=21), I was asked if I had a list of resources for developers who are new to Java. I didn't at the time, but I've spent some time researching and here is that list.

@@ -2,7 +2,6 @@
 title: "Text Blocks"
 description: "Text blocks, finalised in Java 15 (JEP 378), are a multi-line string literal that avoids the need for most escape sequences and manual concatenation when embedding formatted text — SQL, JSON, HTML, XML, code snippets — directly in Java source. ..."
 url: "/pedia/text-blocks/"
-frozen: false
 ---
 
 Text blocks, finalised in Java 15 (JEP 378), are a multi-line string literal that avoids the need for most escape sequences and manual concatenation when embedding formatted text — SQL, JSON, HTML, XML, code snippets — directly in Java source.

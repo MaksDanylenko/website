@@ -13,7 +13,6 @@ related_posts:
   - "microservices-design-principles-for-well-crafted-architecture"
   - "evolution-of-microservices-from-soa-to-modern-architecture"
   - "idempotent-spring-boot-starter"
-frozen: false
 ---
 
 Hey **AOP** fan, after explaining the basics of AOP in ***[Part 1](https://foojay.io/today/aspect-oriented-programming-aop/)***, we will dive deeper and demonstrate hands-on how to implement smart logging in Spring Boot using AOP.

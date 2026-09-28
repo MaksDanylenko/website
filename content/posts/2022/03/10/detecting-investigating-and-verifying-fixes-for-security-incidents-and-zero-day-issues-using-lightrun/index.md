@@ -14,7 +14,6 @@ related_posts:
   - "what-is-debugging-in-140-seconds"
   - "the-debugger-checklist-part-ii"
   - "psa-the-risks-of-remote-jdwp-debugging"
-frozen: false
 ---
 
 **Important:** You can use [Lightrun for free](https://lightrun.com/free) on your servers.

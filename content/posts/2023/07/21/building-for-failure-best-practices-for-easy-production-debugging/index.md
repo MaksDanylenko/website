@@ -15,7 +15,6 @@ related_posts:
   - "understanding-security-vulnerabilities-a-first-step-in-preventing-attacks"
   - "manifold-vs-lombok-enhancing-java-with-property-support"
   - "operator-overloading-in-java"
-frozen: false
 ---
 
 **Before going into the content of this post, check out** [**my new book**](https://www.amazon.com/Java-21-Explore-cutting-edge-features-ebook/dp/B0C9WW8PFL/) **which launched last week!**

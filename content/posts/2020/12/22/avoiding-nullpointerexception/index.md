@@ -13,7 +13,6 @@ related_posts:
   - "much-ado-about-nothing-in-java"
   - "null-safety-kotlin-vs-java"
   - "avoiding-nullpointerexception"
-frozen: false
 ---
 
 The terrible `NullPointerException` (NPE for short) is the most frequent Java exception occurring in production, according to [a 2016 study](https://www.overops.com/blog/the-top-10-exceptions-types-in-production-java-applications-based-on-1b-events/). In this article we'll explore the main techniques to fight it: the self-validating model and the `Optional` wrapper.

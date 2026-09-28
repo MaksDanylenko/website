@@ -10,7 +10,6 @@ categories:
   - "Azure"
 related_posts:
   - "java-on-azure-tooling-update-july-2022"
-frozen: false
 ---
 
 Long gone are the days when you had to create your own user account management, authentication, and authorization for your web delivered software. Instead, contemporary applications leverage these functions (Identity and Access Management, IAM for short) from an external provider. As a full featured Java application runtime, Open Liberty has great options for externally provided IAM. Open Liberty supports IAM mainstays such as social media login, SAML and OpenID Connect. In Bruce Tiffany's blog post [Securing Open Liberty apps and micro-services with MicroProfile JWT and Social Media login](https://openliberty.io/blog/2019/08/29/securing-microservices-social-login-jwt.html), you have a solid example on how to use the Open Liberty social media login feature to authenticate users using their existing social media credentials. In this blog post, let's take a look at another example on how to configure the Liberty social login feature as an OpenID Connect client to secure Java applications with Azure Active Directory.

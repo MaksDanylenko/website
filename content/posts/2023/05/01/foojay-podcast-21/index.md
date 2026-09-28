@@ -13,7 +13,6 @@ related_posts:
   - "foojay-podcast-18"
   - "foojay-podcast-15"
   - "foojay-podcast-13"
-frozen: false
 ---
 
 Once a month, the Foojay Podcast virtually visits a JUG to talk with the people behind it.

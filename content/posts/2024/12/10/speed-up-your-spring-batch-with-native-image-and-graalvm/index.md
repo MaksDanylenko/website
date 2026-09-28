@@ -18,7 +18,6 @@ related_posts:
   - "springboot-3-2-crac"
   - "openrewrite-migrate-to-spring-boot-3-2"
   - "a-guide-to-creating-javafx-native-images"
-frozen: false
 ---
 
 **Spring Batch is often used for** data processing **jobs that don't run continuously.** Instead, they start, process, and stop,**which makes them a perfect candidate for GraalVM Native Image.** Unlike traditional Java applications that require a long JVM startup time, Native Images execute almost instantly, giving a significant performance boost.

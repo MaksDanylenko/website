@@ -25,7 +25,6 @@ related_posts:
 # it makes the point of the block -- url(https://...) in the previous listing
 # versus url(data:...base64,...) here -- easier to see, not harder. The full
 # payload is in the dump and in the canonical original linked above.
-frozen: true
 ---
 
 Last year, I started to use [Excalidraw](https://excalidraw.com/) as a diagram tool. However, the SVG images didn't display the font correctly. In this post, I'd like to explain the problem and offer a solution.

@@ -14,7 +14,6 @@ related_posts:
   - "debugging-tutorial-java-return-value-intellij-jump-to-line-and-more"
   - "what-is-debugging-in-140-seconds"
   - "the-basics-of-breakpoints-you-might-not-know"
-frozen: false
 ---
 
 I don't care about religious wars over "which logger is the best". They all have their issues. Having said that, the worst logger is probably the one built "in-house". So yes, they suck, but re-inventing the wheel is probably far worse.

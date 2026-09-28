@@ -15,7 +15,6 @@ related_posts:
   - "container-awareness-for-java"
   - "creating-cloud-native-java-applications-with-the-12-factor-app-methodology"
   - "get-recognized-for-your-cloud-native-java-development-skills-with-this-new-badge"
-frozen: false
 ---
 
 **The concept of containers has helped to bring Java developers closer than ever to the cloud-native idiom of 'write once, run anywhere.'**

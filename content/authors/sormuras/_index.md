@@ -9,5 +9,4 @@ linkedin: ""
 github: ""
 youtube: ""
 website: "https://x.com/sormuras"
-frozen: false
 ---

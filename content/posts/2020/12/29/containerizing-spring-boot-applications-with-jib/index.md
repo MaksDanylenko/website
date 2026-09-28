@@ -10,7 +10,6 @@ image: "Screenshot-2020-12-29-at-12.10.08-AM.png"
 categories:
   - "Spring"
 related_posts:
-frozen: false
 ---
 
 In this post, we will learn about how to create docker or [OCI](https://opencontainers.org/ "OCI") compliant images, without installing any docker client and without using a Dockerfile, for a Spring Boot application.

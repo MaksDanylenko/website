@@ -19,7 +19,6 @@ related_posts:
   - "scalable-enterprise-java-for-the-cloud"
   - "minimize-costs-by-utilizing-cloud-storage-with-spring-data-eclipse-store"
   - "reclaiming-persistent-volumes-in-kubernetes"
-frozen: false
 ---
 
 ![](1_qz4yqblkLUoJDL3t8xrsSg-1024x478.jpeg)

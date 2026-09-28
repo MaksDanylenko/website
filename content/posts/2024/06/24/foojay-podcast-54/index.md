@@ -16,7 +16,6 @@ related_posts:
   - "foojay-podcast-53"
   - "foojay-podcast-52"
   - "foojay-podcast-51"
-frozen: false
 ---
 
 MIDI is a universal standard for communicating between musical instruments and computers.

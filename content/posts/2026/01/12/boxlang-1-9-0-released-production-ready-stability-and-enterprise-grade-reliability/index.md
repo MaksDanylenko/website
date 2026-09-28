@@ -16,7 +16,6 @@ related_posts:
   - "boxlang-couchbase-module-enterprise-caching-distributed-locking-and-ai-vector-memory"
   - "boxlang-redis-has-landed-enterprise-grade-caching-pub-sub-and-distributed-locking"
   - "boxlang-rss-full-featured-rss-atom-feed-module-for-boxlang"
-frozen: false
 ---
 
 **Houston, Texas – January 2025** – Ortus Solutions, a leading innovator in professional open-source development, today announced the release of BoxLang 1.9.0, a major stability and compatibility release focused on production-readiness. This release resolves over 50 critical bugs and introduces significant enhancements to datasource management, context lifecycle handling, and web form processing for mission-critical enterprise applications.

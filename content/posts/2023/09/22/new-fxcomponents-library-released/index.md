@@ -15,7 +15,6 @@ related_posts:
   - "new-java-javafx-library-fxskins-released"
   - "starting-a-javafx-project-with-gluon-tools"
   - "sheetmusic4j-0-0-3-abc-notation-guitar-pro-engraving-improvements"
-frozen: false
 ---
 
 **A new library for Java / JavaFX has just been released. The library's name is FXComponents and it is a Java library that contains a collection of new controls to be used in JavaFX applications.**

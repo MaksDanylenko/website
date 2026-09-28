@@ -18,7 +18,6 @@ categories:
   - "LLM"
   - "Machine Learning"
 related_posts:
-frozen: false
 aliases:
   - "/today/commit-created-no-no-no-what-the-the-agents-word-needs-external-verification-и-what-the-mistake-costs/"
   - "/today/commit-created-but-it-isnt-why-the-agents-word-needs-external-verification-and-what-the-mistake-costs/"

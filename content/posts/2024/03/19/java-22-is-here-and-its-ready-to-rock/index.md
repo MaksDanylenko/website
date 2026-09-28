@@ -16,7 +16,6 @@ related_posts:
   - "java-22-whats-new"
   - "java-21-is-available-today-and-its-quite-the-update"
   - "offline-crypto-address-validation-in-java"
-frozen: false
 ---
 
 Java 22 is here!

@@ -14,7 +14,6 @@ related_posts:
   - "chopping-monolith"
   - "competing-for-the-crown-a-friendly-debate-on-the-future-of-java-and-kotlin-on-foojay-io-today"
   - "cracking-code-and-conventions-an-exclusive-interview-with-nicolas-frankel"
-frozen: false
 ---
 
 I'm continuing my series on running the test suite for each Pull Request on Kubernetes. In the [previous post](https://blog.frankel.ch/pr-testing-kubernetes/1/), I laid the groundwork for our learning journey: I developed a basic JVM-based CRUD app, tested it locally using Testcontainers, and tested it in a GitHub workflow with a GitHub service container.

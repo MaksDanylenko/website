@@ -14,7 +14,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "a-minor-but-useful-refactoring-technique-that-would-reduce-your-code-footprint-part-1"
   - "virtual-thread-pinning-field-guide"
-frozen: false
 ---
 
 **As we inch closer to the release of JDK 21 in September (next month!), it's crucial to familiarize ourselves with the transformative features and improvements this version is poised to bring to the Java ecosystem.**

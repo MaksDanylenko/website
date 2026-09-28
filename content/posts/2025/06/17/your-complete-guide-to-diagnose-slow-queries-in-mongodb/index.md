@@ -16,7 +16,6 @@ related_posts:
   - "understanding-bson-a-beginners-guide-to-mongodbs-data-format"
   - "mongodb-aggregation-framework-a-beginners-guide"
   - "true-to-production-testing-java-apps"
-frozen: false
 ---
 
 MongoDB is built to be fast. The real win comes from knowing how to keep it that way, even as your app grows and your data gets more complex.

@@ -13,7 +13,6 @@ related_posts:
   - "devops-for-developers-introduction-version-control"
   - "devops-for-developers-continuous-integration-github-actions-and-sonar-cloud"
   - "effectively-bridging-the-devops-rd-gap-without-sacrificing-reliability"
-frozen: false
 ---
 
 **[JCON Europe](https://2024.europe.jcon.one/) in Cologne is around the corner ([and here are your free Foojay JCON tickets](https://bit.ly/3xv9yfT)), May 13 to 16. Why should you go? Well, one reason is that the talks will be awesome. Here's the start of a series of reasons why some of them are absolutely unmissable!**

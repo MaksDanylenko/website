@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/antonioperrone/"
 github: ""
 youtube: ""
 website: "https://x.com/anto_perrone"
-frozen: false
 ---

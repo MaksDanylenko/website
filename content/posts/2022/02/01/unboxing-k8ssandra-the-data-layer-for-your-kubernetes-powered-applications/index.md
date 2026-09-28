@@ -15,7 +15,6 @@ categories:
   - "Kubernetes"
   - "Microservices"
 related_posts:
-frozen: false
 ---
 
 #### A Complimentary Live Webinar, Sponsored by DataStax

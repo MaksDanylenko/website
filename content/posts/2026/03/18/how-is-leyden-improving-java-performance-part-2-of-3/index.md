@@ -14,7 +14,6 @@ related_posts:
   - "how-is-leyden-improving-java-performance-part-1-of-3"
   - "foojay-podcast-92"
   - "devbcn-2026"
-frozen: true
 ---
 
 In part 1 of this series of 3 blog posts we introduced the specific performance challenges OpenJDK faces lowering application 'startup', 'warmup' and 'initial footprint' costs and provided an overview of what Leyden is doing to address those challenges.

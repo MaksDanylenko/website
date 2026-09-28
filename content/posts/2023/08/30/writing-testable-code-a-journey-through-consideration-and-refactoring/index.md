@@ -12,7 +12,6 @@ related_posts:
   - "5-things-you-probably-didnt-know-about-java-concurrency"
   - "5-more-reasons-to-choose-apache-pulsar-over-apache-kafka"
   - "5-great-reasons-to-use-jooq"
-frozen: false
 ---
 
 **In an ideal world, every piece of code we write would be easily testable, clearly understood, and perfectly maintainable. However, reality often presents us with complex problems and solutions that aren't always straightforward. Writing testable code sometimes requires a thoughtful approach, deep consideration of the use cases, and even refactoring to ensure that the code is robust and fully tested.**

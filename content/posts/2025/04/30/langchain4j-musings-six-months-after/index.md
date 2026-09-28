@@ -14,7 +14,6 @@ related_posts:
   - "tiberius-a-security-testing-framework-for-llm-applications-in-java"
   - "jc-ai-newsletter-15"
   - "bring-ai-into-your-jakarta-ee-apps-with-langchain4j-cdi"
-frozen: false
 ---
 
 Last year, [I started to dig a bit](https://blog.frankel.ch/langchain4j-musings/) around [LangChain4J](https://docs.langchain4j.dev/). It's a fast-growing project, and I wanted to get familiar with the updates. I also wanted to check how to integrate a Model Context Protocol server in LangChain4J.

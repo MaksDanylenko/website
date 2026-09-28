@@ -13,7 +13,6 @@ related_posts:
   - "5-tips-to-create-secure-docker-images-for-java-applications"
   - "are-java-security-updates-important"
   - "avoid-java-serialization"
-frozen: false
 ---
 
 Security is the poster child of a Non-Functional Requirement: most people don't care until the proverbial matter hits the rotary propeller.

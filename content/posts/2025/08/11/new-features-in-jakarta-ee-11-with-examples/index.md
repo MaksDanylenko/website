@@ -16,7 +16,6 @@ related_posts:
   - "are-java-jakarta-ee-application-servers-heavy"
   - "a-simple-service-with-spring-boot"
   - "book-review-persistence-best-practices-for-java-applications"
-frozen: false
 ---
 
 ## Jakarta EE 11 is a major update in the enterprise Java world. It offers key changes that enhance developer productivity and modernize the platform.

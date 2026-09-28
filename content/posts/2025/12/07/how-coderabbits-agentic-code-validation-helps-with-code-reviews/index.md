@@ -16,7 +16,6 @@ related_posts:
   - "5-tips-to-create-secure-docker-images-for-java-applications"
   - "7-habits-of-highly-effective-java-coding"
   - "5-things-you-probably-didnt-know-about-java-concurrency"
-frozen: false
 ---
 
 The [2025 Stack Overflow survey](https://survey.stackoverflow.co/2025/) reveals a paradox: while 84% of developers express confidence in adopting AI tools, nearly half (48%) still distrust the accuracy of their outputs. This tension between optimism and skepticism has reshaped how teams think about quality assurance.

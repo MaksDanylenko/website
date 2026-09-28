@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/dutheilbrice/"
 github: ""
 youtube: ""
 website: "https://x.com/BriceDutheil"
-frozen: false
 ---

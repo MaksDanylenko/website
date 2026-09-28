@@ -13,7 +13,6 @@ related_posts:
   - "i-got-java-25-running-on-the-risc-v-beagleboard-beaglev-fire"
   - "first-test-of-java-on-the-visionfive-2-lite-risc-v"
   - "java-on-single-board-computers-x86-vs-arm-vs-risc-v"
-frozen: false
 ---
 
 As part of my 2026 learning goals around Java on RISC-V (see [this post about x86 versus ARM versus RISC-V](https://webtechie.be/post/2026-01-07-x86-arm-riscv/)), I've asked various suppliers to send me evaluation boards. I already published these:

@@ -16,7 +16,6 @@ related_posts:
   - "what-should-i-know-about-garbage-collection-as-a-java-developer"
   - "foojay-podcast-28"
   - "foojay-podcast-78"
-frozen: false
 aliases:
   - "/today/foojay-podcast-90-highlights-of-the-java-features-between-lts-21-and-25/"
 ---

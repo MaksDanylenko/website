@@ -13,7 +13,6 @@ related_posts:
   - "book-review-seriously-good-software"
   - "java-testing-with-vs-code"
   - "generating-code-with-intellij-idea"
-frozen: false
 ---
 
 Code Katas are a great way of teaching programming practices. The effectiveness of a code kata is to "solve" something repeatedly in order to gain a "muscle memory" of sorts on the subject matter.

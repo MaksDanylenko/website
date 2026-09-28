@@ -14,7 +14,6 @@ related_posts:
   - "welcome-to-vs-code-for-java"
   - "controlling-electronics-with-jbang-on-the-raspberry-pi"
   - "java-in-education-combining-java-with-raspberry-pi-and-the-pi4j-library"
-frozen: false
 ---
 
 Foojay.io aims to be the starting point for "all-things OpenJDK," but during one of my morning walks the idea struck me that this site really needs complete beginner materials, too.

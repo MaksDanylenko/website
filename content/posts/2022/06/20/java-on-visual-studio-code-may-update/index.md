@@ -13,7 +13,6 @@ related_posts:
   - "java-on-visual-studio-code-update-april-2022"
   - "java-on-visual-studio-code-update-february-2022"
   - "java-on-visual-studio-code-update-january-2022"
-frozen: false
 ---
 
 Hi everyone, welcome to the May update of Visual Studio Code Java.

@@ -13,7 +13,6 @@ related_posts:
   - "github-agentic-workflows-and-renovate"
   - "context-is-a-budget-eight-levers-and-three-workflow-patterns"
   - "introducing-skills-boxlang-io-the-open-agent-skills-ecosystem-for-boxlang-the-ortus-world"
-frozen: false
 ---
 
 Last month, I became aware of [GitHub agentic workflows](https://github.github.com/gh-aw/). I read the site carefully, but the use cases weren't very exciting to me. I tried the [continuous documentation](https://github.github.com/gh-aw/blog/2026-01-13-meet-the-workflows-documentation/) It didn't work out initially, and because of my lack of involvement, I left it as it was. However, I succeeded in another one that I want to describe in this post.

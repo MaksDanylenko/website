@@ -10,7 +10,6 @@ categories:
   - "Jakarta EE"
   - "Microservices"
 related_posts:
-frozen: false
 ---
 
 **To celebrate the world of Java and predict our highlights for 2021, several key Foojay participants will share their thoughts and hopes during the coming days on Foojay, [starting with Frank Delporte, Foojay Community Manager for the Raspberry Pi](https://foojay.io/today/java-predictions-for-2021-raspberry-pi/), and now continuing with Jadon Ortlepp, Foojay Community Manager for Microservices, who here provides the predictions of his Payara colleagues on Jakarta EE in 2021**.

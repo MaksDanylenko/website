@@ -15,7 +15,6 @@ related_posts:
   - "apisix-api-gateway"
   - "back-to-basics-accessing-kubernetes-pods"
   - "dry-your-apache-apisix-config"
-frozen: false
 ---
 
 In [one of my recent blog posts](https://blog.frankel.ch/basics-access-kubernetes-pods/), I described several ways to access Kubernetes pods. One can access a pod through its IP, but pods are naturally transient. The nominal way is to configure a `Service`: its IP is stable, and Kubernetes' job is to keep the mapping between a `Service` and its underlying pods up-to-date.

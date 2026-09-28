@@ -2,7 +2,6 @@
 title: "Disco API"
 description: "The Disco API (short for Universal OpenJDK Discovery API) is a database and REST API that catalogues every available OpenJDK package from every major distributor — Temurin, Zulu, Corretto, Liberica, Oracle, and many others — in one place. It covers ..."
 url: "/pedia/disco-api/"
-frozen: false
 ---
 
 The Disco API (short for Universal OpenJDK Discovery API) is a database and REST API that catalogues every available OpenJDK package from every major distributor — Temurin, Zulu, Corretto, Liberica, Oracle, and many others — in one place. It covers every combination of Java version, operating system, CPU architecture, package type (JDK or JRE), and archive format, with tens of thousands of packages indexed.

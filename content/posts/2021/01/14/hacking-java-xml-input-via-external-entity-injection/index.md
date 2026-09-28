@@ -10,7 +10,6 @@ categories:
   - "Security"
   - "Videos"
 related_posts:
-frozen: false
 ---
 
 Java natively supplies many different options to parse XML. However, all available parsers in Java have XML eXternal Entity (XXE) enabled by default. This makes Java XML libraries particularly vulnerable to XXE injection.

@@ -13,7 +13,6 @@ related_posts:
   - "hello-ebpf-recording-data-in-basic-ebpf-maps-2"
   - "hello-ebpf-recording-data-in-event-buffers-3"
   - "hello-ebpf-xdp-based-packet-filter-9"
-frozen: false
 ---
 
 **Welcome back to my [series on ebpf](https://mostlynerdless.de/blog/tag/hello-ebpf/). In the last article, we learned how to[auto-layout struct members and auto-generate BPFStructTypes for annotated Java records](https://mostlynerdless.de/blog/2024/03/25/hello-ebpf-auto-layouting-structs-7/). We're going to extend this work today.**

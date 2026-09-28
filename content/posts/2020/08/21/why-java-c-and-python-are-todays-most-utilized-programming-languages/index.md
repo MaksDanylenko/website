@@ -13,7 +13,6 @@ related_posts:
   - "building-ai-systems-with-mongodb-implementing-the-planning-pattern"
   - "whats-new-in-the-june-2026-azul-payara-release"
   - "introduction-to-cqrs-using-mongodb"
-frozen: false
 ---
 
 Looking at the latest [TIOBE Programming Community Index](https://www.tiobe.com/tiobe-index/), we see that Java has recently surpassed C in the TIOBE ratings index, while Python is holding steady in the third position:

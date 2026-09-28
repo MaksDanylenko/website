@@ -18,7 +18,6 @@ related_posts:
   - "foojay-podcast-81"
   - "foojay-podcast-80"
   - "foojay-podcast-79"
-frozen: false
 ---
 
 Welcome to another episode of the Foojay Podcast! Just like in the previous episode, I bring you conversations from two of Europe's premier Java conferences - Devoxx in Belgium and JFall in the Netherlands.

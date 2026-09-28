@@ -2,7 +2,6 @@
 title: "Sealed Classes"
 description: "Sealed classes, introduced as a preview in Java 15 and finalised in Java 17, let you explicitly control which classes or interfaces are permitted to extend or implement a given type. The sealed modifier on a class is paired with ..."
 url: "/pedia/sealed-classes/"
-frozen: false
 ---
 
 Sealed classes, introduced as a preview in Java 15 and finalised in Java 17, let you explicitly control which classes or interfaces are permitted to extend or implement a given type. The `sealed` modifier on a class is paired with a `permits` clause listing the allowed subtypes.  

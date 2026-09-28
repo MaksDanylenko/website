@@ -9,7 +9,6 @@ image: "2020-06-01-light-streaming-latency-700x415.png"
 categories:
   - "Performance"
 related_posts:
-frozen: false
 ---
 
 This post is a part of a series:

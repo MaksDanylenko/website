@@ -17,7 +17,6 @@ related_posts:
   - "renovate-alternative-dependabot"
   - "fixing-vulnerabilities-in-maven-projects"
   - "fix-java-security-issues-while-coding-in-intellij-idea"
-frozen: false
 ---
 
 Any real world Java project will likely use external dependencies.

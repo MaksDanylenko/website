@@ -19,7 +19,6 @@ related_posts:
   - "foojay-podcast-64"
   - "foojay-podcast-63"
   - "foojay-podcast-41"
-frozen: false
 ---
 
 In this Foojay podcast, we dive into a few articles that were published recently and focus on code.

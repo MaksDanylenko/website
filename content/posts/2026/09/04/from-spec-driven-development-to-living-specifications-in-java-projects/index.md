@@ -13,7 +13,6 @@ categories:
 related_posts:
   - "foojay-podcast-66"
   - "foojay-podcast-21"
-frozen: false
 ---
 
 ## From Spec-Driven Development to Living Specifications in Java Projects

@@ -14,7 +14,6 @@ related_posts:
   - "book-review-designing-apis-with-swagger-and-openapi"
   - "book-review-effortless-cloud-native-app-development-using-skaffold"
   - "book-review-tidy-first"
-frozen: false
 ---
 
 **Clean Architecture helps us ensure a solid foundation for our applications** ,**and helps keep our code organized and maintainable. Furthermore when properly applied it helps keep ones team on the same page and ensures our applications stay robust and flexible over time. Of course there are a lot of pitfalls to take into account, and a lot of pros/cons to each approach. There certainly is no one size fits all approach. But luckily this book by [Tom Hombergs](https://www.linkedin.com/in/thombergs/) provides a lot of valuable practical insights.**

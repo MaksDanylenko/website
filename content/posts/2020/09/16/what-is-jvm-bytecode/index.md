@@ -13,7 +13,6 @@ related_posts:
   - "boxlang-v1-13-0-compatibility-concurrency-and-formatter-maturity"
   - "runtime-code-analysis-in-the-age-of-vibe-coding"
   - "the-curious-case-of-different-runtimes-with-different-training-data-jit"
-frozen: false
 ---
 
 Everyone who programs in Java, or any of the other languages built on top of the Java Virtual Machine (Scala, Closure, Kotlin, Groovy, Nashorn, Jython, JRuby, et al.) is familiar with the term "bytecode." But how many of us understand what JDK bytecode actually is?

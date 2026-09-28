@@ -17,7 +17,6 @@ related_posts:
   - "how-is-leyden-improving-java-performance-part-2-of-3"
   - "foojay-podcast-92"
   - "devbcn-2026"
-frozen: false
 ---
 
 Azul Zing Builds of OpenJDK, the optimized Java runtime within [Azul Platform Prime](https://www.azul.com/products/prime), has reached the release of the 24.08 Stable Release line. Zing builds are available in two versions:

@@ -15,7 +15,6 @@ related_posts:
   - "kotlin-faas-impossible-union"
   - "idempotent-spring-boot-starter"
   - "five-java-developer-must-haves"
-frozen: false
 ---
 
 I've been playing with GraalVM Ahead-Of-Time compilation capability since I became aware of it. As a long-time Spring *aficionado* , I carefully monitored the efforts that the engineers at Tanzu have put into making Spring AOT-compatible. Recently, they announced [the beta version](https://spring.io/blog/2021/03/11/announcing-spring-native-beta) of the integration.

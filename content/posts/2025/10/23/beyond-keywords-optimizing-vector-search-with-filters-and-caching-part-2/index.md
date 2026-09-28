@@ -16,7 +16,6 @@ related_posts:
   - "building-a-spring-boot-crud-application-using-mongodbs-relational-migrator"
   - "building-an-ai-semantic-movie-recommender-with-vector-search"
   - "building-rest-apis-in-java-with-spring-boot"
-frozen: false
 ---
 
 Enhancing precision with pre-filters and reducing costs with embedding caching

@@ -13,7 +13,6 @@ related_posts:
   - "5-great-reasons-to-use-jooq"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "9-outdated-ideas-about-java"
-frozen: false
 ---
 
 This is a follow-on to the article [The Real Mechanics of Vulnerabilities in an Upstream/Downstream, Topsy-Turvy EOL World](https://foojay.io/today/the-real-mechanics-of-vulnerabilities-in-an-upstream-downstream-topsy-turvy-eol-world/).

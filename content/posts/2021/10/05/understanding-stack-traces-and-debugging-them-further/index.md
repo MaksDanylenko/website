@@ -12,7 +12,6 @@ related_posts:
   - "eight-debugging-tips-for-intellijidea-users-you-never-knew-existed"
   - "java-logging-what-to-log-what-not-to-log"
   - "embracing-jvm-unified-logging"
-frozen: true
 ---
 
 Recently a junior developer sent me an obfuscated stack trace and was pretty surprised when I instantly knew the problem and pointed him at the necessary change. To be fair, I had the advantage of being the person who put that bug there in the first place… But still the ability to glean information from a stack trace, even an obfuscated one, is a serious skill.

@@ -13,7 +13,6 @@ related_posts:
   - "building-javafx-with-gradle"
   - "getting-started-with-rife2-java-web-framework-v1-0-0"
   - "creating-executables-for-javafx-applications"
-frozen: false
 aliases:
   - "/today/beetroot-yet-another-web-dev-framework/"
 ---

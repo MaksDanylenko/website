@@ -16,7 +16,6 @@ related_posts:
   - "chopping-monolith"
   - "rust-jvm"
   - "jc-ai-newsletter-8"
-frozen: false
 ---
 
 Before moving to Developer Relations, I transitioned from Software Architect to Solution Architect long ago.

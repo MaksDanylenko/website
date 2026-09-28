@@ -10,7 +10,6 @@ categories:
   - "CRaC"
   - "Performance"
 related_posts:
-frozen: false
 ---
 
 It's now twenty-seven years since Java was first released, and it continues to be one of the most popular platforms for applications, especially on servers.

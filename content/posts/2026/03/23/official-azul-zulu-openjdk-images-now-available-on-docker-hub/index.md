@@ -15,7 +15,6 @@ related_posts:
   - "using-the-azul-zulu-docker-official-images-from-simple-pull-to-lean-container"
   - "the-road-to-docker-official-images-for-java-the-azul-zulu-story"
   - "azul-august-2026-release-javas-first-monthly-cspu"
-frozen: false
 ---
 
 [Azul recently announced that](https://www.azul.com/blog/trusted-java-containers-azul-zulu-openjdk-joins-dockers-official-images/ "Azul recently announced that") Azul Zulu Builds of OpenJDK are now available as Docker Official images on Docker Hub. That means you can pull TCK‑verified, fully compliant OpenJDK builds directly from the same Official Images library you already trust for your base OS and databases.

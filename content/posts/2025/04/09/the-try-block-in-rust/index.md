@@ -14,7 +14,6 @@ related_posts:
   - "a-javafx-app-on-zulufx-in-60-seconds"
   - "ai-powered-chat-application-using-ibm-watsonx-ai-and-spring-ai"
   - "apache-apisix-north-america-tour"
-frozen: false
 ---
 
 I wrote previously about [libs for error management in Rust](https://blog.frankel.ch/error-management-rust-libs/). This week, I want to write about the `try` block, an experimental feature.

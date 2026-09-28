@@ -14,7 +14,6 @@ related_posts:
   - "creating-cloud-native-java-applications-with-the-12-factor-app-methodology"
   - "run-ai-enabled-jakarta-ee-and-microprofile-applications-with-langchain4j-and-open-liberty"
   - "boxlang-ai-deep-dive-part-4-of-7-middleware-the-missing-layer-in-every-ai-framework"
-frozen: false
 ---
 
 **The 12 factor application methodology is being updated and we need your help with it! Be a part of this project helping to update and modernize the original methodology to enable it to be even more effective for modern cloud-native applications.**

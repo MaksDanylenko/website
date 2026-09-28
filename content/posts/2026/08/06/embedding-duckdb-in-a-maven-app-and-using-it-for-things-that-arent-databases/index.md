@@ -5,14 +5,13 @@ lastmod: "2026-08-31T06:27:35+00:00"
 description: "DuckDB is described as \"SQLite for analytics,\" which is true: it's an in-process database engine that runs inside your application, with no server to…"
 authors:
   - "geertjan-wielenga"
-image: "duckdb-square-icon.svg"
+image: "duckdb-square-icon.jpg"
 categories:
   - "Databases"
   - "DuckDB"
   - "Java"
   - "Performance"
 related_posts:
-frozen: false
 ---
 
 [DuckDB](https://duckdb.org/) is described as "SQLite for analytics," which is true: it's an in-process database engine that runs inside your application, with no server to install or manage. What's less obvious from that description is that **you can get value out of it without ever creating a database at all**. Because it can query CSV, JSON, and Parquet files directly — local or over HTTP — it works perfectly well as an embedded data-crunching library that happens to speak SQL.

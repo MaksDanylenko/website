@@ -13,7 +13,6 @@ related_posts:
   - "hello-ebpf-recording-data-in-basic-ebpf-maps-2"
   - "hello-ebpf-recording-data-in-event-buffers-3"
   - "hello-ebpf-generating-c-code-8"
-frozen: false
 ---
 
 **Welcome back to my [series on ebpf](https://mostlynerdless.de/blog/tag/hello-ebpf/). In the last blog post, we learned how [annotation processors can](https://mostlynerdless.de/blog/2024/04/09/hello-ebpf-generating-c-code-8/) generate C code, simplifying writing eBPF applications.**

@@ -16,7 +16,6 @@ related_posts:
   - "back-to-basics-accessing-kubernetes-pods"
   - "different-approaches-to-building-stateful-microservices-in-the-cloud-native-world"
   - "sliding-window-counter-rate-limiter-redis-java"
-frozen: false
 ---
 
 > [This article is also available on YouTube!](https://youtu.be/Ki3WKSNpdRU)

@@ -9,7 +9,6 @@ image: "type-hierarchy-poster.jpg"
 categories:
   - "VS Code"
 related_posts:
-frozen: false
 ---
 
 VS Code is getting better and better for Java. In the last two months, we have made progresses in all key areas including core language support, testing, debugging, refactoring and project management. Let's uncover the new hidden and less hidden gems!

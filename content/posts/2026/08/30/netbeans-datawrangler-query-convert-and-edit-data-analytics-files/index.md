@@ -5,7 +5,7 @@ lastmod: "2026-08-31T06:25:29+00:00"
 description: "Apache NetBeans DataWrangler brings the file formats of data analytics into Apache NetBeans 31: CSV, Apache Parquet, JSON and Excel, the formats exchanged…"
 authors:
   - "geertjan-wielenga"
-image: "duckdb-square-icon.svg"
+image: "duckdb-square-icon.jpg"
 categories:
   - "Data Engineering"
   - "Databases"
@@ -13,7 +13,6 @@ categories:
   - "DuckDB"
   - "NetBeans"
 related_posts:
-frozen: false
 ---
 
 [Apache NetBeans DataWrangler](https://github.com/geertjanw/Apache-NetBeans-Data-Wrangler) brings the file formats of data analytics into Apache NetBeans 31: CSV, [Apache Parquet](https://parquet.apache.org/), JSON and Excel, the formats exchanged with pandas, Spark, R, dbt, Power BI and Excel itself.

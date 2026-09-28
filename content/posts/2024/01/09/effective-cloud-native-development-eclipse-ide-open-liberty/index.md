@@ -16,7 +16,6 @@ related_posts:
   - "keeping-pace-with-java-using-eclipse-ide"
   - "new-to-java-some-resources"
   - "effective-cloud-native-java-app-development-with-open-liberty-in-intellij-idea"
-frozen: false
 ---
 
 **The Eclipse IDE has been a popular choice with developers for many years, placing 2nd in "most popular IDE of 2022" by [JRebel](http://https://www.jrebel.com/blog/best-java-ide "JRebel"). This mature and fully-featured [IDE](https://www.redhat.com/en/topics/middleware/what-is-ide), with an extensive plugin repository, can help to significantly improve the development experience. However, ensuring that developers have the most appropriate and helpful plugins can be the key to unlocking this improved development experience and enhanced productivity.**

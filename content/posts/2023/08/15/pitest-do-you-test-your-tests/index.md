@@ -14,7 +14,6 @@ related_posts:
   - "exhaustive-junit5-testing-with-combinations-permutations-and-products"
   - "jtest-roll-your-own-junit-like-testing-framework"
   - "foojay-podcast-99"
-frozen: false
 ---
 
 ## What is Pitest?

@@ -14,7 +14,6 @@ related_posts:
   - "annotation-free-spring"
   - "better-error-handling-for-your-spring-boot-rest-apis"
   - "minimize-costs-by-utilizing-cloud-storage-with-spring-data-eclipse-store"
-frozen: false
 ---
 
 **When building a web application, managing file uploads properly is a common requirement. After receiving, files can be stored in several places: in a file system, in a database or, more commonly, in a cloud storage service.**

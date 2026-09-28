@@ -15,7 +15,6 @@ related_posts:
   - "foojay-podcast-8"
   - "foojay-podcast-7"
   - "ask-a-lille-dev-what-java-developers-really-think-about-quality-frameworks-communities-and-careers"
-frozen: false
 ---
 
 Last month we introduced a new topic in this podcast when we [visited the Manchester Java User group](https://foojay.io/today/foojay-podcast-8/).

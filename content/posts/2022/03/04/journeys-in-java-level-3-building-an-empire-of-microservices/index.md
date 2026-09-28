@@ -15,7 +15,6 @@ related_posts:
   - "book-review-effortless-cloud-native-app-development-using-skaffold-2"
   - "building-reactive-java-applications-with-spring-framework"
   - "journeys-in-java-level-6-build-a-neo4j-microservice"
-frozen: false
 ---
 
 We are still in the beginning stages of building microservices with Java, but we have already seen how to send and receive communications between two Spring Boot applications. In the [first blog post](https://jmhreif.com/blog/microservices-level1/) of this series, our two applications transmitted a message string of `"Hello, World!"`. In the [second blog post](https://jmhreif.com/blog/microservices-level2/), we took it one step further by embedding a MongoDB database into our `service1`, added a data domain (books) with four pre-populated entries, and transmitted the `Book` information between the two applications.

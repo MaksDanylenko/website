@@ -15,7 +15,6 @@ related_posts:
   - "can-java-jakarta-ee-do-microservices"
   - "do-java-jakarta-ee-standards-matter"
   - "easy-jakarta-ee-integration-testing"
-frozen: false
 ---
 
 **We're excited to announce that Payara Platform Community 7 Beta application server is now fully certified as Jakarta EE 11 compatible for the Web, Platform and Core Profiles.**

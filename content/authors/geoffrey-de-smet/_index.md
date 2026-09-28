@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/ge0ffrey/"
 github: ""
 youtube: ""
 website: "https://x.com/GeoffreyDeSmet"
-frozen: false
 ---

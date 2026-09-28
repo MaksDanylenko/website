@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/azakharenko/"
 github: ""
 youtube: ""
 website: "https://x.com/AZakharenko"
-frozen: false
 ---

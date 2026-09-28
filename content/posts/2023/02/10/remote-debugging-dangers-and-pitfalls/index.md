@@ -14,7 +14,6 @@ related_posts:
   - "debugging-streams-and-collections"
   - "the-massive-hidden-power-of-breakpoints"
   - "debug-like-a-senior-developer"
-frozen: false
 ---
 
 This is the last part of the debugging series, to learn the rest you'll need to get [the book](https://www.amazon.com/dp/1484290410/) or [the course](https://course.debugagent.com/).  

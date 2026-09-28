@@ -16,7 +16,6 @@ related_posts:
   - "boldness-in-refactoring"
   - "devops-for-developers-continuous-integration-github-actions-and-sonar-cloud"
   - "spring-transaction-debugging-in-production-with-lightrun"
-frozen: false
 ---
 
 Aspect-Oriented Programming (AOP) is a programming paradigm that aims to increase modularity by allowing the separation of cross-cutting concerns.

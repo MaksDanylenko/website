@@ -14,7 +14,6 @@ related_posts:
   - "vs-code-getting-better-and-better-for-java"
   - "five-ways-to-use-gradle-enterprise-to-identify-and-manage-flaky-tests"
   - "how-to-create-sboms-in-java-with-maven-and-gradle"
-frozen: false
 ---
 
 ### Introducing Build Server for Gradle

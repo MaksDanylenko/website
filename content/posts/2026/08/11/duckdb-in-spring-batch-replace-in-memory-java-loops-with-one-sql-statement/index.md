@@ -5,14 +5,13 @@ lastmod: "2026-08-31T06:27:03+00:00"
 description: "Spring Batch jobs usually follow the same pattern: an ItemReader streams rows, an ItemProcessor transforms each one, and an ItemWriter writes them out,…"
 authors:
   - "geertjan-wielenga"
-image: "duckdb-square-icon.svg"
+image: "duckdb-square-icon.jpg"
 categories:
   - "Databases"
   - "DuckDB"
   - "Performance"
   - "Spring"
 related_posts:
-frozen: false
 ---
 
 Spring Batch jobs usually follow the same pattern: an `ItemReader` streams rows, an `ItemProcessor` transforms each one, and an `ItemWriter` writes them out, chunk by chunk. A chunk-oriented step wires those three pieces together:

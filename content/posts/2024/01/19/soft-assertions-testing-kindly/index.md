@@ -14,7 +14,6 @@ related_posts:
   - "load-testing-shoot-your-application-with-gatling"
   - "pitest-do-you-test-your-tests"
   - "am-i-testing-the-right-way"
-frozen: false
 ---
 
 Given it's the advent of a new year, I thought let's start with something nice and fun that can make live more enjoyable for everyone.

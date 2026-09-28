@@ -14,7 +14,6 @@ related_posts:
   - "playing-with-wasm-on-docker"
   - "apache-apisix-plugin-priority-a-leaky-abstraction"
   - "not-a-lucid-web3-dream-anymore-x402-erc-8004-a2a-and-the-next-wave-of-ai-commerce"
-frozen: false
 ---
 
 Last week, I described the basics on [how to develop and deploy a Rust plugin for Apache APISIX](https://blog.frankel.ch/rust-apisix/1/). The plugin just logged a message when it received the request. Today, I want to leverage what we learned to create something more valuable: write part of the [response-rewrite](https://apisix.apache.org/docs/apisix/plugins/response-rewrite/) plugin with Rust.

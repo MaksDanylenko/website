@@ -15,7 +15,6 @@ related_posts:
   - "microstream-part-2-configure-the-storage-manager"
   - "5-tips-to-create-secure-docker-images-for-java-applications"
   - "microstream-part-5-caching-integrations-and-clustering"
-frozen: false
 ---
 
 **In the third article of the MicroStream series, we go into the details what you need to do so that data is stored externally to survive the process restart.**

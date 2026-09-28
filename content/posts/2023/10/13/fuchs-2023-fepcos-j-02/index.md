@@ -15,7 +15,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "7-functional-programming-techniques-in-java-a-primer"
   - "building-robust-ai-applications-with-langchain4j-guardrails-and-spring-boot"
-frozen: true
 ---
 
 **FEPCOS-J implements a model-based Java language extension that provides the annotation *@Part*, which enables a developer to declaratively compose networked systems. This post introduces the concept and gives you an example of how to use it.**

@@ -13,7 +13,6 @@ related_posts:
   - "effectively-bridging-the-devops-rd-gap-without-sacrificing-reliability"
   - "fail-fast-best-strategy-for-reliable-software"
   - "debugging-gson-moshi-and-jackson-json-frameworks-in-production"
-frozen: false
 ---
 
 I was reading [this article](https://betterprogramming.pub/why-open-source-software-is-better-for-the-world-af1cf9045236) and wanted to post a comment but I felt this warrants a response article.

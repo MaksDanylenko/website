@@ -16,7 +16,6 @@ related_posts:
   - "creating-cloud-native-java-applications-with-the-12-factor-app-methodology"
   - "getting-started-with-apache-camel-on-jakarta-ee-10"
   - "exploring-java-records-in-a-jakarta-ee-context"
-frozen: false
 ---
 
 In the next part of the "[Getting Started with Jakarta EE](https://foojay.io/today/getting-started-with-jakarta-ee-9-how-to-create-a-rest-api-with-jakarta-ee-9/)" series, we discuss Context and Dependency Injection (CDI) and the CDI specification.

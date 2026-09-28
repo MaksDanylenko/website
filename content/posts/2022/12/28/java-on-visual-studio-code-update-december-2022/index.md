@@ -13,7 +13,6 @@ related_posts:
   - "two-million-java-developers-on-visual-studio-code-november-2022-update"
   - "java-on-azure-tooling-update-october-2022"
   - "java-on-azure-tooling-update-august-2022"
-frozen: false
 ---
 
 Hi everyone, we are near the end of year. Looking back on 2022, there are a few highlights that we wanted to share with you all!

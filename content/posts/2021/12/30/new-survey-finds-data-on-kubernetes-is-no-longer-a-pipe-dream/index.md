@@ -15,7 +15,6 @@ categories:
   - "Kubernetes"
   - "Microservices"
 related_posts:
-frozen: false
 ---
 
 For people that work in infrastructure and application development, the pace of change is quick. Finish one project and it's on to the next. Each iteration requires an evaluation asking if the right technology is being used and if it provides a new advantage. Kubernetes has been on the fast track of continuous evaluation. New projects and methodologies are continuously emerging and it can be hard to keep up. Then there is the question of running stateful services. The Data on Kubernetes community has [released a report](https://dok.community/dokc-2021-report/) titled "Data on Kubernetes 2021" to give us a snapshot of where our industry sits with stateful workloads. Over 500 executives and tech leaders were asked some very direct and insightful questions about how they use Kubernetes. It turns out that there were a lot of surprising finds. Some that I would have never predicted. Let's dig into some of the highlights that stood out to me.

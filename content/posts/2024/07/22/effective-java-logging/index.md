@@ -14,7 +14,6 @@ related_posts:
   - "logging-best-practices-revisited"
   - "how-to-build-and-deploy-a-real-time-cloud-based-logging-system"
   - "system-logger"
-frozen: false
 ---
 
 Effective Logging is an essential aspect of any Java application, providing insights into its operational state. It is especially crucial in production environments, where it aids in debugging, monitoring, and incident response. In this comprehensive guide, we will explore the effective practices for using SLF4J with Logback, ensuring a reliable and maintainable logging strategy.

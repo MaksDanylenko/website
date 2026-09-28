@@ -16,7 +16,6 @@ related_posts:
   - "native-graphql-api-with-neo4j-auradb-on-heroku"
   - "building-a-fullstack-imdb-clone-with-a-java-backend-using-sparkjava-and-neo4j"
   - "press-the-easy-button-organize-a-virtual-conference-schedule-with-a-graph-database"
-frozen: false
 ---
 
 ### NODES is a free, virtual conference run by Neo4j for developers, data scientists, and other technical roles who want to learn more about graph databases and how they can be used to solve complex problems. Join us online November 7!

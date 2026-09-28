@@ -19,7 +19,6 @@ related_posts:
   - "controlling-a-led-strip-with-pi4j-and-jbang"
   - "interviews-with-robert-savage-and-johan-vos-on-the-state-of-java-on-raspberry-pi"
   - "pi4j-welcomes-java-21-on-the-raspberry-pi"
-frozen: false
 ---
 
 To make it as easy as possible to get started with Java on the Raspberry Pi to interact with electronic components, I started a [new section on the Pi4J website with JBang examples](https://pi4j.com/examples/jbang/).

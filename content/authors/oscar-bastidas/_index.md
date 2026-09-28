@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/oscar-bastidas-82455120/"
 github: ""
 youtube: ""
 website: ""
-frozen: false
 ---

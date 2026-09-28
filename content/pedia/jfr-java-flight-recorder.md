@@ -2,7 +2,6 @@
 title: "JFR (Java Flight Recorder)"
 description: "Java Flight Recorder (JFR) is a low-overhead profiling and event-collection framework built into the JDK. It records a continuous stream of events about the JVM and the running application — garbage collection pauses, thread states, CPU usage, I/O, exception throws, ..."
 url: "/pedia/jfr-java-flight-recorder/"
-frozen: false
 ---
 
 Java Flight Recorder (JFR) is a low-overhead profiling and event-collection framework built into the JDK. It records a continuous stream of events about the JVM and the running application — garbage collection pauses, thread states, CPU usage, I/O, exception throws, and hundreds more — with negligible impact on application performance (typically less than 1% overhead).

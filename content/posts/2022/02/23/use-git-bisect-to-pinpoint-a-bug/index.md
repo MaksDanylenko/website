@@ -14,7 +14,6 @@ related_posts:
   - "introduction-to-maven-toolchains"
   - "git-archeology"
   - "understanding-apache-maven-part-1-the-basics"
-frozen: false
 ---
 
 During some recent work on Maven, I found a very specific bug. The error message wasn't that clear, and I couldn't make a guess what might've caused it.

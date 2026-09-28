@@ -16,7 +16,6 @@ related_posts:
   - "how-object-reuse-can-reduce-latency-and-improve-performance"
   - "demystifying-jvm-memory-management"
   - "offline-crypto-address-validation-in-java"
-frozen: false
 ---
 
 On Linux, you can create [sparse files](https://en.wikipedia.org/wiki/Sparse_file "sparse files"), where only the pages (of 4 KiB) that are touched utilise either memory or disk space.

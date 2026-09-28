@@ -13,7 +13,6 @@ categories:
   - "Java"
   - "Testcontainers"
 related_posts:
-frozen: false
 ---
 
 ## The Motivation: Why Another AWS Emulator?

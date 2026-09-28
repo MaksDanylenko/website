@@ -13,7 +13,6 @@ related_posts:
   - "more-foojay-io-fosdem-speaker-predictions-for-2023"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "are-java-security-updates-important"
-frozen: false
 ---
 
 [FOSDEM](https://fosdem.org/) is around the corner and [a group of great speakers is lined up to talk about the OpenJDK](https://fosdem.org/2023/schedule/track/friends_of_openjdk/) and the many different ways in which to make use of it.

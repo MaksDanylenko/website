@@ -12,7 +12,6 @@ related_posts:
   - "jreleaser-0-7-0-released"
   - "jreleaser-0-6-0-released"
   - "jreleaser-0-5-0-released"
-frozen: false
 ---
 
 The [JReleaser project](https://jreleaser.org/) has recently added internationalization support to its CLI tool, with complete translations for English, German, French, and Brazilian Portuguese. A translation to Italian is currently in the works.

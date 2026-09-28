@@ -14,7 +14,6 @@ related_posts:
   - "2024-in-retrospective-nicolas-frankel"
   - "blockhound-how-it-works"
   - "chopping-monolith"
-frozen: false
 ---
 
 **I'm an average Reddit user, scrolling much more than reading or interacting. Sometimes, however, a post rings a giant red bell. When I stumbled upon [If you could add one feature to K8s, what would it be?](https://www.reddit.com/r/kubernetes/comments/1ga0deo/comment/lta8itb/?context=3&share_id=ZS15DmQexSXUjhXuqQ81z), I knew the content would be worth it.**

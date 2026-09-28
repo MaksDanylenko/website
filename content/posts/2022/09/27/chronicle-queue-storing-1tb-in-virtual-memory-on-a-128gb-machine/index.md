@@ -14,7 +14,6 @@ related_posts:
   - "building-reactive-java-applications-with-spring-framework"
   - "did-you-know-you-can-create-mappers-without-creating-underlying-objects-in-java"
   - "peter-lawrey-latency-performance"
-frozen: false
 ---
 
 If you use a standard JVM like the Oracle JVM or the OpenJDK, you might find that as the heap size grows the performance of your JVM can drop as GC pause time escalates.

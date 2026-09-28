@@ -14,7 +14,6 @@ related_posts:
   - "jep-411-what-it-means-for-javas-security-model"
   - "securely-authenticate-google-cloud-github"
   - "quick-fire-java-java-after-log4j"
-frozen: false
 ---
 
 There are multiple ways to store sensitive passwords. And while having choices can be great, in the context of password storage, picking wrong can be a security nightmare. With that in mind, let's *hash* out some of your options 🥁🥁.In this article we'll discuss how you should hash passwords in your Java applications. While you can apply these principles to any ecosystem, we'll specifically showcase the best way to handle password hashing in Java.

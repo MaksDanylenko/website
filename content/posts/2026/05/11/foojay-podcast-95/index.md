@@ -17,7 +17,6 @@ related_posts:
   - "foojay-podcast-93"
   - "foojay-podcast-92"
   - "foojay-podcast-91"
-frozen: false
 ---
 
 Is your Java application actually secure, or does it just look that way? In this episode of the Foojay Podcast, Frank is joined by Steve Poole and David Welch, both from [HeroDevs](https://www.herodevs.com/), to dig deep into the state of Java security in 2025 and beyond.

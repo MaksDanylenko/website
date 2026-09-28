@@ -14,7 +14,6 @@ related_posts:
   - "creating-a-kubernetes-operator-in-java"
   - "securing-microservices-with-auth0-and-microprofile-in-kubernetes"
   - "warm-up-fast-run-lean-vertical-scaling-for-java-on-kubernetes-with-azul-prime-and-kedify"
-frozen: false
 ---
 
 These days, it seems [Kubernetes](https://kubernetes.io/) is a topic that is never too far from people's lips. The tool, and the associated tools built around it, are talked about so often it seems it's the only subject important to developers these days - especially as the IT world becomes increasingly orientated towards cloud and microservices.

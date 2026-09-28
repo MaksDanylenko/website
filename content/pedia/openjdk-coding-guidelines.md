@@ -2,7 +2,6 @@
 title: "OpenJDK Coding Guidelines and Code Reviews"
 description: "OpenJDK does not have a single exhaustive coding style guide. Sub-components come from diverse origins (HotSpot, the standard library, OpenJFX, etc.) and each has its own conventions. The main reference documents are: Developer's Guide: openjdk.org/guide/ — covers the development process, ..."
 url: "/pedia/openjdk-coding-guidelines/"
-frozen: false
 ---
 
 OpenJDK does not have a single exhaustive coding style guide. Sub-components come from diverse origins (HotSpot, the standard library, OpenJFX, etc.) and each has its own conventions. The main reference documents are:

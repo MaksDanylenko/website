@@ -16,7 +16,6 @@ related_posts:
   - "log4j-isnt-killing-java"
   - "java-where-the-wild-code-isnt"
   - "security-warning-your-java-attack-surface-just-got-bigger"
-frozen: false
 ---
 
 In this episode of the Quick Fire Java video series, Rudy De Busscher and Priya Khaira-Hanks discuss Log4j, security processes and prioritization, and how Payara dealt with the vulnerability.

@@ -16,7 +16,6 @@ related_posts:
   - "foojay-podcast-83"
   - "foojay-podcast-82"
   - "foojay-podcast-81"
-frozen: false
 ---
 
 In this Foojay Podcast, we're exploring a critical topic that's becoming increasingly important in our industry: developing sustainable software that is both performant and environmentally friendly.

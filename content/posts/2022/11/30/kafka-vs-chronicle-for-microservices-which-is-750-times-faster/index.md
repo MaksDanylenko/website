@@ -16,7 +16,6 @@ related_posts:
   - "creating-terabyte-sized-queues-with-low-latency"
   - "did-you-know-you-can-create-mappers-without-creating-underlying-objects-in-java"
   - "when-not-to-use-event-driven-architecture-eda"
-frozen: false
 ---
 
 Apache Kafka is a common choice for inter-service communication.

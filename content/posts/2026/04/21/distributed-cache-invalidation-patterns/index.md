@@ -15,7 +15,6 @@ related_posts:
   - "agents-meet-databases-the-future-of-agentic-architectures"
   - "beyond-keywords-hybrid-search-with-atlas-and-vector-search-part-3"
   - "beyond-keywords-implementing-semantic-search-in-java-with-spring-data-part-1"
-frozen: false
 ---
 
 Caching is one of the most powerful tools developers have at their disposal for optimizing application performance. Caching systems can significantly reduce latency and reduce the load on databases or external systems by storing frequently accessed data as close as possible to the application layer. The result? Improved responsiveness and overall system usability.

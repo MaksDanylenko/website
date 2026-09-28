@@ -17,7 +17,6 @@ related_posts:
   - "crossing-the-river-styx-spring-boot-3-5-and-the-zombie-dependency-problem"
   - "prevent-ldap-injection-in-java-with-springboot"
   - "idempotent-spring-boot-starter"
-frozen: false
 ---
 
 A recent update to Apache Tomcat introduced a subtle but significant change to how TLS cipher suites are configured. If your Spring Boot application explicitly configures TLS ciphers, particularly TLSv1.3 ciphers, and runs on Tomcat 9.0.115+ (Spring Boot 2.x), 10.1.52+ (Spring Boot 3.x), or 11.0.18+ (Spring Boot 4.x), your cipher configuration may be silently ignored.

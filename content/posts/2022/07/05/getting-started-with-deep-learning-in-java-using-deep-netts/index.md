@@ -14,7 +14,6 @@ related_posts:
   - "quick-start-with-machine-learning-in-java"
   - "deep-learning-in-java-for-drug-discovery"
   - "deep-learning-in-java-for-nuclear-physics-using-deep-netts"
-frozen: false
 ---
 
 [Deep Netts](https://www.deepnetts.com/) is pure Java deep learning library with a friendly, Java centric API.

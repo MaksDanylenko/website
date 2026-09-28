@@ -15,7 +15,6 @@ related_posts:
   - "build-web-apps-in-pure-java-with-vaadin-flow"
   - "delegation-vs-inheritance-in-graphical-user-interfaces"
   - "crafting-your-own-railway-display-with-java"
-frozen: false
 ---
 
 The Vaadin 23.3 release includes three new UI components and improvements to the Vaadin Acceleration Kits for easier deployments in clustered environments (support for rolling updates, horizontal scaling, high availability, and session replication).

@@ -13,7 +13,6 @@ related_posts:
   - "journeys-in-java-level-9-docker-compose-all-the-things"
   - "offline-crypto-address-validation-in-java"
   - "virtual-thread-pinning-field-guide"
-frozen: false
 ---
 
 In the age of cloud computing, it is at times very helpful to have the ability to run a very simple web server. A simple web server that delivers static content.

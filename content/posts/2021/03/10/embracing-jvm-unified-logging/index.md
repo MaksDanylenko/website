@@ -13,7 +13,6 @@ related_posts:
   - "fantastic-jvms-and-where-to-find-them"
   - "aggregation-optimization-in-mongodb-data-duplication-to-improve-read-performance-part-4"
   - "aggregation-optimization-in-mongodb-optimizing-many-to-many-relationships-part-3"
-frozen: false
 ---
 
 In the previous [blog post](https://foojay.io/today/introduction-to-jvm-unified-logging-jep-158-jep-271/), I briefly introduced unified logging and a simple GC configuration. However for the savvy GC tuners, there are many more options. And there are other logging options that transitionned to unified logging infrastructure as well.

@@ -13,7 +13,6 @@ related_posts:
   - "agents-meet-databases-the-future-of-agentic-architectures"
   - "ai-powered-code-review-assistant-automated-code-analysis-with-spring-ai-and-mongodb"
   - "apache-cassandra-4-0-taming-tail-latencies-with-java-16-zgc"
-frozen: false
 ---
 
 ## And why MongoDB might be a better relational database than you ever realized.

@@ -13,7 +13,6 @@ related_posts:
   - "javafinder-keeping-track-of-java-inventories"
   - "time-zone-and-currency-database-in-jdk"
   - "java-on-azure-tooling-update-july-2022"
-frozen: true
 ---
 
 Java is a well-maintained development and deployment platform. Through the [OpenJDK project](https://openjdk.java.net/), regular updates to production releases follow a traditionally established schedule. On a specific Tuesday in January, April, July and October, a set of updates are published covering security-related issues as well as bug fixes and even minor enhancements. Regular updates have been a long-standing tradition for Java. The update cadence has been a long-standing tradition for Java and is relied on by those responsible for ensuring Java-based systems are kept up to date and secure.

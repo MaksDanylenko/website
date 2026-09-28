@@ -15,7 +15,6 @@ related_posts:
   - "the-5-knights-of-the-mcp-apocalypse"
   - "lets-talk-about-mcp"
   - "ai-newsletter-1"
-frozen: false
 aliases:
   - "/today/your-new-ai-powered-coding-buddy-a-guide-to-sonarqube-mcp-server-on-intellij-🤖/"
 ---

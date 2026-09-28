@@ -13,7 +13,6 @@ related_posts:
   - "java-thread-programming-part-2"
   - "java-thread-programming-part-3"
   - "relearning-java-thread-primitives"
-frozen: false
 ---
 
 This article will discuss how we do asynchronous method invocation with [Callable](https://docs.oracle.com/en/java/javase/18/docs/api/java.base/java/util/concurrent/Callable.html) and [Future](https://docs.oracle.com/en/java/javase/18/docs/api/java.base/java/util/concurrent/Future.html) with a practical example.

@@ -16,7 +16,6 @@ related_posts:
   - "foojay-podcast-51"
   - "the-future-of-ejb"
   - "reflections-on-2024-a-remarkable-year-for-omnifish-glassfish-piranha-and-jakarta-ee"
-frozen: false
 ---
 
 **The Evolution Continues. GlassFish, which used to be a popular application server, free to use and reliable, is evolving again. If you've been holding onto your old GlassFish instances, there's good news—things have gotten a lot more exciting recently.**

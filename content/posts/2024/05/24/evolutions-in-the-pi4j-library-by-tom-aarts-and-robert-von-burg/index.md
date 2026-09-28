@@ -16,7 +16,6 @@ related_posts:
   - "controlling-a-led-strip-with-pi4j-and-jbang"
   - "interviews-with-robert-savage-and-johan-vos-on-the-state-of-java-on-raspberry-pi"
   - "pi4j-welcomes-java-21-on-the-raspberry-pi"
-frozen: false
 ---
 
 Multiple improvements have been implemented in the new release, V2.6.0 (2024-04-29) of Pi4J, a friendly object-oriented I/O API and implementation libraries for Java Programmers to access the full I/O capabilities of the Raspberry Pi platform. This blog post will give you a quick overview and an interview with Tom Aarts and Robert von Burg, two of the main contributors.

@@ -14,7 +14,6 @@ related_posts:
   - "kubernetes-gateway-api"
   - "apache-apisix-loves-rust"
   - "implementing-the-idempotency-key-specification-on-apache-apisix"
-frozen: false
 ---
 
 is an important principle in software development. In this article, you learn how to apply it to Apache APISIX configuration.

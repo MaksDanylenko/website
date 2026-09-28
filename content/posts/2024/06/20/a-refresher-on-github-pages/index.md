@@ -14,7 +14,6 @@ related_posts:
   - "github-agentic-workflows-and-renovate"
   - "whats-new-in-actions-setup-java-5-4-and-5-5-signature-verification-kona-jdk-and-a-better-maven-experience"
   - "how-to-publish-a-java-maven-project-to-maven-central-using-jreleaser-and-github-actions-2025-guide"
-frozen: false
 ---
 
 I moved my [blog](https://blog.frankel.ch/) from WordPress to [GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/) in... 2016. I'm happy with the solution. However, I used [GitHub Pages](https://pages.github.com/) when I was teaching for both the courses and the exercises, *e.g.* , [Java EE](https://formations.github.io/javaee/cours/servlet.html). At the time, there was no GitHub Actions: I used [Travis CI](https://www.travis-ci.com/) to build and deploy.

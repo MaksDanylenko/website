@@ -10,7 +10,6 @@ categories:
   - "DevOps"
   - "Security"
 related_posts:
-frozen: false
 ---
 
 ## first, a word about ecosystems

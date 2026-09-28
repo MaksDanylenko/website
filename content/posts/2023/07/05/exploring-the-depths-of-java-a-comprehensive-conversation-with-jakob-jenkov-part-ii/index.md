@@ -13,7 +13,6 @@ related_posts:
   - "3-ways-to-refactor-your-code-in-intellij-idea"
   - "5-things-you-probably-didnt-know-about-java-concurrency"
   - "jc-ai-newsletter-16"
-frozen: false
 ---
 
 {{< img src="jekov.jpeg" class="alignright size-full is-resized" width="400" height="400" >}}

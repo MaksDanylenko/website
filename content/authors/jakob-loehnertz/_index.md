@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/jakob-lhnertz/"
 github: ""
 youtube: ""
 website: "https://x.com/self_taught_swe"
-frozen: false
 ---

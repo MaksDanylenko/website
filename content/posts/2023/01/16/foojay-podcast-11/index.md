@@ -15,7 +15,6 @@ related_posts:
   - "foojay-podcast-9"
   - "foojay-podcast-8"
   - "quarkus-unpacked-insights-from-the-foojay-podcast"
-frozen: false
 ---
 
 A few weeks ago, Ted Neward [published a post](http://blogs.newardassociates.com/blog/2023/2023-tech-predictions.html) in which he reviewed the predictions he made one year ago and added a long list of predictions for 2023.

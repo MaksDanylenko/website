@@ -11,7 +11,6 @@ categories:
   - "Jelastic"
   - "Tutorials"
 related_posts:
-frozen: false
 ---
 
 Nowadays it's easy to get up and running WildFly standalone server in a container. But what if you need to enable clustering in Managed Domain mode, which is one of the key features of [Jakarta EE](https://jakarta.ee/) in general? That is a not so easy task. Some people claim it's nearly impossible in the cloud-native world, because Jakarta EE clustering was designed before the containers era. The old question at the official [developers portal](https://developer.jboss.org/thread/249340) is still not answered with any adequate instructions, just proving the presence of the issue.

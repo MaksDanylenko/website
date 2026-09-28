@@ -16,7 +16,6 @@ related_posts:
   - "java-functional-programming"
   - "spring-internals-of-restclient"
   - "openrewrite-migrate-to-spring-boot-3-2"
-frozen: false
 ---
 
 In [the preceding article](https://foojay.io/today/java-functional-programming/), we explored the significance of **Functional Programming, Lambda Calculus**, and other related concepts.

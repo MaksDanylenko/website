@@ -16,7 +16,6 @@ related_posts:
   - "building-for-failure-best-practices-for-easy-production-debugging"
   - "understanding-security-vulnerabilities-a-first-step-in-preventing-attacks"
   - "manifold-vs-lombok-enhancing-java-with-property-support"
-frozen: false
 ---
 
 **I don't know anyone who is still using the Oracle JDK. It has been my recommendation for quite a while to just switch to an OpenJDK distribution as they are roughly drop-in replacements for Oracle's official JDK. I've repeated that advice quite frequently but I guess I glossed over a lot of details that might be insignificant for hackers but can become a pretty big deal in an enterprise setting.**

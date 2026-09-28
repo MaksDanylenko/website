@@ -2,7 +2,6 @@
 title: "Epsilon GC"
 description: "Epsilon GC is a no-op garbage collector: it allocates memory on request but never reclaims it. When the Java heap is exhausted, the JVM exits with an OutOfMemoryError. It was introduced as an experimental feature in Java 11 (JEP 318). ..."
 url: "/pedia/epsilon-gc/"
-frozen: false
 ---
 
 Epsilon GC is a **no-op garbage collector** : it allocates memory on request but never reclaims it. When the Java heap is exhausted, the JVM exits with an `OutOfMemoryError`. It was introduced as an experimental feature in Java 11 (JEP 318).

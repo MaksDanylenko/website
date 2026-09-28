@@ -14,7 +14,6 @@ related_posts:
   - "boxlang-1-15-0-released-blazing-fast-strings-runtime-portability-and-much-more"
   - "boxlang-1-14-0-sets-ranges-inner-classes-and-a-runtime-that-talks-back"
   - "quarkus-unpacked-insights-from-the-foojay-podcast"
-frozen: false
 ---
 
 The incident that taught me to respect pinning looked like nothing. A service freshly migrated to virtual threads, a load test that plateaued at about 420 requests per second no matter how much traffic we threw at it, CPU sitting at 9%, zero errors, zero warnings, nothing in the logs. The machine had 8 cores, and the one downstream HTTP call in the hot path took about 19 ms. Do the arithmetic: 8 × (1000 / 19) ≈ 421.

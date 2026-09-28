@@ -15,7 +15,6 @@ related_posts:
   - "what-is-debugging-in-140-seconds"
   - "eight-debugging-tips-for-intellijidea-users-you-never-knew-existed"
   - "get-started-with-allocation-profiling"
-frozen: false
 ---
 
 I wrote a lot about the performance metrics of the equals method and hash code in [this article](https://talktotheduck.dev/hashcode-and-equals-debugging-performance). There are many nuances that can lead to performance problems in those methods. The problem is that some of those things can be well hidden.

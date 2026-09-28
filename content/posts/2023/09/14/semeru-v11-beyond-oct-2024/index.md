@@ -14,7 +14,6 @@ related_posts:
   - "are-java-security-updates-important"
   - "disco-api-helping-you-to-find-any-openjdk-distribution"
   - "java-tips-01-writing-shebang-scripts-in-pure-java"
-frozen: false
 ---
 
 **IBM has extended the availability of IBM Semeru Runtimes V11 from Oct 2024 to Nov 2026. Semeru Runtimes is IBM's build of OpenJDK with Eclipse OpenJ9 technology. The [IBM Semeru Runtimes support page](https://www.ibm.com/support/pages/semeru-runtimes-support/ "IBM Semeru Runtimes support page") (which includes downloads) is now updated to reflect this additional two years of availability for Version 11.**

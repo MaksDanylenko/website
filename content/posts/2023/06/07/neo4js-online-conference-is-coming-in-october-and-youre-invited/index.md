@@ -17,7 +17,6 @@ related_posts:
   - "building-a-fullstack-imdb-clone-with-a-java-backend-using-sparkjava-and-neo4j"
   - "journeys-in-java-level-6-build-a-neo4j-microservice"
   - "gear-up-for-nodes-2024-what-to-know"
-frozen: false
 ---
 
 ![](05.03_Nodes_Banner_1200x628-1-700x366.png)

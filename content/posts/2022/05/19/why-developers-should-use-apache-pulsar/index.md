@@ -17,7 +17,6 @@ related_posts:
   - "5-more-reasons-to-choose-apache-pulsar-over-apache-kafka"
   - "bring-streaming-to-apache-cassandra-with-apache-pulsar"
   - "the-critical-role-streaming-plays-in-a-data-stack"
-frozen: false
 ---
 
 Apache Pulsar is an open source streaming platform that addresses some important limitations in Kafka, particularly for cloud-native applications.  

@@ -18,7 +18,6 @@ related_posts:
   - "7-reasons-to-switch-to-openjdk-17-as-a-jakarta-ee-developer"
   - "are-java-jakarta-ee-application-servers-heavy"
   - "a-simple-service-with-spring-boot"
-frozen: false
 ---
 
 **Jakarta EE 11 is here, bringing powerful new capabilities for enterprise Java developers. But getting started quickly can be a challenge - that's where the latest Payara Starter comes in. With full Jakarta EE 11 support, an updated ERD-based code generator, and a new Jakarta Faces project generator, it gives you everything you need to launch your next application with ease.**

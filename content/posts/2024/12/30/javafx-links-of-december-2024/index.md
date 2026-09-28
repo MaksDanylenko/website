@@ -14,7 +14,6 @@ related_posts:
   - "javafx-links-of-october-2024"
   - "javafx-links-of-september-2024"
   - "javafx-links-of-june-2026"
-frozen: false
 ---
 
 Here is the last overview of the JavaFX LinksOfTheMonth for 2024. You can find the weekly lists on [jfx-central.com](https://www.jfx-central.com/links). We hope you enjoyed all the previous editions and we promise to go on in the next year... Have a nice holiday and see you in 2025!

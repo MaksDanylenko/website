@@ -11,7 +11,6 @@ categories:
   - "Microservices"
   - "Videos"
 related_posts:
-frozen: false
 ---
 
 In a distributed microservices architecture, it is important to have an overview of your systems in terms of CPU, memory management and other important metrics.

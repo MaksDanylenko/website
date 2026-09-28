@@ -14,7 +14,6 @@ related_posts:
   - "java-panama-polyglot-part-3"
   - "compiling-java-code-executing-bytecode"
   - "python-magic-methods-part-1"
-frozen: false
 ---
 
 Let's continue our exploration of Python's magic methods in this second part of the series. This part will focus on numbers and containers, *i.e.* , collections. You can read the first part [here](https://foojay.io/today/python-magic-methods-part-1/).

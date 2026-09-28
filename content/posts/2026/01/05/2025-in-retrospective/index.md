@@ -10,7 +10,6 @@ image: "cover_large.jpg"
 categories:
   - "Opinion"
 related_posts:
-frozen: false
 ---
 
 From the beginning, the focus of this blog has been technical, very rarely organizational. I broke this unwritten rule [once](https://blog.frankel.ch/je-suis-charlie/) in 2015. I began writing retrospectives in 2023 on the year that had passed. Let's continue the tradition, but with a wider scope than before. The situation warrants it.

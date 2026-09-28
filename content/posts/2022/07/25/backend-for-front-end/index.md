@@ -14,7 +14,6 @@ related_posts:
   - "journeys-in-java-level-1-building-an-empire-of-microservices"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "backend-for-frontend-the-demo"
-frozen: false
 ---
 
 In the good old days, applications were simple. A browser sent a request to a webapp endpoint; the latter fetched data from a database and returned the response.

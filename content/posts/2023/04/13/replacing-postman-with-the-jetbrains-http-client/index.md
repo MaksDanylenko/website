@@ -16,7 +16,6 @@ related_posts:
   - "building-command-line-interfaces-with-kotlin-using-picocli"
   - "kover-code-coverage-plugin-for-kotlin"
   - "avoid-stringly-typed-in-kotlin"
-frozen: false
 ---
 
 ***TL;DR: I've created the first version of an openapi-generator for the JetBrains HTTP Client, and together with the CLI runner it allows you to play against APIs without ever going out of your terminal and it can even run in your CI/CD pipeline.** [**See repository here**](https://github.com/jlengrand/dotaClient "See repository here")*.

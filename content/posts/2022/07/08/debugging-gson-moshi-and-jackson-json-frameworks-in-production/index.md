@@ -16,7 +16,6 @@ related_posts:
   - "the-debugger-checklist-part-ii"
   - "what-is-debugging-in-140-seconds"
   - "boxlang-1-14-0-navigate-anything-jsonpath-comes-to-boxlangs-datanavigator"
-frozen: false
 ---
 
 Parsing bugs are the gift that keeps on giving in the age of APIs.

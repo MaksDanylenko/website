@@ -2,7 +2,6 @@
 title: "OpenJDK"
 description: "OpenJDK is the open-source reference implementation of the Java Platform, Standard Edition (Java SE) specification. It is the upstream project from which virtually all Java distributions are built. OpenJDK is source code, not a runnable binary — to run Java ..."
 url: "/pedia/openjdk/"
-frozen: false
 ---
 
 [OpenJDK](https://openjdk.org) is the open-source reference implementation of the Java Platform, Standard Edition (Java SE) specification. It is the upstream project from which virtually all Java distributions are built. OpenJDK is source code, not a runnable binary — to run Java applications you need a [distribution](https://foojay.io/pedia/jdk-distributions/) built from that source.

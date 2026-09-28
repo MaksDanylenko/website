@@ -13,7 +13,6 @@ related_posts:
   - "journey-of-a-java-champion-bert-jan-schrijvers-path-to-mastery-and-community-leadership"
   - "cracking-code-and-conventions-an-exclusive-interview-with-nicolas-frankel"
   - "resilience-in-coding-miro-wengner-on-thriving-in-the-software-industry"
-frozen: false
 ---
 
 {{< img src="image-2.jpg" class="alignright size-full" width="460" height="460" >}}

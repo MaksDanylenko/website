@@ -14,7 +14,6 @@ related_posts:
   - "different-approaches-to-building-stateful-microservices-in-the-cloud-native-world"
   - "even-more-opentelemetry"
   - "fixed-window-counter-rate-limiter-redis-java"
-frozen: false
 ---
 
 **The rise of hyperscalers like AWS and GCP has unlocked incredible speed and scale for startups and enterprises alike. But for companies rooted in open source, it has posed a fundamental challenge: how do you keep innovating and investing in OSS projects when cloud providers reap the profits and control the infrastructure without proportional contributions back to the projects that they exploit?**

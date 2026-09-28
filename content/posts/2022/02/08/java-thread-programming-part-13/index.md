@@ -13,7 +13,6 @@ related_posts:
   - "java-thread-programming-part-11"
   - "java-thread-programming-part-10"
   - "relearning-java-thread-primitives"
-frozen: false
 ---
 
 [Our previous article](https://foojay.io/today/java-thread-programming-part-12/) discussed different ways to create a Java thread pool and put and execute result-bearing tasks to the Pool. This article will go a bit in-depth about how many worker threads we could put in a pool to get the best result.

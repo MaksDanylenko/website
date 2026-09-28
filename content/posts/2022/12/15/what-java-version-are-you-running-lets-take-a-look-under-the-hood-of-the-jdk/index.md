@@ -13,7 +13,6 @@ related_posts:
   - "best-practice-comparative-evaluation-of-jdk-setups-azul-zulu-prime-vs-openjdk"
   - "jdb"
   - "offline-crypto-address-validation-in-java"
-frozen: false
 ---
 
 From time to time, you need to check which Java version is installed on your computer or server, for instance when starting on a new project or configuring an application to run on a server.

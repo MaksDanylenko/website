@@ -16,7 +16,6 @@ related_posts:
   - "foojay-podcast-2"
   - "foojay-podcast-1"
   - "schedule-for-foojay-virtual-openjdk-17-jug-tour"
-frozen: false
 aliases:
   - "/today/foojay-podcast-3-journey-to-jakarta-ee/"
 ---

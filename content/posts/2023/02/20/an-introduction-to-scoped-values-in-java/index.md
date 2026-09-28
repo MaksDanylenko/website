@@ -14,7 +14,6 @@ related_posts:
   - "for-the-record"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "offline-crypto-address-validation-in-java"
-frozen: false
 ---
 
 After moving to the six-month release cadence, the Java language has entered a rapid development process.

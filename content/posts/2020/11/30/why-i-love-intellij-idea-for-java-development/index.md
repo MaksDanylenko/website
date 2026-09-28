@@ -10,7 +10,6 @@ categories:
   - "IntelliJ IDEA"
   - "Tutorials"
 related_posts:
-frozen: false
 ---
 
 If you're a Java developer like me, you like to crank out code and get shit done. I like many things about IntelliJ IDEA, but I thought it'd be fun to write about the ones that make me most productive. First, a bit of my development history.

@@ -15,7 +15,6 @@ related_posts:
   - "exploring-new-features-in-jdk-23-null-object-pattern-to-avoid-null-pointer-exception-with-jep-455"
   - "exploring-new-features-in-jdk-23-gatherers-upgrades-pipeline-design-pattern-jep-461"
   - "boxlang-1-14-0-boxset-is-here-boxlangs-new-first-class-set-type"
-frozen: false
 ---
 
 ### It seems like it's never been easier to start writing a simple program that can be turned into a more advanced one as development progresses. Let's explore possibilities delivered by JDK 23 release.

@@ -14,7 +14,6 @@ related_posts:
   - "tiberius-a-security-testing-framework-for-llm-applications-in-java"
   - "agentic-was-everywhere-at-money20-20-amsterdam-once-i-started-looking"
   - "ai-gives-time-not-confidence-developer-productivity-toolkit"
-frozen: false
 ---
 
 Most developers using AI tools are still guessing. The Eclipse Foundation's first [AI Coding Workshop](https://aieclipse.org/ai-workshop/) in Brussels was built to change that. It's a brand new format they launched in Brussels, which makes sense: most of the Eclipse event team is based there. They plan to bring it to more cities from here, so keep an eye out if you want to attend such a workshop in the future. They offered 10 free tickets to share with the BeJUG and Foojay community. And in all honesty, I used one for myself. [Jonas Helming](https://www.linkedin.com/in/jonas-helming-76303b28/) from [EclipseSource](https://eclipsesource.com/) led the workshop, with a fun quiz hosted by [Thomas Froment](https://www.linkedin.com/in/tfroment/) in the afternoon. Here's what I took away.

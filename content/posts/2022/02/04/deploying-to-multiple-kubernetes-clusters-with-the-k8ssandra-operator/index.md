@@ -19,7 +19,6 @@ related_posts:
   - "adelphi-apache-cassandra-testing-goes-cloud-native"
   - "nosql-use-cases-when-to-use-a-non-relational-database"
   - "running-your-database-on-openshift-and-codeready-containers"
-frozen: false
 ---
 
 ![](0_cYkNr7XdB-MsJiu5-1024x674.png)

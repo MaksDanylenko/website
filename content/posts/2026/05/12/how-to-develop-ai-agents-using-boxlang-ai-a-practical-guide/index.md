@@ -19,7 +19,6 @@ related_posts:
   - "introducing-boxlang-ai-explorer-a-local-catalog-for-every-ai-pattern"
   - "build-secure-ai-chat-applications-with-boxlang-rag-ollama-and-amazon-bedrock-with-dan-card"
   - "free-webinar-making-ai-useful-for-java-developers-in-real-applications-with-boxlang"
-frozen: false
 ---
 
 ![](boxlang-ai-v3-1-700x467.jpg)

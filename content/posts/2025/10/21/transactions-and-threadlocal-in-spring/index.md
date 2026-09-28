@@ -14,7 +14,6 @@ related_posts:
   - "poor-mans-api"
   - "kubernetes-gateway-api"
   - "real-world-stream-collector"
-frozen: false
 ---
 
 Two years ago, my friend José Paumard held the talk "Concurrent and Asynchronous Programming : Loom" at the Geneva Java User Group.

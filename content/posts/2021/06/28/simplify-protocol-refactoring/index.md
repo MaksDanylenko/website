@@ -14,7 +14,6 @@ related_posts:
   - "java-syntax-puzzlers"
   - "3-ways-to-refactor-your-code-in-intellij-idea"
   - "aggregation-optimization-in-mongodb-optimizing-many-to-many-relationships-part-3"
-frozen: false
 ---
 
 The other day, I went grocery shopping. While waiting in line, I thought about some struggles I had in a test I wrote earlier that day. When it was my turn, the cashier scanned my items and said what I owe him. And I just gave him my whole wallet. He stared at me blankly and gave it back. A little confused for a second, I took out my card, paid, and left the store. And at that point, it hit me what was wrong with my test.

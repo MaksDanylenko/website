@@ -13,7 +13,6 @@ related_posts:
   - "java-on-azure-tooling-update-october-2022"
   - "java-on-azure-tooling-update-september-2022"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
-frozen: false
 ---
 
 **Hi everyone, we are excited to share that now there are over two million Java developers on Visual Studio Code, which wouldn't be possible without all the support from the community and our users, so thank you!**

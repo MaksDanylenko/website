@@ -12,7 +12,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "book-review-quarkus-for-spring-developers"
   - "chronicle-services-building-fast-microservices-with-java"
-frozen: false
 ---
 
 ### **History of Microservices**

@@ -14,7 +14,6 @@ quote: |
 
   I believe Foojay has the potential to be **the** central resource for all Java developers. It’s a pleasure to be involved in the project both personally and with the support of Snyk to help make Java developers' applications more secure.
 quoteAuthor: "Simon Maple, VP Developer Relations & Community"
-frozen: false
 ---
 
 Snyk is the platform developers choose to build cloud native applications securely.

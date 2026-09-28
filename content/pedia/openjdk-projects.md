@@ -2,7 +2,6 @@
 title: "OpenJDK Projects"
 description: "OpenJDK is organised into named Projects: focused research and development efforts that explore or implement significant improvements to the Java platform. Each project has its own mailing list, repository, and contributor community. Successful work in a project typically results in ..."
 url: "/pedia/openjdk-projects/"
-frozen: false
 ---
 
 OpenJDK is organised into named **Projects** : focused research and development efforts that explore or implement significant improvements to the Java platform. Each project has its own mailing list, repository, and contributor community. Successful work in a project typically results in one or more [JEPs](https://foojay.io/pedia/jep-jdk-enhancement-proposal/) that integrate the work into mainline JDK releases.

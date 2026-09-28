@@ -13,7 +13,6 @@ related_posts:
   - "5-things-you-probably-didnt-know-about-java-concurrency"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "interview-with-a-java-champion-reflections-on-a-storied-career-and-insights-for-the-next-generation"
-frozen: false
 ---
 
 {{< img src="jekov.jpeg" class="alignright size-full is-resized" width="400" height="400" >}}

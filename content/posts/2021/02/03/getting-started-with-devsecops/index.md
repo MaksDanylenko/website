@@ -10,7 +10,6 @@ categories:
   - "DevOps"
   - "Security"
 related_posts:
-frozen: false
 ---
 
 *Hello and welcome to my first DevSecOps article! Here in Germany, it's winter right now, and the forests are quiet. The snow slows down everything and it's a beautiful time to move undisturbed through the woods.* *Here you can pursue your thoughts, and I started thinking about a subject that customers or participants at conferences ask me repeatedly.*

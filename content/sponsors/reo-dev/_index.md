@@ -18,7 +18,6 @@ github: ""
 authors:
 topics:
 wpSlug: "reo-dev"
-frozen: false
 ---
 
 Reo.Dev is a modern marketing stack for developer focused companies. Reo.Dev decodes millions of developer activities and intent signals to help developer focused companies uncover their hidden sales funnel and learn which are the organisations where developers are evaluating their products right now.

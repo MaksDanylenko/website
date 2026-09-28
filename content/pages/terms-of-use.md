@@ -2,7 +2,6 @@
 title: "Terms of Use"
 description: "The terms and conditions that apply when you visit foojay.io or use any of its services."
 url: "/terms-of-use/"
-frozen: false
 ---
 
 <div class="legal-notice">

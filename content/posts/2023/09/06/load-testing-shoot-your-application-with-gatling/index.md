@@ -16,7 +16,6 @@ related_posts:
   - "we-all-grow-older-but-do-our-projects-really-have-to-openrewrite"
   - "spring-6-1-restclient"
   - "tornadovm-for-risc-v-accelerators"
-frozen: true
 ---
 
 ## What is load testing?

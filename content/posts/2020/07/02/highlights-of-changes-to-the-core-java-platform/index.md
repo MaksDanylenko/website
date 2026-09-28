@@ -13,7 +13,6 @@ related_posts:
   - "running-single-file-java-source-code-without-compiling-part-1"
   - "fantastic-jvms-and-where-to-find-them"
   - "how-does-java-handle-different-images-and-colorspaces-part-3-introducing-the-bufferedimage"
-frozen: false
 ---
 
 February 12th, 1996. This is a significant date for me personally since it was the day I started work at Sun Microsystems as a Solaris Systems Engineer. It was also two weeks and six days after the release of the Java Development Kit (JDK 1.0).

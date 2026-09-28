@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/jonatan-ivanov/"
 github: ""
 youtube: ""
 website: "https://x.com/jonatan_ivanov"
-frozen: false
 ---

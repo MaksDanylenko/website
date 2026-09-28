@@ -21,7 +21,6 @@ related_posts:
   - "speed-up-your-spring-batch-with-native-image-and-graalvm"
   - "spring-boot-kafka-streams-event-routing-testing"
   - "spring-boot-local-development-enhancements-lets-compose"
-frozen: false
 ---
 
 ### **I** n [the first newsletter](https://foojay.io/today/ai-newsletter-1/), we introduced a 14-day cadence, which means that this week it's time for a new collection of articles from the fields of AI, LLM, Java and more.

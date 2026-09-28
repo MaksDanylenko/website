@@ -17,7 +17,6 @@ related_posts:
   - "7-reasons-to-choose-apache-pulsar-over-apache-kafka"
   - "a-case-for-databases-on-kubernetes-from-a-former-skeptic"
   - "book-review-java-by-comparison"
-frozen: false
 ---
 
 What's the best way to store, protect and access your data? This is a fundamental, yet critical decision. After all, data is the cornerstone of success for just about every modern organization. For most companies, the choice comes down to SQL and NoSQL databases. Each has unique strengths and weaknesses.

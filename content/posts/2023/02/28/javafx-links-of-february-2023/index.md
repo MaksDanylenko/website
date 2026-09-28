@@ -14,7 +14,6 @@ related_posts:
   - "javafx-links-of-december"
   - "javafx-links-of-november"
   - "javafx-links-of-july-2026"
-frozen: false
 ---
 
 February is a short month, but this list seems to be longer than ever...

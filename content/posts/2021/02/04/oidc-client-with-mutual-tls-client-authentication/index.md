@@ -10,7 +10,6 @@ categories:
   - "Security"
   - "Tutorials"
 related_posts:
-frozen: false
 ---
 
 It is common to authenticate OAuth and OpenID Connect (OIDC) clients with secrets. When you register a client in the Authorization Server (i.e., the OpenID Connect Provider, OP), you typically get a client ID and a secret. These are then used as credentials whenever your client sends requests to the Authorization Server. Often, this type of credential will provide a sufficient level of security for a deployment; other times, however, this simply is not enough. Authenticating with client ID and secret means that if anyone manages to steal or guess your application's credentials, they will be able to use them to impersonate it. The attacker does not even have to intercept the credentials themselves. They may be able to capture a request sent to the Authorization Server and replay it. The Authorization Server does not know who is sending the request; it can only check whether the credentials are valid. (This is why it's also important to use TLS and unguessable client secrets when using this type of credential.)

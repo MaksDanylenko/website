@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/josh-juneau-84b4867/"
 github: ""
 youtube: ""
 website: "https://x.com/javajuneau"
-frozen: false
 ---

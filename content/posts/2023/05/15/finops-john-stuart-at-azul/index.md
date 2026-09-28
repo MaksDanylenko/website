@@ -10,7 +10,6 @@ categories:
   - "FinOps"
   - "Research"
 related_posts:
-frozen: false
 ---
 
 ## FinOps and Cloud Cost Management, what's it all about and how does it impact us as developers and others who are close to the code? In this series on Foojay.io, you're introduced to FinOps practitioners around the world, focused on how they have gradually found themselves, their technology and their organization in the FinOps space.

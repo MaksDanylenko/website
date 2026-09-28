@@ -15,7 +15,6 @@ related_posts:
   - "java-serialization-filtering-prevent-0-day-security-vulnerabilities"
   - "is-it-time-to-go-back-to-the-monolith"
   - "boxlang-aws-azure-and-google-secrets-manager-module-released"
-frozen: false
 ---
 
 I first ran into the concept of Continuous Integration (CI) when the Mozilla project launched.

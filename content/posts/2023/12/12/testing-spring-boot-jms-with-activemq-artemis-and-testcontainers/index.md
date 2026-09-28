@@ -15,7 +15,6 @@ related_posts:
   - "unit-testing-supabase-in-kotlin"
   - "api-mocking-essential-and-redundant"
   - "beyond-pass-fail-a-modern-approach-to-java-integration-testing"
-frozen: false
 ---
 
 **Currently, I'm teaching JMS with Spring Boot at the University of Applied Science in Bern, Switzerland. We use [Apache ActiveMQ Artemis](https://activemq.apache.org/components/artemis/) as the JMS message broker. But how can we test our Spring Boot application?**

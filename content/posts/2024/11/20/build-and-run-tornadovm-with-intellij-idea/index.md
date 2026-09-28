@@ -15,7 +15,6 @@ related_posts:
   - "a-flavour-of-tornadovm-on-apple-m1-pro"
   - "code-interoperability-mode-for-opencl-portability-across-various-programming-languages-with-tornadovm"
   - "tornadoinsight-compatibility-with-tornadovm-sdk-2-0-configuration-guide"
-frozen: false
 ---
 
 [TornadoVM](https://www.tornadovm.org/) is an open-source Java technology that is developed to aid Java programmers in adapting their code bases for hardware acceleration.

@@ -15,7 +15,6 @@ related_posts:
   - "debugging-jaxb-production-issues"
   - "debugging-jsoup-java-code-in-production-using-lightrun"
   - "get-started-with-allocation-profiling"
-frozen: true
 ---
 
 The Java Message Service API (JMS) was developed by Sun Microsystems in the days of [Java EE](https://en.wikipedia.org/wiki/Jakarta_EE).

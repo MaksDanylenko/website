@@ -18,7 +18,6 @@ github: ""
 authors:
 topics:
 wpSlug: "zencoder"
-frozen: false
 ---
 
 At Zencoder, we're transforming the landscape of software development by empowering developers with AI coding agents embedded into their workflow that help create high-quality software and ship products faster. Zencoder brings the zen back in coding.

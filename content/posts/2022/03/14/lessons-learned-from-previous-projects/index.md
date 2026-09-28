@@ -12,7 +12,6 @@ related_posts:
   - "10-basic-questions-about-pdf-files-for-java-developers"
   - "3-ways-to-refactor-your-code-in-intellij-idea"
   - "7-functional-programming-techniques-in-java-a-primer"
-frozen: true
 ---
 
 An exciting part of software development is what was unanimously considered good practice at one point in time can be more ambiguous years later. Or even plain wrong. However, you generally need to do it multiple times over time to realize it. Here are my top learnings from my experience in Java projects.

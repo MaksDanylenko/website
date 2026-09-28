@@ -16,7 +16,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "virtual-tour-is-the-biggest-project-yet-for-the-new-java-community-platform-foojay-dzone"
   - "fast-jms-for-apache-pulsar-modernize-and-reduce-costs-with-blazing-performance"
-frozen: false
 ---
 
 The [K8ssandra](https://k8ssandra.io/) team is pleased to announce the release of [Reaper 3.1](http://cassandra-reaper.io/). Let's dive into the features and improvements that 3.0 recently introduced (along with some notable removals) and how the newest update to 3.1 builds on that.

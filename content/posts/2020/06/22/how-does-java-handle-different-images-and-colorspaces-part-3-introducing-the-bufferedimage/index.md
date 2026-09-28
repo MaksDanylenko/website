@@ -12,7 +12,6 @@ related_posts:
   - "running-single-file-java-source-code-without-compiling-part-1"
   - "fantastic-jvms-and-where-to-find-them"
   - "highlights-of-changes-to-the-core-java-platform"
-frozen: false
 ---
 
 BufferedImage is one of the most useful Java abstractions. It hides all the complexity of different types of images whilst allowing access to the underlying data. Under the hood, a BufferedImage can be many types of image. This is the list of types visible in an IDE.  

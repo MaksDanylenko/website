@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/gbevin/"
 github: ""
 youtube: "https://www.youtube.com/gbevin"
 website: "https://x.com/gbevin"
-frozen: false
 ---

@@ -14,7 +14,6 @@ related_posts:
   - "book-review-openjdk-migration-for-dummies-2"
   - "get-your-jdk-as-easily-as-possible"
   - "how-to-run-a-java-application-with-crac-in-a-docker-container"
-frozen: false
 ---
 
 **Aloha, because I will be in the US this month, I decided to do a little Java User Group tour again. Ivar Grimstad from the Eclipse Foundation will join me and we will visit a couple of JUGs in the week from the 18th to the 22nd of September.**

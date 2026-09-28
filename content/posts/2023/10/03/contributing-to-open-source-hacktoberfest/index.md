@@ -14,7 +14,6 @@ related_posts:
   - "are-java-security-updates-important"
   - "boldness-in-refactoring"
   - "building-custom-solutions-vs-buy-and-build-software"
-frozen: false
 ---
 
 Quite frequently when it comes to contributing to open source I hear questions/doubts such as:

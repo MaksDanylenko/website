@@ -20,7 +20,6 @@ categories:
   - "Tools"
   - "Tutorials"
 related_posts:
-frozen: false
 ---
 
 ### Profiling a Java Application Running Inside an Unikernel with JProfiler

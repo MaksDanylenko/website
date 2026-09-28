@@ -15,7 +15,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "deep-learning-in-java-for-drug-discovery"
   - "boxlang-1-14-0-sets-ranges-inner-classes-and-a-runtime-that-talks-back"
-frozen: false
 ---
 
 10 years ago, I challenged myself to write an office suite in Java in [30 days](https://www.youtube.com/watch?v=6oJyaUzkQVM&list=PLsezR6w8oWsJAKvFuv3JI34PLFFMIxLVA). This is how the first version of [Joeffice](https://www.joeffice.com/) was born. This created quite some buzz, including articles on [Slashdot](https://tech.slashdot.org/story/13/05/26/0418229/java-developer-says-he-built-launched-basic-open-source-office-suite-in-30-days), [Ars Technica](https://arstechnica.com/information-technology/2013/06/joeffice-an-open-source-office-suite-one-developer-built-in-30-days/) and [PC World](https://www.pcworld.com/article/452028/java-developer-says-he-built-launched-basic-open-source-office-suite-in-30-days.html).

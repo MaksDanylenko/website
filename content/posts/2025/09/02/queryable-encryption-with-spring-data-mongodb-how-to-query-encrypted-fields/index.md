@@ -16,7 +16,6 @@ related_posts:
   - "building-a-spring-boot-crud-application-using-mongodbs-relational-migrator"
   - "domain-driven-design-in-java-a-practical-guide"
   - "how-to-identify-the-underlying-causes-of-connection-timeout-errors-for-mongodb-with-java"
-frozen: false
 ---
 
 Information is one of the most valuable assets in computing and keeping it protected is even more critical. When we talk about data protection, it's not just about preventing breaches or leaks; it's also about complying with privacy regulations and protecting user data.

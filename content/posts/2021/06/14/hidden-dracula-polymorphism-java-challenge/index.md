@@ -13,7 +13,6 @@ related_posts:
   - "function-calculation-java-challenge"
   - "stream-limit-filter-java-challenge"
   - "neo-stream-search-java-challenge"
-frozen: false
 ---
 
 Polymorphism is one of the most important Java concepts. We might not even be aware we're using it all the time but when we instantiate an `ArrayList` and assign it to a variable of the `List` type, we are using polymorphism. It's a powerful concept because it helps us to decouple responsibilities, therefore, making code more flexible and easier to maintain.

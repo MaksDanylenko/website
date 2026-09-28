@@ -17,7 +17,6 @@ related_posts:
   - "book-review-practical-design-patterns-for-java-developers"
   - "thinking-about-massive-throughput-meet-virtual-threads"
   - "openjdk-january-2026-critical-patch-update-and-patch-set-update-released"
-frozen: false
 ---
 
 Since 2018, we get a new version of Java every 6 months.

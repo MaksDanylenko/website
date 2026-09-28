@@ -13,7 +13,6 @@ related_posts:
   - "banned-threadlocal-java-scoped-values"
   - "java-for-scripting"
   - "project-panama-for-newbies-part-2"
-frozen: false
 ---
 
 Unified logging was introduced in JDK 9, and is available for us all, in the JDK 11 LTS. Like other great serviceability feature (`jcmd` or JFR) this was inspired by JRockit.

@@ -6,12 +6,11 @@ description: "Java Flight Recorder is the profiler you can use in production, co
 canonical: "https://blog.arkey.fr/2020/06/28/using-jdk-flight-recorder-and-jdk-mission-control/"
 authors:
   - "brice-dutheil"
-image: "java-flight-recorder-big-picture2-dc6f4fb7.svg"
+image: "java-flight-recorder-big-picture2-dc6f4fb7.jpg"
 categories:
   - "JDK Flight Recorder"
   - "Tools"
 related_posts:
-frozen: false
 ---
 
 Java Flight Recorder is the profiler you can use in production, continuously. Flight Recorder has been available before in the JDK, e.g., it shipped as part of the JDK 8, but to use it, it required that you set specific commercial VM flags to unlock Flight Recorder, this is not anymore necessary from Java 11 onwards.

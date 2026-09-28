@@ -15,7 +15,6 @@ related_posts:
   - "7-functional-programming-techniques-in-java-a-primer"
   - "5-tips-to-create-secure-docker-images-for-java-applications"
   - "why-i-moved-my-blog-to-rife2-after-23-years"
-frozen: false
 ---
 
 RIFE2 is a very recently released and completely re-imagined version of my RIFE framework from 10 years ago.

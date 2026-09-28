@@ -15,7 +15,6 @@ related_posts:
   - "sheetmusic4j-0-0-3-abc-notation-guitar-pro-engraving-improvements"
   - "first-experiments-with-java-on-the-lattepanda-iota"
   - "javafx-links-of-november-2025"
-frozen: false
 ---
 
 In a previous post "[Installing Java and JavaFX on the Raspberry Pi](https://foojay.io/today/installing-java-and-javafx-on-the-raspberry-pi/)", you can read how to install BellSoft LibericaJDK to be able to run JavaFX applications with a graphical user interface on a Raspberry Pi with ARMv7 or ARMv8 processor.

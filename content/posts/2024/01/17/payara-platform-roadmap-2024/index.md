@@ -15,7 +15,6 @@ related_posts:
   - "can-java-jakarta-ee-do-microservices"
   - "cloud-myth-ahead-of-time-compilation-will-save-you-money"
   - "creating-cloud-native-java-applications-with-the-12-factor-app-methodology"
-frozen: false
 ---
 
 **Now that New Year is here, we reflect on 2023 and look ahead to what you can expect from our entire suite of Payara products in 2024. What is the future for Payara Community, Enterprise and Payara Cloud?**

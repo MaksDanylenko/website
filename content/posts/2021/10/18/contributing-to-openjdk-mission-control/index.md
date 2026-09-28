@@ -13,7 +13,6 @@ related_posts:
   - "jdk-mission-control-8-1-0-released"
   - "jmc-8-0-1-released"
   - "using-java-flight-recorder-and-mission-control-part-1"
-frozen: false
 ---
 
 Since this month is [Hacktoberfest](https://hacktoberfest.digitalocean.com/), I thought it would be a good idea to talk a bit about how to contribute to the OpenJDK Mission Control project.

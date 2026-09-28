@@ -18,7 +18,6 @@ related_posts:
   - "free-webinar-making-ai-useful-for-java-developers-in-real-applications-with-boxlang"
   - "boxlang-ai-deep-dive-part-2-of-7-building-a-production-grade-ai-tool-ecosystem"
   - "introducing-boxlang-ai-explorer-a-local-catalog-for-every-ai-pattern"
-frozen: false
 aliases:
   - "/today/boxlang-ai-deep-dive-part-1-of-7-the-skills-revolution-🎓/"
 ---

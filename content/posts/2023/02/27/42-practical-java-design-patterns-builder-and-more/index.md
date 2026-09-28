@@ -16,7 +16,6 @@ related_posts:
   - "book-review-java-by-comparison"
   - "book-review-why-programs-fail"
   - "boxlang-1-14-0-boxset-is-here-boxlangs-new-first-class-set-type"
-frozen: false
 ---
 
 ![Figure 1: Hone your software design skills](book_cover-414x510.jpeg) **Figure 1**.: Hone your software design skills

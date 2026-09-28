@@ -15,7 +15,6 @@ categories:
   - "Kubernetes"
   - "Microservices"
 related_posts:
-frozen: false
 ---
 
 We've been talking about migrating workloads to the cloud for a long time, but a look at the application portfolios of many IT organizations demonstrates that there's still a lot of work to be done. In many cases, challenges with persisting and moving data in clouds continue to be the key limiting factor slowing cloud adoption, despite the fact that databases in the cloud have been available for years.

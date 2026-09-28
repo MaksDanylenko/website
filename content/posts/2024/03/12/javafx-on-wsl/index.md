@@ -15,7 +15,6 @@ related_posts:
   - "beginning-javafx-with-intellij"
   - "building-javafx-with-gradle"
   - "creating-a-javafx-world-clock-from-scratch-part-1"
-frozen: false
 ---
 
 **What does it take to run standalone JavaFX applications on exotic Linux systems like the Windows Subsystem for Linux or some embedded systems? As you will see, not a lot! Familiarizing yourself with the native libraries required by JavaFX and the font loading process is all that is needed. Then, JavaFX applications can run on them out of the box if you set everything up correctly.**

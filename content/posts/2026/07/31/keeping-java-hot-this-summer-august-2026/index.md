@@ -12,7 +12,6 @@ categories:
   - "Java Beginner"
   - "JUGs"
 related_posts:
-frozen: false
 ---
 
 Summer conference season goes quiet. Most major Java events wrap by June, CFPs go dark while we're waiting for the results and a lot of us - if we decide to carry on with the work - use August to either catch up on backlog, or training ( and I mean mental exercise here, although I'm sure some of you hit the gym more often too 😉 ).

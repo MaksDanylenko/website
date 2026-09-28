@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/dasguptasoham/"
 github: "https://github.com/sohamda"
 youtube: ""
 website: "https://x.com/iamsoham"
-frozen: false
 ---

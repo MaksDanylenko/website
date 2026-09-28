@@ -13,7 +13,6 @@ related_posts:
   - "get-your-jdk-as-easily-as-possible"
   - "blockhound-how-it-works"
   - "the-right-feature-at-the-right-place"
-frozen: false
 ---
 
 More than a decade ago, I [wrote](https://blog.frankel.ch/dto-in-anger) about the :

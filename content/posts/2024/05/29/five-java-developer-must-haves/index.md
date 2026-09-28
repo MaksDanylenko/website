@@ -16,7 +16,6 @@ related_posts:
   - "azul-provides-the-crac-in-aws-snapstart-builds"
   - "springboot-3-2-crac"
   - "how-to-run-a-java-application-with-crac-in-a-docker-container"
-frozen: false
 ---
 
 **Faster Java startup must not compromise developer experience, throughput performance, or security. We discuss how we achieved this with Liberty InstantOn.**

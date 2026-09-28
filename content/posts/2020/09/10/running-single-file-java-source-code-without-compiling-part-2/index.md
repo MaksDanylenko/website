@@ -10,7 +10,6 @@ image: "Favicon-3-2.png"
 categories:
   - "Java Core"
 related_posts:
-frozen: false
 ---
 
 [Let's continue from part 1 of this series](https://foojay.io/today/running-single-file-java-source-code-without-compiling-part-1/), by looking at JEP 330, Launch Single-File Source-Code Programs, which is one of the new features introduced in the OpenJDK 11 release. This feature allows you to execute a Java source code file directly using the `java` interpreter. The source code is compiled in memory and then executed by the interpreter, without producing a .class file on disk.

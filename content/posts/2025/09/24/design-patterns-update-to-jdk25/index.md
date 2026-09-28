@@ -16,7 +16,6 @@ related_posts:
   - "jc-ai-newsletter-2"
   - "jc-ai-newsletter-3"
   - "jc-ai-newsletter-4"
-frozen: false
 ---
 
 **T** he information technology landscape is changing rapidly. This is not only due to the utilization of AI and [new methodologies \[8\]](https://foojay.io/today/stochastic-ai-agility-breaking-cycles-of-debt/ "new methodologies"), or business requirements trying to keep up, but also because of the incremental complexity of expected solutions.

@@ -14,7 +14,6 @@ related_posts:
   - "intellij-idea-changelists-and-git-staging"
   - "ask-a-lille-dev-what-java-developers-really-think-about-quality-frameworks-communities-and-careers"
   - "introducing-the-boxlang-ide-plugin-for-intellij"
-frozen: false
 ---
 
 This tutorial will cover how to clean up your Git commit history with Git interactive rebase, both via the IntelliJ IDEA UI and from the command line.

@@ -2,7 +2,6 @@
 title: "LTS and Non-LTS Releases"
 description: "Since Java 9, the JDK has followed a strict six-month release cadence: a new version ships every March and September. Most of these are feature releases with a short support window — typically six months, until the next version arrives. ..."
 url: "/pedia/lts-and-non-lts-releases/"
-frozen: false
 ---
 
 Since Java 9, the JDK has followed a strict six-month release cadence: a new version ships every March and September. Most of these are *feature releases* with a short support window — typically six months, until the next version arrives. These are sometimes called non-LTS, short-term support (STS), or simply feature releases.

@@ -14,7 +14,6 @@ quote: |
 
   Foojay is quickly becoming one of the foremost global communities for Java developers. It aligns perfectly with our ambition to help each other grow. We are super excited we can also contribute to this great movement from the Foojay Board.
 quoteAuthor: "Roy Wasse, Co-Founder OpenValue"
-frozen: false
 ---
 
 OpenValue is fully focused on the Java ecosystem. With our decentralized teams of experienced consultants, internationally recognized Java champions and software architects we always strive for the best possible solution from one of our 11 offices in Europe.

@@ -15,7 +15,6 @@ related_posts:
   - "conditional-builds-on-gitlab"
   - "devops-for-developers-continuous-integration-github-actions-and-sonar-cloud"
   - "documentation-as-code-with-asciidoctor-gitlab-ci-and-gitlab-pages"
-frozen: false
 ---
 
 When I write Apache APISIX-related blog posts, I want my colleagues to review them first. However, it's my blog, and since I mix personal and business posts, I want to keep them from the repository. I need a preview, accessible only to a few, something like [Vercel's preview](https://vercel.com/docs/concepts/deployments/preview-deployments). I'm using GitLab Pages, and there's no such out-of-the-box feature.

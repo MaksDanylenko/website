@@ -14,7 +14,6 @@ related_posts:
   - "continuous-production-profiling-and-diagnostics"
   - "analyzing-and-tuning-warm-up-of-the-jvm-with-azul-zulu-prime-builds-of-openjdk"
   - "configuring-spring-boot-to-build-a-docker-image-with-azul-zulu-and-debug-options"
-frozen: false
 ---
 
 **As a developer, I've often struggled with diagnosing user-reported issues, which is often caused by a lack of information to reproduce the problem. While a ticket may contain a screenshot of the problem and a description, it often does not portray the complete picture. For example: what did the user do that led up to the issue? What endpoints were called from the frontend, and how did they respond? What did the underlying systems communicate? Etc.**

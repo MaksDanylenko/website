@@ -10,7 +10,6 @@ image: "sparkler-4629347.jpg"
 categories:
   - "Java"
 related_posts:
-frozen: false
 ---
 
 I've been the happy owner of several Philips Hue-connected lights for a few years. Some of them are coloured, some of them regular. In addition, I bought a sensor to go along with the light I installed in my toilets: it turns on automatically when it detects a movement there.

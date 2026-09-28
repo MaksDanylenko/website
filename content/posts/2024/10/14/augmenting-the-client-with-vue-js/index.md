@@ -16,7 +16,6 @@ related_posts:
   - "server-side-rendering-with-spring-boot"
   - "cracking-code-and-conventions-an-exclusive-interview-with-nicolas-frankel"
   - "augmenting-the-client-with-alpine-js"
-frozen: false
 ---
 
 In my [previous article](https://foojay.io/today/a-short-history-of-ajax-and-ssr/), I laid the ground to build upon; now is the time to start "for real".

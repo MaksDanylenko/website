@@ -17,7 +17,6 @@ related_posts:
   - "the-serverless-database-you-really-want"
   - "a-case-for-databases-on-kubernetes-from-a-former-skeptic"
   - "data-modeling-in-cassandra-and-astra-db"
-frozen: false
 ---
 
 For decades, many companies have relied on relational databases to store, protect, and access their data.

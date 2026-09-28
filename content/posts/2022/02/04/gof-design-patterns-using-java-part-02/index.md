@@ -13,7 +13,6 @@ related_posts:
   - "evolution-of-java-memory-architecture-post-java-7-0"
   - "java-roots-1-java-memory-architecture"
   - "boxlang-ai-deep-dive-part-2-of-7-building-a-production-grade-ai-tool-ecosystem"
-frozen: false
 ---
 
 [Link to YouTube Video - Introduction to Design Patterns](https://youtu.be/vq9zkZBjWkw/)  

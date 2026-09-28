@@ -15,7 +15,6 @@ related_posts:
   - "azul-brings-java-from-edge-to-cloud"
   - "azul-enhances-readynow-to-solve-javas-warmup-problem-simplify-operations-and-optimize-cloud-costs"
   - "azul-provides-the-crac-in-aws-snapstart-builds"
-frozen: false
 ---
 
 **Java is the engine behind mission-critical applications and end user experiences. From faster response times to consistent performance, Java can have a significant impact on business results and cloud costs.**

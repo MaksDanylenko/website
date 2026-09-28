@@ -14,7 +14,6 @@ related_posts:
   - "get-started-with-allocation-profiling"
   - "beginners-guide-to-java-profiler"
   - "duplicate-finder-for-documentation"
-frozen: false
 ---
 
 Other languages: [Español](https://flounder.dev/es/posts/duplicate-finder-requirements/) [한국어](https://flounder.dev/ko/posts/duplicate-finder-requirements/) [Português](https://flounder.dev/pt/posts/duplicate-finder-requirements/) [中文](https://flounder.dev/zh/posts/duplicate-finder-requirements/)

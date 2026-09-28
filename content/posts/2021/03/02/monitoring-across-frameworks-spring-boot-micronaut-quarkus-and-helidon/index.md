@@ -14,7 +14,6 @@ related_posts:
   - "prevent-ldap-injection-in-java-with-springboot"
   - "crossing-the-river-styx-spring-boot-3-5-and-the-zombie-dependency-problem"
   - "spring-i-o-2026-field-notes-from-barcelona"
-frozen: false
 ---
 
 Gone are the times when developers' jobs ended with the release of the application. Nowadays, developers care more and more about the operational side of IT: perhaps they operate applications themselves, but more probably, their organizations foster increased collaboration between Dev and Ops.

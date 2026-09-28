@@ -13,7 +13,6 @@ related_posts:
   - "getting-started-with-jobrunr-a-powerful-task-scheduler-in-ja"
   - "carbon-aware-job-processing-with-jobrunr-v8"
   - "foojay-podcast-60"
-frozen: false
 ---
 
 Everyone assumes you need Python to build AI agents. But the Java ecosystem already has every piece: Spring AI for LLM integration, Spring Events for decoupled messaging, JobRunr for reliable background jobs, and Spring Modulith for clean architecture. We didn't build anything new. We connected the pieces that were already there.

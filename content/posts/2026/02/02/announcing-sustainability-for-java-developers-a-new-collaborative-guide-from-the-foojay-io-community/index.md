@@ -20,7 +20,6 @@ related_posts:
   - "42-practical-java-design-patterns-builder-and-more"
   - "5-great-reasons-to-use-jooq"
   - "kotlin-delegation"
-frozen: false
 ---
 
 Java developers from around the world are writing a book about a question that's becoming impossible to ignore: how do we write software that's good for both our projects and the planet?

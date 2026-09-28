@@ -10,7 +10,6 @@ image: "snyk-logo-2.png"
 categories:
   - "Security"
 related_posts:
-frozen: false
 ---
 
 SQL injection is one of the most dangerous vulnerabilities for online applications. It occurs when a user adds untrusted data to a database query. For instance, when filling in a web form. If SQL injection is possible, smart attackers can create user input to steal valuable data, bypass authentication, or corrupt the records in your database.

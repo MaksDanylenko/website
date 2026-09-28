@@ -17,7 +17,6 @@ related_posts:
   - "foojay-podcast-57"
   - "foojay-podcast-56"
   - "foojay-podcast-88"
-frozen: false
 ---
 
 **What do people who have Developer Relations as their job description do? And how do you become a conference speaker? You'll learn in this Foojay podcast!**

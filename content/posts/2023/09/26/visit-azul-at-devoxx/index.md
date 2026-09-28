@@ -14,7 +14,6 @@ related_posts:
   - "book-announcement-openjdk-migration-guide-for-dummies"
   - "is-openjdk-just-a-drop-in-replacement"
   - "foojay-podcast-28"
-frozen: false
 ---
 
 **[Devoxx Belgium 2023](https://devoxx.be/?utm_medium=event&utm_campaign=20231003-SEV-Devoxx%20Belgium&utm_source=unbounce&utm_content&utm_term) is finally here! To mark the 20th anniversary of the conference and the release of the new Azul book [OpenJDK Migration for Dummies](https://www.azul.com/openjdk-migration-for-dummies/?utm_medium=event&utm_campaign=20231004-HEV-Dummies%20Launch%20Party%20at%20Devoxx%20BE&utm_source=unbounce&utm_content=&utm_term=), this post summarizes all the logistical details you need to know to get the most out of Azul at Devoxx!**

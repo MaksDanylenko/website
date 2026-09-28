@@ -13,7 +13,6 @@ related_posts:
   - "own-your-pixels-native-fidelity-on-your-schedule"
   - "using-the-raspberry-pi-sense-hat-with-pi4j-drivers"
   - "ai-found-the-bugs-whos-patching-your-eol-java-code"
-frozen: false
 ---
 
 Foojay wouldn't exist without the many contributions from its community, whether it's a single post or an ongoing stream of knowledge sharing. That's why we've started highlighting two of them each month as **[Featured Authors](https://foojay.io/today/author/)**. We kicked this off in July with Igor and Steve, and this post covers both our July and August (Cristobal and Shai) featured authors. Want to read more from any of them? Just click their name to visit their Foojay author page, where you'll find their full list of posts. We'll be back with the next update at the beginning of September.

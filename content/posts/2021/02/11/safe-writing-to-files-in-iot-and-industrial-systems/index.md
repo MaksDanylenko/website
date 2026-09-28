@@ -11,7 +11,6 @@ categories:
   - "Performance"
   - "Security"
 related_posts:
-frozen: false
 aliases:
   - "/today/37675/"
 ---

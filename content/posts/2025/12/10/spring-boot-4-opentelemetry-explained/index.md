@@ -16,7 +16,6 @@ categories:
   - "Spring"
   - "Tutorials"
 related_posts:
-frozen: false
 ---
 
 In my previous [article](https://foojay.io/today/preparing-for-spring-framework-7-and-spring-boot-4/), I outlined a comprehensive list of features introduced in Spring Framework 7 and Spring Boot 4.

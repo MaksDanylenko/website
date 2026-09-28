@@ -16,7 +16,6 @@ related_posts:
   - "project-panama-for-newbies-part-1"
   - "towards-continuous-performance-regression-testing"
   - "java-panama-polyglot-swift-part-2"
-frozen: false
 ---
 
 {{< img src="polyglot.png" class="size-full is-resized" width="469" height="112" >}}

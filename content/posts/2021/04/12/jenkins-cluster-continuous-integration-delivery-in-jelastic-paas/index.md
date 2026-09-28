@@ -11,7 +11,6 @@ categories:
   - "Jelastic"
   - "Tutorials"
 related_posts:
-frozen: false
 ---
 
 Jenkins is an open-source continuous integration and delivery system designed to ensure build and deploy automation. It is well-suited to be installed in the cloud to run self-hosted pipelines.

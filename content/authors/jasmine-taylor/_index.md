@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/jasmine-taylor/"
 github: ""
 youtube: ""
 website: ""
-frozen: false
 ---

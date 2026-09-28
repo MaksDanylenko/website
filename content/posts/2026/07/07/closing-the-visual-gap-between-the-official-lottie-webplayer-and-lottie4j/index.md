@@ -14,7 +14,6 @@ related_posts:
   - "lottie4j-1-2-0-dotlottie-support-marker-playback-cropping-and-a-big-speed-boost"
   - "lottie4j-meets-lottiefiles"
   - "testing-lottie4j-javafx-animations-in-github-actions-with-javafx-26-headless"
-frozen: false
 ---
 
 A Lottie library is only as good as its output looks. If an animation renders differently in [Lottie4J](https://lottie4j.com/) than it does in the official web player, that's a bug, even when no exception is thrown and the code looks correct.

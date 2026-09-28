@@ -14,7 +14,6 @@ related_posts:
   - "jfr-timestamps-and-system-nanotime"
   - "jfr-event-collection"
   - "java-profiling-overview"
-frozen: false
 ---
 
 ***Some thoughts on the future of continuous production profiling on the OpenJDK platform.***

@@ -13,7 +13,6 @@ related_posts:
   - "introducing-boxlang-ai-explorer-a-local-catalog-for-every-ai-pattern"
   - "build-secure-ai-chat-applications-with-boxlang-rag-ollama-and-amazon-bedrock-with-dan-card"
   - "idempotent-spring-boot-starter"
-frozen: true
 ---
 
 Java 26 is here! Six months ago, we welcomed Java 25 into our hearts, which means it's time for another fresh helping of Java features. This time, the set of features is a bit smaller compared to some of the previous releases, which can only mean one thing: the focus for this release was to provide a solid foundation for something big to be released soon™️! My hope is that the first JEPs out of Project Valhalla will be announced later this year. That hope is fueled by some of Java 26's changes as they feel like appropriate preparation steps for the first Valhalla features (this is especially true for JEPs [500](#jep-500-prepare-to-make-final-mean-final) and [529](#jep-529-vector-api-eleventh-incubator)).

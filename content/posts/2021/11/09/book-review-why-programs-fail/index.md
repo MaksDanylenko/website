@@ -14,7 +14,6 @@ related_posts:
   - "eight-debugging-tips-for-intellijidea-users-you-never-knew-existed"
   - "production-horrors-handling-disasters-public-debrief"
   - "foojay-podcast-67"
-frozen: true
 ---
 
 ![](wpf3-415x510.jpeg)

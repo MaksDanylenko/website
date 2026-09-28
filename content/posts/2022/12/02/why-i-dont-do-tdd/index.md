@@ -13,7 +13,6 @@ related_posts:
   - "internal-security-hardening-internal-systems"
   - "api-mocking-essential-and-redundant"
   - "observability-is-cultural"
-frozen: false
 ---
 
 I recently gave a talk about debugging for the London Java Community. During the Q\&A part of the talk, someone asked me about my approach to Test Driven Development. In the past I looked at that practice in a more positive light. Writing lots of tests. How can that be bad?

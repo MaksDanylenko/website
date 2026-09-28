@@ -16,7 +16,6 @@ related_posts:
   - "kubernetes-gateway-api"
   - "poor-mans-api"
   - "introducing-bx-jwt-enterprise-grade-json-web-tokens-for-boxlang"
-frozen: false
 ---
 
 Lots of companies are eager to provide their identity provider: Twitter, Facebook, Google, etc. For smaller businesses, not having to manage identities is a benefit. However, we want to avoid being locked into one provider.

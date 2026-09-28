@@ -16,7 +16,6 @@ related_posts:
   - "controlling-electronics-with-jbang-on-the-raspberry-pi"
   - "java-in-education-combining-java-with-raspberry-pi-and-the-pi4j-library"
   - "pi4j-welcomes-java-21-on-the-raspberry-pi"
-frozen: false
 ---
 
 One year after [the first release of V.2 of Pi4J](https://foojay.io/today/pi4j-v-2-released/), a new release was published. Pi4J provides**friendly object-oriented I/O API and implementation libraries for Java Programmers** to access the **full I/O capabilities of the Raspberry Pi platform**.

@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/anitakumari42/"
 github: ""
 youtube: ""
 website: ""
-frozen: false
 ---

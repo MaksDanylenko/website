@@ -15,7 +15,6 @@ related_posts:
   - "building-a-spring-boot-crud-application-using-mongodbs-relational-migrator"
   - "building-rest-apis-in-java-with-spring-boot"
   - "clean-and-modular-java-a-hexagonal-architecture-approach"
-frozen: false
 ---
 
 As applications expand, the complexity of the rules they enforce also increases. In many systems, these rules are embedded within the data, primarily in database queries that filter, join, or compute based on real-world conditions. However, the tests for these queries are often shallow, repetitive, or, worse yet, completely absent. When there is an error in the database logic, the application may still compile successfully, but the business can suffer significant consequences.

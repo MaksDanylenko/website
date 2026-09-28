@@ -15,7 +15,6 @@ categories:
   - "Kubernetes"
   - "Microservices"
 related_posts:
-frozen: false
 ---
 
 ![](1_i26lEM7Wl5JA7FIMlhtKNA-1024x576.jpeg)

@@ -15,7 +15,6 @@ related_posts:
   - "building-microservices-spring-boot-fat-uber-jar"
   - "journeys-in-java-level-1-building-an-empire-of-microservices"
   - "book-review-monolith-to-microservices-part-2"
-frozen: false
 ---
 
 I have just finished reading ["Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith](https://www.amazon.ca/Monolith-Microservices-Evolutionary-Patterns-Transform/dp/1492047848)" by Sam Newman.

@@ -14,7 +14,6 @@ related_posts:
   - "delegation-vs-inheritance-in-graphical-user-interfaces"
   - "new-book-practical-vaadin"
   - "securing-vaadin-applications-with-microsoft-entra"
-frozen: false
 ---
 
 In this guide, we create a web UI that performs full CRUD (create, read, update, and delete) operations on a Spring Data JPA backend. This UI is developed entirely in pure Java using [Vaadin Flow](https://vaadin.com/docs/latest/flow/guide/quick-start "Vaadin Flow") (no HTML or JavaScript involved). You can explore the full source code on [GitHub](https://github.com/tarekoraby/crud-ui-tutorial "GitHub").

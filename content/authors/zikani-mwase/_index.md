@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/zikani03/"
 github: ""
 youtube: ""
 website: ""
-frozen: false
 ---

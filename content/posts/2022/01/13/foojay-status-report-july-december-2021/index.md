@@ -13,7 +13,6 @@ related_posts:
   - "foojay-status-report-january-june-2021"
   - "friends-of-openjdk-at-fosdem-2022"
   - "friends-of-openjdk-at-fosdem-2021"
-frozen: false
 ---
 
 Another 6 months are behind us... and let's take a look at some stats on Foojay, a central resource and community platform for Friends Of OpenJDK. ([The previous report is here.](https://foojay.io/today/foojay-status-report-january-june-2021/))

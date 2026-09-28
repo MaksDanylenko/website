@@ -16,7 +16,6 @@ related_posts:
   - "building-a-fullstack-imdb-clone-with-a-java-backend-using-sparkjava-and-neo4j"
   - "how-to-create-a-spring-boot-application-to-retrieve-data-from-evernote"
   - "how-to-run-neo4j-on-kubernetes"
-frozen: false
 ---
 
 This is episode 39 of the [Breaktime Tech Talks podcast](https://www.youtube.com/playlist?list=PLzZ7iUdr2mwS6qexoz9dsI0NfnU614p1w).

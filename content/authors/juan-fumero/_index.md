@@ -9,5 +9,4 @@ linkedin: ""
 github: ""
 youtube: "https://www.youtube.com/@juanfumero"
 website: "https://x.com/snatverk"
-frozen: false
 ---

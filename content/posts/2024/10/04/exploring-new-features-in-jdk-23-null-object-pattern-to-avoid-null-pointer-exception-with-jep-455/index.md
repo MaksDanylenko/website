@@ -14,7 +14,6 @@ related_posts:
   - "exploring-new-features-in-jdk-23-simplifying-java-with-module-import-declarations-with-jep-476"
   - "exploring-new-features-in-jdk-23-simplifying-java-with-primitive-type-patterns-with-jep-455"
   - "boxlang-1-14-0-boxset-is-here-boxlangs-new-first-class-set-type"
-frozen: false
 ---
 
 **The newest release JDK 23 \[2\] comes with a neat extension to pattern matching for switch and instanceof statements, JEP-455: Primitive Types in Patterns, instanceof and switch \[1\]. While the introduction of pattern matching can be considered a crucial element in moving the Java platform into a functional paradigm, it introduced several limitations.**

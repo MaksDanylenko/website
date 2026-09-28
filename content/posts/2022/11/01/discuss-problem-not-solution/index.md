@@ -14,7 +14,6 @@ related_posts:
   - "blockhound-how-it-works"
   - "chopping-monolith"
   - "how-to-beautify-your-github-repo"
-frozen: false
 ---
 
 As a tech guy, I love to discuss technologies. And as discussions go, it's generally the comparison kind: JVM vs. Net, Java vs. Kotlin, Go vs. Rust, Maven vs. the unspeakable one, etc.

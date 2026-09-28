@@ -16,7 +16,6 @@ related_posts:
   - "game-development-basics-with-fxgl"
   - "visualizing-brain-computer-interface-data-using-javafx"
   - "foojay-podcast-25"
-frozen: false
 aliases:
   - "/today/interview-with-paul-kocian-aka-orangomango/"
 ---

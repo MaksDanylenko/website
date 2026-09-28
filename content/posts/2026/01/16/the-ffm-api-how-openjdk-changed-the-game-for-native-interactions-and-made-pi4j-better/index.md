@@ -15,7 +15,6 @@ related_posts:
   - "project-panama-for-newbies-part-4"
   - "writing-c-code-in-java"
   - "project-panama-for-newbies-part-1"
-frozen: false
 ---
 
 The [Pi4J project](https://www.pi4j.com/) is a Java library that allows you to control the GPIO pins and electronic components connected to a Raspberry Pi with pure Java code. It removes the complexity of using native libraries and the [Java Native Interface (JNI)](https://www.baeldung.com/jni), allowing you to focus on your application logic.

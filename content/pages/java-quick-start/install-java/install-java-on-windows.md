@@ -2,7 +2,6 @@
 title: "Install Java on Windows"
 description: "Install Java on Windows with an MSI installer, then check the installation from the command prompt."
 url: "/java-quick-start/install-java/install-java-on-windows/"
-frozen: false
 ---
 
 Is Java not available on your Windows computer yet?   

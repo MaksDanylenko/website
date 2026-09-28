@@ -14,7 +14,6 @@ related_posts:
   - "different-approaches-to-building-stateful-microservices-in-the-cloud-native-world"
   - "easily-containerize-java-applications-with-cloud-native-buildpacks"
   - "exploring-cost-effective-solutions-for-stateful-rest-services"
-frozen: false
 ---
 
 **In today's production environments, it is not only expected, but critical to keep your technology stack as up-to-date as possible.**

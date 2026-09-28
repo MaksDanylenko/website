@@ -13,7 +13,6 @@ related_posts:
   - "graphql-javascript-preprocessor-sql-and-more-in-manifold"
   - "spring-boot-debugging-with-aspect-oriented-programming-aop"
   - "boldness-in-refactoring"
-frozen: false
 ---
 
 **In the landscape of software development, bugs are an inevitable part of the journey, and debugging, albeit frustrating at times, is an integral part of the process. There's no escaping this truth, and the sooner we embrace it, the sooner we can master the art of debugging.**

@@ -2,7 +2,6 @@
 title: "Foreign Function & Memory API"
 description: "The Foreign Function & Memory (FFM) API, finalised in Java 22 (JEP 454), provides a safe, efficient, and pure-Java way to interact with native code and off-heap memory — replacing the older, error-prone Java Native Interface (JNI). Foreign memory access ..."
 url: "/pedia/foreign-function-memory-api/"
-frozen: false
 ---
 
 The Foreign Function \& Memory (FFM) API, finalised in Java 22 (JEP 454), provides a safe, efficient, and pure-Java way to interact with native code and off-heap memory — replacing the older, error-prone Java Native Interface (JNI).

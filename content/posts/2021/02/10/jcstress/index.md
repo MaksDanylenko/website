@@ -14,7 +14,6 @@ related_posts:
   - "new-jdkmonitor"
   - "disco-api-helping-you-to-find-any-openjdk-distribution"
   - "debugging-openjdk-tests-in-vscode-without-losing-your-mind"
-frozen: false
 ---
 
 Writing concurrent programs is hard, testing concurrent programs is harder, and debugging concurrent programs is a nightmare. An incorrect concurrent program can run for years, tricking us to believe it is stable code, and it fails when we least expect.

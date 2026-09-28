@@ -17,7 +17,6 @@ related_posts:
   - "the-problem-with-functional-programming"
   - "foojay-podcast-19"
   - "quarkus-unpacked-insights-from-the-foojay-podcast"
-frozen: false
 ---
 
 Functional programming... it seems you either love it or you hate it.

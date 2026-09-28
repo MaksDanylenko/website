@@ -13,7 +13,6 @@ related_posts:
   - "avoid-the-trojan-horse-in-your-pom-xml-sonarqube-advanced-security-part-3"
   - "spring-remote-code-execution-vulnerability"
   - "java-thread-programming-part-2"
-frozen: false
 ---
 
 A couple of years ago, I attended a talk by my former colleague (but still friend) [Volker Simonis](https://twitter.com/volker_simonis). It gave me the idea to dig a bit into the subject of how to secure the JVM. From the material, I created a [series of blog posts](https://blog.frankel.ch/focus/jvm-security/) as well as [a talk](https://www.youtube.com/watch?v=Bgo7dcCbqV8).

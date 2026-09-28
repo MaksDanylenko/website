@@ -18,7 +18,6 @@ related_posts:
   - "6-considerations-when-building-high-performance-java-microservices-with-eda"
   - "7-habits-of-highly-effective-java-coding"
   - "7-reasons-to-choose-apache-pulsar-over-apache-kafka"
-frozen: false
 ---
 
 The evolution of the Java and Jakarta Enterprise ecosystem is converging toward an increasingly simple, efficient, and scalable architecture that improves security, delivers higher performance, and reduces hardware and infrastructure costs.

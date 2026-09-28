@@ -15,7 +15,6 @@ related_posts:
   - "build-web-apps-in-pure-java-with-vaadin-flow"
   - "create-a-crud-ui-in-pure-java"
   - "securing-vaadin-applications-with-microsoft-entra"
-frozen: false
 ---
 
 In this video I show how simple it can be to add drag and drop to a Vaadin application! Drag and Drop can be helpful in many situations, but often it's complicated to implement. That's not the case with Vaadin. Vaadin makes it easy to have drag-and-drop support for all components.  

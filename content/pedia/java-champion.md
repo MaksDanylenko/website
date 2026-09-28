@@ -2,7 +2,6 @@
 title: "Java Champion"
 description: "A Java Champion is a recognised leader, educator, or innovator in the Java community — someone who has demonstrated a sustained, meaningful contribution to the broader Java ecosystem through writing, speaking, open-source work, community building, or technical excellence. The program ..."
 url: "/pedia/java-champion/"
-frozen: false
 ---
 
 A Java Champion is a recognised leader, educator, or innovator in the Java community — someone who has demonstrated a sustained, meaningful contribution to the broader Java ecosystem through writing, speaking, open-source work, community building, or technical excellence.

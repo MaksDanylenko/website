@@ -13,7 +13,6 @@ related_posts:
   - "delegation-vs-inheritance-in-graphical-user-interfaces"
   - "evolution-of-microservices"
   - "book-review-effortless-cloud-native-app-development-using-skaffold-2"
-frozen: false
 ---
 
 ![Vaadin 22 released](1200x630-vaadin-release-v22-700x368.jpg)

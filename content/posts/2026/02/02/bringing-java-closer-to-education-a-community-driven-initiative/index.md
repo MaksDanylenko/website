@@ -16,7 +16,6 @@ related_posts:
   - "cracking-code-and-conventions-an-exclusive-interview-with-nicolas-frankel"
   - "ensuring-safe-and-reliable-ai-interactions-with-llm-guardrails"
   - "foojay-developer-certification-measure-skills"
-frozen: true
 ---
 
 Over the past decades, Java has proven itself to be one of the most reliable, versatile, and widely used programming languages in the world. From enterprise systems to mobile applications and embedded devices, Java continues to evolve and adapt. Yet, one important area still holds enormous untapped potential: education.

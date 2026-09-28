@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/chris-bartholomew/"
 github: ""
 youtube: ""
 website: ""
-frozen: false
 ---

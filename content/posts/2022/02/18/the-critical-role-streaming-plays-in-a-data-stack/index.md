@@ -17,7 +17,6 @@ related_posts:
   - "7-reasons-to-choose-apache-pulsar-over-apache-kafka"
   - "a-case-for-databases-on-kubernetes-from-a-former-skeptic"
   - "why-developers-should-use-apache-pulsar"
-frozen: false
 ---
 
 ![](streaming-data-Depositphotos_5_tn-300x210-1.jpg)

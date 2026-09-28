@@ -14,7 +14,6 @@ related_posts:
   - "seven-reasons-you-should-not-ignore-flaky-tests"
   - "why-i-prefer-trunk-based-development"
   - "testbox-7-real-time-feedback-a-browser-based-ide-and-modern-testing-workflows-on-the-jvm"
-frozen: false
 ---
 
 **Flaky tests pose substantial challenges due to their unpredictable and inconsistent nature. Effectively addressing them requires a multi-faceted approach that involves the effective integration of strategy, process and resource alignment, and a deep understanding of flaky test causality. This post will walk you through this approach.**

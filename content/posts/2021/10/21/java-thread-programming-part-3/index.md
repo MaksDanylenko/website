@@ -13,7 +13,6 @@ related_posts:
   - "java-thread-programming-part-2"
   - "java-thread-programming-part-4"
   - "java-thread-programming-part-6"
-frozen: false
 ---
 
 Continuing [from part 2](https://foojay.io/today/java-thread-programming-part-2/), let's start this article with a bit of context first (*and if you don't like reading text, you can skip this introduction, and go directly to the section below where I discuss pieces of code*).

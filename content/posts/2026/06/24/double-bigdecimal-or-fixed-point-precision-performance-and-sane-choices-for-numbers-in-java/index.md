@@ -13,7 +13,6 @@ related_posts:
   - "does-language-still-matter-in-the-age-of-ai-yes-but-the-tradeoff-has-changed"
   - "effective-coding-with-java-observability"
   - "hard-things-computer-science"
-frozen: false
 ---
 
 There is an evergreen debate in the Java world: *Should you always use* `MARKDOWN_HASHeb731dbabfc7392f8ad8c1cdb326a26aMARKDOWN`*HASH* for money?

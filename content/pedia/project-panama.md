@@ -2,7 +2,6 @@
 title: "Project Panama"
 description: "Project Panama connects Java to code and data outside the JVM. It delivered the Foreign Function & Memory API, the jextract tool that generates bindings from C headers, and the incubating Vector API."
 url: "/pedia/project-panama/"
-frozen: false
 ---
 
 Project Panama is the OpenJDK project concerned with the boundary between the JVM and everything outside it: **native libraries, off-heap memory, and hardware the JVM does not expose directly**. Its goal is to make that boundary crossable from plain Java, without writing C.

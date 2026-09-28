@@ -16,7 +16,6 @@ related_posts:
   - "not-a-lucid-web3-dream-anymore-x402-erc-8004-a2a-and-the-next-wave-of-ai-commerce"
   - "unit-testing-supabase-in-kotlin"
   - "12-lessons-learned-from-doing-the-one-billion-row-challenge"
-frozen: false
 ---
 
 Believe it or not, it is possible to do Machine Learning in Java. In this article I go over how to implement a Spring Boot API for Spam Detection using an advanced anti-spam model from the [Hugging Face onnx-community](https://huggingface.co/onnx-community/models) and Microsoft's [ONNX Runtime for Java](https://onnxruntime.ai/docs/get-started/with-java.html).

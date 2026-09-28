@@ -20,7 +20,6 @@ related_posts:
   - "chronicle-services-building-fast-microservices-with-java"
   - "charting-the-course-of-java-an-insightful-conversation-with-java-champion-sebastian-daschner"
   - "carbon-aware-job-processing-with-jobrunr-v8"
-frozen: false
 ---
 
 This article explores how Quarkus can help organizations reduce costs, streamline development, and modernize their Java applications for today's cloud-native environments. It outlines the real-world benefits of adopting Quarkus and highlights how its core features address the performance and scalability challenges commonly associated with traditional Java frameworks.

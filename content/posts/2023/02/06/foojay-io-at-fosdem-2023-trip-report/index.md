@@ -13,7 +13,6 @@ related_posts:
   - "managing-dependencies-in-intellij-idea"
   - "firefox-profiler-beyond-the-web"
   - "are-java-security-updates-important"
-frozen: false
 ---
 
 ### "What if Simon Ritter's Friends Of OpenJDK keynote session at FOSDEM entitled '[After Nearly 30 Years, How Is Java So Popular?](https://fosdem.org/2023/schedule/event/javapopularity/)' ends up being held... in an empty room?"

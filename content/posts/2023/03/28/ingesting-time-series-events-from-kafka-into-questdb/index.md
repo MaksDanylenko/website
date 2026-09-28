@@ -17,7 +17,6 @@ related_posts:
   - "how-does-kafka-perform-when-you-need-low-latency"
   - "how-to-reduce-cloud-cost-by-99-for-eda-kafka-applications"
   - "how-to-create-a-failover-client-using-the-hazelcast-viridian-serverless"
-frozen: false
 ---
 
 If you are working on a project with fast or streaming data, chances are Apache Kafka is already [part of your pipeline](https://kafka.apache.org/powered-by#:~:text=Today%2C%20Kafka%20is%20used%20by,80%25%20of%20the%20Fortune%20100.).

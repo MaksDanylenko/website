@@ -13,7 +13,6 @@ related_posts:
   - "asynchronous-completablefuture-san-francisco-adventure-java-challenge"
   - "daemon-thread-java-code-quiz"
   - "function-calculation-java-challenge"
-frozen: false
 ---
 
 Do you know what the differences are between method references and lambdas?

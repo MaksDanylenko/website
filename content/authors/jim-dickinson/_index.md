@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/jim-dickinson-0780ab8/"
 github: ""
 youtube: ""
 website: ""
-frozen: false
 ---

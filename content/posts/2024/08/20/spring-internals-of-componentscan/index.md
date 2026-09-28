@@ -14,7 +14,6 @@ related_posts:
   - "how-to-improve-your-spring-boot-skills"
   - "spring-ai-how-to-write-genai-applications-with-java"
   - "spring-internals-of-restclient"
-frozen: false
 ---
 
 **The `@ComponentScan` annotation, which is an interface located within the `org.springframework.context.annotation` package, facilitates component scanning in a Spring application. This allows the Spring Container to automatically detect beans.**

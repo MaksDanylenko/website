@@ -11,7 +11,6 @@ categories:
   - "AI"
   - "Book Review"
 related_posts:
-frozen: false
 ---
 
 This review is about [Build an AI Agent (From Scratch)](https://www.manning.com/books/build-an-ai-agent-from-scratch?utm_source=frankel&utm_medium=affiliate&utm_campaign=affiliate&a_aid=frankel) by Jungjun Hur and Younghee Song from Manning.

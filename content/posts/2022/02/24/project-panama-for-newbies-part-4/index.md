@@ -16,7 +16,6 @@ related_posts:
   - "project-panama-for-newbies-part-2"
   - "project-panama-for-newbies-part-3"
   - "is-there-a-best-os-to-develop-a-java-application-on"
-frozen: false
 ---
 
 **Updated December 31, 2025:** This article now features Java 25 and the Foreign Function \& Memory (FFM) API, which has been a standard feature since JDK 22.

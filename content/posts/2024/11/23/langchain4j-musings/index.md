@@ -15,7 +15,6 @@ related_posts:
   - "comparison-fault-tolerance-libraries"
   - "advanced-url-rewriting-with-apache-apisix"
   - "how-to-develop-ai-agents-using-boxlang-ai-a-practical-guide"
-frozen: false
 ---
 
 I'm coming relatively late to the LLM party, but I rarely come very early in the hype cycle.

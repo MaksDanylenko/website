@@ -11,7 +11,6 @@ outputs:
   - rss
 aliases:
   - "/jugs-2/"
-frozen: true
 ---
 
 **Tip:** With the Foojay.io Podcast, we "virtually" visited some of these JUGs. You can find all the [podcasts here](https://foojay.io/today/category/podcast/).

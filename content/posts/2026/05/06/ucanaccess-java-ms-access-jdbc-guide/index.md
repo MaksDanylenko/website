@@ -18,7 +18,6 @@ related_posts:
   - "boxlang-1-14-0-sets-ranges-inner-classes-and-a-runtime-that-talks-back"
   - "aggregation-optimization-in-mongodb-unnecessary-unwinds-part-2"
   - "boxlang-1-14-0-query-transformers-take-full-control-of-your-query-results"
-frozen: false
 ---
 
 Microsoft Access databases are everywhere. Decades of `.mdb` and `.accdb` files silently power spreadsheets, small business applications, and legacy data stores across organizations of all sizes. Yet for Java developers, connecting to these files has historically meant wrestling with native Windows libraries, ODBC bridges, and platform-specific hacks.  

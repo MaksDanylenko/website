@@ -16,7 +16,6 @@ related_posts:
   - "jmanc-2024-trip-report"
   - "springone-tlv-world-tour-trip-report"
   - "jug-ph-meetup-4-and-5"
-frozen: false
 ---
 
 ## Java User Group Philippines 1st Half Meetup 2024

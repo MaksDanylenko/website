@@ -17,7 +17,6 @@ related_posts:
   - "introduction-to-data-driven-testing-with-java-and-mongodb"
   - "java-virtual-threads-in-action-optimizing-mongodb-operation"
   - "mongodb-schemas-in-java"
-frozen: false
 ---
 
 Building a semantic movie search app with embeddings and vector queries

@@ -15,7 +15,6 @@ related_posts:
   - "busting-myths-building-futures-a-conversation-with-cay-horstmann-on-java-and-machine-learning"
   - "faster-integration-tests-with-reusable-testcontainers"
   - "bring-ai-into-your-jakarta-ee-apps-with-langchain4j-cdi"
-frozen: false
 ---
 
 **Lately, for my Generative AI powered Java apps, I've used the [Gemini](https://deepmind.google/technologies/gemini/#introduction) multimodal large language model from Google. But there's also [Gemma](https://blog.google/technology/developers/gemma-open-models/), its little sister model.**

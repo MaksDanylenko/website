@@ -9,7 +9,6 @@ image: "Favicon-3-2.png"
 categories:
   - "Java"
 related_posts:
-frozen: false
 ---
 
 **TLDR**

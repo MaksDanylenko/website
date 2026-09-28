@@ -18,7 +18,6 @@ related_posts:
   - "building-scalable-streaming-applications-with-datastax-astra-streaming"
   - "cassandra-database-migration-to-kubernetes-with-zero-downtime"
   - "modernize-legacy-code-in-production-rebuild-your-airplane-midflight-without-crashing"
-frozen: false
 ---
 
 The dreaded part of every site reliability engineer's (SRE) job eventually: capacity planning. You know, the dance between all the stakeholders when deploying your applications. Did engineering really simulate the right load and do we understand how the application scales? Did product managers accurately estimate the amount of usage? Did we make architectural decisions that will keep us from meeting our SLA goals? And then the question that everyone will have to answer eventually: how much is this going to cost? This forces SREs to assume the roles of engineer, accountant and fortune teller.

@@ -13,7 +13,6 @@ related_posts:
   - "java-whats-old-part-i-collections"
   - "offline-crypto-address-validation-in-java"
   - "introducing-boxlang-ai-explorer-a-local-catalog-for-every-ai-pattern"
-frozen: false
 ---
 
 After Java, [What's Old? Part I: Collections](https://foojay.io/today/java-whats-old-part-i-collections/) and [Java, What's Old? Part II: Utils](https://foojay.io/today/java-whats-old-part-ii-utils/), let's now have a look at less-known old input/output classes of the JDK that can still be useful.

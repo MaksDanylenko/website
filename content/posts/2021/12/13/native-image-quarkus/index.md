@@ -16,7 +16,6 @@ related_posts:
   - "native-spring-boot"
   - "native-image-micronaut"
   - "optimizing-java-for-the-cloud-native-era-with-quarkus"
-frozen: false
 ---
 
 So far, we have looked at how well [Spring Boot](https://foojay.io/today/native-spring-boot/) and [Micronaut](https://foojay.io/today/native-image-micronaut/) integrate GraalVM native image extension. In this post, I'll focus on [Quarkus](https://quarkus.io/):

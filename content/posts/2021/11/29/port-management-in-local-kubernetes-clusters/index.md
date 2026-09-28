@@ -15,7 +15,6 @@ related_posts:
   - "a-case-for-databases-on-kubernetes-from-a-former-skeptic"
   - "ci-cd-workflow-for-spring-boot-applications-on-kubernetes-via-skaffold"
   - "creating-a-kubernetes-operator-in-java"
-frozen: false
 ---
 
 Most of my talks contain a demo. A fair share of these demos require multiple "infrastructure" dependencies: a database (or more), Elasticsearch, you name it. To ease my setup and avoid messing up my machine, I use either Docker Compose or Kubernetes locally on my Mac. Both rely on Docker Desktop.

@@ -11,7 +11,6 @@ categories:
   - "Performance"
   - "Temporal"
 related_posts:
-frozen: false
 ---
 
 **Once upon a time, applications managed their own data files. Every program hand-rolled its own locking, its own crash recovery, its own consistency guarantees. Every program did it badly, in its own unique way.**

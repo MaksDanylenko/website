@@ -13,7 +13,6 @@ related_posts:
   - "java-thread-programming-part-7"
   - "java-thread-programming-part-6"
   - "relearning-java-thread-primitives"
-frozen: false
 ---
 
 **In [our last article](https://foojay.io/today/java-thread-programming-part-8/), we discussed thread-safety in naive terms and shared a couple of ways to ensure thread safety.** **We also introduced a package containing thread-safe classes, which we can confidently use without worrying much, e.g., AtomicInteger. This is because they are designed in a thread-safe way.**

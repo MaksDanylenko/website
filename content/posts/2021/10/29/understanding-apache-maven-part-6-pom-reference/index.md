@@ -12,7 +12,6 @@ related_posts:
   - "understanding-apache-maven-part-3-maven-coordinates-pom-inheritance"
   - "understanding-apache-maven-part-4-maven-lifecycle"
   - "understanding-apache-maven-part-5-dependencies-in-maven"
-frozen: false
 ---
 
 In Part 6 [of the series](https://foojay.io/today/author/c-guntur/), a walkthrough of POM content (XML) is covered!

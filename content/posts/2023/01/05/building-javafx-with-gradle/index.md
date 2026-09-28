@@ -15,7 +15,6 @@ related_posts:
   - "compilation-avoidance-with-gradle"
   - "introducing-gradle-test-suites"
   - "javafx-templates-for-desktop-applications"
-frozen: true
 ---
 
 Usually Maven is my build tool of choice and for Java front-ends I sometimes still build a front-end application using ANT, Swing with Oracle's JDK 8u202 and JDK 8's Java Packager, but don't tell anyone....

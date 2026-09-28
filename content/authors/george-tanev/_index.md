@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/georgetanev/"
 github: ""
 youtube: ""
 website: "https://www.georgetconsulting.com/"
-frozen: false
 ---

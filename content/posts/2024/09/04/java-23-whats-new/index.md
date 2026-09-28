@@ -16,7 +16,6 @@ related_posts:
   - "java-22-whats-new"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "java-where-the-wild-code-isnt"
-frozen: false
 ---
 
 **As soon as Java 23 is out, it'll be time to walk through all the functionalities that this version bring to us as developers.**

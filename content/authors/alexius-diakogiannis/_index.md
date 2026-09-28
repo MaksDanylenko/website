@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/diakogiannis/"
 github: ""
 youtube: "https://www.youtube.com/@JEE-gr"
 website: "https://x.com/Diakogiannis"
-frozen: false
 ---

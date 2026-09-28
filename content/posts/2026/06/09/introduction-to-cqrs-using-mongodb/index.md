@@ -12,7 +12,6 @@ related_posts:
   - "agents-meet-databases-the-future-of-agentic-architectures"
   - "ai-powered-code-review-assistant-automated-code-analysis-with-spring-ai-and-mongodb"
   - "apache-cassandra-4-0-taming-tail-latencies-with-java-16-zgc"
-frozen: false
 ---
 
 In enterprise environments, projects often begin with a simple structure: one model, one service, and one document, using a single class and data transfer object for both read and write operations. While this unified approach works at first, it becomes problematic as requirements grow. Operations become more complex, requiring additional validations, rules, and constraints. Over time, read operations may demand different formats, such as aggregations, summaries, or custom views. Relying on a single model for both reading and writing leads to maintenance challenges and inefficient queries. This approach can result in returning unnecessary data or omitting required information, violating the single responsibility principle and making the design less effective.

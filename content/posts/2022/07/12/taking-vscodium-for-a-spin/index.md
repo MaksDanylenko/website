@@ -14,7 +14,6 @@ related_posts:
   - "chopping-monolith"
   - "how-to-beautify-your-github-repo"
   - "effective-cloud-native-development-open-liberty-vs-code"
-frozen: false
 ---
 
 As part of my new job on [Apache APISIX](https://apisix.apache.org/), I write less Java and Kotlin code.

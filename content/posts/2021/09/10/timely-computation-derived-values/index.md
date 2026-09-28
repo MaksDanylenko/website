@@ -12,7 +12,6 @@ categories:
 related_posts:
   - "jc-ai-newsletter-13"
   - "the-curious-case-of-different-runtimes-with-different-training-data-jit"
-frozen: false
 ---
 
 In [a recent article here on Foojay](https://foojay.io/today/real-world-stream-collector/), on a real world stream collector, I described the use-case of an e-commerce shop.

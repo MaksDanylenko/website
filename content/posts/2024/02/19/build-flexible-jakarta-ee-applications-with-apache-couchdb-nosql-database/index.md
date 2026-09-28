@@ -17,7 +17,6 @@ related_posts:
   - "can-java-jakarta-ee-do-microservices"
   - "cloud-myth-ahead-of-time-compilation-will-save-you-money"
   - "enterprise-java-in-practice-fragmentation-platforms-and-real-world-trade-offs"
-frozen: false
 ---
 
 **Are you a Jakarta EE developer interested in leveraging the power of NoSQL databases for your applications?**

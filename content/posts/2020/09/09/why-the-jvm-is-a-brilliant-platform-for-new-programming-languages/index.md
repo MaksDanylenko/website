@@ -13,7 +13,6 @@ related_posts:
   - "idempotent-spring-boot-starter"
   - "boxlang-1-15-0-released-blazing-fast-strings-runtime-portability-and-much-more"
   - "jurassic-jdk-migrate-or-extinct"
-frozen: false
 ---
 
 In my [previous post](https://foojay.io/today/why-java-c-and-python-are-todays-most-utilized-programming-languages/), I speculated that Java, Python, and C are likely to be the most prominent programming languages going pretty far into the future.

@@ -14,7 +14,6 @@ related_posts:
   - "building-a-real-time-ai-fraud-detection-system-with-spring-kafka-and-mongodb"
   - "building-a-spring-boot-crud-application-using-mongodbs-relational-migrator"
   - "clean-and-modular-java-a-hexagonal-architecture-approach"
-frozen: false
 ---
 
 [MongoDB](https://www.mongodb.com/?utm_campaign=devrel&utm_source=third-party-content&utm_medium=cta&utm_content=geo-mongodb-foojay&utm_term=tony.kim) makes it really easy to work with location data (sometimes called Geo Data) by simplifying how to store this type of data and streamlining how you query for it so you can easily create "find nearby" queries, or plot your location data with ease!

@@ -12,7 +12,6 @@ related_posts:
   - "agents-meet-databases-the-future-of-agentic-architectures"
   - "ai-powered-chat-application-using-ibm-watsonx-ai-and-spring-ai"
   - "ai-powered-code-review-assistant-automated-code-analysis-with-spring-ai-and-mongodb"
-frozen: false
 ---
 
 Modern artificial intelligence systems are continually evolving. Large Language Models, or LLMs, have become the backbone of modern applications and help build conversational interfaces, like GPS, to more integrated content. However, LLMs lack memory and the capacity to retain content across interactions because they are stateless. And these limitations led to the building of AI agents. These AI agents build beyond simple prompt-response interactions into more autonomous, task-oriented workflows.

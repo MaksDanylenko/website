@@ -14,7 +14,6 @@ related_posts:
   - "youre-invited-to-intellij-idea-conf-2026"
   - "command-completion-intellij-idea"
   - "aggregation-optimization-in-mongodb-a-case-study-from-the-field-part-1"
-frozen: true
 ---
 
 Foojay wouldn't exist without the many contributions from its community, whether it's a single post or an ongoing stream of knowledge sharing. That's why we highlight two of them each month as **[Featured Authors](/today/author/)**. After [Igor](/today/author/igor-de-souza/) and [Steve](/today/author/steve-poole/) in July, and [Cristobal](/today/author/cristobal-escobar/) and [Shai](/today/author/shai-almog/) in August, September belongs to **[Marit van Dijk](/today/author/marit-van-dijk/)** and **[Graeme Robinson](/today/author/graeme-robinson/)**. Want to read more from either of them? Click their name to visit their Foojay author page, where you'll find their full list of posts.

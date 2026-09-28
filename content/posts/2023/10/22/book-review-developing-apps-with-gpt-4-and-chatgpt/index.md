@@ -15,7 +15,6 @@ related_posts:
   - "book-review-designing-apis-with-swagger-and-openapi"
   - "book-review-effortless-cloud-native-app-development-using-skaffold"
   - "jc-ai-newsletter-16"
-frozen: false
 ---
 
 Whether you're pro or con the usage of AI, LLMs, and ChatGPT one cannot deny that there are a plethora of possibilities now available to us.

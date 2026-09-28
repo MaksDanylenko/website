@@ -9,5 +9,4 @@ linkedin: ""
 github: ""
 youtube: ""
 website: "https://nataliiadziubenko.com"
-frozen: false
 ---

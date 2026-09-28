@@ -15,7 +15,6 @@ related_posts:
   - "kicking-spring-natives-tires"
   - "2021-java-jvm-predictions-by-topic"
   - "boxlang-1-15-0-released-blazing-fast-strings-runtime-portability-and-much-more"
-frozen: false
 ---
 
 Last week, I wrote a native web app that queried the Marvel API [using Spring Boot](https://foojay.io/today/native-spring-boot/). This week, I want to do the same with the Micronaut framework.

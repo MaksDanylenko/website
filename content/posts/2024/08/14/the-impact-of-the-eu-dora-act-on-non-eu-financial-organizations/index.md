@@ -16,7 +16,6 @@ related_posts:
   - "consequences-of-dora-on-java-and-openjdk-with-azul"
   - "the-impact-of-the-digital-operational-resilience-act-dora-on-java-investment-with-azul"
   - "connecting-resilience-to-performance-in-relation-to-openjdk"
-frozen: false
 ---
 
 **The [EU Digital Operational Resilience Act (DORA)](https://foojay.io/today/the-impact-of-the-digital-operational-resilience-act-dora-on-java-investment-with-azul/) is a significant regulatory framework designed to strengthen the digital resilience of financial institutions within the European Union.**

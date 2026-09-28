@@ -13,7 +13,6 @@ related_posts:
   - "what-is-debugging-in-140-seconds"
   - "debugging-tutorial-java-return-value-intellij-jump-to-line-and-more"
   - "get-started-with-allocation-profiling"
-frozen: true
 ---
 
 Before diving into debugging memory issues and the other amazing running process, memory debugging capabilities (which are amazing)... I want to discuss a point I left open in the [last duckling post](https://talktotheduck.dev/debugging-collections-streams-and-watch-renderers). Back there we discussed customizing the watch renderer. This is super cool!

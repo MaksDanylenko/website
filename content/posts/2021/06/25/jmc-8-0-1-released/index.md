@@ -15,7 +15,6 @@ related_posts:
   - "indexing-all-of-wikipedia-on-a-laptop"
   - "new-jdkmonitor"
   - "javafinder-keeping-track-of-java-inventories"
-frozen: false
 ---
 
 The [8.0.1-ga](https://github.com/openjdk/jmc/releases/tag/8.0.1-ga "8.0.1-ga") tag was just set in the jmc8 repository on GitHub. This is a patch update release, and will therefore not include any new features.

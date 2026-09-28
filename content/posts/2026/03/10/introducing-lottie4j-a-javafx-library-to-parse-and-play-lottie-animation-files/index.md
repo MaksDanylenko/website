@@ -9,7 +9,6 @@ image: "launch-lottie4j-scaled.jpg"
 categories:
   - "JavaFX"
 related_posts:
-frozen: false
 ---
 
 I'm proud to present a new JavaFX library: **Lottie4J**, that brings Lottie animations to JavaFX applications. I first learned about Lottie many years ago when we were developing a mobile app. We used Lottie animations to explain to users how to operate a physical device. The animations made the instructions so much clearer than static images or text alone.

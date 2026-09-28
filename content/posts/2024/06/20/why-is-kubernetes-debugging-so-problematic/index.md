@@ -14,7 +14,6 @@ related_posts:
   - "software-testing-as-a-debugging-tool"
   - "debugging-using-jmx-revisited"
   - "debugging-streams-with-peek"
-frozen: false
 ---
 
 * [The Immutable Nature of Containers](#the-immutable-nature-of-containers)

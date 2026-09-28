@@ -15,7 +15,6 @@ related_posts:
   - "faster-java-warmup-crac-versus-readynow"
   - "how-to-train-readynow-to-achieve-optimal-java-performance"
   - "what-should-i-know-about-garbage-collection-as-a-java-developer"
-frozen: false
 ---
 
 *This is the fifth and final blog post in a series on faster Java application warmup with ReadyNow. If you haven't been following the series, go back to the first blog post, [Faster Java Warmup: CRaC versus ReadyNow](https://foojay.io/today/faster-java-warmup-crac-versus-readynow/), and catch up. This post examines how to resolve a situation when traffic loads and gets redirected to an application before ReadyNow has completed compiling and optimizing bytecode.*

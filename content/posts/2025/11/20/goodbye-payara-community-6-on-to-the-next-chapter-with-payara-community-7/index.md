@@ -15,7 +15,6 @@ related_posts:
   - "whats-new-in-the-may-2026-azul-payara-release"
   - "jakarta-data-makes-persistence-a-breeze"
   - "leading-the-way-payara-platform-community-7-beta-now-fully-jakarta-ee-11-certified"
-frozen: false
 ---
 
 With the November 2025 release, Payara community reached an important milestone. Payara Platform Community 6 [received its final update](https://payara.fish/blog/whats-new-in-the-payara-platform-november-2025-release/ "received its final update") , marking the official end of community support for the 6.x line. At the same time, we introduced Payara Platform Community 7, a new generation of the platform built for Jakarta EE 11 and modern cloud native development.

@@ -14,7 +14,6 @@ related_posts:
   - "building-rest-apis-in-java-with-spring-boot"
   - "data-modeling-for-java-developers-structuring-with-postgresql-and-mongodb"
   - "enforcing-governance-in-mongodb-atlas-with-resource-policies"
-frozen: false
 ---
 
 In the previous issue, I explained how to run a local [MongoDB](https://www.mongodb.com/?utm_campaign=devrel&utm_source=third-party-content&utm_medium=cta&utm_content=vector-search-3&utm_term=tony.kim) Atlas cluster using Atlas CLI - no cloud account required. If you missed it, read it here 👉 Run an Atlas cluster locally in minutes. Now let's see how to use Vector Search in that local environment.

@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/elie-hannouch/"
 github: ""
 youtube: ""
 website: ""
-frozen: false
 ---

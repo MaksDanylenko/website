@@ -9,7 +9,6 @@ image: "4.-Payara-Services-QA-Logo-2021-1-3-593x1024.png"
 categories:
   - "Release Notes"
 related_posts:
-frozen: false
 ---
 
 Micro-multinational open source software company, Payara Services, has been commended for its achievements within global trading and exporting with the Queen's Award for Enterprise for International Trade.  

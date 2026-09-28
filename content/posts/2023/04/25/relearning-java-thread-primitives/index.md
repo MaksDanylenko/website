@@ -14,7 +14,6 @@ related_posts:
   - "java-serialization-filtering-prevent-0-day-security-vulnerabilities"
   - "is-it-time-to-go-back-to-the-monolith"
   - "java-thread-programming-part-15"
-frozen: false
 ---
 
 I've coded in Java since the first beta, even back then threads were at the top of my list of favorite features.

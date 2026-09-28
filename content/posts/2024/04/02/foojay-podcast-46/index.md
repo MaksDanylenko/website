@@ -15,7 +15,6 @@ related_posts:
   - "foojay-podcast-42"
   - "foojay-podcast-39"
   - "ask-a-lille-dev-what-java-developers-really-think-about-quality-frameworks-communities-and-careers"
-frozen: false
 ---
 
 In this podcast, once a month, we discuss the history of a Java User Group and the people behind it.

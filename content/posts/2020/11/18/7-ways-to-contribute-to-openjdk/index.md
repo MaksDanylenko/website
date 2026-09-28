@@ -14,7 +14,6 @@ related_posts:
   - "7-reasons-to-switch-to-openjdk-17-as-a-jakarta-ee-developer"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "5-tips-to-create-secure-docker-images-for-java-applications"
-frozen: false
 ---
 
 A great many developers today are employed working with OpenJDK. If OpenJDK is the background source for your livelihood, you might want to contribute to future development of the OpenJDK.

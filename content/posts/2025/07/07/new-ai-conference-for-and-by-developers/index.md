@@ -14,7 +14,6 @@ related_posts:
   - "foojay-podcast-69"
   - "local-ai-with-spring-building-privacy-first-agents-using-ollama"
   - "sonar-connect-amsterdam-2025"
-frozen: false
 ---
 
 AI4DEVS, **September 19, 2025** in Amsterdam, is created **for and by developers working with AI technologies** . Our mission is simple: share practical, usable knowledge with real use cases and code. Whether you're an experienced AI engineer or just starting to explore machine learning in your applications, AI4DEVS offers **valuable knowledge for every level** . All the details are here: <https://amsterdam.ai4devs.io/>

@@ -15,7 +15,6 @@ related_posts:
   - "devops-for-developers-continuous-integration-github-actions-and-sonar-cloud"
   - "how-to-release-a-java-module-with-jreleaser-to-maven-central-with-github-actions"
   - "whats-new-in-actions-setup-java-5-4-and-5-5-signature-verification-kona-jdk-and-a-better-maven-experience"
-frozen: false
 ---
 
 Recently, I mentioned [how I refactored](https://blog.frankel.ch/kotlin-scripting-to-python/) [the script](https://github.com/nfrankel/nfrankel-update/) that kept [my GitHub profile](https://github.com/nfrankel/) up-to-date. Since Geecon Prague, I'm also a happy owner of a Raspberry Pi:

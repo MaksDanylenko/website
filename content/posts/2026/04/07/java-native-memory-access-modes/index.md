@@ -14,7 +14,6 @@ related_posts:
   - "boxlang-v1-13-0-compatibility-concurrency-and-formatter-maturity"
   - "debug-without-breakpoints"
   - "fuchs-2024-fepcos-j-multithreaded-server"
-frozen: false
 ---
 
 ## What is Memory Order and Why Does It Matter for Native Memory?

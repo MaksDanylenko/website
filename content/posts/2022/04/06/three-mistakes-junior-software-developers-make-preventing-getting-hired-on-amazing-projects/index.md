@@ -13,7 +13,6 @@ related_posts:
   - "are-java-security-updates-important"
   - "book-review-help-your-boss-help-you"
   - "on-cosmetics-vs-intrinsics-programming"
-frozen: false
 ---
 
 Being hired is not easy and it is especially somewhat tricky for junior software developers to be taken on to work on amazing projects. The reason is clear: industries always want people with the right skills and a junior software developer does not typically always have those. We get to learn to program and acquire knowledge from universities and colleges, which is not enough to be able to work on unique projects right away.

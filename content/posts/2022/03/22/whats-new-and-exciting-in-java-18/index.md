@@ -13,7 +13,6 @@ related_posts:
   - "java-where-the-wild-code-isnt"
   - "are-java-security-updates-important"
   - "whats-new-in-the-july-2026-azul-payara-release"
-frozen: true
 ---
 
 Time runs forward without compromise! The six month release period is over and, similar to people expecting spring and nice weather, the Java community is excited about the next OpenJDK release, this time holding the number 18.

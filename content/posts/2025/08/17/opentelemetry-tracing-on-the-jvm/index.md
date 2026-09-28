@@ -15,7 +15,6 @@ related_posts:
   - "ask-a-lille-dev-what-java-developers-really-think-about-quality-frameworks-communities-and-careers"
   - "challenge-yourself-with-application-observability-code-challenges"
   - "couch-to-fully-observed-code-with-spring-boot-3-2-micrometer-tracing-and-digma"
-frozen: false
 ---
 
 You may know I'm a big fan of OpenTelemetry. I recently finished developing a [master class for the YOW! conference](https://yowcon.com/melbourne-2025/masterclasses/560/gain-practical-in-depth-experience-with-observability-using-opentelemetry) at the end of the year. During development, I noticed massive differences in configuration and results across programming languages. Even worse, differences exist across frameworks inside the same programming language.

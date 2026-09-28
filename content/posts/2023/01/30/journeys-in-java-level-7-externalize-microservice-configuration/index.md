@@ -18,7 +18,6 @@ related_posts:
   - "journeys-in-java-level-5-building-an-empire-of-microservices"
   - "journeys-in-java-level-4-building-an-empire-of-microservices"
   - "journeys-in-java-level-10-service-discovery-with-eureka"
-frozen: false
 ---
 
 Our decided next step for this project takes us in a new direction by adding externalized configuration for our applications.

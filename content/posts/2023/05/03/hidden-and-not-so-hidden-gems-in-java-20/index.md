@@ -15,7 +15,6 @@ related_posts:
   - "its-java-20-release-day-heres-whats-new"
   - "foojay-podcast-16"
   - "the-5-most-pivotal-and-innovative-additions-to-openjdk-19"
-frozen: false
 ---
 
 **Let's see the preview and incubator JEPs in Java 20, as well as many smaller enhancements, bug fixes, and deprecations.**

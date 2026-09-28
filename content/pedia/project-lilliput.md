@@ -2,7 +2,6 @@
 title: "Project Lilliput"
 description: "Project Lilliput shrinks the Java object header. Compact object headers cut it from 128 to 64 bits, which typically saves a few percent of heap on real applications and more on object-heavy ones."
 url: "/pedia/project-lilliput/"
-frozen: false
 ---
 
 Project Lilliput is the OpenJDK project working on **the size of the Java object header** — the per-object bookkeeping the JVM stores in front of an object's fields.

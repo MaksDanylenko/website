@@ -11,7 +11,6 @@ categories:
   - "Java"
 related_posts:
   - "jakarta-faces-java-web-framework-stateless-edition-marketplace-alifaces"
-frozen: false
 ---
 
 {{< img src="toge-herculer-700x394.jpg" class="size-medium" alt="💪😤 THE 12 LABOURS OF PRIMEFACES 15.0.15 #release" width="700" height="394" >}}

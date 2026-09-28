@@ -12,7 +12,6 @@ categories:
   - "Release Notes"
 related_posts:
   - "foojay-podcast-76"
-frozen: false
 ---
 
 **Dynamic JVM Language Adds Server-Sent Events, JDBC Cache Store, and AST Generation Capabilities**

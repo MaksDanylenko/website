@@ -14,7 +14,6 @@ related_posts:
   - "getting-started-with-jakarta-ee-9-context-and-dependency-injection-cdi"
   - "jakarta-concurrency-present-and-future-2"
   - "ejb-support-in-piranha-via-cdi"
-frozen: false
 ---
 
 {{< img src="beans-300x260.jpg" class="alignleft is-resized" width="225" height="195" >}}

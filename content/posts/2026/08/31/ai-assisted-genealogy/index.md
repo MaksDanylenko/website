@@ -14,7 +14,6 @@ related_posts:
   - "introducing-skills-boxlang-io-the-open-agent-skills-ecosystem-for-boxlang-the-ortus-world"
   - "tokensparsamkeit-for-coding-assistants"
   - "experimenting-with-ai-subagents"
-frozen: false
 ---
 
 My son recently came to me to brag about using AI to find our ancestors. While the results were correct, I didn't learn anything new, as it stopped at my grandparents. I was never very interested in my genealogy, but I decided to see if AI would be a good tool for this. TL;DR: Yes, it is, and even more than that. In a little less than one month, I managed to gather more than 600 individuals and get back 12 generations in some branches.

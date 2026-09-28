@@ -14,9 +14,8 @@ categories:
 related_posts:
   - "search-in-documentation-with-a-javafx-chat-langchain4j-application"
   - "foojay-podcast-34"
-  - "foojay-podcast-32-philippines-jug"
+  - "foojay-podcast-32"
   - "foojay-podcast-56"
-frozen: false
 ---
 
 About one and a half years ago, ChatGPT was launched.

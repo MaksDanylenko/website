@@ -15,7 +15,6 @@ related_posts:
   - "introducing-boxlang-ai-explorer-a-local-catalog-for-every-ai-pattern"
   - "context-is-code-a-tour-of-apm-and-agentrc"
   - "boxlang-ai-3-2-0-image-generation-web-search-fluent-audio-agent-registry-mcp-observability"
-frozen: true
 ---
 
 Hola Java developers! 👋

@@ -11,7 +11,6 @@ categories:
   - "Security"
   - "Snyk"
 related_posts:
-frozen: false
 ---
 
 Nowadays, developers are responsible for more than just creating the application. Besides working on features, developers have to focus on their applications' maintainability, scalability, reliability, **and** security. Many developers are unsure of where to start with security. In addition, most companies still work with a dedicated security team instead of having security expertise inside the team.

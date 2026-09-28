@@ -12,7 +12,6 @@ categories:
   - "Java"
   - "Microservices"
 related_posts:
-frozen: false
 ---
 
 ![](boxlang-v1.10.0-700x467.jpg)

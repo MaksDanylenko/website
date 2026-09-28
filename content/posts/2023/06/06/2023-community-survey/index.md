@@ -13,7 +13,6 @@ related_posts:
   - "join-slack-com-t-foojay-signup"
   - "book-review-effortless-cloud-native-app-development-using-skaffold"
   - "book-review-help-your-boss-help-you"
-frozen: false
 ---
 
 ### Here's the idea.

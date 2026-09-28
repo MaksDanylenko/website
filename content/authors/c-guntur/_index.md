@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/cguntur/"
 github: ""
 youtube: ""
 website: "https://x.com/CGuntur"
-frozen: false
 ---

@@ -14,7 +14,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "asyncgetstacktrace-a-better-stack-trace-api-for-the-jvm"
   - "custom-events-in-the-blocky-world-using-jfr-in-minecraft"
-frozen: false
 ---
 
 **JDK Flight Recorder (JFR) is one of the two prominent open-source profilers for the OpenJDK (besides [async-profiler](https://github.com/async-profiler/async-profiler)).**

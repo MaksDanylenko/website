@@ -14,7 +14,6 @@ related_posts:
   - "build-rot-tech-debt"
   - "predicting-secure-java-projects-on-maven-central"
   - "enterprise-java-quality-gates-ai"
-frozen: false
 ---
 
 **At the JavaForumNord two weeks ago, I had a friendly chat with Karl Heinz Marbaise (Chairman of the Apache Maven Project), where he mentioned that he wanted to start profiling Maven. This sounded interesting, so I started looking into the performance and bottlenecks of Maven. I began by using the Maven build of [maven](https://github.com/apache/maven) itself as a starting point (excluding the tests). The following is my first observation related to Maven builds in CIs.**

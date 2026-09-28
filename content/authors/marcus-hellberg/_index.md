@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/marcushellberg/"
 github: ""
 youtube: ""
 website: "https://x.com/marcushellberg"
-frozen: false
 ---

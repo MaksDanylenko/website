@@ -14,7 +14,6 @@ related_posts:
   - "what-the-heck-is-project-loom-for-java"
   - "the-basis-of-virtual-threads-continuations"
   - "boxlang-v1-13-0-compatibility-concurrency-and-formatter-maturity"
-frozen: false
 ---
 
 ## Introduction

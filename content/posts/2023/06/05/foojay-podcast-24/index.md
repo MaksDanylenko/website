@@ -16,7 +16,6 @@ related_posts:
   - "foojay-podcast-22"
   - "foojay-podcast-21"
   - "foojay-podcast-60"
-frozen: false
 ---
 
 The [Foojay Java User Group World Tour](https://foojay.io/today/category/podcast/) has already brought us to a lot of different countries virtually all over the world.

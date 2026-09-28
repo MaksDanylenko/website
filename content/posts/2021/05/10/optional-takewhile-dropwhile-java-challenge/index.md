@@ -13,7 +13,6 @@ related_posts:
   - "daemon-thread-java-code-quiz"
   - "function-calculation-java-challenge"
   - "stream-limit-filter-java-challenge"
-frozen: false
 ---
 
 The Optional concept is present in many programming languages. The main goal of the Optional class is to avoid `NullPointerException`. It's much easier to deal with null values when we use the concepts of an Optional.

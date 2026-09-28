@@ -15,7 +15,6 @@ related_posts:
   - "crossing-the-river-styx-spring-boot-3-5-and-the-zombie-dependency-problem"
   - "spring-i-o-2026-field-notes-from-barcelona"
   - "spring-boot-actuator-health-for-microprofile-developers"
-frozen: false
 ---
 
 I frequently use the [Spring Boot](https://spring.io/projects/spring-boot) framework in my demos. The latest one is no different. It shows how to achieve using two different code paths:

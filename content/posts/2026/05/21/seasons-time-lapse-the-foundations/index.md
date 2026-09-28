@@ -14,7 +14,6 @@ related_posts:
   - "research-measuring-energy-consumption-in-programming-languages-for-ai-applications"
   - "jc-ai-newsletter-4"
   - "ai4devs-schedule-published"
-frozen: false
 ---
 
 I live close to nature. I regularly go for a run in the countryside. Over several years, during my runs, I've taken pictures from the same position, always roughly the same angle. I had a vague idea in the back of my mind, as an "artistic" project. One day, I'd turn those photos into a time-lapse video, one that would show the passage of seasons across a single place.

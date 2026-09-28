@@ -1,8 +1,7 @@
 ---
 title: "Find Another Java Version"
-description: "OpenJDK is the source; the runtime you install comes from a distribution. An overview of the free builds you can choose between."
+description: "Which Java distribution to install? OpenJDK is the source; the runtime you install comes from a distribution. An overview of the free builds you can choose between."
 url: "/java-quick-start/install-java/find-another-java-version/"
-frozen: false
 ---
 
 The OpenJDK project is the "mother of all Java's". It's a project [you can find on GitHub](https://github.com/openjdk/) and contains all the sources of Java. But the OpenJDK project doesn't produce the runtime you need to get Java on your computer. Many community projects and commercial companies produce the runtime you can download.

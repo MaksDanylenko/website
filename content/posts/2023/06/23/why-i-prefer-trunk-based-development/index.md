@@ -14,7 +14,6 @@ related_posts:
   - "3-ways-to-refactor-your-code-in-intellij-idea"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "7-ways-to-improve-your-code-reading-skills"
-frozen: false
 ---
 
 **Trisha summarizes the advantages of trunk-based development (as opposed to branch-based development) in this article.**

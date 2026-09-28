@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/danconn/"
 github: ""
 youtube: ""
 website: "https://x.com/danjconn"
-frozen: false
 ---

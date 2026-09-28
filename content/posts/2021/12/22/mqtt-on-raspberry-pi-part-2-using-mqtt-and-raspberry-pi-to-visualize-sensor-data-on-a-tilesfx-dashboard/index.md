@@ -17,7 +17,6 @@ related_posts:
   - "building-openjdk-from-github-sources-on-64-bit-raspberry-pi"
   - "controlling-an-lcd-display-with-spring-and-thymeleaf-on-the-raspberry-pi"
   - "mqtt-on-raspberry-pi-part-3-sending-sensor-data-from-raspberry-pi-pico-to-hivemq-cloud"
-frozen: false
 ---
 
 In [the previous post](https://webtechie.be/post/2021-12-10-mqtt-on-raspberry-pi-send-sensor-data-to-hivemq-cloud-with-java-and-pi4j/) we started our discovery of HiveMQ Cloud with Java on the Raspberry Pi. We created an application to send measurements of various sensors to the HiveMQ Cloud MQTT broker. Using an online websocket client we verified the transition of the messages, and could see the data being published to this online message queue.

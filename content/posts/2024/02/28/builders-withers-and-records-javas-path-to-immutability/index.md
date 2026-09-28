@@ -14,7 +14,6 @@ related_posts:
   - "5-tips-to-create-secure-docker-images-for-java-applications"
   - "12-lessons-learned-from-doing-the-one-billion-row-challenge"
   - "offline-crypto-address-validation-in-java"
-frozen: false
 ---
 
 **We know that immutable objects are easier to maintain, lead to fewer errors, and are multi-thread friendly. In this article, I will talk about two different approaches in Java to creating objects: Builders and Withers, typically used in the context of immutable objects, along with a new type of immutable object in Java: Records.**

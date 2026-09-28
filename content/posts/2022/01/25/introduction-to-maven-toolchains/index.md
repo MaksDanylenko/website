@@ -13,7 +13,6 @@ related_posts:
   - "faster-maven-builds-1"
   - "understanding-apache-maven-part-1-the-basics"
   - "enterprise-java-quality-gates-ai"
-frozen: false
 ---
 
 Java evolves at a much faster pace than it used to do.

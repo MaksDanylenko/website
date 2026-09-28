@@ -16,7 +16,6 @@ related_posts:
   - "7-reasons-to-switch-to-openjdk-17-as-a-jakarta-ee-developer"
   - "a-simple-service-with-spring-boot"
   - "easy-jakarta-ee-integration-testing"
-frozen: false
 ---
 
 Google Remote Procedure Call, or gRPC, is an open source Remote Procedure Call (RPC) framework focused on high performance and is portable to any environment.

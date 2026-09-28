@@ -13,7 +13,6 @@ related_posts:
   - "avoid-java-serialization"
   - "fix-java-security-issues-while-coding-in-intellij-idea"
   - "fixing-vulnerabilities-in-maven-projects"
-frozen: false
 ---
 
 Recently, Snyk added [social trends](https://snyk.io/blog/social-media-for-security-intelligence/) to its [vulnerability data](https://snyk.io/product/vulnerability-database/). This new indicator shows you what vulnerabilities are trending so you can better prioritize remediation. Our research team found a strong correlation between socially trending vulnerabilities and the existence of exploits that can actually harm your application.

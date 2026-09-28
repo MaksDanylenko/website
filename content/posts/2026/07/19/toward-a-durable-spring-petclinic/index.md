@@ -12,7 +12,6 @@ categories:
   - "Performance"
   - "Temporal"
 related_posts:
-frozen: false
 ---
 
 ## Overview

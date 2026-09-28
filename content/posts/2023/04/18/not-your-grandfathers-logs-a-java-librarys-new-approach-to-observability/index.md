@@ -15,7 +15,6 @@ related_posts:
   - "observability-is-cultural"
   - "remote-debugging-and-developer-observability"
   - "observability-for-jvm-frameworks-with-grafana-in-java-and-kotlin"
-frozen: false
 ---
 
 ### How a Java library is taking a completely new approach to understanding what the code does, and why it makes perfect developer sense.

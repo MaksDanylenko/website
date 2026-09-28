@@ -12,7 +12,6 @@ related_posts:
   - "foojay-podcast-14"
   - "a-short-primer-on-java-debugging-internals"
   - "ap-loader-a-new-way-to-use-and-embed-async-profiler"
-frozen: false
 ---
 
 Between 31st May and 14th June, I was on tour, giving seven talks in 4 cities in 3 different countries:

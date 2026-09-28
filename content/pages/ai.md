@@ -10,7 +10,6 @@ type: "ai"
 # WordPress this page is the "Machine Learning" category landing page (WP slug
 # `ai-ml`), which is why that -- rather than "AI" -- is the category here.
 list_category: "Machine Learning"
-frozen: false
 ---
 
 **At the crossroads of Java innovation and artificial intelligence, the Foojay AI Hub is your gateway to the ever-expanding world of AI-powered Java development. From foundational AI/ML tutorials using pure Java tools to cutting-edge applications like LangChain4j and integration with frameworks like Deep Netts, this is where Java's runtime robustness and type-safe elegance meet AI's transformative capabilities.**

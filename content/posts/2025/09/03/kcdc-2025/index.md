@@ -9,7 +9,6 @@ image: "cover_large.jpg"
 categories:
   - "Conference"
 related_posts:
-frozen: false
 ---
 
 When I first started attending conferences, I diligently tried to write down notes and publish them. It forced me to actively listen to the talks I was attending. With the number of conferences rising, I couldn't keep the rhythm. When I switched my career path to Developer Advocate, I drastically diminished the number of talks I attended in favor of the hallway track. As a result, the last conference "report" I wrote was [JPrime's](https://blog.frankel.ch/jprime-2022/) in 2022.

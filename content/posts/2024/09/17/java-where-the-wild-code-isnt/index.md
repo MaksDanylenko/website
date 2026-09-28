@@ -12,7 +12,6 @@ related_posts:
   - "are-java-security-updates-important"
   - "fix-java-security-issues-while-coding-in-intellij-idea"
   - "fixing-vulnerabilities-in-maven-projects"
-frozen: false
 ---
 
 In the last several years, the OpenJDK community has made Java significantly safer for users and developers while at the same time making it easier to design, build, and run applications quickly.

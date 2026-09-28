@@ -17,7 +17,6 @@ related_posts:
   - "patterns-for-the-design-of-microservices-part-1"
   - "chronicle-services-building-fast-microservices-with-java"
   - "6-considerations-when-building-high-performance-java-microservices-with-eda"
-frozen: false
 ---
 
 In the [previous article](https://foojay.io/today/patterns-for-the-design-of-microservices-part-1/ "previous article"), we discussed some of the design patterns employed in the creation of microservices. In this subsequent article, we will delve into the remaining patterns that are commonly utilized in the realm of microservices.

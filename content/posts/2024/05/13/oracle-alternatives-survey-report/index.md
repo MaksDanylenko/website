@@ -14,7 +14,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "are-java-security-updates-important"
   - "azul-provides-the-crac-in-aws-snapstart-builds"
-frozen: false
 ---
 
 [Azul](https://azul.com/) is planning to issue an Oracle Java "alternatives" Report in late July, and would like your help to complete the survey.

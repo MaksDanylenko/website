@@ -17,7 +17,6 @@ related_posts:
   - "a-list-of-cache-providers"
   - "kubernetes-gateway-api"
   - "managing-data-residency-the-demo"
-frozen: false
 ---
 
 Cloud computing has opened a Pandora's Box of many original issues compared to sound old on-premise systems. I believe that chief among them is **Data Residency**, or Data Location.

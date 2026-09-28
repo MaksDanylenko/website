@@ -16,7 +16,6 @@ quote: |
 
   With the support of JFrog, I am proud to be a member of this community and to continue to grow the knowledge and love of the Java programming language and powerful ecosystem that has evolved around it.
 quoteAuthor: "Stephen Chin, Head of Developer Relations at JFrog"
-frozen: false
 ---
 
 JFrog is the world leader in continuous software release management, providing a unified DevOps platform that enables high release velocity through end-to-end binary traceability, security, and distribution.

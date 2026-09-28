@@ -13,7 +13,6 @@ categories:
 related_posts:
   - "localize-apps-with-ai"
   - "from-kotlin-scripting-to-python"
-frozen: false
 ---
 
 In the [first post](https://blog.frankel.ch/seasons-time-lapse/1/) of this series, I focused on the project foundations: what should I do to create a video from photos taken from the same position year after year? I dedicated the [second part](https://blog.frankel.ch/seasons-time-lapse/2/) to aligning images. It wasn't as easy as I expected. I stumbled upon new concepts, such as and .

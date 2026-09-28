@@ -14,7 +14,6 @@ related_posts:
   - "time-zone-and-currency-database-in-jdk"
   - "creating-a-javafx-world-clock-from-scratch-part-5"
   - "hard-things-computer-science"
-frozen: false
 ---
 
 **A family vacation as a topic for a Foojay blog post? Really? Yes, because, very unexpectedly, it was influenced by a change in the OpenJDK project...**

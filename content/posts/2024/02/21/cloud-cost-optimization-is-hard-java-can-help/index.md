@@ -15,7 +15,6 @@ related_posts:
   - "analyzing-and-tuning-warm-up-of-the-jvm-with-azul-zulu-prime-builds-of-openjdk"
   - "azul-enhances-readynow-to-solve-javas-warmup-problem-simplify-operations-and-optimize-cloud-costs"
   - "best-practice-comparative-evaluation-of-jdk-setups-azul-zulu-prime-vs-openjdk"
-frozen: false
 ---
 
 In my recent conversation with William Fellows, Research Director at S\&P Global Market Research, we [discussed ways to reduce cloud waste](https://www.youtube.com/watch?v=nAP3bYxdsZw&t=1s) specifically for Java workloads. After all, cloud cost optimization is hard.

@@ -14,7 +14,6 @@ related_posts:
   - "all-azul-zulu-container-images-explained-ca-sa-and-chainguard"
   - "openjdk-january-2026-critical-patch-update-and-patch-set-update-released"
   - "should-you-update-java-or-upgrade-and-which-version-should-you-use"
-frozen: false
 ---
 
 Every three months your production JDKs fall further behind on security patches. Azul closes that gap today with the July 2026 quarterly update for Azul Zulu Builds of OpenJDK, covering Java 26, 25, 21, 17, 11, 8, 7, and 6.

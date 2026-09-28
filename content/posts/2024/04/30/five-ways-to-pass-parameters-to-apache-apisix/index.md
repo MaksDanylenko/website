@@ -14,7 +14,6 @@ related_posts:
   - "apache-apisix-north-america-tour"
   - "apache-apisix-loves-rust"
   - "implementing-the-idempotency-key-specification-on-apache-apisix"
-frozen: false
 ---
 
 I recently read [6 Ways To Pass Parameters to Spring REST API](https://javabulletin.substack.com/p/6-ways-to-pass-parameters-to-spring).

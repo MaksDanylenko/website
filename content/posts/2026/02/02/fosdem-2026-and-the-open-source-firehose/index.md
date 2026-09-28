@@ -11,7 +11,6 @@ categories:
   - "Events"
   - "Trip Reports"
 related_posts:
-frozen: false
 ---
 
 ## FOSDEM 2026: A Live Snapshot of Open Source

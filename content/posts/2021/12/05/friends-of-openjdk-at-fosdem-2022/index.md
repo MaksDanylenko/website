@@ -12,7 +12,6 @@ related_posts:
   - "java-thread-programming-part-1"
   - "understanding-apache-maven-part-1-the-basics"
   - "concurrency-in-java-and-how-it-compares-with-other-modern-programming-languages"
-frozen: false
 ---
 
 Over the last few years at [FOSDEM](https://fosdem.org/2022/)—the free event for software developers, many of them in the open source ecosystem, for meeting, sharing ideas and collaborating—one of the developer rooms has been focused on short presentations dealing with demos and overviews of free tools and editors.

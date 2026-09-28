@@ -9,7 +9,6 @@ image: "CW50-1-1.jpg"
 categories:
   - "JavaFX"
 related_posts:
-frozen: false
 ---
 
 In this series of blogposts ([see part 1 here](https://foojay.io/today/covid-19-time-series-analysis-with-software-ekg/)) we take look at the current figures of the Covid-19 pandemic with Software-ECG.

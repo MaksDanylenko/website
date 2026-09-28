@@ -10,7 +10,6 @@ image: "MicrosoftTeams-image-5-scaled.jpg"
 categories:
   - "Videos"
 related_posts:
-frozen: false
 ---
 
 Java was created in 1995 and, despite being over 25 years old, is still one of the most popular and widely used programming languages in the world.

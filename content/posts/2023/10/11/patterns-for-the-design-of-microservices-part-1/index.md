@@ -15,7 +15,6 @@ related_posts:
   - "modular-monolithic-in-practice"
   - "openrewrite-automatic-code-refactoring-and-maintenance-part-2"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
-frozen: false
 ---
 
 Design patterns plays a pivotal role in designing and solving the commonly occurring problems in software application. It is guiding principle or template to the solve any designing problems.

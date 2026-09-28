@@ -16,7 +16,6 @@ related_posts:
   - "introducing-boxlang-ai-explorer-a-local-catalog-for-every-ai-pattern"
   - "build-secure-ai-chat-applications-with-boxlang-rag-ollama-and-amazon-bedrock-with-dan-card"
   - "boxlang-aws-azure-and-google-secrets-manager-module-released"
-frozen: false
 ---
 
 In the era of **vibe coding**—where large amounts of code are introduced or refactored in short bursts, often with the help of LLMs—you need immediate feedback on how new logic actually executes. Not comprehensive analysis. Not nanosecond-precise timing. Just a quick confirmation that your loops aren't spinning 10,000x more than they should.

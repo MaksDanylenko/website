@@ -10,7 +10,6 @@ image: "image-7-1024x433.jpg"
 categories:
   - "Security"
 related_posts:
-frozen: false
 ---
 
 Java serialization is a mechanism to transform an object into a byte stream. Java deserialization is exactly the other way around and allows us to recreate an object from a byte stream.

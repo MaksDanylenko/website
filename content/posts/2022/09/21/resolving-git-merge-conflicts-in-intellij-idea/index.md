@@ -14,7 +14,6 @@ related_posts:
   - "a-better-way-to-use-gradle-with-github-actions"
   - "debugging-collections-streams-and-watch-renderers"
   - "more-free-shells-for-your-java-ide"
-frozen: false
 ---
 
 At some point in your career, probably many points, you'll have to resolve merge conflicts.

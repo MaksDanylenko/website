@@ -11,7 +11,6 @@ categories:
   - "JavaFX"
   - "Release Notes"
 related_posts:
-frozen: false
 ---
 
 FXGL is a JavaFX game engine: <https://github.com/AlmasB/FXGL>

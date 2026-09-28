@@ -14,7 +14,6 @@ related_posts:
   - "controlling-electronics-with-jbang-on-the-raspberry-pi"
   - "template-to-get-started-with-pi4j-and-javafx-on-raspberry-pi"
   - "java-modules-in-the-pi4j-project"
-frozen: false
 ---
 
 The Raspberry Pi allows us to do a lot of electronic projects without having to wait for ordered components... or to even buy them at all... by using virtual components: *"Invest your time before you invest your money and build something before you buy the component."* For example, If you don't have a 7 segment display you can follow [this](https://foojay.io/today/electronics-quarkus-qute-on-raspberry-pi/) and if you don't have an 8×8 Led Matrix you can follow [this](https://foojay.io/today/electronics-micronaut-velocity-with-raspberry-pi/) and so on.

@@ -14,7 +14,6 @@ related_posts:
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "transitioning-to-java-my-first-book"
   - "42-practical-java-design-patterns-builder-and-more"
-frozen: false
 ---
 
 **The Foojay community has a strong tradition around the creation of content on all things Java and OpenJDK. Since about a year ago, the community has a group of people that are working on a book with tips and information on Sustainable Software Engineering. For some of the topics in the book, we are looking for data to either support claims that are made, or inform us on the best direction to write a topic.**

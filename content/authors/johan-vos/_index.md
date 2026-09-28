@@ -9,5 +9,4 @@ linkedin: "https://www.linkedin.com/in/johanvos/"
 github: ""
 youtube: ""
 website: ""
-frozen: false
 ---

@@ -13,7 +13,6 @@ related_posts:
   - "ap-loader-a-new-way-to-use-and-embed-async-profiler"
   - "foojay-podcast-14"
   - "why-i-moved-my-blog-to-rife2-after-23-years"
-frozen: false
 ---
 
 My goal is to write a blog post every two weeks, it's great to stick to a schedule and force yourself to publish pieces even if they are not perfect.

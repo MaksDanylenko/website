@@ -15,7 +15,6 @@ related_posts:
   - "back-to-basics-accessing-kubernetes-pods"
   - "backend-for-frontend-the-demo"
   - "spring-boot-api-documentation-redocusaurus"
-frozen: false
 ---
 
 I'm continuing my journey on getting more familiar with HTTP APIs by reading related . This time, I read the [Health Check Response Format for HTTP APIs](https://datatracker.ietf.org/doc/html/draft-inadarei-api-health-check) on the suggestion of [Stefano Fago](https://twitter.com/stefanofago/). In this article, I'd like to summarize my reading.

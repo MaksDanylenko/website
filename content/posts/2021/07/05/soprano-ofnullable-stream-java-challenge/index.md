@@ -13,7 +13,6 @@ related_posts:
   - "neo-stream-search-java-challenge"
   - "asynchronous-completablefuture-san-francisco-adventure-java-challenge"
   - "daemon-thread-java-code-quiz"
-frozen: false
 ---
 
 Since Java 9, it's possible to use Optional with a stream when we need to manipulate values from a List.

@@ -14,7 +14,6 @@ related_posts:
   - "5-things-you-probably-didnt-know-about-java-concurrency"
   - "7-reasons-why-after-26-years-java-still-makes-sense"
   - "tornadovm-for-risc-v-accelerators"
-frozen: false
 ---
 
 This article aims to describe the main steps required to install and run [TornadoVM](https://foojay.io/today/hardware-acceleration-for-java-tornadovm-can-do-it/) on Apple M1 Pro.

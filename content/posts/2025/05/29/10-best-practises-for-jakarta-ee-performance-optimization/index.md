@@ -17,7 +17,6 @@ related_posts:
   - "glassfish-embedded-a-simple-way-to-run-jakarta-ee-apps"
   - "glassfish-is-rolling-forward-whats-new"
   - "issues-with-old-glassfish-server-upgrade-to-eclipse-glassfish"
-frozen: false
 ---
 
 > **With this article, we start a series where we compiled 10 best practices for performance optimizations and suggestions how to implement them using [Jakarta EE](https://jakarta.ee/) \& [Eclipse GlassFish](https://omnifish.ee/glassfish/).**

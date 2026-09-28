@@ -13,7 +13,6 @@ related_posts:
   - "foojay-podcast-1"
   - "foojay-podcast-2"
   - "foojay-podcast-3"
-frozen: false
 ---
 
 In this podcast, we explore the topic of why there are so many JDKs, how are they the same, and how they are different. We balance the Java perspective with a special guest from the Rust foundation to learn how a peer ecosystem works.
@@ -32,7 +31,7 @@ You can listen and subscribe to the Foojay Podcast on:
 
 ## Guests
 
-* **Simon Ritter**, Deputy CTO of Azul Systems, making the Azul Platform, including the Azul Zulu builds of OpenJDK.
+* **Simon Ritter**, Deputy CTO of Azul Systems, making Azul Zulu and Zing Builds of OpenJDK.
 * **Dmitry Chuyko**, Senior Performance Engineer of Bellsoft, making the Liberica builds of OpenJDK.
 * **Bruno Borges**, Product Manager Microsoft, making the Microsoft builds of OpenJDK and Temurin, Adoptium's builds of OpenJDK.
 * **Ashley Williams**, founder and open-source strategist for the Rust Foundation.

@@ -2,7 +2,6 @@
 title: "OpenJDK with Visual C++"
 description: "Historical context: This article describes the Visual C++ considerations that applied during the Java 8 / early Java 11 era (2018–2021). It is retained for reference. For current Windows build requirements, see the OpenJDK build documentation. Background OpenJDK on Windows ..."
 url: "/pedia/visual-c-and-windows-backwards-compatibility/"
-frozen: false
 ---
 
 > **Historical context:** This article describes the Visual C++ considerations that applied during the Java 8 / early Java 11 era (2018–2021). It is retained for reference. For current Windows build requirements, see the [OpenJDK build documentation](https://openjdk.org/guide/).

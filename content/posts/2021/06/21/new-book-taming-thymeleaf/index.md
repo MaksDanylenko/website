@@ -13,7 +13,6 @@ related_posts:
   - "book-review-modern-frontends-with-htmx"
   - "foojay-podcast-67"
   - "book-review-effortless-cloud-native-app-development-using-skaffold-2"
-frozen: false
 ---
 
 Spring Boot is heavily promoted as the best way to write REST API's in Java, but it can also be used as a very good alternative to Laravel/PHP, Rails/Ruby, or Django/Python to write server-side rendered HTML for Java developers.

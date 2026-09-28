@@ -13,7 +13,6 @@ related_posts:
   - "push-v3-one-message-from-your-server-to-every-surface"
   - "own-your-pixels-native-fidelity-on-your-schedule"
   - "how-we-beat-hotspot-performance-by-cheating-but-not-like-that"
-frozen: false
 ---
 
 ![The Codename One JavaScript Port Is Now Free and Open Source](javascript-free-open-source.jpg)

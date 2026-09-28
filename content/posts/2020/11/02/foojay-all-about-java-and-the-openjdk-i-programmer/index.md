@@ -9,7 +9,6 @@ image: "image-2-628x1024.jpg"
 categories:
   - "Press"
 related_posts:
-frozen: false
 ---
 
 Today, published [by Nikos Vaggalis on I Programmer](https://www.i-programmer.info/news/80-java/14116-foojay-all-about-java-and-the-openjdk.html):

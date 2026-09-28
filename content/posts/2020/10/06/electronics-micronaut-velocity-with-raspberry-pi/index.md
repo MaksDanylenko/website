@@ -17,7 +17,6 @@ related_posts:
   - "electronics-quarkus-qute-on-raspberry-pi"
   - "spectacular-java-projects-on-the-raspberry-pi"
   - "crafting-your-own-railway-display-with-java"
-frozen: false
 ---
 
 In a previous post, we looked at the project "[Electronics \& Quarkus Qute on Raspberry Pi](https://foojay.io/today/electronics-quarkus-qute-on-raspberry-pi/)" by [Igor De Souza](https://twitter.com/Igfasouza).

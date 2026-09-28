@@ -12,7 +12,6 @@ related_posts:
   - "closing-the-visual-gap-between-the-official-lottie-webplayer-and-lottie4j"
   - "lottie4j-1-1-0-better-rendering-smarter-debugging"
   - "javafx-links-of-july-2026"
-frozen: false
 ---
 
 Version 1.2.0 of [Lottie4J](https://lottie4j.com) is out, and it's again a big release! The headline feature is support for the `.lottie` container format, but that's just the start. This release also brings marker-based playback, cropping, adaptive rendering, significant performance improvements, and a lot of core model fixes driven by testing more complex real-world animations.

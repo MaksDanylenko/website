@@ -15,7 +15,6 @@ related_posts:
   - "dynamic-watermarking-with-imgproxy-and-apache-apisix"
   - "a-list-of-cache-providers"
   - "kubernetes-gateway-api"
-frozen: false
 ---
 
 Displaying images on your website makes for an interesting problem: on one side, you want to make them publicly available; on the other, you want to protect them against undue use. The age-long method to achieve it is watermarking:

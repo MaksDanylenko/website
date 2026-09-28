@@ -16,7 +16,6 @@ related_posts:
   - "dive-into-the-openjdk-top-10-reads-on-foojay-io"
   - "foojay-podcast-25"
   - "sheetmusic4j-0-0-3-abc-notation-guitar-pro-engraving-improvements"
-frozen: true
 ---
 
 In a previous post ["Getting Started with FXGL Game Development"](/today/getting-started-with-fxgl-game-development/) we already have taken a look at the [FXGL game development framework](https://github.com/AlmasB/FXGL) developed by [Almas Baimagambetov](https://twitter.com/AlmasBaim).
