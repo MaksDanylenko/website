@@ -1,38 +1,38 @@
 ---
 title: "Durable Execution Is a Property, Not a Product"
 date: "2026-09-30"
-description: ""
+description: "Durable execution is a property your existing database can provide, not a product you must buy. Measured, with receipts you can run yourself."
 authors:
   - "nicholas-dhondt"
-image: "admin-ajax.jpg"
+image: "durable-execution-property-not-product.jpg"
 categories:
   - "Opinion"
-  - "Release Notes"
-related_posts:
-  - 
+  - "Durability"
+  - "Java"
+related_posts: []
 ---
 
 Three method calls. That is my entire workflow: charge a payment, reserve inventory, send a confirmation email.
 
-Run those three calls on a dedicated workflow engine and here is what happens before your business logic is done: 23 history events are appended, 15 durable state transitions are committed to a database, and 15 gRPC round trips travel between your worker and the orchestration cluster. I did not make those numbers up to be dramatic. I pulled the 23 events out of the engine with its own CLI, the state transition formula comes straight from the vendor's documentation, and the round trips are described in their architecture docs.
+Run those three calls on a dedicated workflow engine and here is what happens before your business logic is done: 23 history events are appended, 15 durable state transitions are committed to a database, and 15 gRPC round trips travel between your worker and the orchestration cluster.
 
 That, in one paragraph, is why I want to talk about durable execution. Not because the engines are bad. They are impressive systems built by serious engineers. I want to talk about it because the Java community is being sold a property as if it were a product, and I think most of us already own the property.
 
-Full disclosure before we go further: I work on JobRunr, an open-source background job scheduler for Java. You should absolutely read this piece with that in mind. It is also why everything below is either measured in a public repo you can run yourself, or cited to the engine vendors' own documentation. Opinions are cheap. Receipts are not.
+Full disclosure before we go further: I work on JobRunr, an open-source background job scheduler for Java. You should absolutely read this piece with that in mind. It is also why everything below is either measured in a public repo you can run yourself, or cited to the engine vendors' own documentation.
 
 ## The property and the product
 
 Durable execution means one thing: important work survives crashes and resumes instead of starting over. Your three-step order job should not re-charge the customer because a pod got OOM-killed between steps two and three. That is the property, and you want it for nearly everything that runs in the background.
 
-Somewhere along the way, the property got a product category. Workflow engines like Temporal deliver durability through deterministic event-sourced replay: the engine records every event in a workflow's life, and after a crash it re-runs your orchestration code from the top, feeding it recorded results until it catches up to where it died. It is a genuinely elegant model, and it is also a heavy one. Your orchestration code must be deterministic, which means no clock, no random values, no I/O outside of activities. Changing a running workflow becomes a versioning discipline. And operationally you now run a second distributed system: Temporal's own docs describe four independently scaling services plus a dedicated persistence store, before your first workflow executes.
+Somewhere along the way, the property got a product category. Workflow engines like Temporal deliver durability through deterministic event-sourced replay: the engine records every event in a workflow's life, and after a crash it re-runs your orchestration code from the top, feeding it recorded results until it catches up to where it died. It is a genuinely elegant model, but it is also a heavy one. Your orchestration code must be deterministic, which means no clock, no random values, no I/O outside of activities. Changing a running workflow becomes a versioning discipline. And operationally you now run a second distributed system: Temporal's own docs describe four independently scaling services plus a dedicated persistence store, before your first workflow executes.
 
-![What each route asks you to operate: a workflow engine adds a cluster of four services plus its own persistence database next to your application, while a database-backed scheduler runs embedded in your application against the database you already have](https://foojay.io/wp-content/uploads/2026/07/workflow-engine-vs-jobrunr-architecture.svg)
+![What each route asks you to operate: a workflow engine adds a cluster of four services plus its own persistence database next to your application, while a database-backed scheduler runs embedded in your application against the database you already have](workflow-engine-vs-jobrunr-architecture.png)
 
-Here is the thing the sales pitch skips. Event-sourced replay is one implementation of the property. It is not the property itself. A checkpoint in a database row is another implementation: run a step, write down that it finished, and on retry skip everything that is already written down. Both approaches survive the same crashes. They just pay wildly different prices, and the difference is measurable.
+Here is the thing most vendors don't mention. Event-sourced replay is one implementation of durable execution. A checkpoint in a database row is another implementation: run a step, write down that it finished, and on retry skip everything that is already written down. Both approaches survive the same crashes. They just pay wildly different prices, and the difference is measurable.
 
 ## Exactly-once is not on the menu anyway
 
-Before we measure anything, we need to clear up! the argument that usually ends this discussion: "yes, but the engine gives me exactly-once."
+Before we measure anything, we need to clear up the argument that usually ends this discussion: "yes, but the engine gives me exactly-once."
 
 It does not, and the vendors say so themselves. Temporal's documentation states plainly that activities may be executed more than once. The workflow logic replays as if it ran once, but the steps that touch the real world, the ones that charge cards and call APIs, run at-least-once. A process can always die after the side effect happened and before the record of it was persisted. No architecture on earth closes that window, because the universe does not offer transactional semantics across your process and someone else's payment API.
 
@@ -92,6 +92,10 @@ public void fulfillOrder(String orderId, JobContext jobContext) {
 }
 ```
 
+You do not have to imagine this mechanism either. JobRunr 9, which was just released, shows it on screen: the job history in the dashboard gained a Job Progress Chart View that lays out every attempt step by step. Here is one of our demo jobs, an invoice run whose payment provider timed out. The first attempt fails at the charge-card step. The retry does not start over: the two steps that already finished are marked as skipped, the job resumes exactly at charge-card, and next to every step you can see how long it took. That view is in the free open-source build, and I like it because it makes the argument of this article visible. There is no replay magic in that picture. It is a database row remembering which steps are done.
+
+![JobRunr 9's Job Progress Chart View of a durable invoice job: the first attempt fails at the charge-card step, and the retry marks calculate-usage and generate-pdf as skipped, resumes at charge-card, and shows a duration next to every step](jobrunr-9-chart-view-retry.png)
+
 But the point stands without any library. The property is available on your current stack. The question is only what the product costs on top of it.
 
 ## The receipts
@@ -117,7 +121,7 @@ Here is where I am supposed to tell you the engine is always wrong, and I will n
 
 Those 113 transactions per order buy real things: a complete event history of every execution, replay-based debugging, queryable workflow state, signals, timers, child workflows, and orchestration across services written in different languages. Three questions tell you whether you need them. Does your orchestration branch so deeply that you need full replay and workflow versioning? Does one workflow coordinate services in several languages? Do you need signals, queries, and child workflows as first-class primitives?
 
-![Decision tree: three yes/no questions. Answer yes to deeply branching orchestration, multi-language coordination, or first-class signals and child workflows, and the workflow engine is your tool. Answer no to all three, and a database-backed scheduler covers you](workflow-engine-decision-tree.svg)
+![Decision tree: three yes/no questions. Answer yes to deeply branching orchestration, multi-language coordination, or first-class signals and child workflows, and the workflow engine is your tool. Answer no to all three, and a database-backed scheduler covers you](workflow-engine-decision-tree.png)
 
 If you answer yes, take the engine and do not look back. The heaviest orchestration problems are exactly what it was built for, and its costs are the honest price of those capabilities. Temporal's own co-creator frames the tool the same way: it is not meant to be a replacement for queues, it is a different way to design applications.
 
@@ -131,4 +135,4 @@ Buy the product when you need the product. Never buy it to get a property you al
 
 ---
 
-*Nicholas D'hondt works on JobRunr, an open-source job scheduler for Java. The benchmark harness, raw results, and instrumentation from this article are available at github.com/iNicholasBE/temporal-vs-jobrunr-benchmark. All claims about engine internals reference Temporal's public documentation: docs.temporal.io/workflow-execution (state transitions), docs.temporal.io/tasks (workflow tasks), docs.temporal.io/cloud/actions (billing per action), and temporal.io/blog/scaling-temporal-the-basics (capacity in state transitions per second).*
+*Nicholas D'hondt works on JobRunr, an open-source job scheduler for Java. The benchmark harness, raw results, and instrumentation from this article are available at [github.com/iNicholasBE/temporal-vs-jobrunr-benchmark](https://github.com/iNicholasBE/temporal-vs-jobrunr-benchmark). All claims about engine internals reference Temporal's public documentation: [docs.temporal.io/workflow-execution](https://docs.temporal.io/workflow-execution) (state transitions), [docs.temporal.io/tasks](https://docs.temporal.io/tasks) (workflow tasks), [docs.temporal.io/cloud/actions](https://docs.temporal.io/cloud/actions) (billing per action), and [temporal.io/blog/scaling-temporal-the-basics](https://temporal.io/blog/scaling-temporal-the-basics) (capacity in state transitions per second).*
