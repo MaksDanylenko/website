@@ -1,19 +1,24 @@
 ---
 title: "Building a Code Editor Control in JavaFX"
-date: 2026-09-24
+date: "2026-10-06"
 description: "A look inside a custom JavaFX Control/Skin implementation of a code-editor component: virtualized line numbers, keyword highlighting, bracket matching, multi-cursor editing, undo/redo, and autocomplete."
 authors: ["liban-bande-gonzalez"]
 categories: ["JavaFX", "Java"]
 image: "editor.jpg"
 related_posts:
   - "announcing-skinning-javafx-applications"
+  - "custom-controls-in-javafx-part-iv"
+  - "custom-controls-in-javafx-part-vi"
+  - "javafx-nodes-versus-canvas"
+  - "high-performance-rendering-in-javafx"
+  - "navigating-behaviour-with-events"
 ---
 
 JavaFX doesn't ship with a code-editor control, and `TextArea` isn't built to grow into one — no per-character styling, no gutter, no virtualization tuned for thousands of lines. Building a real one means going back to `Control` + `Skin` and constructing the editor surface yourself. This post walks through several pieces of a custom editor control.
 
 ## The core idea: two virtualized lists, not one
 
-The instinctive design is a single `ListView<String>`, one row per line, with each row containing both the line number and the code. This approach has a drawback, when the user scrolls horizontally the line number disappear.
+The instinctive design is a single `ListView<String>`, one row per line, with each row containing both the line number and the code. This approach has a drawback: when the user scrolls horizontally, the line numbers disappear.
 
 The fix is to split the editor into **two separate virtualized `ListView`s that share the same backing data**:
 
