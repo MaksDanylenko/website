@@ -6,7 +6,7 @@ bio: "Java developer with years of experience developing systems for television 
 bluesky: ""
 mastodon: ""
 linkedin: "https://www.linkedin.com/in/matt-van-order-92901458/"
-github: ""
+github: "https://github.com/mvozul"
 youtube: ""
 website: ""
 ---
