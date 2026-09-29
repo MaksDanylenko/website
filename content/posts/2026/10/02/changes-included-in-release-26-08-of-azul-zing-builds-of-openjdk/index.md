@@ -1,7 +1,6 @@
 ---
 title: "Changes Included in Release 26.08 of Azul Zing Builds of OpenJDK"
-date: "2026-10-02T08:00:00+00:00"
-lastmod: "2026-10-02T08:00:00+00:00"
+date: "2026-10-02"
 description: "Azul Zing Builds of OpenJDK, the optimized Java runtime within Azul Platform Prime, has reached the release of the 26.08 Stable Release line."
 canonical: "https://www.azul.com/blog/changes-included-in-release-26-08-of-azul-zing-builds-of-openjdk/"
 authors:
