@@ -125,7 +125,8 @@ class RateLimitFilterTest {
     @Test
     void firstCallAboveTheCapIsRejectedWithRetryAfter() throws Exception {
         for (int i = 0; i < CAP; i++) {
-            mvc.perform(get("/api/orders").header("X-Api-Key", "key-b"));
+            mvc.perform(get("/api/orders").header("X-Api-Key", "key-b"))
+               .andExpect(status().isOk());
         }
         mvc.perform(get("/api/orders").header("X-Api-Key", "key-b"))
            .andExpect(status().isTooManyRequests())
@@ -135,7 +136,8 @@ class RateLimitFilterTest {
     @Test
     void twoKeysDoNotShareABucket() throws Exception {
         for (int i = 0; i < CAP; i++) {
-            mvc.perform(get("/api/orders").header("X-Api-Key", "key-c"));
+            mvc.perform(get("/api/orders").header("X-Api-Key", "key-c"))
+               .andExpect(status().isOk());
         }
         mvc.perform(get("/api/orders").header("X-Api-Key", "key-d"))
            .andExpect(status().isOk());
