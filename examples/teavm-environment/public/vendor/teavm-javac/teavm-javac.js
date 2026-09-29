@@ -484,6 +484,7 @@ function normalizeCompilerRuntimeRequest(input) {
             compilerWasm: DEFAULT_COMPILER_WASM_URL,
             compilerWasmRuntime: DEFAULT_COMPILER_WASM_RUNTIME_URL,
             wasmRuntimeOptions: {},
+            hasRuntimeOptions: false,
             fallbackToJs: true,
         };
     }
@@ -508,6 +509,10 @@ function normalizeCompilerRuntimeRequest(input) {
         compilerWasm,
         compilerWasmRuntime,
         wasmRuntimeOptions,
+        hasRuntimeOptions: input.wasmRuntimeOptions != null
+            || input.runtimeOptions != null
+            || input.stdio != null
+            || input.fs != null,
         fallbackToJs: input.fallbackToJs !== false,
     };
 }
@@ -542,8 +547,7 @@ function normalizeCompilerBackend(value) {
 }
 function compilerRuntimeCacheKey(request) {
     if (isBinaryInput(request.compilerWasm)
-        || request.wasmRuntimeOptions == null
-        || Object.keys(request.wasmRuntimeOptions).length > 0) {
+        || request.hasRuntimeOptions) {
         return null;
     }
     return [
@@ -844,7 +848,7 @@ function notifyJavaProgramRunError(program, error) {
 async function waitForJavaProgramStop(program, state, options = {}) {
     const timeoutMs = options.timeoutMs ?? 0;
     const started = Date.now();
-    while (!isJavaProgramStopped(program)) {
+    while (!state.callbackFinished && !isJavaProgramStopped(program)) {
         if (state.error) {
             throw state.error;
         }

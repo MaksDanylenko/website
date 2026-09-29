@@ -31,7 +31,7 @@ The worker handles compilation outside the page's main thread, so the editor sta
 
 ## Try the small app
 
-The [companion React/Vite app](https://github.com/foojayio/website/tree/main/examples/teavm-environment) has one editable Java file and two buttons: **Compile Java** and **Run Java**. The **Run Java** button becomes available after compilation succeeds. With Node.js 20.19+ or 22.12+, clone the repository and start the app:
+The [companion React/Vite app](https://github.com/foojayio/website/tree/main/examples/teavm-environment) has one editable Java file and two main actions: **Compile Java** and **Run Java**. The **Run Java** button becomes available after compilation succeeds. A **Stop** button lets you interrupt compilation or execution while keeping your edited source. Compile again after stopping to run the program. With Node.js 20.19+ or 22.12+, clone the repository and start the app:
 
 ```sh
 git clone https://github.com/foojayio/website.git

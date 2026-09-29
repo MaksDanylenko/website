@@ -17,6 +17,7 @@ function App() {
     if (workerRef.current) return workerRef.current;
     const instance = new Worker(new URL('./compiler.worker.js', import.meta.url), { type: 'module' });
     instance.onmessage = ({ data }) => {
+      if (workerRef.current !== instance) return;
       if (data.type === 'status') setStatus(data.text);
       if (data.type === 'compiled') {
         setCompiled(true);
@@ -36,6 +37,7 @@ function App() {
       }
     };
     instance.onerror = (error) => {
+      if (workerRef.current !== instance) return;
       setOutput(error.message || 'Worker failed');
       setStatus('Failed');
       setCompiled(false);
@@ -68,13 +70,27 @@ function App() {
     worker().postMessage({ type: 'run' });
   }
 
+  function stop() {
+    workerRef.current?.terminate();
+    workerRef.current = null;
+    setBusy(false);
+    setCompiled(false);
+    setStatus('Stopped');
+    setOutput('Stopped. Compile the source again to run it.');
+  }
+
   return <main>
     <p className="eyebrow">TeaVM + React + Vite</p>
     <h1>What environment does browser Java see?</h1>
     <p>Edit the Java program, compile it directly in your browser, then run the WebAssembly. Explore TeaVM's Java 21 environment, count primes, and draw a tiny Mandelbrot set.</p>
     <label htmlFor="source">BrowserJavaExplorer.java</label>
     <textarea id="source" spellCheck="false" value={code} disabled={busy} onChange={(event) => changeCode(event.target.value)} />
-    <div className="actions"><button type="button" onClick={compile} disabled={busy}>Compile Java</button><button className="secondary" type="button" onClick={run} disabled={!compiled || busy}>Run Java</button><span role="status">{status}</span></div>
+    <div className="actions">
+      <button type="button" onClick={compile} disabled={busy}>Compile Java</button>
+      <button className="secondary" type="button" onClick={run} disabled={!compiled || busy}>Run Java</button>
+      <button className="secondary" type="button" onClick={stop} disabled={!busy}>Stop</button>
+      <span role="status">{status}</span>
+    </div>
     <label htmlFor="output">Output</label>
     <pre id="output" aria-live="polite">{output || (compiled ? 'Compilation succeeded. Click Run Java.' : 'Compile the source to enable Run Java.')}</pre>
   </main>;
