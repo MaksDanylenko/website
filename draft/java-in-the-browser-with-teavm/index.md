@@ -1,9 +1,9 @@
 ---
 title: "Run Java in the Browser with TeaVM"
 date: "2026-09-26"
-description: "Build an editable Java example with TeaVM, React, and Vite, then explore the environment available to a Java program running in the browser."
+description: "Build an editable Java example with TeaVM, React, and Vite, then explore the environment available to Java in the browser."
 authors: ["petr-pravda"]
-image: "teavm-browser-java.jpg"
+image: "teavm-browser-hero.jpg"
 categories: ["Java", "Developer Tools"]
 ---
 
@@ -31,12 +31,18 @@ The worker handles compilation outside the page's main thread, so the editor sta
 
 ## Try the small app
 
-The [companion React/Vite app](https://github.com/foojayio/website/tree/main/examples/teavm-environment) has one editable Java file and two buttons: **Compile Java** and **Run Java**. The **Run Java** button becomes available after compilation succeeds. To start the app, run these commands from its folder:
+The [companion React/Vite app](https://github.com/foojayio/website/tree/main/examples/teavm-environment) has one editable Java file and two buttons: **Compile Java** and **Run Java**. The **Run Java** button becomes available after compilation succeeds. With Node.js 20.19+ or 22.12+, clone the repository and start the app:
 
 ```sh
-npm install
+git clone https://github.com/foojayio/website.git
+cd website/examples/teavm-environment
+npm ci
 npm run dev
 ```
+
+If you already have a clone, start from its `examples/teavm-environment` folder
+and run the two npm commands. Open the local URL printed by Vite, then click
+**Compile Java** followed by **Run Java**.
 
 The Java program lists system properties and checks familiar environment variables such as `JAVA_HOME` and `OS`. It then reads the locale and time zone, counts primes below 10,000, and draws a tiny Mandelbrot set. Clicking **Compile Java** sends the source to the worker, which produces WebAssembly. Clicking **Run Java** executes the compiled program and sends its text output back to React.
 
