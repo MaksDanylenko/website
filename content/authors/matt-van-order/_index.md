@@ -2,7 +2,7 @@
 title: "Matt Van Order"
 avatar: "matt-van-order.jpg"
 avatarFull: "matt-van-order-full.jpg"
-bio: "Java developer with years of experience developing systems for television and news broadcasting. Senior Technical Writer at Azul, with a focus on Azul Platform Prime."
+bio: "Java developer with years of experience developing systems for television and news broadcasting. Senior Technical Writer at Azul, with a focus on Azul Prime."
 bluesky: ""
 mastodon: ""
 linkedin: "https://www.linkedin.com/in/matt-van-order-92901458/"
