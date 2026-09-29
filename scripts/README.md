@@ -14,8 +14,8 @@ They are grouped by **lifetime and job**, not by what they happen to be called:
 | `fetch/` | pulls data from community-run upstreams into `data/*` | CI, and by hand |
 | `validate/` | PR-time content checks | CI |
 
-**`transfer/`, `cleanup/` and `shared/` are gone**, deleted at cutover on the
-Phase 4 list in `CUTOVER.md`. `transfer/` scraped the live WordPress site
+**`transfer/`, `cleanup/` and `shared/` are gone**, deleted at cutover.
+`transfer/` scraped the live WordPress site
 (posts, authors, sponsors, comments, view counts), `cleanup/` held the one-off
 repairs of what those scrapers produced, and `shared/HtmlToMarkdown.java` was
 the WordPress HTML → Markdown converter both of them called. All three answered

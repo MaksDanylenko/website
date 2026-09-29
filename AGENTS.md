@@ -4,8 +4,8 @@ foojay.io is a static Hugo site, built from this repo and deployed to GitHub
 Pages behind Cloudflare. It replaced the WordPress site at **cutover on
 2026-09-22**. If you're picking this up fresh, read this before making changes.
 
-`CUTOVER.md` is the runbook that was followed on the day. It is history now,
-except for its "Redirect rules" section, which is live Cloudflare config.
+`REDIRECTS.md` documents the live Cloudflare redirect rules that carry old
+URLs to their Hugo equivalents.
 
 ## The goal that outranks the others
 
@@ -634,7 +634,7 @@ site.
   restructure a URL without adding one. WordPress ran a redirect layer on top:
   **89 concrete rules are `aliases:` in `content/`** (chains resolved to their
   final destination, since an alias aimed at another redirect is one search
-  engines discard), and **3 regexes are Cloudflare config** in `CUTOVER.md` —
+  engines discard), and **3 regexes are Cloudflare config** in `REDIRECTS.md` —
   `^/blog/(.*)` (209k hits, foojay's original scheme), `^/almanac/(jdk|java)-…`
   (103k) and `^/docs/(.*)` (530). 17 export rules were deliberately skipped
   because their targets 404 on WordPress too.
@@ -1483,7 +1483,6 @@ site.
   out `gcs=G100`. There are **no `gtag('consent', …)` defaults now**, and
   azul.com has none either; gating is Ketch's own, not Consent Mode's.
   Restoring the container fixed it, **confirmed live in GA on 2026-09-23**.
-  `CUTOVER.md`'s "Analytics fires" has the full account.
 
   **The container also injects Ketch**, so `[params.analytics.ketch]` is
   commented out — setting it loads Ketch twice. Worth fixing the other way

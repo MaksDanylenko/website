@@ -10,7 +10,7 @@ Four other documents carry the detail this one only points at:
 |---|---|
 | [`scripts/README.md`](scripts/README.md) | Every script, grouped by whether it survives cutover |
 | [`worker/views/README.md`](worker/views/README.md) | The read counter: Worker + D1 setup and deploy |
-| [`CUTOVER.md`](CUTOVER.md) | The ordered runbook for going live, including the redirect rules that must be on the host first |
+| [`REDIRECTS.md`](REDIRECTS.md) | The live Cloudflare redirect rules carrying old URLs to their Hugo equivalents |
 | [`AGENTS.md`](AGENTS.md) | Why things are built the way they are — read before changing a convention |
 
 ## Repository layout
@@ -145,25 +145,7 @@ Setup and deploy: [`worker/views/README.md`](worker/views/README.md). **Not yet
 deployed** — until it is, `data/views.json` holds the imported WordPress
 numbers, which is why the counts are already on the site.
 
-## Before cutover
-
-The domain move is not just a DNS change. In rough order:
-
-1. **Redirects.** [`CUTOVER.md`](CUTOVER.md#redirect-rules) — the five families
-   of URL WordPress serves that Hugo `aliases:` cannot express, including
-   `/blog/*` → `/today/*` and every `/feed/`. Re-export the plugin's rules first
-   in case any were added.
-2. **Re-run the catch-up scripts** against the still-live WordPress site:
-   `transfer/LegacyViews.java` for the final view counts, `transfer/Comments.java`
-   for comments posted in the meantime.
-3. **Deploy the read counter** and seed it (`--seed`). Do it early rather than on
-   the day: the route can go up while WordPress is still live, and a counter
-   proven over weeks beats one switched on the day it has to work.
-4. **Flip `baseURL`.** The `noindex` in `baseof.html` and the `Disallow: /` in
-   `layouts/robots.txt` are *derived* from it — the moment `baseURL` equals
-   `params.productionBaseURL`, the site turns indexable on its own. There is no
-   flag to remember to unset. Do not turn this into one.
-5. **Security headers** on Cloudflare — `X-Content-Type-Options`,
-   `Referrer-Policy`, `Permissions-Policy`, CSP. GitHub Pages cannot set them.
-
-`AGENTS.md`'s "Known gaps" section carries the detail on each.
+Redirects from old WordPress/foojay URLs are documented in
+[`REDIRECTS.md`](REDIRECTS.md). `AGENTS.md`'s "Known gaps" section carries
+detail on the rest of what cutover touched (security headers, `baseURL`, the
+read counter).
