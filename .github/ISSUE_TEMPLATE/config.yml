@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/foojayio/website/security/advisories/new
+    about: Found a security issue in the site's code or infrastructure? Report it privately here — see SECURITY.md. Please don't open a public issue for this.
+  - name: Submit an article
+    url: https://foojay.io/today/how-to-submit-your-next-article-on-foojay-io/
+    about: Articles are submitted by pull request, not by issue — this guide walks through it.
+  - name: JUG missing or wrong on the calendar
+    url: https://github.com/World-Wide-JUGs/GlobalWWJugs/tree/master/_jugs
+    about: JUG meetup data is community-run upstream — fix it there and it syncs into foojay automatically.
+  - name: Ask a question / chat
+    url: https://foojay.io/today/join-slack-com-t-foojay-signup/
+    about: For "how do I..." or "does foojay do..." questions, the Foojay Slack is faster than an issue.

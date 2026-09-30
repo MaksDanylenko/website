@@ -1,0 +1,30 @@
+name: Content suggestion
+description: A topic, tutorial or reference page you think foojay.io is missing.
+labels: ["content"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This is for pointing out a gap — a topic nobody has covered, a Java
+        Almanac / JVM options entry that's out of date, a glossary term
+        missing. It is not a request for someone to write you a specific
+        article on demand, and it's not the place to submit a finished one.
+
+        **Have an article ready to submit?** Skip this template — that goes
+        by pull request. See
+        [How to submit your next article](https://foojay.io/today/how-to-submit-your-next-article-on-foojay-io/).
+
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: What's missing, and why does it matter
+      description: The topic or gap, and who you think would benefit from it.
+    validations:
+      required: true
+
+  - type: input
+    id: existing
+    attributes:
+      label: Related existing page (if any)
+      description: A page this would extend, correct or sit next to.
+      placeholder: https://foojay.io/...

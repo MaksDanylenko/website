@@ -1,0 +1,43 @@
+name: Bug report
+description: Something on foojay.io is broken — a page, a feature, a build.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time. A specific page and what went wrong is
+        enough — you don't need to know the technical cause.
+
+        Found a typo or mistake in an *article* rather than the site itself?
+        Every article's source is a file in `content/posts/` — editing it and
+        opening a pull request is a faster fix than an issue.
+
+  - type: input
+    id: url
+    attributes:
+      label: Page or URL
+      description: Where does this happen?
+      placeholder: https://foojay.io/...
+    validations:
+      required: true
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened
+      description: What did you expect, and what did you get instead?
+    validations:
+      required: true
+
+  - type: textarea
+    id: repro
+    attributes:
+      label: Steps to reproduce
+      description: If it isn't obvious from the description above.
+
+  - type: input
+    id: environment
+    attributes:
+      label: Browser / device
+      description: Only if it looks like it matters (e.g. a phone-only layout bug).
+      placeholder: Safari on iPhone, Firefox on Windows, ...
