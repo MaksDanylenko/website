@@ -1,5 +1,10 @@
 # foojay.io — a place for Friends Of OpenJDK
 
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+[![Site](https://img.shields.io/badge/Website-foojay.io-green)](https://foojay.io)
+[![Contribute content](https://img.shields.io/badge/Write-for%20Foojay-blue)](https://foojay.io/today/how-to-submit-your-next-article-on-foojay-io//)
+[![Chat on Slack](https://img.shields.io/badge/Chat-on%20Slack-blue)](https://foojay.io/today/join-slack-com-t-foojay-signup/)
+
 This repository **is** [foojay.io](https://foojay.io). Every article, author
 profile and page on the site is a Markdown (or AsciiDoc) file in here, and the site rebuilds
 and redeploys itself whenever something lands on `main`.
@@ -109,3 +114,17 @@ Maintainers: [`MAINTAINERS.md`](MAINTAINERS.md) for how to run it,
 [`scripts/README.md`](scripts/README.md) for the tooling, and
 [`AGENTS.md`](AGENTS.md) for why any of it is built the way it is — worth reading
 before changing a convention.
+
+## License
+
+This repository's code — Hugo templates, layouts, stylesheets, scripts and
+build tooling — is licensed under [Apache License 2.0](LICENSE).
+
+Article and page content (everything under `content/`) is not covered by that
+license. It remains governed by foojay.io's
+[Terms of Use](https://foojay.io/terms-of-use/): you keep ownership of what
+you write, and publishing it here grants Azul Systems, Inc. a license to
+publish and archive it — it does not open-license your article text.
+
+By opening a pull request here, you also agree to the
+[Code of Conduct](CODE_OF_CONDUCT.md).
