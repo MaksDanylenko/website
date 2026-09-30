@@ -1,5 +1,5 @@
 {
-  "generatedAt" : "2026-09-29T07:01:31Z",
+  "generatedAt" : "2026-09-30T06:51:06Z",
   "source" : "iCal feeds published by the JUGs themselves (data/jugs.yaml `calendar`) and Meetup's iCal export for the groups that use it; venues from the feed's LOCATION or the schema.org JSON-LD on the event page -- see scripts/fetch/JugEvents.java",
   "groups" : [ {
     "slug" : "almaty-java-user-group",
@@ -104,15 +104,7 @@
     "jug" : "BrabantJUG",
     "source" : "meetup",
     "url" : "https://www.meetup.com/brabant-jug/",
-    "events" : [ {
-      "title" : "BrabantJUG @ TOPDesk",
-      "url" : "https://www.meetup.com/brabant-jug/events/316258541/",
-      "startTime" : "2026-09-29T17:00:00+02:00",
-      "endTime" : "2026-09-29T22:00:00+02:00",
-      "venue" : "TOPdesk Nederland BV",
-      "city" : "Tilburg",
-      "online" : false
-    } ]
+    "events" : [ ]
   }, {
     "slug" : "brujug",
     "name" : "BruJUG - The Brussels Java User Group",
@@ -246,15 +238,7 @@
     "jug" : "BielefeldJUG",
     "source" : "meetup",
     "url" : "https://www.meetup.com/Java-User-Group-Bielefeld/",
-    "events" : [ {
-      "title" : "dev connect OWL 2026",
-      "url" : "https://www.meetup.com/java-user-group-bielefeld/events/316594278/",
-      "startTime" : "2026-09-29T14:30:00+02:00",
-      "endTime" : "2026-09-29T19:00:00+02:00",
-      "venue" : "Wissenswerkstadt Bielefeld",
-      "city" : "Bielefeld",
-      "online" : false
-    } ]
+    "events" : [ ]
   }, {
     "slug" : "JUG-Bonn",
     "name" : "JUG Bonn",
@@ -558,6 +542,14 @@
     "source" : "meetup",
     "url" : "https://www.meetup.com/jug-oberpfalz/",
     "events" : [ {
+      "title" : "Wait, GraphRAG Doesn't Work the Way I Thought It Did",
+      "url" : "https://www.meetup.com/jug-oberpfalz/events/316766030/",
+      "startTime" : "2026-10-01T20:00:00+02:00",
+      "endTime" : "2026-10-01T22:00:00+02:00",
+      "venue" : null,
+      "city" : null,
+      "online" : true
+    }, {
       "title" : "JUGO - TBD - save the date",
       "url" : "https://www.meetup.com/jug-oberpfalz/events/313226991/",
       "startTime" : "2026-10-07T18:00:00+02:00",
