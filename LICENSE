@@ -205,6 +205,9 @@
    Scope: this License applies to the site's code — Hugo templates, layouts,
    stylesheets, scripts and build tooling in this repository. It does not
    apply to article, page or other content (Markdown/AsciiDoc under
-   `content/`), which remains governed by foojay.io's Terms of Use
-   (https://foojay.io/terms-of-use/): contributing authors retain ownership
-   of their content and grant Azul Systems, Inc. a license to publish it.
+   `content/`) or to third-party assets included in the repository (such as
+   fonts, icons or images not authored for foojay.io), which remain under
+   their own copyright and licensing terms. Contributed site content is
+   governed by foojay.io's Terms of Use (https://foojay.io/terms-of-use/):
+   contributing authors retain ownership of their content and grant Azul
+   Systems, Inc. a license to publish it.
