@@ -1,6 +1,6 @@
 ---
 title: "Green Build, Wrong Task: A Working Agreement for Java Teams Using AI Coding Agents"
-date: "2026-01-01"
+date: "2026-10-07"
 description: "Three ways AI coding agents waste a Java team's afternoon, and the spec, locked tests and capped review loop that stop it. Webinar notes, agent-agnostic."
 authors:
   - "viktoria-evdokimova"
@@ -200,7 +200,7 @@ None of this is mandatory for a prototype; chat and see what comes back. The spe
 
 A subagent gets its own context window, its own system prompt and its own tools. The parent hands it a piece of work and receives a result, minus the exploration noise. That definition gives you specialization (a reviewer that only reads and judges, a searcher that only greps and reports), a clean parent context (the subagent reads forty files and returns three paths, and the forty files never enter the main chat, which answers the overfilled-chat problem from the first section), and parallelism (three subagents walk three modules while you read the plan).
 
-{{< img src="subagents-when-to-use.png" alt="Slide: subagents make sense for large independent work and review pipelines; a single agent is the better default for small tasks and closely supervised work" caption="From the webinar guide: where subagents earn their cost and where a single agent wins." >}}
+{{< img src="subagents-when-to-use.jpg" alt="Slide: subagents make sense for large independent work and review pipelines; a single agent is the better default for small tasks and closely supervised work" caption="From the webinar guide: where subagents earn their cost and where a single agent wins." >}}
 
 Sergey followed that slide with a line attributed to Anthropic on his next one: teams spend months on multi-agent architectures and then discover that better prompting of a single agent gives the same result. His reading: a single agent with a precise request is the default, and subagents are for work that is too large or too spread out for one context. A bug fix does not qualify, and neither does a feature that fits in one chat or anything you want to watch step by step. The cost is also easy to underestimate: each subagent rebuilds context from zero, so a pipeline of five is noticeably more expensive than one agent doing the same job.
 
@@ -214,7 +214,7 @@ The slide puts the realistic limit at two or three agents in parallel; the Exply
 
 Personal settings live in your home directory and never reach the repository: response language, how much autonomy you want, your preferred format for a stack-trace analysis. Team settings live in the repository: `AGENTS.md`, project rules and skills, the agent's access boundaries, the MCP server list, project memory. Most agents follow some version of this split; the directory names differ.
 
-{{< img src="setup-three-assets.png" alt="Slide: rules stay in context permanently, skills are loaded on demand, MCP servers reach outside the IDE" caption="Rules, skills and MCP servers, and what each one is for." >}}
+{{< img src="setup-three-assets.jpg" alt="Slide: rules stay in context permanently, skills are loaded on demand, MCP servers reach outside the IDE" caption="Rules, skills and MCP servers, and what each one is for." >}}
 
 A rule is a standing instruction that goes into the system prompt: "JUnit 5 and AssertJ. Never edit generated sources." Scope it to a file pattern so a rule about tests does not follow you into production code, and remember that a rule repeated on every turn costs tokens on every turn.
 
