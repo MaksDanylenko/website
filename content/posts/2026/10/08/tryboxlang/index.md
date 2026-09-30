@@ -1,6 +1,6 @@
 ---
 title: "try.boxlang.io Now Runs Every BoxLang Version, With or Without CFML"
-date: "2026-01-01"
+date: "2026-10-08"
 description: "Test BoxLang releases and CFML compatibility in your browser, backed by isolated AWS Lambda functions built from a single repository."
 authors:
   - "luis-majano"
@@ -11,14 +11,18 @@ categories:
   - "Cloud"
   - "Developer Tools"
 canonical: "https://www.ortussolutions.com/blog/tryboxlangio-now-runs-every-boxlang-version-with-or-without-cfml"
-related_posts: []
+related_posts:
+  - "boxlang-1-17-0-released-module-inception-cli-checker-jar-loading-and-much-more"
+  - "boxlang-ai-340-gateways-hitl-security"
+  - "community-spotlight-boxlang-express-brings-node-style-http-to-the-jvm"
+  - "announcing-bx-word-native-microsoft-word-automation-for-boxlang"
 ---
 
 The [BoxLang playground](https://try.boxlang.io/) now lets you choose among released BoxLang versions and switch CFML compatibility on or off without installing a runtime or setting up containers. Choose a version, enter a snippet, and run it in the browser.
 
 Behind the editor is a serverless implementation on AWS Lambda. Each combination of BoxLang version and compatibility mode is built from one repository and deployed as an isolated function. Here's what changed and how that arrangement works.
 
-![TryBoxLang full interface](screenshot-full-ui.png)
+![TryBoxLang full interface](screenshot-full-ui.jpg)
 
 *The playground lets you select a runtime version, toggle CFML compatibility, share code, and run examples directly in the browser.*
 
