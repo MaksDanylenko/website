@@ -140,7 +140,7 @@ cp workbench/config.env workbench/config.local.env
 ./gradlew test
 ./gradlew build
 
-# Run it locally with SAM
+# Run it locally
 ./gradlew runLocal
 ./gradlew runLocalApi
 
@@ -148,7 +148,7 @@ cp workbench/config.env workbench/config.local.env
 ./workbench/2-deploy.sh
 ```
 
-In the starter's described CI/CD configuration, GitHub Actions deploy the `development` branch to staging and `main` to production, with CloudFormation creating the function when needed.
+The starter includes CI/CD workflows for release and snapshot builds. Release workflows can run on pushes to `main` or through manual dispatch, while snapshot workflows handle non-main branches and pull requests. AWS deployment steps are available through the project tooling and can be enabled as needed, including deployment through `workbench/2-deploy.sh` and CloudFormation after setup.
 
 ## Why Use BoxLang for Serverless Applications?
 
