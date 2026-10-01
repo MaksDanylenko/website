@@ -41,8 +41,10 @@ You can listen and subscribe to the Foojay Podcast on:
 
 * Andy Damevin - Principal Software Engineer at Red Hat, Quarkus core team, creator of `code.quarkus.io`, Quinoa, Web Bundler and Roq
   * [LinkedIn](https://www.linkedin.com/in/andy-damevin/)
+  * [Foojay author page](/today/author/andy-damevin/)
 * Holly Cummins - Senior Principal Software Engineer on the Red Hat Quarkus team, Java Champion, led the quarkus.io migration from Jekyll to Roq
   * [LinkedIn](https://www.linkedin.com/in/holly-k-cummins/)
+  * [Foojay author page](/today/author/holly-cummins/)
 
 ## Links
 
