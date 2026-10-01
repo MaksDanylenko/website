@@ -4,7 +4,7 @@ date: "2026-10-01"
 description: "Why you can't just copy a JIT-compiled method from one JVM to another: compiled code is a bet on one specific JVM's state. Identity, validity, and profitability all have to be checked before it's safe to reuse."
 authors:
   - "jiri-holusa"
-image: ""
+image: "foojay-header-part1-warms-up-alone.jpg"
 categories:
   - "Java Core"
   - "Performance"
