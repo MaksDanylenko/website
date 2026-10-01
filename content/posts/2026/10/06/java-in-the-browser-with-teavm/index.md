@@ -1,6 +1,6 @@
 ---
 title: "Run Java in the Browser with TeaVM"
-date: "2026-09-26"
+date: "2026-10-06"
 description: "Build an editable Java example with TeaVM, React, and Vite, then explore the environment available to Java in the browser."
 authors: ["petr-pravda"]
 image: "teavm-browser-hero.jpg"
