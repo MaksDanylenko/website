@@ -207,7 +207,15 @@
    apply to article, page or other content (Markdown/AsciiDoc under
    `content/`) or to third-party assets included in the repository (such as
    fonts, icons or images not authored for foojay.io), which remain under
-   their own copyright and licensing terms. Contributed site content is
-   governed by foojay.io's Terms of Use (https://foojay.io/terms-of-use/):
-   contributing authors retain ownership of their content and grant Azul
-   Systems, Inc. a license to publish it.
+   their own copyright and licensing terms.
+
+   Contributed site content is governed by foojay.io's Terms of Use
+   (https://foojay.io/terms-of-use/). In summary: contributing authors retain
+   ownership of their content, and grant Azul Systems, Inc. a license to use,
+   host, store, reproduce, modify, create derivative works of, communicate,
+   publish, publicly display, and distribute it, solely in connection with
+   the operation and promotion of the Website and Services. If an author
+   asks for their content to be removed, Azul Systems, Inc. will do so
+   subject to any legal obligation to retain it, and the license continues
+   for a commercially reasonable period after removal. See the Terms of Use
+   for the full, authoritative terms.
