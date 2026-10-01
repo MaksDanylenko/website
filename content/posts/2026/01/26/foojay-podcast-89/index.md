@@ -5,6 +5,7 @@ description: "For this episode of the Foojay Podcast, we invited the author of t
 authors:
   - "frankdelporte"
   - "michal-maler"
+  - "holly-cummins"
 image: "episode-89-quarkus.jpg"
 categories:
   - "Podcast"
