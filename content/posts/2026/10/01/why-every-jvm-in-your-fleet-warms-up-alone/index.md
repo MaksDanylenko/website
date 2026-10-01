@@ -21,6 +21,8 @@ We live in a distributed systems world. We handle more traffic "simply" by addin
 
 The service ends up running on tens, hundreds or thousands of JVMs. Same JAR, same JDK, same instance type, same traffic shape. Instance 1 starts cold, spends its first minutes working out which of its several thousand methods are hot, and compiles them optimizing them specifically for the traffic observed. Instance 1000, starting a couple hours later, does exactly the same thing. From scratch, for the 1000th time.
 
+![Why every JVM in your fleet warms up alone](foojay-header-part1-warms-up-alone.jpg)
+
 None of that is a bug. It is how the JVM works, and it works that way for a good reason: the JIT compiler compiles what it observes, in the JVM where it observed it. But the waste is real, and the obvious question is hard to shake. Instance 1 already did this work. Why can't instance 1000 just take the answer?
 
 The naive approach might be - just store the compiled code for each method somewhere and during the next start, feed that "somewhere" to the JVM and restore the already compiled code instead of doing it just-in-time, e.g. just by matching the method's fully qualified name. After all, it's a copy of the same JAR, same application, same traffic. How hard can it be?
