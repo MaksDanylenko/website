@@ -74,8 +74,8 @@
      data-share-summary="{{ $summary }}" data-share-post="{{ $masto }}">
   <span class="page-share__label" id="page-share-label">Share this page</span>
   <ul class="page-share__list" aria-labelledby="page-share-label">
-    <li><a href="{{ printf "https://bsky.app/intent/compose?text=%s" $qBsky | safeURL }}" target="_blank" rel="nofollow noopener">Bluesky</a></li>
-    <li hidden data-share-mastodon><button type="button" aria-expanded="false" aria-controls="page-share-mastodon">Mastodon</button></li>
+    <li><a class="icon-button" href="{{ printf "https://bsky.app/intent/compose?text=%s" $qBsky | safeURL }}" target="_blank" rel="nofollow noopener" aria-label="Share on Bluesky" title="Bluesky">{{ partial "icon.html" "brand-bluesky" }}</a></li>
+    <li hidden data-share-mastodon><button class="icon-button" type="button" aria-expanded="false" aria-controls="page-share-mastodon" aria-label="Share on Mastodon" title="Mastodon">{{ partial "icon.html" "brand-mastodon" }}</button></li>
     {{- /* TWO LINKEDIN URLS, AND NEITHER ONE WORKS EVERYWHERE.
 
            The href is share-offsite, which takes a URL AND NOTHING ELSE --
@@ -89,19 +89,19 @@
            all. So it is not the href: share.js swaps it in only on a screen
            big enough to be desktop LinkedIn, and a phone keeps the link that
            works there. Anyone with JavaScript off keeps it too. */ -}}
-    <li><a href="{{ printf "https://www.linkedin.com/sharing/share-offsite/?url=%s" $qUrl | safeURL }}"
+    <li><a class="icon-button" href="{{ printf "https://www.linkedin.com/sharing/share-offsite/?url=%s" $qUrl | safeURL }}"
            data-share-linkedin-desktop="{{ printf "https://www.linkedin.com/feed/?shareActive=true&text=%s" $qLinkedin | safeURL }}"
-           target="_blank" rel="nofollow noopener">LinkedIn</a></li>
+           target="_blank" rel="nofollow noopener" aria-label="Share on LinkedIn" title="LinkedIn">{{ partial "icon.html" "brand-linkedin" }}</a></li>
     {{- /* `url` and `title`, which are the only two Reddit honours -- a LINK
            post has no body, so there is nowhere for a description to go. The
            same is true of Hacker News below. Reddit also declines to prefill
            at all from a URL it cannot resolve, which is what an empty submit
            form against a localhost link is. */ -}}
-    <li><a href="{{ printf "https://www.reddit.com/submit?url=%s&title=%s" $qUrl $qTitle | safeURL }}" target="_blank" rel="nofollow noopener">Reddit</a></li>
-    <li><a href="{{ printf "https://news.ycombinator.com/submitlink?u=%s&t=%s" $qUrl $qTitle | safeURL }}" target="_blank" rel="nofollow noopener">Hacker News</a></li>
-    <li><a href="{{ printf "mailto:?subject=%s&body=%s" $qSubject $qBody | safeURL }}">Email</a></li>
-    <li hidden data-share-copy><button type="button">Copy link</button></li>
-    <li hidden data-share-native><button type="button">Share&hellip;</button></li>
+    <li><a class="icon-button" href="{{ printf "https://www.reddit.com/submit?url=%s&title=%s" $qUrl $qTitle | safeURL }}" target="_blank" rel="nofollow noopener" aria-label="Share on Reddit" title="Reddit">{{ partial "icon.html" "brand-reddit" }}</a></li>
+    <li><a class="icon-button" href="{{ printf "https://news.ycombinator.com/submitlink?u=%s&t=%s" $qUrl $qTitle | safeURL }}" target="_blank" rel="nofollow noopener" aria-label="Share on Hacker News" title="Hacker News">{{ partial "icon.html" "brand-ycombinator" }}</a></li>
+    <li><a class="icon-button" href="{{ printf "mailto:?subject=%s&body=%s" $qSubject $qBody | safeURL }}" aria-label="Share by email" title="Email">{{ partial "icon.html" "mail" }}</a></li>
+    <li hidden data-share-copy><button class="icon-button" type="button" aria-label="Copy link" title="Copy link">{{ partial "icon.html" "link" }}</button></li>
+    <li hidden data-share-native><button class="icon-button" type="button" aria-label="Share…" title="Share…">{{ partial "icon.html" "share" }}</button></li>
   </ul>
   {{- /* A real <form>, so Enter submits and the input is labelled, rather than
          a prompt() -- which some browsers suppress and none of which can be

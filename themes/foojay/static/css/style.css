@@ -1568,20 +1568,11 @@ a.event-strip__title:hover { color: var(--brand-accent-strong); text-decoration:
 .author-profile .author-bio, .author-profile .author-social { grid-column: 2; }
 .author-avatar { width: 96px; height: 96px; border-radius: 50%; object-fit: cover; grid-row: 1 / span 3; }
 .author-bio { margin: 0 0 .8rem; color: var(--ink-soft); }
-/* Page-share pills retain their own geometry when author links use icons. */
-.page-share a, .page-share button,
-.prose .page-share a {
-  display: inline-block; font-size: .85rem; font-weight: 600;
-  padding: .25rem .7rem; border: 1px solid var(--border-strong); border-radius: 999px;
-  color: var(--ink-soft); text-decoration: none;
-}
 /* One control row everywhere; link geometry belongs to icon-button/feed-link. */
 .author-social, .sidebar .author-social {
   display: flex; flex-wrap: wrap; align-items: center; gap: .5rem;
   list-style: none; margin: 0; padding: 0;
 }
-.page-share a:hover, .page-share button:hover,
-.prose .page-share a:hover { border-color: var(--brand-accent); color: var(--brand-accent-strong); text-decoration: none; }
 
 .author-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 1.25rem; }
 .author-card {
@@ -2381,6 +2372,7 @@ a.pagination__btn:hover { border-color: var(--ink); text-decoration: none; }
 .prose .gallery a,
 .prose .chip-row a,
 .prose .list-filter a,
+.prose .page-share a,
 .prose a.btn,
 .prose a.chip,
 .prose a:has(> img) { text-decoration: none; }
