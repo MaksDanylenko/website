@@ -30,9 +30,13 @@
     if (copy) {
       copy.addEventListener('click', function () {
         navigator.clipboard.writeText(url).then(function () {
-          copy.textContent = 'Link copied';
+          copy.setAttribute('aria-label', 'Link copied');
+          copy.setAttribute('title', 'Link copied');
           announce('Link copied to the clipboard.');
-          setTimeout(function () { copy.textContent = 'Copy link'; }, 2500);
+          setTimeout(function () {
+            copy.setAttribute('aria-label', 'Copy link');
+            copy.setAttribute('title', 'Copy link');
+          }, 2500);
         }, function () {
           announce('Could not copy the link. Select the address bar instead.');
         });
