@@ -1,5 +1,5 @@
 {
-  "generatedAt" : "2026-10-01T07:15:25Z",
+  "generatedAt" : "2026-10-02T07:05:54Z",
   "source" : "iCal feeds published by the JUGs themselves (data/jugs.yaml `calendar`) and Meetup's iCal export for the groups that use it; venues from the feed's LOCATION or the schema.org JSON-LD on the event page -- see scripts/fetch/JugEvents.java",
   "groups" : [ {
     "slug" : "almaty-java-user-group",
@@ -82,7 +82,15 @@
     "jug" : "BelgianJUG",
     "source" : "meetup",
     "url" : "https://www.meetup.com/belgian-java-user-group/",
-    "events" : [ ]
+    "events" : [ {
+      "title" : "Breaking changes, there's a test for that! & Black Cats",
+      "url" : "https://www.meetup.com/belgian-java-user-group/events/316783992/",
+      "startTime" : "2026-10-21T17:45:00+02:00",
+      "endTime" : "2026-10-21T20:45:00+02:00",
+      "venue" : "Cegeka Leuven, Belgium",
+      "city" : "Leuven",
+      "online" : false
+    } ]
   }, {
     "slug" : "BordeauxJUG",
     "name" : "BordeauxJUG",
@@ -445,14 +453,6 @@
     "source" : "meetup",
     "url" : "https://www.meetup.com/Java-User-Group-Karlsruhe/",
     "events" : [ {
-      "title" : "Double Feature: Value Objects and Project Valhalla + Java for AI",
-      "url" : "https://www.meetup.com/java-user-group-karlsruhe/events/316698731/",
-      "startTime" : "2026-10-01T18:00:00+02:00",
-      "endTime" : "2026-10-01T21:30:00+02:00",
-      "venue" : "SAP Schulungszentrum Walldorf",
-      "city" : "Walldorf",
-      "online" : false
-    }, {
       "title" : "From Code to Context – Wie KI Softwaresysteme wirklich verstehen kann",
       "url" : "https://www.meetup.com/java-user-group-karlsruhe/events/316709983/",
       "startTime" : "2026-11-11T18:30:00+01:00",
@@ -542,14 +542,6 @@
     "source" : "meetup",
     "url" : "https://www.meetup.com/jug-oberpfalz/",
     "events" : [ {
-      "title" : "Wait, GraphRAG Doesn't Work the Way I Thought It Did",
-      "url" : "https://www.meetup.com/jug-oberpfalz/events/316766030/",
-      "startTime" : "2026-10-01T20:00:00+02:00",
-      "endTime" : "2026-10-01T22:00:00+02:00",
-      "venue" : null,
-      "city" : null,
-      "online" : true
-    }, {
       "title" : "JUGO - TBD - save the date",
       "url" : "https://www.meetup.com/jug-oberpfalz/events/313226991/",
       "startTime" : "2026-10-07T18:00:00+02:00",
@@ -674,15 +666,7 @@
     "jug" : "JUGNoord",
     "source" : "meetup",
     "url" : "https://www.meetup.com/jug-noord/",
-    "events" : [ {
-      "title" : "October 2026: Snake in 10 Lines and the Identity of AI Agents",
-      "url" : "https://www.meetup.com/jug-noord/events/315496239/",
-      "startTime" : "2026-10-01T17:00:00+02:00",
-      "endTime" : "2026-10-01T20:00:00+02:00",
-      "venue" : "Reviusstraat 2",
-      "city" : "Leeuwarden",
-      "online" : false
-    } ]
+    "events" : [ ]
   }, {
     "slug" : "KnoxJava",
     "name" : "KnoxJava",
@@ -697,14 +681,6 @@
     "source" : "meetup",
     "url" : "https://www.meetup.com/londonjavacommunity/",
     "events" : [ {
-      "title" : "LJC Meetup at Engine by Starling",
-      "url" : "https://www.meetup.com/londonjavacommunity/events/315903371/",
-      "startTime" : "2026-10-01T18:00:00+01:00",
-      "endTime" : "2026-10-01T21:00:00+01:00",
-      "venue" : "Engine by Starling",
-      "city" : "London",
-      "online" : false
-    }, {
       "title" : "LJC Roundtable: The JCP, Java Community & The Future of Java",
       "url" : "https://www.meetup.com/londonjavacommunity/events/316499024/",
       "startTime" : "2026-10-05T18:00:00+01:00",
