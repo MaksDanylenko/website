@@ -50,7 +50,7 @@ The open [Agent Skills specification](https://agentskills.io/specification) requ
 
 That matters because of how Skills are loaded:
 
-1. The agent sees the metadata for all available Skills.
+1. The agent sees the names and descriptions of available Skills. Names are always listed; when you have many Skills, Claude Code may drop descriptions of the least-used ones to fit its context budget.
 2. The description helps it decide whether to read a particular Skill.
 3. Once the Skill is activated, it reads the full `SKILL.md`.
 4. It opens additional `references/`, `scripts/`, and `assets/` only when needed.
@@ -144,7 +144,7 @@ In Claude Code, you can validate project Skills like this:
 claude plugin validate .claude/skills
 ```
 
-Or validate all user-level customizations:
+Or validate your user-level Skills, agents, and commands (this does not check settings or Hooks):
 
 ```bash
 claude plugin validate ~/.claude
@@ -160,7 +160,7 @@ If the Skill doesn't trigger, or triggers when it shouldn't, refine its `descrip
 
 ### 3. Did the result improve?
 
-For a Skill packaged as a Plugin, Claude Code has a separate testing tool:
+For a Skill packaged as a Plugin, Claude Code has a separate testing tool (it requires Claude Code v2.1.269 or later):
 
 ```bash
 claude plugin eval init
