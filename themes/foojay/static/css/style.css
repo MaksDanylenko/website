@@ -970,7 +970,7 @@ a.event-strip__title:hover { color: var(--brand-accent-strong); text-decoration:
    so a card does not flicker as faces arrive. */
 .byline { display: inline-flex; align-items: center; gap: .4rem; }
 .byline-avatar {
-  width: 1.9rem; height: 1.9rem;
+  width: 1.9rem; height: 1.9rem; flex: none;
   border-radius: 50%; object-fit: cover;
   background: var(--surface-sunken);
   /* A hairline, so a light-background portrait still reads as a disc against
@@ -1480,6 +1480,17 @@ a.event-strip__title:hover { color: var(--brand-accent-strong); text-decoration:
 .related-posts__grid .post-card-title { font-size: .95rem; }
 .related-posts__grid .post-card-meta { font-size: .75rem; gap: .35rem; }
 .related-posts__grid .post-card-categories a { font-size: .75rem; padding: .18rem .5rem; }
+/* A long single author name (e.g. "María Arias de Reyna Domínguez") plus a
+   face is wider than this ~248px card leaves for it, which wrapped the whole
+   meta row and dropped the date onto its own line. nowrap plus min-width: 0
+   down the chain lets the byline shrink instead, and byline-name ellipsises
+   only the text -- the avatar (flex: none, style.css) never shrinks with it. */
+.related-posts__grid .post-card-meta { flex-wrap: nowrap; }
+.related-posts__grid .byline-group,
+.related-posts__grid .byline { min-width: 0; }
+.related-posts__grid .byline-name {
+  min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+}
 
 /* giscus comments. The widget is an iframe that giscus sizes itself, so there is
    nothing to style inside it -- only the section that holds it, matching
