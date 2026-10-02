@@ -1491,6 +1491,12 @@ a.event-strip__title:hover { color: var(--brand-accent-strong); text-decoration:
 .related-posts__grid .byline-name {
   min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
 }
+/* time/.views are flex items too, so shrinking still applied to THEM once the
+   byline had nowhere further to give -- "Mar 17," wrapped onto its own line
+   above a lone "2026". flex: none pins both at their natural width so every
+   bit of the squeeze lands on byline-name, the one place built to absorb it. */
+.related-posts__grid .post-card-meta > time,
+.related-posts__grid .post-card-meta > .views { flex: none; white-space: nowrap; }
 
 /* giscus comments. The widget is an iframe that giscus sizes itself, so there is
    nothing to style inside it -- only the section that holds it, matching
