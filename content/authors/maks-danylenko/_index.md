@@ -6,7 +6,7 @@ bio: "Maks Danylenko works on AI developer tooling at Mavka, including open-sour
 description: ""
 bluesky: "https://bsky.app/profile/maksdan.bsky.social"
 mastodon: ""
-linkedin: ""
+linkedin: "https://www.linkedin.com/in/maksym-danylenko-2a2b8747/"
 github: "https://github.com/MaksDanylenko"
 gitlab: ""
 youtube: ""
