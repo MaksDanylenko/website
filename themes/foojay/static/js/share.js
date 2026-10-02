@@ -28,14 +28,17 @@
   if (navigator.clipboard) {
     var copy = enable('[data-share-copy]');
     if (copy) {
+      var copyItem = copy.closest('li');
       copy.addEventListener('click', function () {
         navigator.clipboard.writeText(url).then(function () {
           copy.setAttribute('aria-label', 'Link copied');
           copy.setAttribute('title', 'Link copied');
+          copyItem.classList.add('is-copied');
           announce('Link copied to the clipboard.');
           setTimeout(function () {
             copy.setAttribute('aria-label', 'Copy link');
             copy.setAttribute('title', 'Copy link');
+            copyItem.classList.remove('is-copied');
           }, 2500);
         }, function () {
           announce('Could not copy the link. Select the address bar instead.');

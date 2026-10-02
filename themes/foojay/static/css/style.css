@@ -4141,7 +4141,11 @@ th[aria-sort="descending"] .sort-btn::after { content: "\2193"; opacity: 1; }
    !important, the same fix .series-progress carries for the same two rules. */
 .page-share .page-share__list { margin: 0; padding: 0; }
 .page-share .page-share__list li + li { margin-top: 0; }
-.page-share button { font-family: inherit; line-height: inherit; background: none; cursor: pointer; }
+/* :not(.btn): the Mastodon "Open" submit uses the site's own .btn--accent, and
+   .page-share (0,1,1) would otherwise beat .btn--accent (0,1,0) on background
+   alone and leave it looking unstyled next to every other primary action on
+   the site. */
+.page-share button:not(.btn) { font-family: inherit; line-height: inherit; background: none; cursor: pointer; }
 /* An author `display` beats the UA's `[hidden] { display: none }`, and the
    three JavaScript-only controls and the server prompt all start hidden. */
 .page-share [hidden] { display: none; }
@@ -4161,6 +4165,26 @@ th[aria-sort="descending"] .sort-btn::after { content: "\2193"; opacity: 1; }
 }
 .page-share__masto input[aria-invalid="true"] { border-color: var(--warning); }
 .page-share__masto-error { flex: 1 0 100%; margin: 0; color: var(--warning); }
+
+/* "Link copied" bubble, same visual language as byline-face's data-name
+   tooltip but triggered by a CLASS rather than :hover -- share.js adds
+   is-copied on click and holds it for 2.5s regardless of where the pointer
+   goes, which a hover-only bubble cannot do. */
+[data-share-copy] { position: relative; }
+.page-share__copy-tip {
+  position: absolute; bottom: calc(100% + .4rem); left: 50%;
+  transform: translateX(-50%) translateY(.15rem);
+  padding: .2rem .5rem; border-radius: .35rem;
+  background: var(--ink); color: var(--surface);
+  font-size: .72rem; font-weight: 600; line-height: 1.3; white-space: nowrap;
+  opacity: 0; pointer-events: none;
+  transition: opacity .12s ease, transform .12s ease;
+}
+[data-share-copy].is-copied .page-share__copy-tip { opacity: 1; transform: translateX(-50%) translateY(0); }
+@media (prefers-reduced-motion: reduce) {
+  .page-share__copy-tip,
+  [data-share-copy].is-copied .page-share__copy-tip { transition: none; transform: translateX(-50%); }
+}
 
 /* --------------------------------------------------- edit this page ----
    The "Found a mistake?" line at the foot of an article

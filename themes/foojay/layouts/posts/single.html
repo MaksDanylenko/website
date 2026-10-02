@@ -121,8 +121,11 @@
       <div class="related-posts__grid post-grid">
         {{ range . }}
           {{/* compact and maxCategories 1, because a ~248px card has room for
-               neither the full meta line nor two chips. */}}
-          {{ partial "post-card.html" (dict "page" . "maxCategories" 1 "compact" true) }}
+               neither the full meta line nor two chips. avatars explicitly
+               back on, though: compact drops them by default, but a related
+               post should look like every other card on the site -- faces
+               and all -- not like the lighter featured-authors strip. */}}
+          {{ partial "post-card.html" (dict "page" . "maxCategories" 1 "compact" true "avatars" true) }}
         {{ end }}
       </div>
     </section>

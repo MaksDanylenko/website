@@ -100,7 +100,13 @@
     <li><a class="icon-button" href="{{ printf "https://www.reddit.com/submit?url=%s&title=%s" $qUrl $qTitle | safeURL }}" target="_blank" rel="nofollow noopener" aria-label="Share on Reddit" title="Reddit">{{ partial "icon.html" "brand-reddit" }}</a></li>
     <li><a class="icon-button" href="{{ printf "https://news.ycombinator.com/submitlink?u=%s&t=%s" $qUrl $qTitle | safeURL }}" target="_blank" rel="nofollow noopener" aria-label="Share on Hacker News" title="Hacker News">{{ partial "icon.html" "brand-ycombinator" }}</a></li>
     <li><a class="icon-button" href="{{ printf "mailto:?subject=%s&body=%s" $qSubject $qBody | safeURL }}" aria-label="Share by email" title="Email">{{ partial "icon.html" "mail" }}</a></li>
-    <li hidden data-share-copy><button class="icon-button" type="button" aria-label="Copy link" title="Copy link">{{ partial "icon.html" "link" }}</button></li>
+    {{- /* The tooltip is a real element rather than a hover-only ::after
+           (compare byline-face's data-name bubble): it has to appear on
+           CLICK and hold for share.js's 2.5s timeout regardless of whether
+           the pointer stays over the button, which :hover/:focus-visible
+           alone cannot do. aria-hidden because the status paragraph below
+           already announces the same thing to a screen reader. */ -}}
+    <li hidden data-share-copy><button class="icon-button" type="button" aria-label="Copy link" title="Copy link">{{ partial "icon.html" "link" }}</button><span class="page-share__copy-tip" aria-hidden="true">Link copied</span></li>
     <li hidden data-share-native><button class="icon-button" type="button" aria-label="Share…" title="Share…">{{ partial "icon.html" "share" }}</button></li>
   </ul>
   {{- /* A real <form>, so Enter submits and the input is labelled, rather than
@@ -110,7 +116,7 @@
     <label for="page-share-instance">Your Mastodon server</label>
     <input type="text" id="page-share-instance" name="instance" placeholder="foojay.social"
            inputmode="url" autocomplete="off" autocapitalize="off" spellcheck="false" required>
-    <button type="submit">Open</button>
+    <button class="btn btn--accent btn--sm" type="submit">Open</button>
     <p class="page-share__masto-error" hidden>Enter a server address, like <code>foojay.social</code>.</p>
   </form>
   {{- /* The copy button's own label changes to "Link copied", which a screen
